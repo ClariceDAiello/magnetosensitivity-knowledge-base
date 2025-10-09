@@ -1,0 +1,52 @@
+{
+  "paper_id": "nchem_2447",
+  "doi": "10.1038/NCHEM.2447",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "Daniel R. Kattnig1†",
+    "Emrys W. Evans2†",
+    "Victoire Déjean2",
+    "Charlotte A. Dodson3‡",
+    "Mark I. Wallace3",
+    ""
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "",
+  "date_added": "2025-10-09T13:13:59.355689",
+  "last_modified": "2025-10-09T13:13:59.355692",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "Literature/nchem.2447.pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

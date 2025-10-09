@@ -1,7 +1,89 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "version": "1.0.0",
-  "last_updated": "2025-10-09T00:00:00Z",
+  "last_updated": "2025-10-09T13:17:14.069304",
   "description": "Master index of all papers in the magnetosensitivity knowledge base",
-  "papers": []
+  "papers": [
+    {
+      "paper_id": "nchem_2447",
+      "doi": "10.1038/NCHEM.2447",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "Daniel R. Kattnig1†",
+        "Emrys W. Evans2†",
+        "Victoire Déjean2",
+        "Charlotte A. Dodson3‡",
+        "Mark I. Wallace3",
+        ""
+      ],
+      "year": null,
+      "date_added": "2025-10-09T13:13:59.355689",
+      "file_path": "knowledge-base/papers/nchem_2447"
+    },
+    {
+      "paper_id": "annurev-biophys-032116-094545",
+      "doi": "10.1146/annurev-biophys-032116-094545",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "",
+        "uhT"
+      ],
+      "year": null,
+      "date_added": "2025-10-09T13:14:43.981044",
+      "file_path": "knowledge-base/papers/annurev-biophys-032116-094545"
+    },
+    {
+      "paper_id": "41557_2016_BFnchem2447_MOESM350_ESM",
+      "doi": "10.1038/NCHEM.2447",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "Daniel R. Kattnig",
+        "Emrys W. Evans",
+        "Victoire Déjean",
+        "Charlotte A. Dodson",
+        "Mark I. Wallace",
+        ""
+      ],
+      "year": null,
+      "date_added": "2025-10-09T13:15:03.869825",
+      "file_path": "knowledge-base/papers/41557_2016_BFnchem2447_MOESM350_ESM"
+    },
+    {
+      "paper_id": "Spin_Dynamics_in_Radical_Pairs_Alan_Lewis",
+      "doi": "10.1007/978-3-030-00686-0",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "includeanextendedintroduction",
+        "aswellasaforewordbythestudent’ssupervisor"
+      ],
+      "year": null,
+      "date_added": "2025-10-09T13:15:42.992478",
+      "file_path": "knowledge-base/papers/Spin_Dynamics_in_Radical_Pairs_Alan_Lewis"
+    },
+    {
+      "paper_id": "Magnetobiology_Underlying_Physical_Problems_by_Vladimir_N__Binhi",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "sametime",
+        "physically",
+        "thebiologicaleffectsofweakmagneticfieldsarestillregarded"
+      ],
+      "year": null,
+      "date_added": "2025-10-09T13:16:23.179932",
+      "file_path": "knowledge-base/papers/Magnetobiology_Underlying_Physical_Problems_by_Vladimir_N__Binhi"
+    },
+    {
+      "paper_id": "BIOELECTROMAGNETISM",
+      "doi": "10.1201/9781003181354",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "History",
+        "Foundations and Applications"
+      ],
+      "year": null,
+      "date_added": "2025-10-09T13:17:14.067892",
+      "file_path": "knowledge-base/papers/BIOELECTROMAGNETISM"
+    }
+  ]
 }

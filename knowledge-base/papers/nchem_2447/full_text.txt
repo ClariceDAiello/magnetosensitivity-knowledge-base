@@ -1,0 +1,1208 @@
+
+
+--- Page 1 ---
+
+ARTICLES
+PUBLISHEDONLINE:1FEBRUARY2016|DOI:10.1038/NCHEM.2447
+fi fi
+Chemical ampli cation of magnetic eld effects
+relevant to avian magnetoreception
+Daniel R. Kattnig1†, Emrys W. Evans2†, Victoire Déjean2, Charlotte A. Dodson3‡, Mark I. Wallace3,
+Stuart R. Mackenzie1, Christiane R. Timmel2 and P. J. Hore1*
+Magnetic fields as weak as the Earth’s can change the yields of radical pair reactions even though the energies involved
+are orders of magnitude smaller than the thermal energy, k T, at room temperature. Proposed as the source of the light-
+B
+dependent magnetic compass in migratory birds, the radical pair mechanism is thought to operate in cryptochrome
+flavoproteins in the retina. Here we demonstrate that the primary magnetic field effect on flavin photoreactions can be
+amplified chemically byslow radical termination reactions underconditions of continuous photoexcitation. The nature and
+origin of the amplification are revealed by studies of the intermolecular flavin–tryptophan and flavin–ascorbic acid
+photocycles and the closely related intramolecular flavin–tryptophan radical pair in cryptochrome. Amplification factors of
+up to 5.6 were observed for magnetic fields weaker than 1mT. Substantial chemical amplification could have a significant
+impactontheviabilityofacryptochrome-basedmagneticcompasssensor.
+A
+mong other directional cues, migratory birds use a light- Evidencethatcryptochromesplayasensoryroleinmagnetorecep-
+dependentgeomagneticcompassfororientationandnaviga- tion is slowly accumulating but still largely circumstantial6,20,21.
+tion1–3. Although the primary detection mechanism is Cryptochromes have been found in the retinas of migratory
+unclear, the evidence currently points to magnetically sensitive birds20,22–24invariouscelltypesthatexhibitneuronal activitywhen
+photochemical reactions in cryptochrome proteins located in the the birds perform magnetic orientation22. Behavioural studies of
+retina4–6. Cryptochromes7 contain the chromophore flavin fruit flies suggest that a cryptochrome is required for magnetic
+adenine dinucleotide (FAD), photoexcitation of which can trigger sensing25–31,butdonotestablishthatitisthemagneticallysensitive
+threeconsecutiveintraproteinelectrontransfersalongaconserved entity. MFEs on blue-light-dependent, cryptochrome-mediated
+triad of tryptophan (Trp) residues to produce a (FAD (cid:129)− Trp (cid:129)+) growthresponsesinplantshavebeenreported32,butwerenotrepli-
+radicalpair8–10.Thisformofcryptochromeismagneticallysensitive cated in an independent study33. Of the known photoreceptors, it
+invitroandpossiblyalsoinvivo11–13.Similarmagnetosensitivityis appearsthatonlycryptochromesandthecloselyrelatedphotolyases
+conceivable in other cryptochrome-derived radical pairs in which formradicalpairs;sincetheirproposal15yearsago4,cryptochromes
+(cid:129)− (cid:129)
+FAD or its protonated form, FADH, is paired with an ascorbic remaintheonlycandidatemagnetoreceptormolecules.
+acid radical14 or, less plausibly, superoxide, O (cid:129)− (refs15,16). Pronounceddirectionalresponsesofaradicalpairreactiontoan
+2
+There appear to be different electron-transfer pathways in some Earth-strengthmagneticfield(about50µT)atphysiologicaltemp-
+cryptochromes17,18, but no evidence so far that they give rise to eraturesseemunlikely.Isotropicchangesinreactionyieldsatthe1%
+magneticfieldeffects(MFEs). levelhavebeenreportedforacryptochromeandaphotolyaseina
+The radical pair mechanism is well establishedasthe source of 1mT field11,34 and theoretical predictions for (FAD (cid:129)− Trp (cid:129)+)
+MFEs on chemical reactions19. Remarkably, the magnetic inter- suggest that anisotropic effects at 50µT might be no larger than
+actionsofelectronspinsinorganicradicalscanresultinsignificant 0.1%14.Untilmoreisknownaboutthesignal-transductionmechan-
+changes in the reaction kinetics and product yields, even though ismitisdifficulttojudgewhethersuchsmalleffectscouldformthe
+those interactions are many orders of magnitude weaker than the basisofaviablecompass6.However,itseemsreasonabletoassume
+thermal energy, k T. The sensitivity to applied magnetic fields thatevolutionwouldhaveavaileditselfofanyopportunitytoboost
+B
+derives from the coherent spin dynamics of pairs of radicals the sensitivity of the fundamental response so as to optimize the
+formedinspin-correlatedstates.Severalconditionsneedtobesat- compass. One theoretical possibility (for which there is currently
+isfied for a radical pair to be suitable as a geomagnetic compass no biological evidence) isthat the magnetic field experienced bya
+sensor5: (1) the electron spin in at least one of the radicals must radicalpairsensorcouldbeamplifiedbynearbymagneticnanopar-
+interact anisotropically with nuclear spins, (2) the mutual inter- ticlescomposedofbiogenicmagnetite35–37.
+action of the two electron spins should be small, (3) the radical Wepresenthereexperimentalevidenceforachemicalamplifica-
+pair must react spin selectively, (4) its lifetime should not be too tionmechanisminwhichslowreactionstepsinthecryptochrome
+short and (5) the electron-spin relaxation must be relatively slow. photocyclecansignificantlyboosttheresponsetoaweakmagnetic
+Studies of an isolated cryptochrome in vitro suggest that the field. These enhancements, which have not been observed pre-
+(FAD (cid:129)− Trp (cid:129)+) radical pair is fit for the purpose of magnetic viously, were found for continuous illumination under conditions
+sensing11, although the effects of Earth-strength magnetic fields that allow long-lived reaction intermediates to accumulate. The
+anddirectionalresponseshaveyettobedemonstrated. details of the amplification process were characterized through
+1DepartmentofChemistry,UniversityofOxford,Physical&TheoreticalChemistryLaboratory,OxfordOX13QZ,UK.2DepartmentofChemistry,University
+ofOxford,InorganicChemistryLaboratory,OxfordOX13QR,UK.3DepartmentofChemistry,UniversityofOxford,ChemistryResearchLaboratory,
+OxfordOX13TA,UK.†Theseauthorscontributedequally.‡Presentaddress:MolecularMedicine,NationalHeart&LungInstitute,ImperialCollegeLondon,
+LondonSW72AZ,UK.*e-mail:peter.hore@chem.ox.ac.uk
+384 NATURECHEMISTRY|VOL8|APRIL2016|www.nature.com/naturechemistry
+©2016MacmillanPublishersLimited.Allrightsreserved
+
+--- Page 2 ---
+
+ARTICLES
+NATURE CHEMISTRY
+DOI:10.1038/NCHEM.2447
+studies of intermolecular photoreactions of flavins and the photo- 1F*
+induced intramolecular radical pair (FAD (cid:129)− Trp (cid:129)+) in crypto- 3F* D
+chrome. We end byarguing that if such amplification occurred in Radical
+a cryptochrome-based sensor in vivo, the detection sensitivity pair
+p
+R
+M
+co
+h
+e
+F
+u
+o
+s
+l
+E t
+u
+d
+o s
+l
+c
+t
+b
+h o
+s
+e
+e n
+a
+m
+b
+n
+i
+o
+i n s
+o
+d
+t t
+s
+r e
+t
+d
+y r
+e
+i
+m
+d
+sc
+a o
+b
+u
+r l
+y
+e e
+s
+c
+m
+s
+u
+i
+g
+o
+l
+o
+a e
+r
+n
+r
+e
+ne
+t
+fl r
+h
+a a
+a
+l v l
+n
+i y n
+an
+p w h
+o
+e o
+r
+ll
+d
+to
+e
+c
+r
+u y
+o
+n c
+f
+d le e
+m
+s r . s
+a
+t M
+g
+o
+n
+o F
+i
+d
+t
+E
+u
+s
+d
+(
+e
+o F
+.
+n ig fl . av 1 i ) n 38 ( – F 43 ) . P h ot
+o e x
+cit
+ati o n
+Fl u
+or e s
+c e
+n c e 1(F(cid:129)– D(cid:129)+)
+F(cid:129)– + D(cid:129)+
+3(F
+F r
+(cid:129)
+a
+–
+r d e
+D
+i e c
+(cid:129)
+a
++)
+ls
+k
+Photoexcitation of the fully oxidized state (F→1F*) is followed F
+k
+eitherbyfluorescence(1F*→F)orintersystemcrossing(1F*→3F*). D
+Intermolecularelectron transfer from aclosed-shell electron donor, F + D Ground-state
+D, to the triplet flavin gives a triplet radical pair, 3(F (cid:129)− D (cid:129)+), reactants
+whichinterconvertscoherentlywiththecorrespondingsingletstate, Figure1|Intermolecularradicalpairreactionsofflavins.Reactionscheme
+1(F (cid:129)− D (cid:129)+) (curly arrows in Fig. 1). At the same time, (1) a reverse fortheintermolecularphotochemicalreactionofaflavin(F)withanelectron
+electron transfer returns 1(F (cid:129)− D (cid:129)+) to the ground-state reactants donor(D).Theradicals,F(cid:129)−andD(cid:129)+,areeitherchargedasshownor
+and (2) F
+(cid:129)−
+and D
+(cid:129)+
+diffuse apart to form independent free
+(de)protonateddependingonthepH.Theslowreactionstepslabelledwith
+radicals. Bulk re-encounter of F (cid:129)− and D (cid:129)+ regenerates 1(F (cid:129)− D (cid:129)+) therateconstantsk andk areresponsiblefortheamplificationoftheMFE.
+and 3(F (cid:129)− D (cid:129)+) in the statistical ratio of 1:3. In the absence of D F
+Theotherreactionstepsareasfollows:photoexcitationoftheground-state
+strong heavy-atom-mediated spin–orbit interactions all the flavin(F)toitsfirstexcitedsingletstate(1F*);fluorescenceof1F*;
+electron-transfer steps conserve electron spin. The reaction steps intersystemcrossingfrom1F*totheexcitedtripletstateoftheflavin(3F*);
+labelledk F andk D inFig.1arediscussedbelow. spin-conservingelectrontransferfromthedonorDto3F*toformthetriplet
+Thesensitivitytoappliedmagneticfieldsliesintheconversionof
+stateoftheradicalpair,3(F(cid:129)−D(cid:129)+);coherentinterconversionofthetriplet
+3(F (cid:129)− D (cid:129)+)into1(F (cid:129)− D (cid:129)+),whichisdrivenbythemagnetic(hyper- andsinglet,1(F(cid:129)−D(cid:129)+),radicalpairstatesdrivenbyhyperfineandZeeman
+fine) interactions of the electron spins with the spins of magnetic
+magneticinteractions(curlyarrows);spin-allowedreverseelectrontransfer
+nuclei(1Hand14N)andbythe(Zeeman)interactionoftheelectron
+withinthesingletradicalpair,whichregeneratesthegroundstateofboth
+spins with applied magnetic fields. A magnetic field stronger than
+reactants;diffusiveseparationtoformfreeradicals,whichsubsequentlyre-
+the hyperfine interactions (∼3mT) energetically isolates two of encountertoformradicalpairs.Singlet–tripletinterconversionbecomesless
+the three triplet sublevels, which inhibits triplet → singlet con efficientinamagneticfieldstrongerthanthehyperfineinteractionsbecause
+version and therefore reduces the fraction of radical pairs that
+onlytheT tripletsubstateisabletomixwiththesinglet,whereasT and
+r
+a
+e
+n
+t
+d
+ur
+o
+n
+t
+s
+he
+d
+r
+ir
+s
+e
+p
+c
+i
+t
+n
+ly
+-de
+to
+pe
+t
+n
+h
+d
+e
+en
+g
+t
+ro
+p
+u
+h
+n
+e
+d
+n
+-
+o
+s
+m
+tat
+e
+e
+na
+r
+4
+e
+4
+a
+–
+c
+46
+ta
+a
+n
+r
+t
+e
+s.
+co
+R
+n
+e
+s
+p
+is
+o
+t
+r
+e
+t
+n
+e
+t
+d
+w
+M
+ith
+FE
+F
+s
+i
+3
+g
+8
+.
+–
+1
+40
+. w
+T−
+e 1 a
+,
+k
+a
+e
+s
+r
+w
+th
+e
+a
+0 ll
+n
+a
+t
+s
+he
+T
+0 h
+,
+y
+m
+pe
+ix
+rfi
+w
+n
+i
+e
+th
+in
+t
+t
+h
+e
+e
+ra
+s
+c
+i
+t
+n
+io
+g
+n
+le
+s
+t
+.
+whentheexternalmagneticfi + e 1 ldis
+Under conditions of continuous low-intensity photoexcitation,
+only the free radicals and the ground-statereactants have appreci- change in the intensity of the fluorescence relative to the field-off
+ableconcentrations.Theotherspecieshavelifetimesoflessthana condition. As anticipated, switching the field on/off caused a
+microsecondandareconsequentlypresentatmuchlowerphotosta- reduction/increase in the fluorescence. Although the changes are
+tionarylevels(SupplementarySectionC).Whenastrongmagnetic relatively small, the signal-to-noise is excellent and the signals
+field is switched on, and the return of radical pairs to the ground werehighlyreproducible.
+state becomes less efficient, the photocycle re-equilibrates to a Remarkably, the MFE in Fig. 2b shows biphasic kinetics. After
+state in which there are more free radicals and correspondingly switching the field on, a fast component (<1ms) was followed
+fewer ground-state molecules. Consequently, there is a reduction by a much slower phase with an exponential time constant of
+in the fluorescence of 1F* whose concentration is proportional to τ=470±10ms. The same pattern of fast and slow phases was
+thatofthegroundstate(F). seen when the field was switched off. The amplitudes of the two
+components were used to define prompt (χ ) and delayed (χ )
+p d
+Flavin–lysozymeMFEs. Initial experimentswereconducted using MFEs (Fig. 2b). The amplification factor, E, defined as χ /χ , was
+d p
+intermolecular models of the intramolecular flavin–Trp radical 2.320±0.007. The fast component immediately after the field
+pair in a cryptochrome. Hen-egg white lysozyme (a 14kD jumpisattributedtotheattainmentofanewsteadystateatarate
+protein) was chosen as the electron donor because it is known to limited by the bulk re-encounter of the free radicals F
+(cid:129)−
+and D
+(cid:129)+.
+form radical pairs (F (cid:129)− D (cid:129)+), in accord with Fig. 1, by electron Thetimescaleofthisprocessisestimatedat0.2–1.0ms,basedona
+transfer from a solvent-exposed Trp residue on the surface of the diffusion-controlled rate constant (∼109M −1s −1) and 1.0–5.0µM
+protein to photoexcited triplet states of flavins30,31. Fluorescence- concentrations of F (cid:129)− and D (cid:129)+. The slow components in Fig. 2b
+detected MFEs for this photoreaction are shown in Fig. 2. An wereunexpected.
+aqueous solution of flavin mononucleotide (FMN) and lysozyme
+was irradiated continuously with a 470nm laser for a period of Flavin–Trp MFEs. To see whether the MFEs observed for FMN
+several minutes, with the fluorescence monitored continuously. reacting with lysozyme were influenced by the electron donor
+Throughout the measurement a magnetic field was switched being part of a large (protein) molecule, we studied the same
+between 0 and 27mT every 1.68 seconds. Superimposed on a photoreaction, but with the tryptophan present as the free amino
+gradual (tens of seconds) decrease in the fluorescence intensity acid. Figure 1 should still be appropriate, but with different rate
+(Fig. 2a) (which we attribute to a combination of re-equilibration constantsforsomeofthereactionsteps.Similarbiphasickineticswere
+of the photocycle, photobleaching reactions and diffusion) is a observed (Fig. 2d,e) except that the slow component of the
+small but distinct modulation in synchrony with the magnetic fluorescencehadtheoppositephase,thatis,χ <χ (E=0.644±0.003),
+d p
+field steps. As the background fluorescence intensity drops, so and was an orderof magnitude faster (τ=55±1ms) than for the
+does the amplitude of the field-induced modulations. That is, the Trp residues in lysozyme. For both the FMN/lysozyme and
+relative change in the fluorescence does not change significantly FMN/Trp reactions there was no statistically significant difference
+with time. Figure 2b shows this variation averaged over a large between individual cycles (Fig. 2a,d) and their means (Fig. 2b,e,
+number of field cycles. The data are presented as the fractional respectively). In both cases, the averaged responses to switching
+NATURECHEMISTRY|VOL8|APRIL2016|www.nature.com/naturechemistry 385
+©2016MacmillanPublishersLimited.Allrightsreserved
+
+--- Page 3 ---
+
+ARTICLES
+NATURE CHEMISTRY
+DOI:10.1038/NCHEM.2447
+a b B 0 27 mT c
+7 0.0
+0.01 s
+u or e s c e n c
+e
+e n sit y ( a.
+u.)
+5 6 M F E ( %) –0
+0
+.
+.
+4
+0
+χ p χ d M F E ( %) – – 0 0 . . 4 2
+0
+0 2 5
+.
+. . .
+0
+5 0 0
+5
+s s s
+s
+Flnt
+i
+–0.8 –0.6
+4
+0 40 80 120 160 0 1 2 3 0 4 8 12
+Time (s) Time (s) Magnetic field (mT)
+d e B 0 27 mT f B 0 27 mT
+5
+0.0
+c
+e u.)
+0.0
+u or e s c e
+n
+e n sit y (
+a.
+4 M F E (
+%)
+χ p χ d M F E (
+%)
+–0.4
+Flnt 3 pH 2.7
+i
+–0.4 TCEP
+0 40 80 0.0 0.5 1.0 0.0 0.5 1.0 1.5 2.0
+Time (s) Time (s) Time (s)
+Figure2|AmplifiedMFEsinintermolecularreactionsofflavins.a,Fluorescenceintensityofanaqueoussolution(pH4.0)ofFMN(10µM)andlysozyme
+(0.5mM)asafunctionofthetimeaftertheonsetofcontinuousillumination(470nm)withanappliedmagneticfieldswitchedbetween0and27mTevery
+1.68seconds.Modulationofthefluorescenceintensity,shownexpandedintheinset,occursinsynchronywiththemagneticfieldswitching.b,Theaverage
+oftheresponsesinatoonecycleofthemagneticfieldshowsapromptMFE(χ)andaslowlyestablisheddelayedMFE(χ).c,DependenceoftheMFEon
+p d
+themagneticfieldstrengthfordifferentdelaytimesbetweenswitchingthefieldonandmeasuringthefluorescence.ThedashedlinesareLorentzianfitsto
+thedatausedtodeterminetheB
+1/2
+values.d,Asa,butforasolution(pH6.2)ofFMN(10µM)andTrp(1.0mM).Themagneticfieldwasswitched
+between0and27mTevery0.56seconds.e,Averageoftheresponsesindtoonecycleofthemagneticfield.Incontrasttob,thedelayedMFE(χ)is
+d
+smallerthantheprompteffect(χ
+p
+).f,Ase,butwiththepHreducedto2.7(citricacidbuffer)(blue)andwith50µMTCEP(pH6.2)(orange),whichshows
+thattheamplificationfactorcanbechangedbyalteringtherateconstantsk andk.Thedatainthefield-onandfield-offperiodsina,b,dandeareshown
+D F
+ingreenandblue,respectively.Thetimingofthemagneticfieldstepsisshowningreyatthetopofb,eandf(B isthemagneticfieldstrength).Inbande,
+0
+theslowbackgrounddecayofthefluorescence(visibleinaandd)hasbeensubtracted.
+the field on and off had identical amplitudes and kinetics within ground states (coloured arrows in Fig. 1). For simplicity, these
+experimentalerror. reactions, with rate constants k and k , are assumed to have
+F D
+first-order kinetics. When k =k , the extra pathways do not
+F D
+Dependence on magnetic field intensity. A clue to the origin of affect the simulated kinetics, which remain fast (∼100µs (Fig. 3a
+theslowphasecomesfromthedependenceofitsamplitudeonthe left)). However, when k ≠ k , the prompt effect is followed by a
+F D
+strength of the applied magnetic field. Figure 2c shows the slow phase. If k /k >1, the MFE is enhanced (E>1 (Fig. 3a,
+D F
+fluorescence-detected MFE for the FMN/lysozyme reaction right));ifk /k <1,theMFEisattenuated(E<1(Fig.3a,centre)).
+D F
+measured at different times (T=10–5,000ms) after the field was In both cases, the timescale of the slow component is determined
+switchedon(seeMethodsandSupplementarySectionsAandBfor bythevaluesofk andk .
+F D
+the experimental details). As expected from Fig. 2b, the MFE For a broad range of values of the two rate constants, E was
+becamemorenegativewithincreasingT.Thefield,B ,atwhichit found to depend principally on the ratio k /k (Fig. 3b).
+1/2 D F
+reached 50% of its limiting value (obtained by Lorentzian fitting Surprisingly large steady-state enhancements can result from
+andextrapolation)was6.4±0.2mT.Thisnumber,whichwasfound these very slow processes. For k and k in the range of 10
+−1
+to
+D F
+tobeindependentofT,isconsistentwiththehyperfineinteractions 103s −1, amplification factors of 5–20 can be realized using inde-
+in the flavin–Trp radical pair augmented by a contribution from pendently determined orestimated values for the other rate con-
+electron-spinrelaxation11,40.TheinvarianceofB indicatesthatno stants in the reaction scheme (Supplementary Section C). Lower
+1/2
+other mechanisms, for example, triplet–triplet or triplet–doublet light intensities were found to lead to larger enhancements
+pairs47,48, are involved. The wavelength dependence of the (SupplementarySectionC).
+fluorescence (Supplementary Section B) is consistent with 1FMN*
+beingthesolesourceofbothfastandslowcomponents. Rateconstants.Incorporationoftheadditionalradicaltermination
+reactions into the photocycle also allowed a quantitative analysis
+Slow radical termination reactions. The reaction scheme, as of the kinetics in Fig. 2b,e (Supplementary Section C). For the
+discussed above, cannot account for the slow phase in Fig. 2b,e. FMN/lysozyme case, we find k =0.70s −1 and k =4.9s −1; and
+F D
+Simulationsthatusedindependentlydeterminedvaluesoftherate for FMN/Trp, k =70s
+−1
+and k =12s
+−1.
+An approximate
+F D
+constants of the various steps in the photocycle (Supplementary treatment of the kinetics (using a highly simplified version of the
+Section C) show that the fluorescence-detected MFE should be intermolecular reaction scheme (Supplementary Section D))
+monophasic with a short time constant (about 100µs) suggests that E≈√(k /k ). For these two reactions √(k /k )=2.6
+determined by the bulk re-encounter of F
+(cid:129)−
+and D
+(cid:129)+.
+However, and 0.41, respective
+D
+ly,
+F
+which agree reasonably well
+D
+wi
+F
+th the
+biphasic kinetics can be obtained by introducing additional slow experimental amplification factors, E=2.320 and 0.644,
+reaction steps that return the free radicals to their respective respectively,asreportedabove.
+386 NATURECHEMISTRY|VOL8|APRIL2016|www.nature.com/naturechemistry
+©2016MacmillanPublishersLimited.Allrightsreserved
+
+--- Page 4 ---
+
+ARTICLES
+NATURE CHEMISTRY
+DOI:10.1038/NCHEM.2447
+a k = k k /k < 1 k /k > 1 b
+D F D F D F 3
+B
+0 1
+2 E =
+M F E
+0
+χ p χ d
+χ d
+χ p k
+–1
+l
+o g[
+)
+(
+]
+s D
+0
+1 4 3
+5
+2
+E > 1
+E <
+1
+Time 0.7 0.5 0.5 0.7
+–1
+–1 0 1 2 3
+log[k (s–1)]
+F
+Figure3|CharacteristicsoftheamplifiedMFE.a,Responseoftheconcentrationoftheflavinexcitedstate,1F*,tosuddenon/offswitchingofanexternal
+magneticfield(B ).Left,k =k (E=1);centre,k /k <1(E<1);right,k /k >1(E>1).Dependingontheratiooftheirrateconstants,k /k,theradical
+0 F D D F D F D F
+terminationreactionsleadtoaslowkineticphasethatenhancesorattenuatesthepromptMFE.b,Contourplotoftheamplificationfactor,E,asafunctionof
+theslowradicalterminationrateconstantsk andk .Edependsprincipallyontheratiok /k;thelargestamplificationfactorsoccurwhenk >>k.The
+F D D F D F
+simulationswereperformedforaninitialtripletradicalpairandastrongmagneticfield.Thevaluesoftheotherrateconstantsusedinthesimulationare
+giveninSupplementarySectionC.
+The smaller value of k for the lysozyme reaction presumably asfollows.Whenthemagneticfieldisswitchedon,thefluorescence
+D
+arisesfromtheloweraccessibilityoftheTrpresiduesintheprotein initiallydecreasesbecauseoftheincreaseintheconcentrationoffree
+compared with that of the free amino acid49. The values of k for radicals, as explained above. On the completion of this rapid
+F
+(cid:129) (cid:129)−
+thetworeactionscanbeunderstoodasfollows.TheFMNH radical (submillisecond) phase, the concentrations of the free radicals (F
+has a pK of 8.6 (refs50,51) so that there is a higher fraction of and D
+(cid:129)+
+in Fig. 1) are equal. Then, as the k and k steps start to
+a F D
+FMN
+(cid:129)−
+presentintheTrpexperiment(pH6.2)thaninthelysozyme take effect (>10ms), the faster removal of D
+(cid:129)+
+(when k >k )
+D F
+case(pH4.0).Alikelycontributortotheflavinradicaltermination causes its concentration to drop more rapidly than that of F (cid:129)− .
+reaction is oxidation by molecular oxygen, which is 103–104 times Consequently, the lifetime, and therefore the steady-state
+fasterforFMN (cid:129)− thanforFMNH (cid:129) (refs50,51).Removalofflavinrad- concentration of F (cid:129)− , increases, the concentration of ground-state
+icals should therefore beslowerat a lower pH. Inaccord withthis, flavin falls and, therefore, so does the fluorescence intensity. The
+reducing the pH of the FMN/Trp reaction from6.2 to 2.7 changes opposite change occurs when k <k. The slow termination steps
+D F
+theamplificationfactorfromE<1(Fig.2e)toE>1(Fig.2f),consist- have a negligible effect on the magnetic sensitivity when measured
+entwithasubstantialreductionink. under flash-photolysis conditions because they cannot compete
+F
+with the much faster radical–radical recombination reaction. This
+Furtherobservations.Furthersupportfortheimportanceofslow explanation of the amplification effect was corroborated by
+radical termination reactions comes from three additional experiments using square-wave-modulated light intensities, in the
+observations made by changing the experimental conditions in absence of a magnetic field, as an alternative way to shift the
+ways that were expected to alter the ratio of k to k. First, the positionofthephotostationarystate(SupplementarySectionF).
+D F
+addition of 50µM of the reductant tris(2-carboxyethyl)phosphine
+(TCEP) to the FMN/Trp reaction at pH 6.2 increased E from Flavin–ascorbicacidMFEs.Next,weexploredtheamplificationfor
+0.644 (Fig. 2e) to 0.89±0.02 (Fig. 2f) by increasing the rate of thephotoreactionofFMNwithascorbicacid.Thiselectrondonor
+reduction of the Trp radical (k ). Second, the presence of 20% was chosen because the radical pair it forms with FMN is
+D
+glycerol boosted E for the FMN/lysozyme reaction from 2.32 expected to be considerably more sensitive to weak magnetic
+(Fig. 2b) to 3.55±0.02 and changed τ from 470 to 2,200ms fields than (FMN (cid:129)− Trp (cid:129)+) by virtue of the much smaller
+(Supplementary Section B). The increase in solvent viscosity hyperfineinteractionsintheascorbylradical14.Themagneticfield
+presumably reduces the diffusion-controlled contributions to k dependence of the fluorescence (Fig. 4a), recorded in the same
+D
+and k in such away that k /k becomes larger. Third, increasing manner as that in Fig. 2c, showed the biphasic behaviour that is
+F D F
+either the concentration of FMN or the light intensity resulted in typical of long-lived radical pairs. The positive MFE, with a peak
+a reduction in E for the FMN/Trp reaction, which implies a intensity at approximately 0.7mT and a zero crossing close to
+decrease in k /k. Both observations may be understood by 1.4mT,isknownasthe‘lowfieldeffect’52,53.
+D F
+considering the probable mechanisms of the FH (cid:129)→F oxidation Figure 4b,c shows averaged fluorescence-detected MFEs for the
+step. One route for the removal of flavin radicals is FMN/ascorbic acid reaction with the field cycled between 0 and
+disproportionation (2FH
+(cid:129)→F+FH
+(refs50,51)). Another involves 27mT and between 0 and 0.7mT, respectively. As expected from
+2
+molecular oxygen (FH (cid:129) +O →F+O (cid:129)− +H+, followed by the Fig. 4a, the latter is weaker than the formerand of opposite phase.
+2 2
+much faster reaction, FH (cid:129) +O (cid:129)− + H+→F+H O (refs50,51)). Less predictably, the amplification factor is larger for the weaker
+2 2 2
+Bothprocessesresultinasupralineardependenceoftheoxidation field, E=1.98±0.02 at 27mTand 5.6±0.3 at 0.7mT. The kinetics
+rate constant (k ) on the flavin radical concentration because of oftheslowphasearealsoalittledifferent,τ=170msat27mTand
+F
+the second-order kinetics of the first and the autocatalytic nature 190msat0.7mT.Theoriginofbothdifferencesmayagainbeunder-
+of the second. The involvement of oxygen was confirmed by the stood in terms of the supralinear nature of the slow processes that
+observation of an increase in the amplification factor for oxidizeFH (cid:129) .ThepromptMFEat27mT(0.7mT)leadstoanincrease
+(cid:129)
+deoxygenated solutions, consistent with an increase in k /k (decrease)intheFH concentrationandadisproportionateincrease
+D F
+(SupplementarySectionE). (decrease)ink.ThistranslatesintoalargerEandalongerτat0.7mT.
+F
+Originoftheamplification.TheoriginoftheenhancedMFEwhen Cryptochrome photocycle. We now turn from bimolecular
+k >k (Fig.2bandtheright-handsideofFig.3a)maybeunderstood electron-transfer reactions to the intramolecular photochemistry
+D F
+NATURECHEMISTRY|VOL8|APRIL2016|www.nature.com/naturechemistry 387
+©2016MacmillanPublishersLimited.Allrightsreserved
+
+--- Page 5 ---
+
+ARTICLES
+NATURE CHEMISTRY
+DOI:10.1038/NCHEM.2447
+a b B 0 27 mT c B 0 0.7 mT
+0.04
+0.0
+χ
+0.00 p
+%) %) %)
+F E ( –0.04 F E ( χ d F E ( 0.02 χ d
+M M –0.1 χ M
+p
+–0.08 0.00
+0 4 8 12 0.0 0.5 1.0 1.5 2.0 0.0 0.5 1.0 1.5 2.0
+Magnetic field (mT) Time (s) Time (s)
+Figure4|AmplifiedMFEsinthelow-fieldregion.a,DependenceoftheMFEonthemagneticfieldstrengthforanaqueoussolution(pH3.8)ofFMN
+(10µM)andascorbicacid(0.5mM)witha50msdelaytimebetweenswitchingthefieldonandmeasuringthefluorescence.ThepositiveMFEatfields
+below1.4mTisknownasthelowfieldeffect;itisparticularlyprominentinthiscasebecauseofthesmallhyperfineinteractionsintheascorbylradical.
+b,Averageoftheresponsestoonecycleofamagneticfieldswitchedbetween0and27mTevery1.12seconds.c,Asb,butfora0.7mTmagneticfield
+(intheregionofthelowfieldeffect).ThepromptanddelayedcomponentshaveoppositephasesinbandcbecauseofthebiphasicformoftheMFE(shown
+ina).Theblacklinesinbandcarefitstosingleexponentials.
+ofcryptochromes(Fig.5).Photoexcitationofthefullyoxidizedstate grew dramatically in strength as the delay, T, between applying
+oftheFADcofactorleadstoa(FAD (cid:129)− Trp (cid:129)+)radicalpair(termed the field and recording the fluorescencewas increased from 0.5 to
+RP1 in Maeda et al.11) in which Trp (cid:129)+ is the oxidized form of 3.5 seconds. All such spectra closely matched the fluorescence
+the terminal residue of the Trp-triad electron-transfer chain. spectrum recorded without an applied field, which demonstrates
+One difference from the reactions shown in Fig. 1 is that the that the only magnetically sensitive luminescent state is 1FAD*.
+intraprotein electron transfer is markedly faster than the Changes in the time dependence of the fluorescence produced by
+intersystem crossing (1FAD* → 3FAD*) and produces the radical magnetic field cycling are shown in Fig. 6b. These signals are
+pair in an initial singlet state11,34,54. The singlet state of the radical much weaker than those for the intermolecular reactions (above)
+pair either undergoes a reverse electron transfer to regenerate the for two main reasons. First, the picosecond electron transfer in
+ground states of the flavin and the Trp or is converted coherently the cryptochrome results in a low fluorescence quantum yield55,56.
+into the triplet radical pair state. However, there the Second, the k and k steps are much slower than those for the
+F D
+correspondence with Fig. 1 ends. Instead of a diffusive separation FMN reactions (Figs. 2 and 4), which means that even with the
+(cid:129)−
+of the radicals (impossible in the protein), one or both of FAD low light intensities used for these measurements there is a
+and Trp
+(cid:129)+
+changes its protonation state to give a longer-lived, substantial depletion of thegroundstate and hencea reduction in
+magnetically insensitive radical pair (denoted RP2 in Maeda the fluorescence intensity. Figure 6b shows an enhanced MFE
+et al.11). The constituents of RP2 are then independently returned growing in over several seconds (τ =3.4±0.9s). The addition of
+to their respective ground states by slow redox reactions 50µM TCEP to accelerate the reduction of the Trp
+(cid:129)+
+radical
+analogous to the k and k processes illustrated in Fig. 1. Despite (Fig. 6c) boosted the signal and caused it to rise more rapidly
+F D
+the differences in the two reaction schemes, amplification of the (τ=1.7±0.1s). In addition, a small prompt MFE was present (in
+MFE (E>1) is expected for the intramolecular photocycle Fig.6cmoreclearlythaninFig.6b).
+providedk >k (SupplementarySectionsCandD). WeattributetheslowcomponentsinFig.6b,ctotheradicalter-
+D F
+mination steps in the cryptochrome with k >k , as for the
+D F
+Cryptochrome MFEs. Figure 6a showsthe difference between the FMN/lysozyme reaction (Fig. 2b), but with the opposite phase to
+fluorescence spectra of Arabidopsis thaliana cryptochrome FMN/lysozyme because the initial state of the radical pair in the
+(AtCry1) with and without a 12.2mT magnetic field. The signal protein is singlet rather than triplet. The small prompt MFE is
+assignedtothephotoreactionofasmallamountoffreeFADwith
+Trpresiduesonthesurfaceoftheprotein44.Thissignal,which(as
+1F* D Radical expected) hasthe same phase asthat of the prompt MFE seen for
+pair
+the FMN/lysozyme reaction, obscures any prompt MFE from the
+1(F(cid:129)– D(cid:129)+) 3(F(cid:129)– D(cid:129)+) cryptochrome.ThereisnoevidencethatfreeFADleadstoaninter-
+o n e molecular delayed MFE—any such effect would occur with faster
+cit
+ati
+c
+e
+n c
+RP2
+kineticsthanseeninFig.6b.Akineticanalysisofthecryptochrome
+e x e s k k photocycleinFig.5(SupplementarySectionsCandD)showsthat
+ot o u or D F substantiallyenhancedMFEscanbeanticipatedwhenk >k.
+P
+h Fl
+F(cid:129)– D F D(cid:129)+
+D F
+k F Cryptochrome magnetic signalling. The data in Fig. 6a–c
+k D demonstrate a substantial amplification of the MFE on the
+F D Ground cryptochrome photocycle, using FAD fluorescence as a direct
+state
+indicator of the concentration of the ground state of the protein.
+Figure5|Intramolecularradicalpairreactionsofcryptochromes.Reaction To relate these findings to the putative role of cryptochromes in
+schemefortheintramolecularphotochemistryoftheFAD(F)andthe the avian magnetic compass, it is important to establish whether
+terminalresidueoftheTrptriadincryptochromeastheelectrondonor(D). there is also an amplification effect on the signalling state of the
+RP2isaFAD–Trpradicalpairinwhichtheflavinradical(F(cid:129)−)isprotonated protein.Although almostnothingisknownaboutmagnetic signal
+ortheTrpradical(D(cid:129)+)isdeprotonatedorboth;itisnotmagnetically transduction by cryptochromes, it seems improbable that the
+sensitive.Theslowstepslabelledwiththerateconstantsk andk are ground state of the protein is responsible. We presume that the
+D F
+responsiblefortheamplificationoftheMFE.Asshown,weassumethatthe magnetically sensitive radical pair state (∼1µs lifetime11) leads to
+flavinradicalmaybeoxidizedbeforeoraftertheTrpradicalisreduced. a longer lived species—for example, the stabilized radical pair
+388 NATURECHEMISTRY|VOL8|APRIL2016|www.nature.com/naturechemistry
+©2016MacmillanPublishersLimited.Allrightsreserved
+
+--- Page 6 ---
+
+ARTICLES
+NATURE CHEMISTRY
+DOI:10.1038/NCHEM.2447
+a b B 0 27 mT c B 0 27 mT
+2
+s c e n c e
+i
+nt e
+n
+sit y
+er e n c e
+(
+a.
+u.)
+1
+0
+1
+3
+.
+.
+.
+5
+0
+5
+s
+s
+s
+M F E (
+%)
+0
+0
+.
+.
+0
+0
+0
+4
+M F E (
+%)
+0
+0
+.
+.
+0
+1
+5
+0
+or
+e diff 0.00
+u
+Fl 0
+400 500 600 700 800 0 2 4 6 8 0 2 4 6 8
+Wavelength (nm) Time (s) Time (s)
+Figure6|AmplifiedMFEsinacryptochrome.a,ChangesinthefluorescencespectrumofanaqueoussolutionofAtCry1(about100µM,10mMTris,
+pH7.4,150mMNaCl,30%glycerolv/v)inducedbyamagneticfield.Spectra(smoothedusinga25nmmovingaveragefilter)areshownfordifferentdelay
+times,T,afterswitchingona12.2mTmagneticfield,havingsubtractedthezero-fieldspectrum.TheMFEbecomesdramaticallystrongerasTisincreased
+from0.5to3.5seconds.Theblacktraceisthefluorescencespectrummeasuredintheabsenceofamagneticfieldandscaledtomatchthemaximumofthe
+differencespectrumatT=3.5seconds(redtrace).b,AverageoftheresponsesofanaqueoussolutionofAtCry1(about100µM,pH7.4)toonecycleofa
+magneticfieldswitchedbetween0and27mTevery4.2seconds.TheenhancedMFEgrowsoveraperiodofseveralsecondsasaresultoftheslowradical
+terminationreactions(k
+D
+>k
+F
+).c,AsbbutwiththeadditionofTCEP(50µM).AnacceleratedreductionoftheTrp(cid:129)+radicalbytheTCEPbooststheMFE
+(k >>k)andcausesittogrowmorerapidly.Inbandctheblacklinesarefitsofthedatatosingleexponentialsassumingsymmetricresponsesto
+D F
+switchingthefieldonandoff.
+stateRP2characterizedbyMaedaetal.(∼100µslifetime)11—which the reaction scheme in Fig. 5 and a kinetic analysis described in
+could,inturn,giverisetoasignallingstate.Itseemsplausiblethat Supplementary Section C. The results are shown in Fig. 7. The
+the latter would be stabilized further against a reverse electron largest delayed (steady-state) field-induced concentration changes
+transfer by reduction of the Trp radical by an exogenous electron occurwhenk >>k andaresubstantiallylargerthan theprompt
+D F
+donor. In terms of the reactions studied here, this situation effect for any values of k and k. Furthermore, when the light
+D F
+correspondsto k >k and therefore an amplification factor E>1. intensity is reduced, a larger ratio of k /k is necessary to achieve
+D F D F
+The question isthereforewhether theMFE ontheradicalformof a significant amplification (Supplementary Section C). That is,
+the protein is amplified by the asymmetry in the slow radical the lower the light intensity, the more important is the
+terminationreactions. amplificationphenomenon.
+Althoughwepresentrelative(percentage)MFEsinFigs2, 4and
+6,thisisprobablynottherelevantquantityformagneticsignalling: Conclusions
+evenalargerelativechangeinthesteady-stateconcentrationofthe Slowradicalterminationreactionshavebeenshowntoleadtoasig-
+signallingstateisunlikelytoformthebasisofamagneticcompassif nificant amplification of the effects of weak magnetic fields on
+thatconcentrationistiny.Thequantitythatdeterminesthesignal- flavin-containing radical pairs under conditions of continuous
+to-noiseratioofthesensorismorelikelytobetheabsolutechange photoexcitation. That these enhancements have not previously
+intheconcentrationoftheradicalspresentundersteady-statecon- come to light is probably because most studies were either con-
+ditions. This isthe basis of the analysis of magnetoreceptor sensi- ducted with pulsed illumination11,58 or used magnetic fields that
+tivity by Weaver et al.57, who considered the change in the wereamplitudemodulatedatfrequenciesfasterthantheslowreac-
+absolute number of neurotransmitter molecules supposedly tionsteps59.Themagnitudeoftheamplificationincreaseswiththe
+formed from the radical pair state. We therefore calculated the ratio k /k of the rate constants for the oxidation of the flavin
+D F
+prompt and steady-state changes in the concentration of the radical, k , and the reduction of the counter radical, k .
+F D
+FAD-radical form of the protein as a function of k and k using Significantamplificationfactors,E,havebeenobservedforcrypto-
+D F
+chromes and the related intermolecular photochemistry of free
+flavin molecules. The amplification factors are larger in
+a 3 b × 10–3 wea W ke e r s fi ee el n d o s. obviousreasonwhythechemicalamplificationmech-
+–2 anismstudiedherecouldnotfunctioninacryptochromemagneto-
+2
+–1 s )] –4 receptor. In vivo photoexcitation of cryptochromes leads to the
+(
+D
+1 accumulation of states of the protein that contain reduced forms
+k g[ –6 of FAD60, which implies an efficient reduction of the donor
+l o 0 radical and hence substantial enhancement of the MFE (that is,
+–8
+k >>k andhenceE>>1).Ithasbeensuggestedthatthesignalling
+D F
+–1 state of the putative cryptochrome magnetosensor contains FAD
+–1 0 1 2 3 –1 0 1 2 3 that is either singly reduced (FAD (cid:129)− or FADH (cid:129) )61 or, after further
+log[k F (s–1)] log[k F (s–1)] photoexcitation, fully reduced (FADH − )12,13. Either way, a rapid
+reduction of the donor radical would stabilize the signalling state
+Figure7|Simulationsofchangesinradicalconcentrationsinducedbya againstreverseelectrontransferandsopromotesignaltransduction.
+magneticfield.a,Densityplotoftheabsolutepromptchangeinthetotal Thereappearstobeamplescopeforevolutiontohaveoptimizedthe
+concentrationofflavinradicalsproducedbyanappliedmagneticfield, amplification by tuning k and k via factors such as the redox
+D F
+plottedasafunctionoftheradicalterminationrateconstantsk andk . potentials of the flavin and donor radicals and their accessibility
+F D
+b,Asa,butshowingtheabsolutesteady-statechangeinducedbya to,andthelocalconcentrationsof,intracellularoxidantsandreduc-
+magneticfield.Thescalebarreferstobothplots.Theamplificationfactorin tants.Wesuggestthatsubstantialchemicalamplificationofradical
+thecentreoftheyellowregionofb,wheretheabsolutesteady-statechange pair MFEs could have a significant impact on the viability of a
+islargest,hasavalueof33. cryptochrome-basedmagneticcompasssensor.
+NATURECHEMISTRY|VOL8|APRIL2016|www.nature.com/naturechemistry 389
+©2016MacmillanPublishersLimited.Allrightsreserved
+
+--- Page 7 ---
+
+ARTICLES
+NATURE CHEMISTRY
+DOI:10.1038/NCHEM.2447
+Methods 14.Lee,A.A.etal.Alternativeradicalpairsforcryptochrome-based
+Spectrallyresolvedfluorescencemeasurements.Square-wave-modulatedmagnetic magnetoreception.J.R.Soc.Interface11,20131063(2014).
+fieldsofupto12mT(risetime3ms)weregeneratedusingHelmholtzcoils 15.Hogben,H.J.,Efimova,O.,Wagner-Rundell,N.,Timmel,C.R.&Hore,P.J.
+(diameter3.6cm).Samplespositionedbetweenthecoilswereirradiatedwithoneof Possibleinvolvementofsuperoxideanddioxygenwithcryptochromeinavian
+twocontinuous-wavediodelasers(405and450nm);whereappropriate,the magnetoreception:originofZeemanresonancesobservedbyinvivoEPR
+excitationpowerwasattenuatedbyneutraldensityfilters.Fluorescencewas spectroscopy.Chem.Phys.Lett.480,118–122(2009).
+dispersedbyaspectrographontoacharge-coupleddevice(CCD)camerainwhich 16.Solov’yov,I.A.&Schulten,K.Magnetoreceptionthroughcryptochromemay
+thefluorescencewasintegratedforaperiodof20–500msfollowingasetdelay,T, involvesuperoxide.Biophys.J.96,4804–4813(2009).
+afterswitchingonthefield.Foreachmagneticfieldstrength,35–900measurements 17.Conrad,K.S.,Manahan,C.C.&Crane,B.R.Photochemistryofflavoprotein
+wereaveragedinarandomizedorder.Experimentswereconductedatthefollowing lightsensors.NatureChem.Biol.10,801–809(2014).
+laserpowers,laserwavelengthsandsampletemperatures:270mW,405nm,22°C 18.Gao,J.etal.Trptriad-dependentrapidphotoreductionisnotrequiredforthe
+(Fig.2c);350mW,405nm,22°C(Fig.4a);and1mW,450nm,5°C(Fig.6a). functionofArabidopsisCRY1.Proc.NatlAcad.Sci.USA112,9135–9140(2015).
+19.Steiner,U.E.&Ulrich,T.Magneticfieldeffectsinchemicalkineticsandrelated
+Time-resolvedfluorescencemeasurements.ThedatashowninFigs2a,b,d–f,4b,c phenomena.Chem.Rev.89,51–147(1989).
+and6b,cwereacquiredusinganinvertedfluorescencemicroscope.Samples(optical 20.Liedvogel,M.&Mouritsen,H.Cryptochromes—apotentialmagnetoreceptor:
+pathlength0.5mm,depthoffield0.8µm)wereepi-illuminatedwiththeattenuated whatdoweknowandwhatdowewanttoknow?J.R.Soc.Interface7,
+andexpandedbeamofa470nm,80mWdiodelaserfocusedatthebackapertureof S147–S162(2010).
+anoil-immersionobjective.Thefluorescencewascollectedthroughthesame 21.Dodson,C.A.,Hore,P.J.&Wallace,M.I.Aradicalsenseofdirection:signalling
+objectiveandrecordedusinganelectron-multiplyingCCDcamera.Magneticfields andmechanismincryptochromemagnetoreception.TrendsBiochem.Sci.38,
+(upto27mT,<70µsrisetime)weregeneratedbyasolenoidwoundaroundaferrite 435–446(2013).
+core(diameter3mm)fixedinanon-metallicmountalongtheopticalaxisand 22.Mouritsen,H.etal.Cryptochromesandneuronal-activitymarkerscolocalizein
+placed1mmabovethesample.FortheresultsinFigs2and 4,thecameraexposure theretinaofmigratorybirdsduringmagneticorientation.Proc.NatlAcad.Sci.
+timewas5msperframeandtheintervalbetweenframeswas7ms.Typically,16,000 USA101,14294–14299(2004).
+frameswererecordedwiththefieldsteppedbetweenzeroandapresetvalueevery80, 23.Möller,A.,Sagasser,S.,Wiltschko,W.&Schierwater,B.Retinalcryptochromein
+160or240frames.ForthedatainFig.6,10,000frameswererecordedwithacamera amigratorypasserinebird:apossibletransducerfortheavianmagnetic
+exposuretimeof40msperframeandaframeintervalof42ms,withthefield compass.Naturwissenschaften91,585–588(2004).
+switchedevery100frames.Forthecryptochromemeasurements,thediodelaser 24.Niessner,C.etal.Avianultraviolet/violetconesidentifiedasprobable
+outputwashighlyattenuated(to0.1mW)andthestagecooledto−5°C(sample
+magnetoreceptors.PLoSONE6,e20091(2011).
+temperatureapproximately2°C)tominimizesamplephotodegradation.Allthe 25.Gegear,R.J.,Casselman,A.,Waddell,S.&Reppert,S.M.Cryptochrome
+othermeasurementswereperformedat22°C. mediateslight-dependentmagnetosensitivityinDrosophila.Nature454,
+1014–1018(2008).
+Samplepreparation.AtCry1wasexpressedinNicotianabenthamiana(Planet 26.Yoshii,T.,Ahmad,M.&Helfrich-Forster,C.Cryptochromemediateslight-
+Biotechnology).Allstudieswereconductedonfreshlydefrostedsamples.Duringthe dependentmagnetosensitivityofDrosophila’scircadianclock.PLoSBiol.7,
+finalsamplepreparationandpurificationstep,proteinsolutionswereshieldedfrom 813–819(2009).
+ambientlightandkeptattemperaturesbelow4C.Forthefluorescence 27.Gegear,R.J.,Foley,L.E.,Casselman,A.&Reppert,S.M.Animalcryptochromes
+measurements,AtCry1(about100M)wascontainedin10mMTris,0.15mMNaCl, mediatemagnetoreceptionbyanunconventionalphotochemicalmechanism.
+30%glycerolv/v,pH7.4.Theconcentrationoftheflavinwasverified Nature463,804–807(2010).
+spectrophotometrically. 28.Foley,L.E.,Gegear,R.J.&Reppert,S.M.Humancryptochromeexhibitslight-
+dependentmagnetosensitivity.NatureCommun.2,356(2011).
+Modellingamplificationeffects.Detailsofthesimulationmethods,bothforinter- 29.Fedele,G.etal.Geneticanalysisofcircadianresponsestolowfrequency
+andintramolecularflavin-containingradicalpairs,aredescribedinSupplementary electromagneticfieldsinDrosophilamelanogaster.PLoSGenet.10,
+SectionsCandD. e1004804(2014).
+30.Fedele,G.,Green,E.W.,Rosato,E.&Kyriacou,C.P.Anelectromagneticfield
+Received17July2015;accepted18December2015; disruptsnegativegeotaxisinDrosophilaviaaCRY-dependentpathway.Nature
+publishedonline1February2016 Commun.5,4391(2014).
+31.Marley,R.,Giachello,C.N.G.,Scrutton,N.S.,Baines,R.A.&Jones,A.R.
+Cryptochrome-dependentmagneticfieldeffectonseizureresponsein
+References
+Drosophilalarvae.Sci.Rep.4,5799(2014).
+1. Wiltschko,R.&Wiltschko,W.Avianmagneticcompass:itsfunctional
+32.Ahmad,M.,Galland,P.,Ritz,T.,Wiltschko,R.&Wiltschko,W.Magnetic
+propertiesandphysicalbasis.Curr.Zool.56,265–276(2010).
+intensityaffectscryptochrome-dependentresponsesinArabidopsisthaliana.
+2. Mouritsen,H.inNeurosciences—fromMoleculetoBehavior:aUniversity Planta225,615–624(2007).
+Textbook(edsGalizia,C.G.&Lledo,P.-M.)427–443(Springer-Verlag,2013).
+33.Harris,S.-R.etal.Effectofmagneticfieldsoncryptochrome-dependent
+3. K re i v s i h e k w in o e f v c , u D r . re A n . t & res C e h ar e c r h n . et B s i o o v l. , B N u . l S l. . R M ev a . gn 5, et 4 o 6 r – e 6 ce 2 p ( t 2 io 0 n 15 s ) y . stemsinbirds:a 34. r H es e p n o b n es s t e , s K in .B A . r e a t b a id l. o M ps a is gn th e a ti l c ia -fi n e a l . d J. e R ff . ec S t o o c. n In th te e rf p a h c o e t 6 o , ac 1 t 1 iv 9 a 3 t – io 1 n 20 r 5 ea ( c 2 t 0 io 0 n 9) o . f
+4. Ritz,T.,Adem,S.&Schulten,K.Amodelforphotoreceptor-based
+magnetoreceptioninbirds.Biophys.J.78,707–718(2000).
+1
+E
+4
+sc
+3
+h
+9
+e
+5
+r
+–
+ic
+1
+h
+4
+i
+3
+a
+9
+c
+9
+ol
+(
+i
+2
+D
+00
+N
+8
+A
+).
+photolyase.Proc.NatlAcad.Sci.USA105,
+5. Rodgers,C.T.&Hore,P.J.Chemicalmagnetoreceptioninbirds:aradicalpair
+mechanism.Proc.NatlAcad.Sci.USA106,353–360(2009). 35.Binhi,V.N.Stochasticdynamicsofmagnetosomesandamechanismof
+biologicalorientationinthegeomagneticfield.Bioelectromagnetics27,
+6. Mouritsen,H.&Hore,P.J.Themagneticretina:light-dependentandtrigeminal
+58–63(2006).
+magnetoreceptioninmigratorybirds.Curr.Opin.Neurobiol.22,
+343–352(2012). 36.Winklhofer,M.&Kirschvink,J.L.Aquantitativeassessmentoftorque-
+transducermodelsformagnetoreception.J.R.Soc.Interface7,
+7. Chaves,I.etal.Thecryptochromes:bluelightphotoreceptorsinplantsand
+animals.Annu.Rev.PlantBiol.62,335–364(2011). S273–S289(2010).
+8. Giovani,B.,Byrdin,M.,Ahmad,M.&Brettel,K.Light-inducedelectrontransfer 37.Cai,J.Quantumprobeanddesignforachemicalcompasswithmagnetic
+inacryptochromeblue-lightphotoreceptor.NatureStruct.Biol.10, nanostructures.Phys.Rev.Lett.106,100501(2011).
+489–490(2003). 38.Miura,T.,Maeda,K.&Arai,T.Effectofcoulombinteractiononthedynamicsof
+9. Zeugner,A.etal.Light-inducedelectrontransferinArabidopsiscryptochrome-1
+theradicalpairinthesystemofflavinmononucleotideandhenegg-white
+correlateswithinvivofunction.J.Biol.Chem.280,19437–19440(2005). lysozyme(HEWL)studiedbyamagneticfieldeffect.J.Phys.Chem.B107,
+10.Biskup,T.etal.Directobservationofaphotoinducedradicalpairina
+6474–6478(2003).
+cryptochromeblue-lightphotoreceptor.Angew.Chem.Int.Ed.48, 39.Murakami,M.,Maeda,K.&Arai,T.Dynamicsofintramolecularelectron
+404–407(2009). transferreactionofFADstudiedbymagneticfieldeffectsontransient
+11.Maeda,K.etal.Magneticallysensitivelight-inducedreactionsincryptochrome
+absorptionspectra.J.Phys.Chem.A109,5793–5800(2005).
+areconsistentwithitsproposedroleasamagnetoreceptor.Proc.NatlAcad.Sci.
+40.Neil,S.R.T.etal.Broadbandcavity-enhanceddetectionofmagneticfieldeffects
+USA109,4774–4779(2012). inchemicalmodelsofacryptochromemagnetoreceptor.J.Phys.Chem.B118,
+12.Niessner,C.etal.Magnetoreception:activatedcryptochrome1aconcurswith 4177–4184(2014).
+magneticorientationinbirds.J.R.Soc.Interface10,20130638(2013). 41.Evans,E.W.etal.Sensitivefluorescence-baseddetectionofmagneticfieldeffects
+13.Niessner,C.,Denzau,S.,Peichl,L.,Wiltschko,W.&Wiltschko,R. inphotoreactionsofflavins.Phys.Chem.Chem.Phys.17,18456–18463(2015).
+Magnetoreceptioninbirds:I.Immunohistochemicalstudiesconcerningthe 42.Dodson,C.A.etal.Fluorescence-detectedmagneticfieldeffectsonradicalpair
+cryptochromecycle.J.Exp.Biol.217,4221–4224(2014). reactionsfromfemtolitrevolumes.Chem.Commun.51,8023–8026(2015).
+390 NATURECHEMISTRY|VOL8|APRIL2016|www.nature.com/naturechemistry
+©2016MacmillanPublishersLimited.Allrightsreserved
+
+--- Page 8 ---
+
+ARTICLES
+NATURE CHEMISTRY
+DOI:10.1038/NCHEM.2447
+43.Beardmore,J.P.,Antill,L.M.&Woodward,J.R.Opticalabsorptionand 57.Weaver,J.C.,Vaughan,T.E.&Astumian,R.D.Biologicalsensingofsmallfield
+magneticfieldeffectbasedimagingoftransientradicals.Angew.Chem.54, differencesbymagneticallysensitivechemicalreactions.Nature405,
+8494–8497(2015). 707–709(2000).
+44.Hore,P.J.&Broadhurst,R.W.Photo-CIDNPofbiopolymers.Prog.Nucl.Magn. 58.Maeda,K.etal.Followingradicalpairreactionsinsolution:astepchangein
+Reson.Spectrosc.25,345–402(1993). sensitivityusingcavityring-downdetection.J.Am.Chem.Soc.133,
+45.Morozova,O.B.etal.TimeresolvedCIDNPstudyofelectrontransferreactions
+17807–17815(2011).
+inproteinsandmodelcompounds.Mol.Phys.100,1187–1195(2002). 59.Rodgers,C.T.,Norman,S.A.,Henbest,K.B.,Timmel,C.R.&Hore,P.J.
+46.Mok,K.H.&Hore,P.J.Photo-CIDNPNMRmethodsforstudyingprotein Determinationofradicalre-encounterprobabilitydistributionsfrommagnetic
+folding.Methods34,75–87(2004). fieldeffectsonreactionyields.J.Am.Chem.Soc.129,6746–6755(2007).
+47.Atkins,P.W.&Evans,G.T.Magnetic-fieldeffectsonchemiluminescentfluid 60.Hoang,N.etal.HumanandDrosophilacryptochromesarelightactivatedby
+solutions.Mol.Phys.29,921–935(1975).
+flavinphotoreductioninlivingcells.PLoSBiol.6,e160(2008).
+48.Mani,T.&Vinogradov,S.A.Magneticfieldeffectsontriplet–triplet 61.Bouly,J.P.etal.Cryptochromebluelightphotoreceptorsareactivatedthrough
+interconversionofflavinredoxstates.J.Biol.Chem.282,9383–9391(2007).
+annihilationinsolutions:modulationofvisible/NIRluminescence.J.Phys.
+Chem.Lett.4,2799–2804(2013).
+Acknowledgements
+49.Hore,P.J.&Kaptein,R.Protonnuclearmagnetic-resonanceassignmentsand
+WethankN.Bakerforexperttechnicalassistance.E.W.E.isindebtedtotheEngineering
+surfaceaccessibilityoftryptophanresiduesinlysozymeusingphotochemically
+andPhysicalSciencesResearchCouncilandSABMillerplcforhisdoctoralscholarship.C.
+induceddynamicnuclearpolarizationspectroscopy.Biochemistry22,
+50. 1 V 9 a 0 is 6 h – , 1 S 9 . 1 P 1 . ( & 19 T 8 o 3) ll . in,G.Flashphotolysisofflavins.V.Oxidationand A ar . e D g . r g a r t a e t f e u f l u t l o ly th ac e k f n o o ll w ow le i d n g g e f s o h r e fi r n c a u n rr c e ia n l t s I u m p p p e o r r i t a : l th C e ol D le e g f e en Ju se ni A o d r v R a e n s c e e a d rc R h e F s e e l a l r o c w h s P h r ip o . je W ct e s
+disproportionationofflavinradicals.J.Bioenerg.2,61–72(1971). A
+U
+g
+n
+e
+io
+n
+n
+cy
+’s
+(
+7
+Q
+th
+uB
+F
+E
+ra
+:
+m
+N6
+ew
+60
+o
+0
+r
+1
+k
+-
+P
+10
+ro
+-1
+g
+-
+r
+4
+am
+06
+m
+1)
+e
+,
+,
+t
+F
+h
+P
+e
+7
+E
+/
+u
+2
+r
+0
+o
+0
+p
+7
+e
+-
+a
+2
+n
+01
+R
+3
+e
+/
+s
+E
+e
+R
+ar
+C
+ch
+g
+C
+ra
+o
+n
+u
+t
+n
+a
+c
+g
+i
+r
+l
+e
+(
+e
+u
+m
+nd
+en
+er
+t
+t
+N
+h
+o
+e
+.
+E
+3
+u
+4
+r
+0
+o
+4
+p
+5
+e
+1
+a
+)
+n
+,
+51.Massey,V.Activationofmolecular-oxygenbyflavinsandflavoproteins.J.Biol.
+theAirForceOfficeofScientificResearch(AirForceMaterielCommand,USAFawardNo.
+Chem.269,22459–22462(1994).
+FA9550-14-1-0095)andtheEMFBiologicalResearchTrust.
+52.Brocklehurst,B.Spincorrelationingeminaterecombinationofradicalionsin
+hydrocarbons.1.Theoryofmagnetic-fieldeffect.J.Chem.Soc.FaradayTrans.II Authorcontributions
+72,1869–1884(1976).
+D.R.K.andE.W.E.contributedequallytothiswork.D.R.K.,E.W.E.andV.D.designedand
+53.Timmel,C.R.,Till,U.,Brocklehurst,B.,McLauchlan,K.A.&Hore,P.J.Effects performedtheexperiments.D.R.K.andE.W.E.analysedthedata.C.A.D.advisedonthe
+ofweakmagneticfieldsonfreeradicalrecombinationreactions.Mol.Phys.95, productionoftheAtCry1samples.M.I.W.helpedoverseethefluorescencemicroscopy
+71–89(1998).
+experiments.C.R.T.,S.R.M.andP.J.H.coordinatedthestudy.P.J.H.,D.R.K.andE.W.E.
+54.Weber,S.etal.Originoflight-inducedspin-correlatedradicalpairsin wrotethepaper.Alltheauthorsdiscussedtheresultsandcommentedonthemanuscript.
+cryptochrome.J.Phys.Chem.B114,14745–14754(2010).
+55.Song,S.H.etal.Absorptionandfluorescencespectroscopiccharacterizationof Additionalinformation
+cryptochrome3fromArabidopsisthaliana.J.Photochem.Photobiol.B85, Supplementaryinformationisavailableintheonlineversionofthepaper.Reprintsand
+1–16(2006). permissionsinformationisavailableonlineatwww.nature.com/reprints.Correspondenceand
+56.Shirdel,J.,Zirak,P.,Penzkofer,A.,Breitkreuz,H.&Wolf,E.Absorptionand requestsformaterialsshouldbeaddressedtoP.J.H.
+fluorescencespectroscopiccharacterisationofthecircadianblue-light
+photoreceptorcryptochromefromDrosophilamelanogaster(dCry).Chem.Phys.
+Competingfinancialinterests
+352,35–47(2008). Theauthorsdeclarenocompetingfinancialinterests.
+NATURECHEMISTRY|VOL8|APRIL2016|www.nature.com/naturechemistry 391
+©2016MacmillanPublishersLimited.Allrightsreserved

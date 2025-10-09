@@ -1,0 +1,858 @@
+
+
+--- Page 1 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+Chemical amplification of magnetic field effects relevant to avian
+magnetoreception
+Chemical amplification of magnetic field effects relevant to avian
+magnetoreception
+Daniel R. Kattnig, Emrys W. Evans, Victoire Déjean, Charlotte A. Dodson, Mark I. Wallace,
+S tuart R. Mackenzie, Christiane R. Timmel, P. J. Hore
+Daniel R. Kattnig, Emrys W. Evans, Victoire Déjean, Charlotte A. Dodson, Mark I. Wallace,
+Stuart R. Mackenzie, Christiane R. Timmel, P. J. Hore
+SUPPLEMENTARY INFORMATION
+SUPPLEMENTARY INFORMATION
+Contents
+A. Measurement of magnetic field effects by fluorescence 2
+ConteSnptesc trally resolved MFEs: Setup I 2
+Time‐resolved MFEs: Setup II 2
+A. Measurement of magnetic field effects by fluorescence 2
+B. MeaSsuperecmtraelnlyt roefs molavegnde MtiFc Efsie: lSde etuffpe cI ts on intermolecular reactions of flavins 52
+FTMimNe/‐rLeyssoolzvyemde M FEs: Setup II 52
+FMN/Tryptophan 7
+B. Measurement of magnetic field effects on intermolecular reactions of flavins 5
+C. CalcuFlMatNio/nLy osfo MzymFEes for inter‐ and intramolecular radical pairs 95
+IFnMteNrm/Torylepctuolpahr aMn FEs 97
+Lower light intensities lead to larger enhancements 12
+C. CalcuInlatrtaiomno olef cMulFaErs M foFrE isn ter‐ and intramolecular radical pairs 149
+Intermolecular MFEs 9
+D. BareL‐boowneer sl imghotd inetl eonf sMitiFeEss l efoadr itnot elarr‐ gaenrd e innhtaranmceomleecnutlsa r radical pairs 1172
+IInntterarmmoolleeccuullaarr MMFFEEss 1174
+Intramolecular MFEs 19
+D. Bare‐bones model of MFEs for inter‐ and intramolecular radical pairs 17
+E. FlaviInn tpehromtoolcehceumlairs MtryF Es 2107
+TInrtarnasmieonlte caublsaorr MptFioEns 2109
+Reactivity of flavin radicals 20
+E. Flavin photochemistry 20
+F. SwitcThraends liiegnhtt a ibnsteonrpstitioy n 2230
+Reactivity of flavin radicals 20
+Supplementary References 24
+F. Switched light intensity 23
+Supplementary References 24
+NATURE CHEMISTRY | www.nature.com/naturechemistry 1 1
+©2016 Macmillan Publishers Limited. All rights reserved.
+1
+
+--- Page 2 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+A. Measurement of magnetic field effects by fluorescence
+Spectrally resolved MFEs: Setup I
+Magnetic field effects on fluorescence spectra were recorded essentially as described by Evans et
+al.1 Samples were positioned between Helmholtz coils which were used to generate static magnetic
+fields of up to 12 mT, with rise and fall times less than 3 ms. A 405 nm CW diode laser (1Q1H350,
+350 mW; Power Technology) provided continuous illumination of the sample. The fluorescence was
+coupled to a spectrograph (SR303i; Andor) which dispersed the wavelength components onto a
+charge‐coupled device (CCD) camera (DU90P‐BV; Andor Newton). The fluorescence signal was
+integrated for a defined period (the camera 'exposure time') starting at a fixed 'delay time', T, after
+switching on the magnetic field. After recording the signal, the field was returned to zero ready for
+the next measurement. Most solutions were flowed at a rate of ca. 0.25 mL min−1 through a sample
+cell (Starna Scientific, UV Quartz, 45/Q, 1 mm optical path length) so as to minimize
+photodegradation. Most of the experiments were conducted at room temperature and for magnetic
+fields in the range 0 to 12 mT, chosen in a randomized order. For AtCry1, the sample was not flowed
+and was cooled (282 K) using a custom‐made, chilled stage.
+Experimental parameters for the results presented in the main text are given in Supplementary
+Table A1.
+delay exposure excitation
+Figure Sample averages
+time time power
+2c FMN/lysozyme 10, 50 ms 20 ms 270 mW 300
+0.5 s 20 ms 270 mW 100
+2.0 s 20 ms 270 mW 75
+5.0 s 20 ms 270 mW 35
+4a FMN/ascorbic acid 50 ms 20 ms 350 mW 900
+6a AtCry1 0.5, 1.0 s 0.5 s 1 mW 300
+3.5 s 0.5 s 1 mW 80
+Supplementary Table A1. Setup I: Experimental parameters for the measurements shown in the
+main text.
+Time‐resolved MFEs: Setup II
+Time‐resolved measurements were carried out using an inverted fluorescence microscope (Ti‐E;
+Nikon). Samples were held in a flow chamber constructed from a silicon rubber gasket (McMaster‐
+Carr) and two coverslips (Menzel; Germany) with an optical path length of 0.5 mm (see Ref.2). They
+were illuminated using the attenuated and expanded beam of a 470 nm diode laser (Stradus 473‐80,
+80 mW; Vortran Laser Technology). The excitation light was focused at the back aperture of an oil
+immersion objective (CFI Apo TIRF 60X Oil, N.A. 1.49; Nikon) to provide trans‐illumination of the sample.
+The power entering the back of the objective was varied between 0.10 and 3.7 mW resulting in
+power densities in the object plane between 0.020 and 0.74 μW μm−2 (based on the 1/e2 contours of
+the excitation intensity). The fluorescence emission was collected through the same objective,
+NATURE CHEMISTRY | www.nature.com/naturechemistry 2 2
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 3 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+transmitted through a dichroic mirror (Brightline FF497‐Di03; Semrock) and a bandpass filter
+(BrightLine 550/88; Semrock), and recorded using an electron‐multiplying CCD camera (iXon+
+DV860E; Andor Technology). Magnetic fields were generated using a solenoid wound around a 3 mm
+diameter ferrite core and fixed into a non‐metallic mount placed 1 mm above the sample. Using a
+custom‐built power supply, magnetic fields of up to 27 mT could be generated with a rise time of
+less than 70 μs. Both the data acquisition and the magnetic field stepping were controlled by a
+digital delay pulse generator (model 9520; Quantum Composers). The excitation light was only
+admitted to the sample during the fluorescence measurement period using an optical shutter (SH05;
+Thorlabs) synchronized with the camera shutter. A description of the calibration of the magnetic
+field can be found in Ref.3.
+Experimental parameters for the results presented in the main text are given in Supplementary
+Table A2.
+For all samples except cryptochrome (Fig. 6, main text), the fluorescence was integrated for a period
+of 5 ms per camera frame (the camera 'exposure time') and the interval between frames was 7 ms
+(frame rate: ~143 Hz). Typically 16,000 frames were recorded with the magnetic field alternated
+between zero and a preset value every 80, 160, or 240 frames depending on the sample (see
+Supplementary Table A2 for details of individual measurements). The 'field on/off interval' is the
+time the magnetic field remains on or off before switching. For each run, a previously unexposed
+aliquot of the sample was admitted to the cell using a flow system. The flow was stopped while the
+fluorescence was measured.
+For the cryptochrome experiments, 50 μL samples were held between two coverslips separated by a
+polydimethylsiloxane spacer (Sylgard 184; Dow Corning). The sample was injected into the pre‐
+cooled cell placed on a Peltier stage (PT100‐NIF; Linkam) at 268 K. 10,000 frames were recorded with
+an exposure time of 40 ms and frame interval of 42 ms with the field switched every 100 frames (i.e.
+4.2 s). For each measurement at least 11 time‐traces were accumulated, each time using a
+previously unexposed portion of the sample.
+frame exposure field on/off excitation
+Figure Sample frames traces
+interval time interval power
+2a,b FMN/lysozyme 7 ms 5 ms 16,000 1.68 s 0.24 mW 16
+2d,e FMN/tryptophan 7 ms 5 ms 16,000 0.56 s 3.7 mW 25
+FMN/ tryptophan (+TCEP
+2f 7 ms 5 ms 16,000 1.12 s 3.7 mW 6,7
+or at pH = 2.6)
+4b,c FMN/ascorbic acid 7 ms 5 ms 16,000 1.12 s 3.7 mW 35,63
+6b,c AtCry1 42 ms 40 ms 10,000 4.2 s 0.1 mW 15,11
+Supplementary Table A2. Setup II: Experimental parameters for the measurements shown in the
+main text.
+The fluorescence intensity for each camera frame was obtained by 'robust averaging'.4 To determine
+the time‐resolved MFE, the fluorescence time‐profiles from individual measurements (as described
+above) were averaged, fitted to a multi‐exponential function and used to calculate the MFEs for
+each field‐on/field‐off cycle. The first 5 cycles were discarded because of distortions resulting from
+NATURE CHEMISTRY | www.nature.com/naturechemistry 3 3
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 4 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+the system adjusting to a new quasi‐equilibrium during the initial phase of photoexcitation and
+because there was some difficulty fitting the average intensity due to the steep decay of the
+fluorescence at the beginning of the measurement. The time‐resolved MFEs for the remaining
+on/off‐cycles were averaged with the smallest and largest 5% of the values at every time point
+removed in order to guard against outliers and spikes. There were no statistically significant
+differences (at the 95% level) between the remaining time points and their means. In order to
+determine the prompt and the delayed MFEs, the time‐resolved MFEs were fitted to exponential
+functions starting with the fourth time point. The MFEs extrapolated to t = 0 and t   are reported
+as χ and χ , respectively.
+p d
+NATURE CHEMISTRY | www.nature.com/naturechemistry 4 4
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 5 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+B. Measurement of magnetic field effects on intermolecular
+reactions of flavins
+FMN/Lysozyme
+Using setup I, fluorescence‐detected MFE profiles were recorded for FMN/lysozyme mixtures at
+various delay times, T, between switching on the magnetic field and recording the fluorescence. A
+10 µM FMN/0.5 mM lysozyme sample was flowed at 0.25 mL min1 with continuous photoexcitation
+by a 405 nm laser at 270 mW. The fluorescence spectral profile showed good agreement with the
+S  S , * transition of the isoalloxazine group of the flavin. A small decrease in fluorescence
+1 0
+intensity was seen on application of an external magnetic field (12 mT). The inverted, scaled
+fluorescence difference signal for T = 0.01 s, ΔI (B ) = I (B ) − I (0), is shown as the black trace in
+F 0 F 0 F
+Supplementary Fig. B1a; its sign is consistent with an initial triplet radical pair. The difference
+spectrum coincides perfectly with the fluorescence profile of fully oxidised FMN (red trace),
+suggesting a single dominant, magnetically sensitive fluorescent species (the excited singlet state of
+fully oxidised FMN). This conclusion is reinforced by the coincidence of the scaled difference signals
+obtained for different delay times between the field change and the start of fluorescence acquisition
+(Supplementary Fig. B1b).
+a b
+Supplementary Figure B1. a, Superimposed fluorescence intensity I (B = 0) (red) and difference
+F 0
+spectra ΔI (B = 12 mT) (black) for 10 µM FMN + 0.5 mM lysozyme in water. Delay time, T = 0.01
+F 0
+s. b, Scaled difference spectra for the same system at different delay times between the field
+step and the start of fluorescence acquisition.
+In Fig. 2c of the main text, an MFE amplification (averaged over 500‐600 nm) was observed with
+increasing delay time T, whilst the B (magnetic field strength corresponding to half of the
+1/2
+maximum MFE) is unchanged (Supplementary Table B1). The invariance of B is in keeping with our
+1/2
+proposal that the enhanced MFEs stem from a single radical pair.
+NATURE CHEMISTRY | www.nature.com/naturechemistry 5 5
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 6 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+delay / s 0.01 0.05 0.5 2.0 5.0
+B / mT 6.3 ± 0.1 6.5 ± 0.2 6.5 ± 0.3 6.5 ± 0.2 6.3 ± 0.3
+1/2
+Supplementary Table B1. Values of B determined from the data shown in Fig. 2c.
+1/2
+Setup II was used to investigate the time‐dependence of the enhanced MFE. Fresh samples were
+continuously illuminated in the presence of a magnetic field stepped between 0 mT and 27 mT (rise
+time < 70 μs) recording the fluorescence continuously. The overall decrease in fluorescence intensity
+(Fig. 2a and d, main text) is due to the sample re‐equilibrating to photoexcitation and the interplay
+between photobleaching and diffusion. Turning on the photoexcitation source rapidly depletes the
+flavin ground state as steady state concentrations for the excited states are reached. The
+photochemistry of flavins is not as perfectly cyclic as implied by the reaction scheme in Fig. 1 (main
+text). Photoexcitation also leads to degradation products such as lumichrome.5 Although
+lumichrome is also capable of forming photo‐induced triplet‐born radical pairs, no magnetically
+sensitive fluorescence from lumichrome was observable with 470 nm photoexcitation in setup II.
+Such photodegradation pathways tend to reduce the measured fluorescence intensity, although this
+is opposed by diffusion of fresh sample into the detection volume.
+As mentioned in the main text, the time‐resolved MFE is superimposed on the decaying trend of the
+fluorescence. An average MFE response to field switching was obtained following the subtraction of
+the decay by means of multi‐exponential fits. No statistically significant difference was observed
+when comparing individual cycles to their means. Furthermore, the averaged MFE responses to
+field‐on and field‐off steps were identical (see Supplementary Fig. B2).
+Supplementary Figure B2. Averaged MFEs for field‐on and field‐off steps. Green: response to
+switching field on. Blue: response to switching field off. Red: average of the two. Black:
+exponential fit.
+To obtain the enhancement factor, E, the initial (primary, χ ) and final (delayed, χ ) MFEs were
+p d
+determined. An exponential function was fitted to the slow component (see, e.g., Supplementary
+Fig. B2) to obtain a time constant (τ). Using such fits values of χ could be obtained for reactions that
+d
+did not reach a steady state during the field on/off periods.
+NATURE CHEMISTRY | www.nature.com/naturechemistry 6 6
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 7 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+Increasing the solvent viscosity of the FMN/lysozyme solutions by the addition of glycerol (20% v/v)
+was found to boost the enhancement (Supplementary Fig. B3) from 2.32 to 3.50, as well as
+increasing the time constant from τ = 0.47 s to τ = 2.2 s. While the ratio of the two termination rate
+constants (k /k ) determines E, it is their values which set the timescale. It seems likely that the
+D F
+increase in solvent viscosity affects the diffusion‐controlled contributions to k and k and hence
+D F
+both E and τ.
+Supplementary Figure B3. Left: Fluorescence intensity profile for 10 µM FMN + 0.5 mM lysozyme
+(20% v/v glycerol in water) in the presence of a square wave modulated magnetic field (0 to 27
+mT) using Setup II. Right: the averaged response to a single field step.
+FMN/Tryptophan
+The rate of disappearance of flavin radicals by disproportionation and reaction with molecular
+oxygen increases supra‐linearly with their concentration as a result of the quadratic and
+autocatalytic nature, respectively, of the two processes. As expected and shown in Supplementary
+Figs B4 and B5, increasing either the FMN concentration or the laser pump power increases k ,
+F
+decreases k /k and results in smaller enhancement factors.
+D F
+NATURE CHEMISTRY | www.nature.com/naturechemistry 7 7
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 8 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+Supplementary Figure B4. Averaged MFE responses to a single field step (0–27 mT) for 10 µM
+FMN + 1.0 mM tryptophan with varying laser pump power (470 nm): left, 0.24 mW and right,
+3.7 mW.
+Supplementary Figure B5. Averaged MFE responses to a single field step (0–27 mT) for FMN +
+1.0 mM tryptophan for different flavin concentrations: left, 2.5 µM and right, 10 µM.
+NATURE CHEMISTRY | www.nature.com/naturechemistry 8 8
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 9 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+C. Calculation of MFEs for inter‐ and intramolecular radical pairs
+Intermolecular MFEs
+The reaction scheme in Supplementary Fig. C1 has been used to model the MFEs that arise in cyclic
+intermolecular radical pair reactions under conditions of continuous illumination and square‐wave
+modulated magnetic fields. Using an approach analogous to that of Murakami et al.6, we have solved
+numerically the differential equations that describe the time‐dependence of the system following
+step‐wise changes in the intensity of an external magnetic field.
+Supplementary Figure C1. Reaction scheme for intermolecular flavin (F) +
+donor (D) reactions.
+The magnetic sensitivity of the photocycle originates in field‐dependent singlet‐triplet
+interconversion of the singlet (S) and triplet (T , T , T ) spin states of the geminate radical pair (curly
+0 + −
+arrows in Supplementary Fig. C1). The field‐independent rate equations for species other than the
+radical pair are:
+d
+[F]  k [F]k [1F*]k [3F*]k [S ]k [F•]
+dt EX DX DX3 BET 0 F
+d
+[1F*]  k k [1F*]k [F]
+dt ISC DX EX
+d
+[3F*]  k [D]k [3F*]k [1F*]
+dt ET DX3 ISC
+(1)
+d [F•]    k [D•+]k  [F•]k [S][T ][T ][T ]
+dt RE F SEP 0 + 
+d
+[D]  k [3F*][D]k [S]k [D•+]
+dt ET BET D
+d [D•+]    k [F•]k  [D•+]k [S][T ][T ][T ].
+dt RE D SEP 0 + 
+Note that the first terms on the right hand side of the 4th and 6th equations (rate constant k ) do
+RE
+not change the total flavin or donor radical concentrations, merely whether these species are
+NATURE CHEMISTRY | www.nature.com/naturechemistry 9 9
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 10 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+present in the radical pair or as free radicals. The concentrations of the latter greatly exceed those of
+the former.
+In the absence of a magnetic field, all four spin states of the radical pair can interconvert with each
+other via the hyperfine interactions with the rate constant k :
+HFM
+d 1
+[S]  3k k k [S]k [T ][T ][T ] k [F•][D•+]
+dt HFM BET SEP HFM 0   4 RE
+d 1 1
+[T ]  3k k [T ]k [S][T ][T ] k [F•][D•+] k [3F*][D]
+dt 0 HFM SEP 0 HFM   4 RE 3 ET
+(2)
+d 1 1
+[T ]  2k k [T ]k [S][T ] k [F•][D•+] k [3F*][D]
+dt  HFM SEP  HFM 0 4 RE 3 ET
+d 1 1
+[T ]  2k k [T ]k [S][T ] k [F•][D•+] k [3F*][D].
+dt  HFM SEP  HFM 0 4 RE 3 ET
+At high magnetic field, the T and T states become energetically separated from S and T by the
++ − 0
+Zeemaninteraction. This disables ST interconversion such that the rate equations for the geminate
+
+radical pair become:
+d 1
+[S]  k 2k k k [S]k [T ]k [T ][T ] k [F•][D•+]
+dt HFM RM BET SEP HFM 0 RM   4 RE
+d 1 1
+[T ]  k 2k k [T ]k [S]k [T ][T ] k [F•][D•+] k [3F*][D]
+dt 0 HFM RM SEP 0 HFM RM   4 RE 3 ET
+(3)
+d 1 1
+[T ]  2k k [T ]k [S][T ] k [F•][D•+] k [3F*][D]
+dt  RM SEP  RM 0 4 RE 3 ET
+d 1 1
+[T ]  2k k [T ]k [S][T ] k [F•][D•+] k [3F*][D]
+dt  RM SEP  RM 0 4 RE 3 ET
+k is the rate constant for incoherent spin mixing resulting from spin relaxation processes.
+RM
+Supplementary Fig. C2 indicates the pathways described by the rate constants k and k .
+HFM RM
+Supplementary Figure C2. Hyperfine mixing (orange arrows, rate constant k ) and spin relaxation
+HFM
+(green arrows, rate constant k ) at a high field and b low field.
+RM
+NATURE CHEMISTRY | www.nature.com/naturechemistry 10 10
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 11 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+MATLAB’s 15s ordinary differential equation solver was used to calculate the change in the
+concentration of ground state flavin when the applied magnetic field was switched on and off under
+conditions of continuous photoexcitation. The fluorescence intensity is directly proportional to [F].
+Calculations were performed using the rate constants in Supplementary Table C1. As shown in Fig.
+3a (main text), this yielded: (i) step‐wise behaviour (enhancement factor, E = χ /χ = 1) in the
+e d
+absence of termination channels (k = k = 0); (ii) E > 1 for k /k > 1; (iii) E < 1 for k /k < 1. Similar
+F D D F D F
+calculations were used to obtain the contour plot in Fig. 3b (main text) showing the dependence of E
+on k / k for k and k in the range 10−1–103 s−1. The simulations used to obtain values of k and k
+D F D F D F
+from the data in Figs 2b, e and f, 4b and c, and 6b and c were barely affected by the rates of the
+other reaction steps (Supplementary Table C1) which, for the small values of k and k relevant here,
+D F
+determine solely the prompt MFE.
+In determining E, the final MFE response (χ ) was obtained from the steady state solution to
+d
+Equations (1)–(3). The initial MFE (χ ) was defined at the moment of instantaneous magnetic field
+p
+switching and was determined from the exponential fit to the enhanced MFE.
+Rate constant Value Comment
+k 1.36 × 104 s−1 Photoexcitation is assumed to follow first order kinetics in the weak
+EX absorbance limit of the Beer‐Lambert law.
+k 1.09 × 108 s−1 Decay of the flavin excited singlet state (1F*) by processes other than
+DX intersystem‐crossing.7, 8
+k 1.09 × 108 s−1 Intersystem crossing from 1F* to 3F*7, 8.
+ISC
+Reaction of the flavin excited triplet state (3F*) with an electron donor, D.
+k 1.2 × 109 M−1s−1 The numerical value was derived from Stern‐Volmer type experiments on
+ET flavin mononucleotide (FMN) + tryptophan reactions using transient
+absorption spectroscopy (see Section C).
+k 3.85 × 105 s−1 Decay of 3F* by processes other than quenching by D. The numerical value
+DX3 was taken from transient absorption experiments on FMN (see Section C).
+Separation of geminate radical pair components to form free radicals. The
+k 2 × 108 s−1 value is based on a typical geminate radical pair lifetime of 100 ns in
+SEP
+aqueous solution.
+k 8 × 107 s−1 Coherent singlet‐triplet interconversion of the spin states of the geminate
+HFM radical pair by the hyperfine mechanism as determined by Murakami et al.6
+Incoherent singlet‐triplet interconversion of the spin states of the
+k 2 × 106 s−1 geminate radical pair by the relaxation mechanism as determined by
+RM
+Murakami et al.6
+Re‐encounter of free radicals to form geminate radical pair. The value is
+k 1.87 × 1010 M−1 s−1 obtained from the Smoluchowski equation (with an effective encounter
+RE distance, R* = 20 Å) and the Stokes‐Einstein relation (T = 295 K; species
+radius, R = 3.5 Å; solvent viscosity = 1 × 10−2 kg m−1 s−1).
+NATURE CHEMISTRY | www.nature.com/naturechemistry 11 11
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 12 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+k 1.0 × 108 s−1 Spin‐selective reverse electron transfer of the radical pair to form the
+BET ground state reactants.
+Supplementary Table C1. Values of the rate constants used in calculations of amplified MFEs for the
+intermolecular flavin photocycle in Supplementary Fig. C1.
+Lower light intensities lead to larger enhancements
+Fig. 3b (main text) shows the dependence of E on k and k for a typical intermolecular flavin‐
+D F
+containing radical pair. Those calculations used the values of the rate constants given in
+Supplementary Table C1; the resultant density plot is also given below (Supplementary Fig. C3a)
+together with plots of the constituent delayed (χ ) and prompt (χ ) MFEs(Supplementary Figs. C3b
+d p
+and C3c, respectively).
+a)
+b) c)
+Supplementary Figure C3. Intermolecular radical pair. Density plots of: a, the amplification
+factor, E; b, the delayed MFE, χ ; c the prompt MFE, χ , as a function of the radical termination
+d p
+rate constants k and k . The simulations were performed using the rate constant values in
+F D
+Supplementary Table C1 with k = 1.36 × 104 s−1.
+EX
+NATURE CHEMISTRY | www.nature.com/naturechemistry 12 12
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 13 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+As mentioned in the main text, larger MFE amplifications can be realized with lower light intensities.
+The calculated behaviour for a sample subjected to 20% of the photon flux (i.e. k = 2.72 × 103 s−1) is
+EX
+shown in Supplementary Fig. C4. Enhancement factors of up to 24 are observed in the range of k
+F
+and k values covered.
+D
+a)
+b) c)
+Supplementary Figure C4. Intermolecular radical pair. Density plots of: a, the amplification factor,
+E; b, the delayed MFE, χ ; c, the prompt MFE, χ , as a function of the radical termination rate
+d p
+constants k and k . The simulations were performed using the rate constant values in
+F D
+Supplementary Table C1 except for k = 2.72 × 103 s−1.
+EX
+NATURE CHEMISTRY | www.nature.com/naturechemistry 13 13
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 14 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+Intramolecular MFEs
+Analogous calculations of EMFEs were conducted for an intramolecular photocycle based on
+cryptochrome (Supplementary Fig. C5 and Supplementary Table C2). The corresponding density
+plots are shown in Supplementary Fig. C6‐C8.
+Supplementary Figure C5. Reaction scheme for an intramolecular radical pair reaction modelled on
+a typical cryptochrome photocycle.
+Rate constant Value Comment
+k 1 × 103 s−1 Photoexcitation is assumed to follow first order kinetics in the weak
+EX absorbance limit of the Beer‐Lambert law.
+k 1.09 × 108 s−1 Decay of the flavin excited singlet state (1F*) by processes other than
+DX electron transfer. Value from Supplementary Table C1.
+k 1 × 1010 s−1 Efficient electron transfer between donor and flavin singlet excited state,
+ET 1F*, to form RP1 in the singlet state.
+k 2 × 106 s−1 Proton transfer processes to form RP2 from RP19.
+RP2
+Coherent singlet‐triplet interconversion of the spin states of the geminate
+k 8 × 107 s−1 radical pair by the hyperfine mechanism. Value from Supplementary Table
+HFM
+C1.
+Incoherent singlet‐triplet interconversion of the spin states of the
+k 2 × 106 s−1 geminate radical pair by the relaxation mechanism. Value from
+RM
+Supplementary Table C1.
+k 2 × 106 s−1 Reverse electron transfer of RP1 to form the ground state species9.
+BET(1)
+k 5 × 104 s−1 Reverse electron transfer of RP2 to form the ground state. Estimated from
+BET(2) Ref. 9
+Supplementary Table C2. Values of the rate constants used in calculations of amplified MFEs for the
+intramolecular flavin photocycle in Supplementary Fig. C5.
+NATURE CHEMISTRY | www.nature.com/naturechemistry 14 14
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 15 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+Supplementary Fig. C6 shows the relative changes in the total concentration of the form of the
+protein containing the flavin radical [i.e. RP2 plus (F D)] while Supplementary Fig. C7 shows the
+corresponding absolute changes. Supplementary Fig. C8 is a repeat of Supplementary Fig. C7 with
+k , the rate constant for photoexcitation, reduced by a factor of 10 to 1 × 102 s−1. Note that
+EX
+Supplementary Fig. C7 is identical to Figs 6d and e in the main text and is reproduced here for
+comparison with Supplementary Figs. C6 and C8.
+Prompt relative MFE Steady state relative MFE
+Supplementary Figure C6. Density plot of the relative changes in the total concentration of the flavin
+radical form of cryptochrome as a function of the radical termination rate constants k and k . The values
+F D
+of the parameters are given Supplementary Table C2.
+The maximum steady state relative MFE (Supplementary Fig. C6) is found for k  k and does not
+F D
+exceed the maximum prompt effect (attained for k >> k ). While this does demonstrate that slow
+F D
+termination reactions play a role, their impact on the operation of cryptochrome as a magnetic
+sensor appears to be minor.
+The picture is quite different for the corresponding absolute changes (Supplementary Fig. C7). The
+largest delayed effects occur when k >> k and they are substantially larger than the prompt effect
+D F
+for any values of k and k .
+D F
+Furthermore, when the light intensity is reduced (Supplementary Fig. C8), a larger ratio k / k is
+D F
+necessary to achieve a significant enhancement (see Supplementary Information). That is, the lower
+the light intensity the more important is the enhancement phenomenon.
+NATURE CHEMISTRY | www.nature.com/naturechemistry 15 15
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 16 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+Prompt absolute MFE Steady state absolute MFE
+Supplementary Figure C7. Density plot of the absolute changes in the total concentration of the flavin
+radical form of cryptochrome as a function of the radical termination rate constants k and k . The values
+F D
+of the parameters are given Supplementary Table C2.
+Prompt absolute MFE Steady state absolute MFE
+Supplementary Figure C8. Density plot of the relative changes in the total concentration of the flavin
+radical form of cryptochrome as a function of the radical termination rate constants k and k . The values
+F D
+of the parameters are given Supplementary Table C2, except that k has been reduced by a factor of 10.
+EX
+NATURE CHEMISTRY | www.nature.com/naturechemistry 16 16
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 17 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+D. Bare‐bones model of MFEs for inter‐ and intramolecular radical
+pairs
+The kinetic model described above, while comprehensive, does not readily reveal the essential
+principles underlying the enhanced MFE. Here we present an approximate, pared down model that
+shows the same qualitative behaviour and affords a simple expression relating the amplification
+factor, E, to relevant rate constants.
+Intermolecular MFEs
+a) b)
+Supplementary Figure D1. a) Simplified reaction scheme for magnetic field effects on
+intermolecular flavin + donor reactions. The curved arrows indicate a bimolecular process. b)
+Dependence of the amplification factor E on the parameter r (defined in the text). The values of f
+= k /k are as indicated.
+D F
+A simplified intermolecular radical pair reaction scheme is shown in Supplementary Fig. D1a. It
+comprises the diamagnetic, ground‐state flavin (F), uncorrelated free radicals (F and D+), and a
+magnetically sensitive intermediate (G), which accounts for the radical pair and all upstream, excited
+states. Magnetic field effects are introduced by allowing the rate constant with which G returns to F,
+k (B ), i.e. the recombination efficiency, to depend on the strength of the external magnetic field, B .
+B 0 0
+The rate equations are as follows:
+d
+[F]  k [F]k (B )[G]k [F•]k [F•][D•+]
+dt P B 0 F R
+d
+[G]  k (B )k  [G]  k [F]
+dt B 0 E P
+(4)
+d
+[F•]  k [G]k [F•]k [F•][D•+]
+dt E F R
+d
+[D•+]  k [G]k [D•+]k [F•][D•+].
+dt E D R
+The prompt MFE () is negligibly affected by the slow termination reactions (rate constants k and
+p F
+k ). Thus, to a good approximation,  can be evaluated from the steady state concentrations in the
+D p
+NATURE CHEMISTRY | www.nature.com/naturechemistry 17 17
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 18 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+limit k = k = 0. Using Equation (4) in combination with the requirement that the total concentration
+F D
+of flavin species is fixed,
+[F]  [F•]  c (5)
+0
+we find:
+2c k k k k 2c k  k k  k k 4c k k k 
+[F] k k 0  0 R B E P 0 R E P E P 0 R B E . (6)
+SS F D 2k k k 
+R B E
+In the general case (k ≠ 0 and k ≠ 0) in which the steady‐state concentrations include the additional
+F D
+effects of the termination reactions, we obtain:
+ 
+k k k k  k k  k 2c k  k k  k  k k k k 2 4c k k k  k k  k
+D E P F B E D 0 R D D F B E E P 0 R F E B E P
+[F]  .
+SS 2k  k k  k
+F B E R
+(7)
+The MFE is defined as the relative change in the steady‐state concentration of F brought about by
+the action of the magnetic field. Since the MFEs, χ (i = d, p), are typically small, it is permissible to
+i
+equate χ with a series expansion in k truncated after the linear term. Specifically:
+i B
+dln[F]
+  SS k (8)
+i dk B
+B
+where [F] is given by Equations (6) and (7) for the prompt MFE, χ , and the delayed MFE, χ ,
+SS p d
+respectively. k is the field‐induced change in k . Combining Equations (6), (7) and (8) gives:
+B B
+ k k k  k k 4c k  k k 
+E  e  D E P E P 0 R B E . (9)
+ p k  k  k  k k k k 2 4c k k k k  k k  
+D D F B E E P 0 R F E P B E
+Since k and k are assumed small compared to the other rate constants, Equation (9) can be
+D F
+expanded in powers of these rate constants, keeping their ratio constant, f = k /k , constant.
+D F
+Retaining only the first term, we obtain:
+14r
+E  (10)
+14r/ f
+where r k c /k  and  k /k k  denotes the quantum yield for the formation of free
+R 0 E P E E E B
+radicals. When r >> 1 and r >> f, Equation (10) implies that E f . Supplementary Fig. D1b
+illustrates the dependence of E on r for different ratios of k and k . When r is greater than about
+D F
+100, E is indeed seen to be proportional to f .
+NATURE CHEMISTRY | www.nature.com/naturechemistry 18 18
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 19 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+Intramolecular MFEs
+Amplified MFEs can also occur for radical pairs formed intramolecularly in a photocycle in which
+there are no bimolecular recombination reactions. A bare‐bones reaction scheme that qualitatively
+accounts for MFEs in this case is shown in Supplementary Fig. D2a. Proceeding in a manner
+analogous to that for the intermolecular case, we find that the MFE enhancement for the ground‐
+state (FD) is given by
+f2 f 1
+E (11)
+f2 f 
+where k /k k (B ). Note that when k = k = 0, the MFE is  k /k . For an experiment
+P P B 0 F D p B B
+that detects the fluorescence of the electron acceptor, F (see Supplementary Fig. D2a), Equation (11)
+is applicable when the photoexcited state of F is swiftly quenched in the state F–D(cid:127)+, e.g. by energy
+transfer. Note that 1 so that an enhancement of the MFE (E ≥ 1) is expected irrespective of the
+value of f = k /k . This is strikingly different to the intermolecular case above.
+D A
+If the populations of both F–D(cid:127)+ and F–D are monitored via the fluorescence of F, the enhancement
+factor is given by:
+f2 f 1 1
+E   (12)
+f2 f  f(1)
+and significant MFE enhancement results for f > 1. If the fluorescence quantum yield is reduced by
+the presence of D(cid:127)+, Eqs. (12) and (11) provide lower and upper bounds on E. Supplementary Fig.
+D2b illustrates the dependence of E on f in these two limits.
+a) b)
+F‐D
+F‐D and F‐D(cid:127)+
+Supplementary Figure D2. a, Simplified reaction scheme for magnetic field effects on
+intramolecular flavin + donor reactions. b, Dependence of the enhancement factor E on f = k /k
+D F
+for χ = 0.89%. The blue line gives the MFE on the ground‐state population. The dashed red line
+p
+gives the MFE on the total concentration of F irrespective of the oxidation state of the donor.
+The two calculations predict almost identical E when f> 2.
+NATURE CHEMISTRY | www.nature.com/naturechemistry 19 19
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 20 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+E. Flavin photochemistry
+Transient absorption
+Transient absorption spectra for the FMN/lysozyme and FMN/Trp reactions were obtained using a
+Sirah Cobra Dye laser (450 nm, 3 mJ, 7 ns pulses) pumped by a Nd:YAG Continuum Surelite laser (355
+nm, 100 mJ, 7 ns pulses). An Oriel xenon arc lamp (800 W) provided the continuous UV‐visible probe
+light. The probe light transmitted through the sample cell was passed to an Oriel monochromator to
+select a specific wavelength and then detected by a photo‐multiplier tube. The time‐resolved
+absorption profile, ΔA(t), was recorded as the difference in the absorption of the sample before and
+after photoexcitation, as a function of time after the pump pulse.
+The transient absorption spectra for FMN/lysozyme and FMN/Trp (Supplementary Fig. E1) show that
+the flavin triplet excited state, 3FMN*, and the neutral flavin semiquinone radical, FMNH, decay on
+the order of microseconds and seconds respectively, in agreement with prior studies.10, 11 A Stern‐
+Volmer plot for 3FMN* gave a 3FMN*Trp quenching rate constant of 1.2 × 109 M−1s−1 close to the
+diffusion controlled limit.
+a) 100 µM FMN + 0.5 mM lysozyme b)200 µM FMN + 1.0 mM Trp
+Supplementary Figure E1. Transient absorption spectra for a) FMN/lysozyme (triplet lifetime =
+2.15 ± 0.01 μs) and b) FMN/tryptophan (triplet lifetime = 0.62 ± 0.01 μs) in aqueous solution.
+Reactivity of flavin radicals
+A significant reaction pathway for the neutral flavin semiquinone radical is the thermodynamically
+favourable disproportionation reaction to form the fully oxidized and fully reduced forms of the
+flavin:
+2FH  FH F. (13)
+2
+The disproportionation and comproportionation reactions having rate constants: k = 5 × 108 M−1 s−1
+dis
+and k = 1 × 106 M−1 s−1 respectively.12, 13 Oxidation of the fully reduced flavin by activated oxygen
+com ,
+species such as hydrogen peroxide can recover the oxidized flavin:
+FH H O  F2H O . (14)
+2 2 2 2
+NATURE CHEMISTRY | www.nature.com/naturechemistry 20 20
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 21 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+Furthermore, there is a slow reaction pathway for the neutral semiquinone radical reacting with
+molecular oxygen12, 13with a rate constant k ≈ 1 × 104 M−1 s−1:
+O2
+FH·+ O  F + O·-+ H+ . (15)
+2 2
+However, oxidation of FH· radicals by the superoxide (O·- ) formed in (15),
+2
+FH·+ O·-+H+  F + H O , (16)
+2 2 2
+occurs much more rapidly (k ≈ 1 × 108 M−1 s−1), meaning that the two reactions together are
+O
+2
+
+autocatalytic.13
+The disproportionation and molecular oxygen reactions are obvious candidates for MFE‐enhancing
+termination processes in intermolecular photocycles. Both reactions proceed with a supra‐linear
+dependence on the concentration of flavin radicals resulting in a reduction in k /k , and hence also in
+D F
+E, when either the flavin concentration or the pump power is increased (see above and main text).
+Furthermore, the rate of reaction of flavin radicals with molecular oxygen is strongly dependent on
+their protonation state (pK (FMNH) = 8.6) and therefore on the pH. The equivalent reaction to (15)
+a
+for FMN has a rate constant, k ≈ 1 × 108 M−1 s−1, that is four orders of magnitude faster than for
+O2
+FMNH.12, 13 This allows E to be controlled by changing the pH of the solution.
+To confirm the involvement of molecular oxygen, experiments were performed on de‐oxygenated
+aqueous solutions of FMN (10 M) and tryptophan (1.0 mM) prepared in a glove box under an argon
+atmosphere (Supplementary Fig. E2). Consistent with the above interpretation, we found an
+increased amplification factor (E) in the absence of oxygen because of the reduced rate of removal
+of flavin radicals (k ). The absolute amplitude of the prompt magnetic field effect is also slightly
+F
+higher, probably due to a longer radical pair lifetime. De‐oxygenation has an impact at several points
+in the photocycle (unlike, for example, adding TCEP whose only significant effect is to accelerate the
+reduction of the donor radical). In the absence of oxygen, flavin triplets accumulate leading to
+triplet‐triplet annihilation (T + T  S + S ) and delayed fluorescence (S  S + h) which
+1 1 1 0 1 0 F
+complicates matters considerably. Additionally, in the absence of oxygen, the flavin radicals are very
+long lived meaning that there is a much greater depletion of the ground state reactants and
+consequently weak fluorescence from the desired route (S + h  S ; S  S + h). In short, the
+0 1 1 0 F
+presence of oxygen is desirable in the sense that it “closes” the photocycle and gives favourable
+cycle times.
+NATURE CHEMISTRY | www.nature.com/naturechemistry 21 21
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 22 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+Supplementary Figure E2. Fluorescence intensities of aqueous solutions of FMN (10 M) and
+tryptophan (1.0 mM) recorded under oxygenated and de‐oxygenated conditions.
+NATURE CHEMISTRY | www.nature.com/naturechemistry 22 22
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 23 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+F. Switched light intensity
+Corroboration of our interpretation of the MFE amplification effect was obtained from experiments
+in which the light intensity was periodically adjusted (in the absence of a magnetic field) as an
+alternative way of shifting the position of the photo‐stationary state (Supplementary Fig. F1a).
+Attenuation of the light intensity was achieved by square‐wave, on‐off modulation of the 350 mW
+laser output varying the duty cycle to obtain the reduced intensities (80%, 70%, 60%, 50% and 20%)
+shown in the figure. When the light intensity was abruptly reduced, a prompt fluorescence
+component was observed followed by a slow delayed component. This is reproduced by simulations
+(Supplementary Fig. F1b) with the same parameter values used previously (Supplementary Table
+C1).
+(a) (b)
+Supplementary Figure F1. (a) Fluorescence intensities of an aqueous solution of FMN (10 M) and
+lysozyme (0.5 mM) recorded using a 405 nm diode laser. The laser power (350 mW) was periodically
+attenuated by 20–80% after 1.0 s of irradiation and returned to 350 mW after a further 1.0 s. (b)
+Simulation of this experiment using k = 1 s1, k = 10.0 s1, k = 1.73  103 s1 and other parameter
+F D EX
+values as in Supplementary Table C1.
+NATURE CHEMISTRY | www.nature.com/naturechemistry 23 23
+©2016 Macmillan Publishers Limited. All rights reserved.
+
+--- Page 24 ---
+
+SUPPLEMENTARY INFORMATION
+DOI: 10.1038/NCHEM.2447
+Supplementary References
+1. Evans E. W., et al. Sensitive fluorescence‐based detection of magnetic field effects in
+photoreactions of flavins. Phys. Chem. Chem. Phys. 17, 18456‐18463 (2015).
+2. Courson D. S. & Rock R. S. Fast benchtop fabrication of laminar flow chambers for advanced
+microscopy techniques. Plos One 4, e6479 (2009).
+3. Dodson C. A., et al. Fluorescence‐detected magnetic field effects on radical pair reactions
+from femtolitre volumes. Chem. Commun. 51, 8023‐8026 (2015).
+4. Press W. H., Teukolsky S. A., Vetterling W. T. & Flannery B. P. Numerical Recipes 3rd edition:
+The Art of Scientific Computing. Cambridge University Press: Cambridge, 2007.
+5. Holzer W., et al. Photo‐induced degradation of some flavins in aqueous solution. Chem.
+Phys. 308, 69‐78 (2005).
+6. Murakami M., Maeda K. & Arai T. Dynamics of intramolecular electron transfer reaction of
+FAD studied by magnetic field effects on transient absorption spectra. J. Phys. Chem. A 109,
+5793‐5800 (2005).
+7. Losi A., Polverini E., Quest B. & Gartner W. First evidence for phototropin‐related blue‐light
+receptors in prokaryotes. Biophys. J. 82, 2627‐2634 (2002).
+8. Holzer W., Penzkofer A., Fuhrmann M. & Hegemann P. Spectroscopic characterization of
+flavin mononucleotide bound to the LOV1 domain of Phot1 from Chlamydomonas
+reinhardtii. Photochem. Photobiol. 75, 479‐487 (2002).
+9. Maeda K., et al. Magnetically sensitive light‐induced reactions in cryptochrome are
+consistent with its proposed role as a magnetoreceptor. Proc. Natl. Acad. Sci. USA 109, 4774‐
+4779 (2012).
+10. Miura T., Maeda K. & Arai T. Effect of coulomb interaction on the dynamics of the radical
+pair in the system of flavin mononucleotide and hen egg‐white lysozyme (HEWL) studied by
+a magnetic field effect. J. Phys. Chem. B 107, 6474‐6478 (2003).
+11. Tsentalovich Y. P., Lopez J. J., Hore P. J. & Sagdeev R. Z. Mechanisms of reactions of flavin
+mononucleotide triplet with aromatic amino acids. Spectrochim Acta A 58, 2043‐2050
+(2002).
+12. Massey V. Activation of molecular‐oxygen by flavins and flavoproteins. J. Biol. Chem. 269,
+22459‐22462 (1994).
+13. Vaish S. P. & Tollin G. Flash photolysis of flavins. V. Oxidation and disproportionation of
+flavin radicals. J. Bioenerg. 2, 61‐72 (1971).
+NATURE CHEMISTRY | www.nature.com/naturechemistry 24 24
+©2016 Macmillan Publishers Limited. All rights reserved.

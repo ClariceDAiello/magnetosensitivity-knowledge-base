@@ -1,0 +1,48 @@
+{
+  "paper_id": "BIOELECTROMAGNETISM",
+  "doi": "10.1201/9781003181354",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "History",
+    "Foundations and Applications"
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "7–6.\nBinder A, Parr G, Halzman B and Fitton-Jakson S (1984): Pulsed electromagnetic feld therapy of persis-\ntent rotator cuf tendinitis. A double-blind controlled assessment. Lancet 1 (8379): 695–698.\nBlackman VH (1924a): Field experiments in electro-culture. J Agri Sci 14:240–267.\nBlackman VH and Legg AT (1924b): Pot culture experiments with an electric discharge. J Agri Sci\n14:268–273.\nBoesch C (2003): Nobel prizes for nuclear magnetic resonance: 2003 and historical perspectives. J Mag\nResonan Imag 20:177–179.\nBriggs LJ, Campbell AB, Heald RH and Flint LH (1926): Electroculture. United States Department of\nAgriculture. Department Bulletin No.1379:1–38. U.S.Gov.Print.Ofce, Washington, DC.\nBurt JPH, Pethig R and Talary MS (1998): Microelectrode devices for manipulating and analyzing\nbioparticles. Trans Inst Meas Control. 20:82–90.\nBusch W (1866): Über den Einfuss welche hefigere Erysipeln zuweilig auf organisierte\nNeubildungenausben. Verhandlungen des Naturhistorischen Vereines der Pre",
+  "date_added": "2025-10-09T13:17:14.067892",
+  "last_modified": "2025-10-09T13:17:14.067894",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "Literature/BIOELECTROMAGNETISM.pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

@@ -1,0 +1,2967 @@
+
+
+--- Page 1 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+ANNUAL Further
+R EVIEWS
+Click here to view this article's
+online features:
+• Download figures as PPT slides The Radical-Pair Mechanism
+• Navigate linked references
+• Download citations
+• Explore related articles
+• Search keywords of Magnetoreception
+P. J. Hore1 and Henrik Mouritsen2,3
+1DepartmentofChemistry,UniversityofOxford,OxfordOX13QZ,UnitedKingdom;
+email:peter.hore@chem.ox.ac.uk
+2Institutfu¨rBiologieundUmweltwissenschaften,CarlvonOssietzkyUniversita¨tOldenburg,
+DE-26111Oldenburg,Germany;email:henrik.mouritsen@uni-oldenburg.de
+3ResearchCentreforNeurosensorySciences,UniversityofOldenburg,DE-26111Oldenburg,
+Germany
+Annu.Rev.Biophys.2016.45:299–344 Keywords
+FirstpublishedonlineasaReviewinAdvanceon magneticcompass,migratorybirds,cryptochrome,spinchemistry,
+May16,2016
+magnetic-fieldeffects,retina
+TheAnnualReviewofBiophysicsisonlineat
+biophys.annualreviews.org Abstract
+Thisarticle’sdoi: Althoughithasbeenknownforalmosthalfacenturythatmigratorybirdscan
+10.1146/annurev-biophys-032116-094545
+detectthedirectionoftheEarth’smagneticfield,theprimarysensorymecha-
+Copyright(cid:2)c 2016byAnnualReviews. nismbehindthisremarkablefeatisstillunclear.Theleadinghypothesiscen-
+Allrightsreserved
+tersonradicalpairs—magneticallysensitivechemicalintermediatesformed
+byphotoexcitationofcryptochromeproteinsintheretina.Ourprimaryaim
+hereistoexplainthechemicalandphysicalaspectsoftheradical-pairmech-
+anismtobiologistsandthebiologicalandchemicalaspectstophysicists.In
+doing so, we review the current state of knowledge on magnetoreception
+mechanisms. We dare to hope that this tutorial will stimulate new inter-
+disciplinaryexperimentalandtheoreticalworkthatwillshedmuch-needed
+additionallightonthisfascinatingprobleminsensorybiology.
+299
+
+--- Page 2 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+Contents
+INTRODUCTION............................................................... 300
+THERADICAL-PAIRMECHANISM............................................ 303
+Radicals,RadicalPairs,andElectronSpin........................................ 303
+HyperfineInteractions.......................................................... 304
+Singlet-TripletInterconversion................................................. 307
+Magnetic-FieldEffectsonRadicalPairs.......................................... 309
+Magnetic-FieldEffectsontheProductsofRadical-PairReactions................. 309
+SpinRelaxation................................................................. 313
+CRYPTOCHROMES—THEPROPOSEDMAGNETIC
+SENSORYMOLECULES..................................................... 314
+Magnetic-FieldEffectsonCryptochromes....................................... 314
+EvidencefortheInvolvementofCryptochromes................................. 317
+AlignmentandImmobilizationofCryptochromes................................ 317
+StructuralandKineticAspectsofCryptochromes................................ 319
+BIOLOGICALASPECTSOFMAGNETICSENSING........................... 319
+Signaling....................................................................... 319
+Neuroanatomy................................................................. 320
+NeuronalProcessingandPerception—SeparationofLight-IntensityChangesand
+MagneticInformation....................................................... 322
+HowMuchLightIsNeededforLight-DependentMagnetoreception?............ 323
+VisualModulationPatterns..................................................... 327
+TIME-DEPENDENTMAGNETICFIELDS..................................... 327
+EffectsofTime-DependentMagneticFields..................................... 327
+EffectsattheLarmorFrequency................................................ 327
+EffectsofBroadbandElectromagneticNoise..................................... 331
+THEORETICALCONSIDERATIONS.......................................... 331
+Entanglement.................................................................. 331
+CompassPrecision............................................................. 332
+RealisticRadicals............................................................... 333
+CONCLUSIONS................................................................. 333
+INTRODUCTION
+TheEarth’smagneticfieldoffersdirectionalandpositionalinformationthatanimalscanusefor
+thepurposesofnavigationandorientation.Migratorybirdsdetectthedirectionofthefieldand
+useitasinputtoamagnetic-compasssense(32,134,204,205,208),whichreliesontheinclination
+ratherthanthepolarityofthefield(204,208).Thecombinationofaninheritedmigratorydirection
+(13)andacompasssenseisenoughtoenableayoungbirdonitsfirstautumnmigrationtofindits
+way,forexample,fromnorthernEuropetoAfrica(13,78,130,131,140,155).However,tolocate
+thesamebreedingandwinteringsiteyearafteryear,asadultbirdsdo(131),truenavigation,which
+requiresnotonlyacompassbutalsoamap,isneeded(117,131,159).Themapsenseisclearly
+multifactorial(55,62,137),anddifferentcuesmightbeusedduringdifferentstagesofahomingtask
+(54,55,62,137).However,magneticinformationcouldbeausefulpartofamapsense,especially
+over larger distances, and there is a growing body of evidence that night-migratory songbirds
+·
+300 Hore Mouritsen
+
+--- Page 3 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+candeterminetheirapproximatepositiononEarthusinggeomagneticinformation(52,97–99).
+Thus,thebehavioralresponsesofnight-migratorybirdstogeomagneticcuesarereasonablywell
+known,andmanybirdsseemtohavebothamagneticcompassandamagneticmap(99,134,204,
+215).Incontrast,understandingtheunderlyingbiophysicalmechanismsremainsoneofthemost
+significantunsolvedproblemsinsensorybiology.
+Wecanexpecttheavianmagneticmapandcompasssensestohavemutuallydistinctproper-
+tiesandmechanismsinthesamewaythathuman-madedevicesformeasuringtheintensityand
+for detecting the direction of a magnetic field usually rely on different principles and different
+technology.Ingeneral,adirectionsensorneednotrespondtomagneticintensityandviceversa.
+Asweshallsee,theleadinghypothesisforgeomagneticsensing,onwhichwefocushere,involves
+magneticallysensitivechemicalintermediatesknownasradicalpairs,andinbirds,thismechanism
+seems to form the basis of the magnetic-compass sense. The only other contender, which we
+discussinAppendix1,isbasedonmagneticiron-containingnanoparticles.Ifitexistsinbirds,this
+mechanismprobablyformsthebasisofthemagnetic-mapsense.
+Thenotionthatradicalpairscouldbeinvolvedinthemagnetic-compasssenseofmigratory
+birds and other animals dates back to 1978. Schulten et al. (174) imagined the primary event
+to be a magnetically sensitive photochemical transformation with a radical pair as a transient
+reaction intermediate, in what has proven to be a remarkably far-sighted proposal. If the yield
+oftheproductsofthechemicalreactiondependsonthedirectionofthegeomagneticfieldwith
+respecttothereactantmolecules,thenonehasthebasisofacompasssensor(Figure1).Given
+thetransparencyofbiologicaltissuetostaticandlow-frequencymagneticfieldsandtheabsence
+ofanyobviousmagnetosensoryorgan,thisprocesscould,inprinciple,occuralmostanywherein
+abird’sbody,althoughtheeyeisthemostobviouslocationforalight-dependentdetector.
+Atfirstsight,aradical-paircompassseemsimplausible:TheinteractionoftheEarth’smagnetic
+field(30–65μT)withasinglemoleculeismorethanamilliontimessmallerthanitsthermalenergy,
+k T, under physiological conditions. k T (Boltzmann’s constant multiplied by temperature) is
+B B
+theenergyassociatedwiththeever-presentrandommotionsofmoleculesastheybumpintoone
+another, rotate, and vibrate. Normally, a significant impact on the rate or yield of a chemical
+transformationisimpossibleunlessanamountofenergythatisatleastcomparabletotheenergy
+associatedwiththesemotionsissupplied.Figure2mayhelptoelucidatewhyradical-pairreactions
+aredifferentinthisrespect(seealsoAppendix2).Imaginewehaveaheavystoneblock,andask
+whetheraflywouldbeabletotipitoverbybumpingintoit(Figure2a).Theanswer,obviously,
+isno.Butsupposewehavesuppliedtheenergynecessarytopoisethestoneonitsedge:Clearly,
+itwouldnotbestableandwouldtendtofalltotheleftortherightiflefttoitsowndevices.But
+whatifaflylandedonitsright-handsidewhiletheblockisteeteringinthisway(Figure 2b)?
+Eventhoughtheenergyimpartedbytheflywouldbeminute,itcouldbeenoughtocausethe
+blocktofalltotherightratherthantheleft.Tinyinteractionscanhaveprofoundeffectsbutonly
+ifthesystemhaspreviouslybeenbroughtintoanappropriatestatefarfromequilibrium.Inthe
+presentcontext,thenonequilibriumstateistheradicalpair,andtheenergyrequiredtoreachthat
+statecomesfromaphotonoflight.1
+Nevertheless,formorethantwodecades,Schultenetal.’sproposalwasregardedasaninterest-
+ingcuriositypartly,wesuspect,becausebiologistsweredauntedbythemathematicalpresentation
+ofthe1978article(174).However,thereweretwokeydevelopmentsduringthistime.First,be-
+havioralexperimentssuggestedthatthemagneticcompassofbirds(206)andnewts(156)isindeed
+1Inthehopeofmakingthetextaccessibletoabroadaudience,weoccasionallyoversimplifyargumentsandglossover
+complications.Insuchcases,afootnoteoftenpointsthewaytoamoreprecisedescription.
+www.annualreviews.org • Radical-PairMagnetoreception 301
+
+--- Page 4 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+a b
+N
+N
+Radical
+pairs
+Radical
+pairs
+Reactant molecule Product molecule
+Figure1
+Theprincipleofaradical-paircompass.Reactantmolecules(blue)arephotochemicallyconvertedinto
+productmolecules(red).Thistransformationoccursviaradical-pairintermediates,whichcaneitherproceed
+forwardtotheproducts(redarrows)orreturntothereactants(bluearrows).Thereactantsandthereforethe
+radicalpairsarealignedrelativetooneanotherandorientedwithinthebird’seyesothattheyexperiencea
+changeinthedirectionoftheEarth’smagneticfieldwhenthebirdmovesitshead.Ifthischangeistoform
+thebasisofamagneticcompass,itmustaffecttheprobabilitythattheradicalpairsproceedalongtheredand
+bluepathways.Thefigureshows,schematically,thecaseinwhichmoreefficientconversionofreactantsto
+productsoccurswhenthebird’sheadis(a)alignedwiththenorth–southaxisthanwhenitis(b)alignedwith
+theeast–westaxis.
+lightdependent,supportingtheideathatmagnetoreceptioncouldbebasedonaphotochemical
+reaction. Second, the radical-pair mechanism—in its infancy in the 1970s—came of age (144,
+171, 184). There are now hundreds of laboratory studies of (mostly organic) radical reactions
+onwhichrelativelymodestmagneticfields(1–100mT)havebeenshowntohaveaneffect(167,
+184,211).Theoryandexperimenthaveadvancedinparalleltotheextentthatmanyexperimental
+observationscannowbeinterpretedquantitativelyintermsofthephysicsandchemistryofthe
+radicals.Inaddition,thereareseveralotherwell-establishedradical-pairphenomenathatsharethe
+samephysicalandchemicalprinciples(23,49,60).2Theradical-pairmechanismisunquestionably
+genuine.Whatisnotyetproveniswhetheritliesattheheartofavianmagnetoreception.
+In2000,Schulten’ssuggestionchangedovernightfrominterestingcuriositytointriguingpos-
+sibilitywhenhe,Adem,andRitzwroteanarticle(162)thatbothmadethe1978proposalacces-
+sibletobiologistsandsuggestedaspecificmoleculeinwhichappropriateradicalpairsmightbe
+formed.Thismolecule,aproteincalledcryptochrome(1,30),remainstothisdaytheonlycan-
+didateradical-pairmagnetoreceptor(37,115,138).Noothervertebratephotoreceptormolecule
+appearstoformradicalpairswhenexcitedbylight.Opsins,thevisualreceptorproteins,uselight
+energyforadifferentpurpose—toisomerizeretinal—withouttheinvolvementofradicals(17).
+2Chemicallyinduceddynamicelectronandnuclearpolarization,andthemagneticisotopeeffect.
+·
+302 Hore Mouritsen
+
+--- Page 5 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+a b
+Energy
+Reactants Radical pair Products
+Figure2
+Theradical-pairmechanism—ananalogy.Insightintowhytheoutcomeofaradical-pairreactioncanbe
+significantlyaffectedbyextremelysmallmagneticinteractionscanbeobtainedfromthismechanicalanalogy.
+(a)Aflybumpingintothesideofaheavyblockofstonewouldhaveanegligibleprobabilityoftippingit
+over.(b)However,ifthestoneisfirstpreparedinahighlynonequilibriumstate(bluearrow),thetinyamount
+ofenergyimpartedbytheinsectcouldprofoundlyalterthechancethatitfallsforwardratherthanreverting
+toitsinitialposition(greenarrows).AdaptedfromReference79withpermission.
+Chlorophylls,theonlyotherbiomoleculesknowntoformphotoinducedradicalpairsinvivo[in
+theprimarystepsofphotosyntheticchargeseparation(125)],donotoccurinbirds.
+Inthefollowingpages,weexplainthephysicalandchemicalbasisoftheradical-pairmechanism,
+concentratingonthepropertiesrequiredtodetectthedirectionoftheEarth’smagneticfield.This
+isfollowedbyadiscussionofphotoinducedradicalpairsincryptochromesandasummaryofthe
+evidence for their involvement in compass magnetoreception. We then examine some of the
+biologicalrequirementsformagnetic-compasssensinganddiscusstheeffectsoftime-dependent
+magnetic fields,which have been usedas a behavioral testfor the involvement ofradical pairs.
+Weendwithsometheoreticalconsiderationsandabriefreviewofthemagnetitehypothesisof
+magnetoreception.
+THERADICAL-PAIRMECHANISM
+Radicals,RadicalPairs,andElectronSpin
+Aradicalisamoleculethatcontainsanoddnumberofelectrons.Aradicalpairconsistsoftwo
+radicalsthathavebeencreatedsimultaneously,usuallybyachemicalreaction.Forexample,con-
+sidermethane(CH ),amoleculeinwhichacarbonatomisbondedtofourhydrogenatomsin
+4
+atetrahedralarrangement.Ithasatotaloftenelectrons,sixcontributedbythecarbonandone
+fromeachofthehydrogens.Twooftheelectronssurroundthecarbonnucleus;theothereight
+areinvolvedinformingthecarbon-hydrogenbonds,twoelectronsperbond.Ifoneofthebondsis
+brokeninsuchawaythatbothoftheresultingfragmentsareuncharged,theresultisaradicalpair
+composedofamethylradical,CH • ,andahydrogenradical,H•,otherwiseknownasahydrogen
+3
+atom.Thedotsindicatetheoddelectrons,oneperradical.
+www.annualreviews.org • Radical-PairMagnetoreception 303
+
+--- Page 6 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+Radicalsaremagneticbecausetheelectron(incommonwiththeprotonandtheneutron)has
+apropertyknownasspinor,moreaccurately,spinangularmomentum.Envisagingtheelectron
+as asmall sphericalobject spinningaroundits axis, likea miniatureplanet, is tempting.As the
+electronischargedandmoving,onecouldimaginethatitwouldgenerateamagneticfieldjust
+likeanelectricalcurrentinaloopofwire.However,spinisaquantummechanicalproperty,and
+quantumobjectsdonotbehaveclassically.Spinisbestregardedasanattributethatsomeparticles
+haveandsomedonot,likemassorcharge.3
+Tosumup,theelectronisamicroscopicmagnet:Itpossessesamagneticmoment.Regarding
+• theCH radicalwithitsnineelectrons,eightarepresentinpairssuchthattheirmagneticmoments
+3
+exactlycancel.Themagnetismoftheradicalthereforestemsfromtheninth,unpaired,electron.
+In the same way, H• is magnetic because of its unique electron. The magnitude of the spin
+angularmomentumofaquantumobjectisdeterminedbyitsspinquantumnumber,S.Forthe
+electron,S=1/2.Quantummechanicsstipulatesthataradicalpair(e.g.,[CH • H•])canhavea
+3
+spinquantumnumberofonly0or1.Roughlyspeaking,thespinsofthetwounpairedelectrons
+canbeeitherparalleltooneanother(↑↑,givingS=1)orantiparallel(↑↓,givingS=0).There
+arethreewaysinwhichScanequal1butonlyonewayinwhichtheradicalpaircanhavenonet
+spin.4Thetwoformsoftheradicalpairarethereforeknownastriplet(S=1)andsinglet(S=0).
+Inthisrespect,radicalsandradicalpairsdifferfrommostmolecules—referredtoasclosedshell
+molecules—whichhaveonlypairedelectronsandcanthereforeonlybesinglets.
+Breakingachemicalbondinsuchawaythatthetwoelectronsendupindifferentmolecular
+fragmentsisnottheonlywayradicalpairscanbeformed.Acommonalternativeiselectrontrans-
+fer,inwhichanelectronispassedfromoneclosedshellmoleculetoanother:A+B→[A•+B•−].
+Animportantfeatureofsuchreactionsoforganicmoleculesisthattheyusuallyconservespin.5
+BecauseAandBaresinglets,theradicalpair[A•+B•−]mustbeformedinasingletstate.Thesame
+goesforCH →[CH • H•].Theformationofradicalpairsissaidtobespinselective.Similarly,
+4 3
+thereverseprocess,[A•+B•−] → A+B,cannotoccurfortripletradicalpairs.Conservationof
+electronspininradical-pairreactionsisafundamentalrequirementforachemicalmagnetic-field
+effect.
+HyperfineInteractions
+Two additional properties of radical pairs are discussed here and in the following subsection.
+Almost all radicals have internal magnetic interactions, known as hyperfine interactions. Many
+atomic nuclei have spin (a consequence of the spins of their protons and neutrons) and there-
+fore magnetic moments that can interact with an unpaired electron. Normally, only the nu-
+clei of isotopes that have even numbers of protons and neutrons (e.g., 12C, 16O, and 32S) have
+no spin (Table 1). Some others (e.g., 13C, 15N, and 17O) containing odd numbers of protons
+3Classicalarguments,analogies,andpicturesareusedtoshedlightonquantumbehavior.Althoughwehopethesewillbe
+helpful,theyshouldnotbetakentooliterally.ElectronandnuclearspinsdonotobeyNewtonianmechanics,oftenbehave
+counterintuitively,andcanonlyaccuratelybedescribedmathematically,usingquantummechanics.Thereadershouldbear
+inmindthatmanyofthe“hand-waving”explanationsweofferherecanleadtopredictionsthataremisleading,confusing,or
+justplainwrong.
+4Ingeneral,thereare2S+1waysanobjectcanhavespinquantumnumberS.Intheabsenceofamagneticfield,theyallhave
+thesameenergyandcorrespond(roughly)to2S+1differentprojectionsofavectorrepresentingthespinangularmomentum
+ontothesamearbitraryaxis.
+5Spinisconservedinachemicaltransformationwhenthemagneticmomentarisingfromelectronspininteractsweaklywith
+themagneticfieldgeneratedbytheorbitalmotionoftheelectronwithintheradical.Thisinteraction,knownasspin-orbit
+coupling,isusuallysmallunlesstheradicalshavehighsymmetry(e.g.,linear)orcontainheavy(e.g.,transitionmetal)atoms.
+·
+304 Hore Mouritsen
+
+--- Page 7 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+Table1 Magneticpropertiesofisotopesofelementscommonlyfoundinorganicradicals
+Natural Numberof Numberof Magnetic
+Element Isotope abundance protons neutrons field(mT)
+Hydrogen 1H 99.985% 1 0 2.44
+2H 0.015% 1 1 0.61
+Carbon 12C 98.892% 6 6 0.00
+13C 1.108% 6 7 0.61
+Nitrogen 14N 99.63% 7 7 0.29
+15N 0.37% 7 8 0.25
+Oxygen 16O 99.8% 8 8 0.00
+17O 0.037% 8 9 1.13
+Phosphorus 31P 100.0% 15 16 0.99
+Sulfur 32S 95.02% 16 16 0.00
+33S 0.75% 16 17 0.42
+34S 4.21% 16 18 0.00
+Redandblueshadingindicateselementsforwhichthemostcommonisotopedoesanddoesnot,respectively,leadto
+hyperfineinteractions.Thefinalcolumngives,foreachnuclide,thedipolarmagneticfield(inmT)itgeneratesatadistance
+of0.1nm.
+orneutronsorboth,dohavemagneticmomentsbuthavesuchlownaturalisotopicabundance
+(1.1%,0.37%,and0.04%,respectively)thattheycannormallybeignored.Thetwomostimpor-
+tantmagneticisotopesinthepresentcontextare1H(1proton)and14N(7protonsand7neutrons):
+Both are common in organic radicals and both have close to 100% natural abundance
+(Table1).
+As we shall see, Earth-strength magnetic fields cannot significantly affect a radical-pair re-
+action if there are no hyperfine interactions in either radical.6 This is not a serious constraint:
+Almostevery biologically relevant radical has one or more hydrogen and/or nitrogen atoms in
+theneighborhoodoftheunpairedelectron.7Itisimportanttorealizethattheunpairedelectron
+in a radical usually interacts with several nuclei simultaneously, partly because it is delocalized
+(i.e.,spreadoutoveraportionofthemolecule)andpartlybecauseelectron-nucleardipolarin-
+teractions can be significant at distances of up to ∼0.5 nm. For example, Figure 3b shows the
+formofthemolecularorbitalsthatcontaintheunpairedelectronsintheflavinandtryptophan
+radicals (Figure 3a) formed by photoinduced electron transfer in cryptochromes (see below).
+The unpaired electron has a significant probability of being near almost all of the carbon and
+nitrogenatomsthatmakeupthearomaticisoalloxazineandindolegroupsoftheflavinandtryp-
+tophan radicals. The 1H and 14N hyperfine interactions in the two radicals are represented in
+Figure3cassurfacescenteredoneachofthehydrogenandnitrogenatoms:Thelargerandless
+sphericalthesurface,thestrongerandmoreanisotropic8 thehyperfineinteraction.Onemight
+expect the hyperfine interactions of the nitrogens to be smaller than those of the hydrogens
+6Atleastonehyperfineinteractionisnecessarytobreakthesymmetrybetweenthetwoelectronspins.
+7Oneexception,superoxide(O•−),areducedformofdioxygen,isdiscussedbelow.
+2
+8Theanisotropyofthehyperfineinteractions,asdiscussedbelow,isthesourceofthedirectionalinformationavailablefrom
+aradical-pairreaction.
+www.annualreviews.org • Radical-PairMagnetoreception 305
+
+--- Page 8 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+Flavin Tryptophan
+O H O
+a
+N
+R′ N
+H H
+NH
+R NH
+N N O
+OH
+H N
+H H
+R''
+b
+c
+×1/2
+Figure3
+Molecularorbitalsandhyperfineinteractionsinflavinandtryptophanradicals.(a)Structuresofflavin
+adeninedinucleotide(FAD)andtryptophan.Intheformer,R(cid:6)(cid:6)denotestheadenosinediphosphategroup
+andtherestoftheribitylchain.Inthelatter,RandR(cid:6)denotethepeptidechainsthatflankatryptophan
+residueinaprotein.(b)Representationsofthemolecularorbitalsthatcontaintheunpairedelectronina
+flavinanionradicalandatryptophancationradical.Blueandorangeindicatepartsofthewavefunctionwith
+oppositesigns.Inbothcases,theelectronisdistributed(unevenly)overthewholeofthearomaticpartofthe
+radical.ThesidechaininFADwasreplacedbyamethylgroupandthetryptophanwasmodeledasthefree
+aminoacidforthepurposeofthecalculation.(c)Representationsofthehyperfineinteractionsofthe
+hydrogenandnitrogennucleiinaflavinanionradicalandatryptophancationradical.Theinteractionof
+eachnucleuswiththeelectronspinisshownasasurfaceplotcenteredontheatom.Thedistancefromthe
+atomtoitssurfaceinanydirectionisproportionaltothestrengthofthemagneticinteractioninthat
+direction.Blueandgreenindicate,respectively,positiveandnegativevaluesofthehyperfineinteraction.
+Thelargehyperfineinteractionofoneoftheβ-protonsofthetryptophanradicalhasbeenscaleddownby
+50%.Nucleiwithalmostisotropichyperfineinteractionshavenear-sphericalsurfaces.Thecalculationsin
+panelsbandcwereperformedinGaussian03(53)usingdensityfunctionaltheory(166).
+becausethemagneticmomentof14Nisknownexperimentallytobeapproximatelyeighttimes
+smallerthanthatof1H(Table1).However,theelectron-spindensityclosetoanitrogenatom
+canbemuchgreaterthanintheimmediatevicinityofahydrogen,hencethelargehyperfinein-
+teractionofoneofthenitrogensinthecentralringoftheflavin(Figure3c).Togiveanideaofthe
+magnitudeoftypicalhyperfineinteractions,wehaveincludedinTable1valuesofthemagnetic
+·
+306 Hore Mouritsen
+
+--- Page 9 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+field produced by different nuclei at a distance of 0.1 nm (roughly the length of a C−H or
+N−Hbond).9
+Some quantitative aspects of the energies, frequencies, and magnetic fields involved in the
+radical-pairmechanismaresummarizedinAppendix2.
+Singlet-TripletInterconversion
+Theotherimportantpropertyofradicalpairsisthatsingletsandtripletsarerarelystationarystates.
+Whenaradicalpairiscreatedasasinglet—forexample,byelectrontransfer—itdoesnotremain
+asingletforlong.AsillustratedinFigure4a,thefractionofradicalpairsinthesingletstate10(and
+therefore,also,thefractioninthetripletstate)oscillatesinacomplexfashionatfrequencies—
+typicallyseveralmegahertz—determinedbythestrengthsofthehyperfineinteractions.Ifthere
+werenohyperfineinteractions,therewouldbenooscillations,theradicalpairwouldremainin
+thesingletstate,andtherewouldbenoeffectofanexternalmagneticfield.11Roughlyspeaking,
+thesuddencreationofaradicalpairinanonequilibriumstate(e.g.,thesingletstate)islikehitting
+apianowithahammer.Thepianowires,eachtunedtoadifferentfrequency,starttovibrate,and
+onehearsacacophonyofsuperimposedfrequencies.Afterafewseconds,however,thevibrations
+dieaway,andpeaceisrestored.Asweshallsee,thisapproachtoequilibriumhasanimportant
+parallelinthebehaviorofradicalpairs.
+The oscillations in Figure 4a are actually a manifestation of the quantum mechanical spin
+coherencewithwhichthesingletradicalpairisformed.Asweshallsee,coherenceplaysacrucial
+roleintheoperationofthemagneticcompass.InFigure5,weattempttogiveanideaofwhat
+coherencemeansinthiscontext.Whenthesystemisinasingletstate(Figure5a),thetwospins
+areexactlyantiparalleltooneanothersothatthetotalspinofthiscollectionofradicalpairsis
+zero,asappropriateforastatewithS=0.Althoughtherelativeorientationofthespinswithin
+eachpairisexactlydetermined,allspatialorientationsofthespinpairsareequallylikely.
+The situation is slightly more complicated for a triplet state (Figure 5b). The two spins in
+each pair are now correlated such that they tend to point in a similar direction, but they are
+not constrained to be exactly parallel. The spin angular momentum averaged over all radical
+pairs is that appropriate for a state with S=1.12 Once again, the spin pairs have no preferred
+orientationinspace.Finally,Figure 5cshowsthenoncoherentequilibriumstate.Nowthereis
+nospincorrelation,andthedirectionsofthetwospinsineachpairarecompletelyunrelated.
+Thesinglet-tripletoscillationsshowninFigure4areflecttheperiodicchangesintherelative
+orientationofthetwoelectronspinsbroughtaboutbytheirhyperfineinteractionswithmagnetic
+nuclei. As we shall see, the rate at which the coherence/correlation is lost is a vital factor in
+9Therearetwocontributionstoeveryhyperfineinteraction.Onedependsontheprobabilitythattheelectronexistsatthe
+positionofthenucleus(thecontactinteraction).Theother(thedipolarinteraction)isanaverageoverthedistributionofthe
+unpairedelectroninthemoleculeweightedby1/R3,whereRisthedistancefromthenucleus.
+10Intheabsenceofchemicalreactionsthatremoveradicalpairs,thesingletandtripletfractionsaredefinedsuchthatthey
+sumto1.0atalltimes.
+11Thisisnotstrictlytrue.Thedifferenceintheinteractionofthetwoelectronswithanexternalmagneticfieldcandrive
+singlet-tripletinterconversion.FororganicradicalssubjecttoEarth-strengthmagneticfields,thiseffect—the(cid:2)gmechanism—
+isnormallynegligible.SeeAppendix2.
+(cid:2)
+12TheaveragespinangularmomentumofaparticlewithspinquantumnumberSis S(S+1)(cid:2),where(cid:2)√isPlanck’sconstant
+(h)dividedby2π.Thus,acollectionoftripletradicalpairshasonaverageaspinangularmomentumof 2(cid:2).Thisallowsus
+toseewhy,foratripletstate,thetwospinscannotsimplyalwaysbeparallel.BecauseeachelectronhasS= 1,andtherefore
+√ √ 2
+angularmomentum
+2
+3(cid:2),thee√xactlyparallelarrangementwouldgiveatotalangularmomentumof 3(cid:2),whichisclearly
+inconsistentwithanaverageof 2(cid:2).
+www.annualreviews.org • Radical-PairMagnetoreception 307
+
+--- Page 10 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+a 1.00
+0.50 Zero field
+0.00
+0.0 0.5 1.0 1.5 2.0
+b
+o n 1.00
+cti
+a
+et
+f r 0.50 50 μT
+gl
+n Si 0.00
+0.0 0.5 1.0 1.5 2.0
+c
+1.00
+0.50 50 μT
+0.00
+0.0 0.5 1.0 1.5 2.0
+Time (µs)
+Figure4
+Interconversionofthesingletandtripletstatesofasimpleradicalpair.Thefractionofradicalpairsinthe
+singletstateisplottedasafunctionoftime(0≤t≤2μs)startingwithasingletstateatt=0.(a)Inthe
+absenceofanexternalmagneticfield.(b)Inthepresenceofaweak(50-μT)externalmagneticfield.(c)As
+panelbbutwiththemagneticfieldrotatedby90◦.Thismodelradicalpaircontainstwonitrogenatoms
+(14N)inoneoftheradicalswithanisotropic(directionallydependent)hyperfineinteractions(∼1mT).
+Chemicalreactionsoftheradicalsandspinrelaxationoftheelectronsarenotincluded.
+a b c
+Singlet Triplet Equilibrium
+Figure5
+Electron-spincorrelation.Eachofthethreepanelsshows16radicalpairs.Thegraydisksrepresenttheunpairedelectrons,oneoneach
+radical,andtheredarrowsrepresenttheirspins.(a)Asingletstateinwhichthetwospinsineachpairareperfectlyanticorrelated.(b)A
+tripletstateinwhichthetwospinsarecorrelated.(c)Theequilibriumstateinwhichthetwospinsarecompletelyuncorrelated.
+·
+308 Hore Mouritsen
+
+--- Page 11 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+determiningtheresponseoftheradicalpairtoanexternalmagneticfield.Butfirst,weneedtosee
+howthegraphinFigure4achangeswhenanexternalmagneticfieldisswitchedon.
+Magnetic-FieldEffectsonRadicalPairs
+Giventhatsinglet-tripletinterconversion(e.g.,Figure4a)isdrivenbytheinternalmagneticfields
+producedbynuclearspins,itshouldnotcomeasasurprisethatexternallyappliedmagneticfields
+also affect the spin dynamics. The interaction of an isolated electron spin and a magnetic field
+(the Zeeman interaction; see Appendix 2) causes the direction of the magnetic moment of the
+electrontooscillate.Thefrequencyofthismotion—theLarmorfrequency—isproportionalto
+thefieldstrengthwithaconversionfactorof28kHzpermicrotesla(seeAppendix2).Thus,for
+anEarth-strengthfield(e.g.,50μT),thefrequencyis1.4MHz.
+Figure4bshowsthesingletfractionforthesameradicalpairasinFigure4abutnowinthe
+presenceofa50-μTmagneticfield.Thefastoscillationscausedbythehyperfinefieldsarestill
+visiblebutarenowsuperimposedonaslowermodulationwithaperiodof ∼700ns,corresponding
+to the 1.4-MHz Larmor frequency. The difference in the oscillation frequencies produced by
+the two interactions reflects their relative strengths: 50 μT for the external magnetic field and
+∼1,000μT(inthiscase)forthehyperfineinteractions.Notethattheexternalfielddoesnothave
+tobelargerthan,orevencomparableto,theinternalhyperfinefieldstohaveasignificanteffect
+onthesingletfraction.
+Thenextstageintheargumentistorecognizethattheeffectoftheexternalmagneticfieldde-
+pendsonitsdirectionwithrespecttotheradicals.Thisisbecausealmostallhyperfineinteractions
+areanisotropic(Figure3c),usuallyasaresultofthelowsymmetryofthemolecularorbitalsthat
+containtheunpairedelectron.Onlyiftheprobabilityoffindingtheelectronintheimmediate
+vicinityofthenucleusisthesameinalldirections(asinahydrogenatom,forexample)willthe
+hyperfineinteractionbeisotropic.Figure4cshowsthesingletfractionrecalculatedwiththemag-
+neticfieldrotatedby90◦.Thefastandslowoscillations,comingfromthehyperfineandZeeman
+interactions, respectively, are still present but the details have changed because the hyperfine
+interactionsareanisotropic.Thisanisotropyiswhatallowstheradicalpairtoformthebasisof
+amagnetic-direction(compass)sensorratherthansimplyamagnetic-intensitysensor.Table 2
+lists a few of the hyperfine interactions in photoinduced radicals that have been implicated in
+magnetic-fieldeffectsoncryptochrome.
+Magnetic-FieldEffectsontheProductsofRadical-PairReactions
+TounderstandhowthebehaviorshowninFigure4b,ccouldformthebasisofachemicalcom-
+pass, consider the reaction scheme in Figure 6a. We imagine a radical pair [A•+B•−] formed
+instantaneously in a singlet state by a photoinduced electron transfer between two closed shell
+molecules,AandB,ortwopartsofthesameclosedshellmolecule.[A•+B•−]isenvisagedashaving
+twocompetingreactionpathways.Thefirstisreverseelectrontransferwithinthesingletradical
+pair,aprocessthatregeneratesthereactantsAandB.Thecorrespondingreactionofthetriplet
+stateisspinforbiddenanddoesnotoccur.Thesecondistheconversionofbothsingletandtriplet
+statesof[A•+B•−]toformaproductC.Thisstepisassumedtoinvolveonlyoneoftheradicals
+andtoproceedwiththesamerateconstantforsingletsandtriplets.Anexampleofsuchareaction
+wouldbetheadditionofahydrogeniontooneoftheradicals(e.g.,B•−+H+→BH • ).Because
+thetwoelectronspinsinteractveryweakly,thereisnoreasonwhytheprotonationrateofB•−
+shoulddependonwhethertheelectronspinsofA•+ andB•− areparallelorantiparallel.While
+www.annualreviews.org • Radical-PairMagnetoreception 309
+
+--- Page 12 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+•− •+
+Table2 SelectedhyperfineinteractionparametersfortheFAD andTrpH radicals
+•− •+
+FAD TrpH
+Nucleus Aq(mT) Nucleus Aq(mT)
+N5 1.757 N1 1.081
+−0.087 −0.053
+−0.100 −0.064
+N10 0.605 H1 −0.007
+−0.014 −0.705
+−0.024 −1.083
+H6 −0.198 H4 −0.188
+−0.434 −0.536
+−0.530 −0.740
+Thetabulatedvalues(Aq,q=x,y,z)foreachnucleusgivetheprincipalvaluesofitshyperfinetensor.Notethatmanyof
+theseinteractionsarestrongerthanthegeomagneticfieldstrength(0.05mT)andthatthereareanother8–10nuclearspins
+ineachradicalwithsignificanthyperfineinteractions.Thesmall,butnonzero,valuesoftwoofthethreehyperfine
+componentsofthetwonitrogens,N5andN10(inthecentralringoftheflavinringsystem),arepartlyresponsibleforthe
+favorablepropertiesofthisradicalasacompassmagnetoreceptor(74,108).
+CalculatedbyIlyaKuprov,DepartmentofChemistry,UniversityofSouthampton(166)usingdensityfunctionaltheoryin
+Gaussian03(53).
+thesereactionsproceed,theremaining[A•+B•−]pairsoscillatecoherentlybetweentheirsinglet
+andtripletstates(Figure6a).
+Therearethustwocompetingpathwaysfortheremovalof[A•+B•−]:fromthesingletstate
+withrateconstantk ,andfromthesingletandtripletstateswithrateconstantk (Figure 6a).
+S C
+The proportions of radical pairs that go back to AB or forward to C depend not only on the
+two rate constants but also on the extent and frequency of the singlet-triplet interconversion.
+If the Zeeman interaction with the external field increases the average triplet fraction (with a
+correspondingdecreaseinthesingletfraction),thenmoreradicalpairswillreacttoformCand
+fewerwillreverttoAB(becauseonlythesingletcangobacktothereactants).Theultimateyield
+ofConceallradicalpairshavereactedthereforedependsonthepresenceanddirectionofthe
+externalmagneticfield.Thisistheoriginofthemagnetic-fieldeffect.Althoughtheoscillationsin
+thespinstateoftheradicalpairarecrucialfortheexistenceofthemagnetic-fieldeffect,itisthe
+finalyieldoftheproductC,onceallradicalpairshavedisappeared,thatwouldprovidethebird
+withinformationaboutthedirectionofthemagneticfield.Figure6bmayhelptoelucidatethe
+importanceofcompetingreactionpathways.
+Tomakethismoreconcrete,wepresentthesimulationsinFigure7.Eachofthefourpanels
+containsthreetraces.Oneisthesingletfraction,asinFigure4,forinfinitelylong-livedradicals.
+ThesecondisthesamesingletfractionbutnowwiththereactionsshowninFigure6aincluded.
+The result is to cause the singlet fraction to decay toward zero as the radical pairs disappear
+alongthetwocompetingpathways.Thethirdtraceineachpanelshowsthebuildupofthereaction
+product,C.AsinFigure4,thecalculationswereperformedfortwoorthogonaldirectionsofa
+50-μTmagneticfield.InFigure7a,b,thereactionstepsareslow,sothattheradicalsreact,and
+C accumulates, over a period of a couple of microseconds. This allows plenty of time for the
+1.4-MHzoscillationtoaffectthesingletfractionandhencetheyieldofC.Ascanbeseen,thefinal
+amountofCisdifferentinthetwocases.TheyieldofCislowerinFigure7bthaninFigure7a
+becausetheaveragesingletfractionislargerinFigure7b,meaningthatmoreradicalpairsreturn
+toABandcorrespondinglyfewergoontoC.
+·
+310 Hore Mouritsen
+
+--- Page 13 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+a Singlet
+S[A•+ B• – ]
+Light k
+C
+k
+Reactants AB S C Products
+T[A•+ B •– ] k C
+Triplet
+b S T
+k k
+S k C
+C
+AB C
+Figure6
+Asimpleradical-pairreactionscheme.(a)Reactantmolecules(AB)areconvertedintoproducts(C)via
+reversibleformationofaradicalpair([A•+B•−]).kSandkCaretherateconstantsof,respectively,the
+spin-selectivebackreactionandthenon-spin-selectiveforwardreactionsof[A•+B•−].Thecurvedarrows
+indicatethecoherentinterconversionofthesinglet(S)andtriplet(T)statesof[A•+B•−].Thisscheme
+differsfromthatnormallyusedtodiscussmagnetoreception:FollowingRitzetal.(162),mostauthorshave
+envisagedaspin-selectivereactionofthetripletradicalpairinsteadofthespin-independentproduct
+formationshownhere.Theformerrequirestheretobeatripletproductstatethatisenergeticallyaccessible
+fromtheradicalpair.Asnosuchspeciesexistincryptochrome,webaseourdiscussiononthemoreplausible
+schemeshownhere[whichsatisfactorilyaccountsfortheobservedmagnetic-fieldeffectsoncryptochrome
+photochemistryinvitro(120)].(b)Theoriginofthemagnetic-fieldeffectontheyieldofthereaction
+productCmaybeseenfromthisanalogy.Twobathtubs,labeledSandT,areconnectedbyatubewitha
+valve.Atanytime,theamountsofwaterinSandTcorrespondtothefractionsofsingletandtripletradical
+pairs,respectively.Thasanoutletatthebottom,whichemptiesintoabucketlabeledC,whereasShastwo
+outlets,oneofwhichgoestoCandtheothertoasecondbucket,denotedAB.WestartwithSfullofwater;
+T,AB,andCempty;andthevalvepartlyopen.WaterflowsfromStoTandatthesametimefallsintothe
+bucketsuntilthebathtubsareempty.Theamountofwaterendingupinthetwobuckets(thefinalyieldsof
+ABandC)dependsonthediameterofthetubes(analogoustothevaluesofkSandkC)andhowfarwe
+turnedthevalve.IfthevalveisfullyopensothatwaterflowsquicklyfromStoT,therewouldbetwo
+efficientroutestoC(fromSandfromT).If,instead,thevalveispartlyclosed,lesswaterreachesTandthe
+onlyefficientroutetoCisdirectlyfromS.Attheend,thereisthereforelesswaterinCthanwhenthevalve
+iscompletelyopen.Thesettingofthevalveinthispictureisintendedtorepresenttheeffectofthemagnetic
+field.Clearly,thisanalogyhasitslimitations:Amongotherthings,itfailstocapturetheoscillationsinthe
+singletandtripletfractions(Figure4).
+www.annualreviews.org • Radical-PairMagnetoreception 311
+
+--- Page 14 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+a 50 μT b 50 μT
+1.00 1.00
+n
+cti o 0.75 0.75
+et
+f r a 0.50 00..443344 0.50 00..336677
+gl
+0.25 0.25
+n
+Si
+0.00 0.00
+0.0 1.0 2.0 3.0 4.0 5.0 0.0 1.0 2.0 3.0 4.0 5.0
+c d
+1.00 1.00
+n cti o 0.75 00..666600 0.75 00..665544
+a
+et
+f r 0.50 0.50
+gl 0.25 0.25
+n
+Si
+0.00 0.00
+0.0 0.1 0.2 0.3 0.4 0.5 0.0 0.1 0.2 0.3 0.4 0.5
+Time (µs) Time (µs)
+Figure7
+Timedependenceofareactingradicalpairanditsreactionproduct.Solidgray/coloredlinesshowthe
+fractionofsingletradicalpairsintheabsence/presenceofchemicalreactions.Dashedcoloredlinesshowthe
+yieldoftheproductC.ThenumbersattherightofeachpanelarethefinalyieldsofC.Thehyperfine
+interactionsusedinthecalculationarethesameasforFigure4.ThereactionschemeisshowninFigure6a.
+Panelsaandcareidenticaltobandd,respectively,apartfroma90◦shiftinthedirectionofthe50-μT
+externalmagneticfield.Panelsaandb:slowreactions,kS =2 × 106s−1;kC =5 × 105s−1;0≤t≤5.0μs.
+Panelscandd:fastreactions,kS =2 × 107s−1;kC =2 × 107s−1;0≤t≤0.5μs.
+ComparethiswithpanelscanddofFigure 7,whichdifferfrompanelsaandbonlyinthe
+valuesoftherateconstants.k andk arenowapproximatelyanorderofmagnitudelargersothat
+S C
+theradicalsdisappearandCisformedinapproximatelyahundrednanosecondsinsteadofafew
+microseconds.Withsuchashortlifetime,theradicalsaregonebeforethe1.4-MHzoscillation
+canhaveasignificanteffect.Asaresult,thedecayofthesingletfractionandthebuildupofCare
+almostindependentofthedirectionofthefield.
+Figure 7 does not show what happens when k and k are much smaller than ∼106 s−1 so
+S C
+thattheradicalpairlivesfor10μsorlonger.Thereasonisthatthereishardlyanychangefrom
+Figure 7a,b. As long as the lifetime exceeds theLarmor period(700 ns for a 50-μT field),we
+canexpecttogetthemaximumpossibleeffectofthemagneticfield,atleastinthissimplecase.A
+morecomplexcase,inwhichlongerlifetimescanbebeneficial,isdiscussedbelow(74).
+Itisimportantthatthevaluesofk andk arenottoodissimilaraswellasnotbeingtoolarge.
+S C
+If k (cid:9) k or k (cid:10) k , essentially 100% of the radical pairs would, respectively, return to the
+S C S C
+reactants or goforwardtothe productsothata weak external magnetic fieldwould have little
+influenceontheproductyield.Theremustbeaneffectivecompetitionbetweenthetworeaction
+channels.
+To summarize, for the yield of C to depend on the direction of a 50-μT field, the radical
+pairs must persist for a time that is not much shorter than, and ideally as long as, the Larmor
+period(700ns).Ingeneral,thisisnotaseriousproblem.Electron-transferratesinproteins(for
+example)coveranenormousrange,frompicosecondstoseconds,dependingontheseparationof
+theelectrondonorandacceptorandtherelevantfreeenergies(129).
+·
+312 Hore Mouritsen
+
+--- Page 15 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+Noticethattheradical-pairmagnetoreceptionhypothesisaswehavepresentedithereisen-
+tirelyiron-free:Thereisnorequirementforpermanentlymagnetizedparticlesofironoxideor
+other magnetic materials. Indeed, the presence of paramagnetic ions (e.g., iron, copper, man-
+ganese) in the vicinity of the radicals could have the counterproductive effect of inducing spin
+relaxation and thus destroying spin coherence (see the next subsection, Spin Relaxation). Nev-
+ertheless,speculativealternativestoapureradical-pairmechanismhavebeenproposedinwhich
+nearbymagneticnanoparticleslocallyamplifytheEarth’smagneticfieldorotherwiseenhancethe
+responseoftheradicalpair(14,25,33,160).Currently,thereislittleevidencefortheexistence
+ofsuchstructuresascompassmagnetoreceptors.
+Finally,therehasbeenanexperimentaldemonstrationthataradical-pairreactioncouldact
+asachemicalcompass.Usingacarotenoid-porphyrin-fullerenemodelsystem,Maedaetal.(119)
+showed that the lifetime of the radical pair formed by photoinduced intramolecular electron
+transfer (from the carotenoid to the fullerene via the porphyrin) can be altered through the
+applicationofa40–50-μTmagneticfield.Bothbyaligningthemoleculesandbyexploitingthe
+photoselectioneffectsofpolarizedlight,itwasfurthershownthattheyieldofradicalpairsdepends
+onthedirectionofa(somewhatstronger)magneticfield,thusestablishing,asaproofofprinciple,
+thefeasibilityofachemicalcompasssensor(119).
+SpinRelaxation
+Having seen how magnetic interactions can alter the product yields of radical-pair reactions,
+wecannowunderstandwhyitisirrelevantthattheseinteractionsareabsolutelytinycompared
+tothethermalenergy, k T (Boltzmann’sconstant multipliedbytemperature;see Appendix2). B
+Radical-pairreactionsareunusualinthattheirchemistryiscontrolledbyelectronspinsthatare
+not thermally equilibrated. Because the spin system of the radical pair interacts rather weakly
+withitssurroundings,itis,toalargedegree,thermallyisolatedfromtherestoftheworld(abit
+likeahotdrinkinavacuumflask)andsotakesarelativelylongtime—perhapsamicrosecondor
+more—tocometoequilibrium,allowingtimeforveryweakinteractionstoinfluencethequantum
+spindynamicsandthereforethereactivityoftheradicals.
+As well as the restrictions on the rate constants k and k , there is another kinetic condi-
+S C
+tionthatmustbesatisfiediftheradicalpairistofunctionasacompass:Itselectron-spinrelax-
+ation13 must not be too fast. This turns out to be a rather more stringent requirement. From
+themomentofitsformationinaspin-correlated(i.e.,nonequilibrium)state,aradicalpairwill
+tend to relax toward the equilibrium state in which all correlation is lost and all oscillations
+(Figures 4and7)havediedaway.Oncethishappens,anexternalmagneticfieldcannolonger
+alterthesingletfractionandcanhavenofurthereffectontheyieldofthereactionproduct.Itis
+thereforecrucialthatthespinsdonotreachequilibriumbeforetheyreact.Putanotherway,the
+coherencelifetimeshouldnotbemuchshorterthantheradical-pairlifetime,which,aswehave
+seen,shouldideallybeatleast∼700ns.
+Ingeneral,spinsarerelaxedbythefluctuatinglocalmagneticfieldsthatarisefromthemodu-
+lationofspininteractionsbymolecularmotion.Thesefieldsbringthespinsintothermalcontact,
+andeventuallyintoequilibrium,withtheirsurroundings(80).Inthepresentcontext,electron-spin
+relaxationislikelytobedominatedbythemodulationofhyperfineinteractionsbymolecularrota-
+tionsandvibrations(107).Probablythemostimportantmotionsarefluctuationsinthepositions
+13Someauthorshaveusedthetermrelaxationtodenotethechemicalreactionsthatdepletetheradical-pairpopulation.We
+useitheretomeanexclusivelyspinrelaxation.
+www.annualreviews.org • Radical-PairMagnetoreception 313
+
+--- Page 16 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+andconformationsoftheradicals.Togetsufficientlyslowrelaxation(slowerthan∼700ns),these
+motionsshouldbefast(>109s−1)andofrelativelylowamplitude14(169).
+Unfortunately,littleisknowneitheraboutspinrelaxationinmagneticfieldsasweakas50μT
+orabouttherelaxationofradicalsincryptochromes.Sofar,therehasbeenonlyonedetailedstudy,
+inwhichmoleculardynamicssimulationsofcryptochrome1fromArabidopsisthaliana(AtCry1)
+wereusedtoassesstheeffectofspinrelaxationontheperformanceoftheproteinasacompass
+sensor(89).Itwasconcludedthat(a)theoptimalradical-pairlifetimefordetectingthedirection
+oftheEarth’smagneticfieldisontheorderofamicrosecond;(b)thefluctuationsinthepositions
+andconformationsoftheradicalsinisolatedAtCry1areincompatiblewiththelongcoherence
+times that have been postulated (56) to explain the disorientation of European robins in weak
+radiofrequency magnetic fields (see below); and (c) an avian cryptochrome in vivo would need
+todifferdynamically,andpossiblyalsostructurally,fromisolatedAtCry1inordertohavespin
+relaxationsignificantlyslowerthan∼1μs.Giventheinevitabilityofspinrelaxationanditspoten-
+tiallyseriouseffectonthesensitivityofaradical-paircompasssensor,moreworkisneededonthis
+aspectofthemechanism.WiththeexceptionoftheLauetal.(107)andtheAtCry1studies(89),
+thetheoreticaltreatmentsofspinrelaxationinthecontextofmagneticsensinghaveallemployed
+phenomenologicalapproachesthatmakenoreferencetothemicroscopicdynamicsormagnetic
+interactionsofrealisticradicals(7,26,29,56,157,198).Anintriguingquestioniswhether,assome
+ofthephenomenologicalstudieshaveindicated(7,26,29,56,198),spinrelaxationprocessescan
+enhanceratherthanattenuatetheanisotropyofthereactionproductyield.
+Finally, it is (just about) possible to get some insight into the effects of spin relaxation by
+returningtoFigure2.Theimpactoftheflyonthebalancedgraniteblockislikelytobegreater
+ifthestoneisnotexcessivelyinfluencedbyitssurroundings.Forexample,ifthetableonwhich
+thestonerestsiswobbly,theoutcomewouldprobablybelesssensitivetotheanticsofairborne
+insects.
+Havingoutlinedhowaradical-pairreactioncouldformthebasisofamagnetic-compasssensor,
+wenowturntocryptochromeanddiscussthepossibleidentitiesoftheradicalsA•−andB•+and
+thereactionproduct,C(Figure6a).
+CRYPTOCHROMES—THEPROPOSEDMAGNETIC
+SENSORYMOLECULES
+Magnetic-FieldEffectsonCryptochromes
+Cryptochromes have a variety of known functions including entrainment of circadian rhythms
+andlight-dependentregulationofplantgrowthanddevelopment(30,116).Theybelongtothe
+same family of proteins as photolyases (DNA repair enzymes) (22, 173, 200) and consist of a
+conservedphotolyasehomologyregion(PHRdomain)withwidelyvaryingN-and/orC-terminal
+extensions.ThePHRdomainnoncovalentlybindsaredox-activeflavinadeninedinucleotideco-
+factor(FAD),whichabsorbsbluelightwheninitsfullyoxidizedstate.Cryptochromesarealso
+assumed to bind, noncovalently, a second chromophore, either 8-hydroxy-5-deazariboflavin or
+5,10-methenyltetrahydrofolate(115,172).Thesecondchromophoreisnotcurrentlythoughtto
+be central to light-dependent magnetoreception. In contrast, photoreduction of FAD in many
+cryptochromesandphotolyasesismediatedbythreeconsecutiveelectrontransfersalongacon-
+servedtriadoftryptophan(Trp)residues(16,28,59,143,217)togiveaflavosemiquinoneradical
+14Fastmotionsmoreeffectivelyaveragethevariationsinhyperfineinteractionsandsogiverisetoslowerspinrelaxation.The
+smallertheamplitudeofthemotions,theweakerarethelocalmagneticfieldsthatcausetherelaxation.
+·
+314 Hore Mouritsen
+
+--- Page 17 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+W
+B
+a 3
+2
+1 W
+C
+W
+A
+FAD
+b SFAD* + TrpH tra E
+n
+le
+sf
+c
+e
+t
+r
+r
+s
+on RP1
+S[FAD•– TrpH•+] T[FAD•– TrpH•+]
+k k
+C C
+ht ~1 μs ~1 μs ~1 μs
+g
+Li
+RP2
+k
+S
+[FADH• Trp•]
+~10 ms
+FAD + TrpH
+Figure8
+Radical-pairformationandreactionsincryptochrome.(a)Thearrangementoftheflavinadenine
+dinucleotidecofactor(FAD)andtryptophan(Trp)triad(WA,WB,WC)incryptochrome1fromArabidopsis
+thalianaasdeterminedbymoleculardynamicssimulationsstartingfromamodifiedcrystalstructure[Protein
+DataBankID:1U3C(21)]containingFAD•−andWC •+.Thethreesequentialelectrontransfersthatfollow
+photoexcitationoftheFADareindicatedbythegreenarrows.TheFADsidechainisnotshownbeyondthe
+secondcarbonatom.(b)Aphotochemicalreactionschemethataccountsfortheobservedmagnetic-field
+effectsontheyieldsoflong-livedradicalsinA.thalianacryptochromeandEscherichiacoliphotolyase.RP1is
+themagneticallysensitiveradicalpair.RP2,formedfromRP1byachangeintheprotonationstateofoneor
+bothradicals,doesnotgeneratemagnetic-fieldeffects.TrpH•+istheradicalformofWC,theterminal
+residueoftheTrptriad.Approximatetimescalesofthevariousreactionstepsareindicated.Thelifetimeof
+RP2is∼10msingardenwarbler(Sylviaborin)cryptochrome1aand∼1msinA.thalianacryptochrome1.
+Thecurlyarrowsrepresentthesinglet-tripletinterconversionofRP1.
+(FAD•−)andaradical(TrpH•+)derivedfromtheterminalresidueofthetriad,approximately2nm
+distantfromtheflavin(Figure8a).Fourdifferentcryptochromesexistintheeyesofmigratory
+birds(19,115,127,139,146,149).
+Studiesoftheisolatedpurifiedproteinshaveshownthat[FAD•−TrpH•+]inA.thalianacryp-
+tochrome1andinEscherichiacoliphotolyaseismagneticallysensitiveaccordingtotheschemein
+Figure8b(120).HenceforthreferredtoasRP1,[FAD•−TrpH•+]isformedinasingletstateby
+thespin-conservingtransferofanelectronfromtheTrptriadtothephotoexcitedsingletstateof
+theFAD(69,120,201).Singlet-tripletinterconversion(Figure8b)ensues,accompaniedbyeither
+spin-selectivereverseelectrontransferwithinthesingletstate,whichregeneratesthegroundstate
+oftheprotein,oraspin-independent(de)protonationofoneorbothoftheradicals(i.e.,FAD•−→
+FADH• and/or TrpH•+ → Trp•) to give a secondary radical pair we call RP2. Both the
+www.annualreviews.org • Radical-PairMagnetoreception 315
+
+--- Page 18 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+recombination of the singlet state of RP1 and the conversion of RP1 to RP2 (corresponding
+tothek andk steps,respectively,inFigure6a)occurona1-μstimescale.Undertheconditions
+S C
+oftheexperiments,RP2(whichcorrespondstoCin Figure 6a)hasalifetimeontheorderof
+1to10msanddoesnotgeneratemagnetic-fieldeffectsbecausethespincorrelationitinherits
+fromRP1relaxeswellbeforeRP2recombines.TheamountofRP2produced,onceallofRP1has
+disappeared,dependsonthestrengthofanappliedmagneticfield(intherangeof1–25mT)(120).
+These experiments establish that cryptochrome could, in principle, be fit for purpose as a
+magnetoreceptor(37,138).However,theyraisefarmorequestionsthantheyanswer.Docryp-
+tochromesbehaveinasimilarmannerwheninteractingwithotherproteins(i.e.,signalingpart-
+ners), metabolites, and whatever structures might cause them to be aligned and immobilized15
+inamagnetoreceptorcell?Doanyofthefourknownaviancryptochromesshowmagnetic-field
+effects?Aretheresponsesoftheproteintothedirectionofa50-μTfieldlargeenoughtoform
+thebasisofacompasssensor?Couldadifferentradicalpairbeformedinorfromcryptochrome,
+perhapswithagreatersensitivitytoweakmagneticfieldsthanRP1?CouldRP2bethestateofthe
+proteinthatinitiatesthesignaltransductioncascade(seethesubsectiontitledSignalingbelow)?
+Someoftheseissuesarediscussedinthefollowingparagraphs.
+Docryptochromeshavethesamephotochemistryinvivo?Notnecessarily.Somemutations
+withintheTrptriad[e.g.,inArabidopsisandDrosophilacryptochromes(40,112,151,152)]pre-
+vent photoreduction of the FAD in vitro but do not affect biological activity in vivo, implying
+the existence of alternative electron-transfer pathways when the protein is in a cellular envi-
+ronment.However,becausealmostnothingisknownaboutthestructureorpropertiesofavian
+cryptochromes,argumentsbasedonthebehaviorofplantorinsectproteinsmaybemisleading,
+especiallybecauseacryptochromewithamagneticsensingfunctionmayhaveevolveddifferently
+fromonethatregulatesplantgrowthorcircadiantiming.
+Coulda50-μTmagneticfieldhavealargeenougheffectonthecryptochromephotocycle?
+Thisquestionisunanswerableuntilsomethingisknownaboutthestructure,bindingpartners,
+andsignalingoftheavianproteins.Simulationsofthespindynamicsofcryptochrome-inspired
+radicalpairsgiveavarietyofvaluesfortheanisotropyofthereactionproductyield,depending
+on the identities of the radicals, their lifetimes, and whether spin relaxation is included. The
+strongly anisotropic 14N hyperfine interactions in the FAD•− radical appear to make it almost
+idealasacomponentofamagneticdirectionsensor(108,177)providedthecounterradicalhas
+no or just a few small hyperfine interactions. Other things being equal, a strongly asymmetric
+distributionofhyperfineinteractionsgiveslargermagnetic-fieldeffectsthanamoreevenshareof
+interactionsbetweenthetworadicals(38,108,165,170).Forexample,withalifetimeof1μsand
+ignoringspinrelaxation,a[FAD•−TrpH•+]radicalpairisapproximately100timeslesssensitive
+tothedirectionofa50-μTmagneticfieldthanisapairinwhichthetryptophan,whichhasmany
+significanthyperfineinteractions,hasbeenreplacedbyaradicalwithnohyperfineinteractions
+(108). This then leads to speculation about whether nature could have optimized the primary
+magneticsensitivityofthecompassbyusinganelectrondonorDtoreducetheTrpH•+radicalin
+RP1togivearadicalpair[FAD•−D•+]inwhichtheD•+radicalismagneticallymuchsimplerthan
+TrpH•+.Ascorbicacid,theradicalformofwhichhasonlyafewsmall1Hhyperfineinteractions,
+hasbeendiscussedinthiscontext(108).
+Anotheraspectofthesensitivityofcryptochromestoweakmagneticfieldshasrecentlybeen
+explored.Kattnigetal.(89)haveshownthattheprimarymagnetic-fieldeffectsonflavinphotore-
+actions can be amplified chemically by slow radical termination reactions (i.e., FADH•→FAD
+15Theneedforalignmentandimmobilizationisdiscussedbelow.
+·
+316 Hore Mouritsen
+
+--- Page 19 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+andTrp•→TrpH,Figure8b)underconditionsofcontinuousphotoexcitationandthattheam-
+plificationfactorsarelargerforweakerfields.Thereappearstobeamplescopeforevolutionto
+haveoptimizedthedegreeofamplificationbytuningtherateconstantsoftheabovereactionsin
+cryptochromesviatheredoxpotentialsoftheflavinandtryptophanradicalsandtheiraccessibility
+to,andthelocalconcentrationsof,intracellularoxidantsandreductants.
+An alternative route to a potentially magnetically sensitive radical pair is via the fully pho-
+toreduced form of the flavin, FADH−. Electron transfer from FADH− to an acceptor A could
+formaradicalpair[FADH•A•−]withoutfurtherabsorptionoflight.Thereissomeevidencethat
+•− seemstosupportthisidea(119,142,147,148,165),andsuperoxide,O ,hasbeendiscussedasa
+2
+potentialA•−radical(76,142,183,195)(seebelow).
+EvidencefortheInvolvementofCryptochromes
+Theevidencethatcryptochromesareinvolvedintheabilityofanimalstodetectmagneticfieldsis
+nowreasonablycompelling;theevidencethatitisactuallythemagnetoreceptorissadlylacking.
+Variouscryptochrome-mediatedmagnetic-field–dependentbehaviorshavebeenreportedfor
+fruit flies: binary choices in T-mazes (48, 57, 58), circadian timing (44, 214), locomotor activ-
+ity(44),negativegeotaxis(45),andseizureresponse(122).Theseexperiments,usingtransgenic
+flies, suggest that cryptochrome is essential for magnetic responses but cannot exclude that it
+playsanonmagneticroleupstreamordownstreamofthemagneticallysensitiveentity.Nordo
+suchinvestigationsoffieldintensityeffectsnecessarilyhaveabearingonhow(orwhether)flies
+use cryptochrome to detect the direction of a magnetic field. Although the observed magnetic
+behaviors were light dependent, the experiments do not even establish that cryptochrome is
+the photoreceptor molecule. Very recently, it has been reported that ocular cryptochrome 2
+mediatesdirectionalmagneticresponsesintwocockroachspecies(9).Magnetic-fieldeffectson
+cryptochrome-dependent,blue-lightresponsesinthemodelplantArabidopsishavealsobeenre-
+ported(hypocotyl growth, anthocyanin accumulation, and degradation of cryptochrome 2) (2),
+buttheycouldnotbereplicatedinanindependentstudy(65).
+Otherevidenceisequivocal,circumstantial,orboth.First,theaviancompassseemstooperate
+best under light in the wavelength range 400–565 nm (202, 206), which only roughly matches
+thevisibleabsorptionspectrumoffullyoxidizedFAD(400−500nm).Thissuggeststhatifcryp-
+tochromeisthephotoreceptormoleculeforthecompasssense,theremustbeoneormoreaddi-
+tionalchromophoresthatabsorbinthe500–565-nmrange;onepossibilityistheneutralFADH•
+radical(147,148).Second,photochemicallyformedFADandtryptophanradicalswithmillisec-
+ondlifetimeshavebeendetectedina(migratory)gardenwarblercryptochrome(114),butsofar,
+therehasbeennoconvincingreportofamagnetic-fieldeffectonanybirdcryptochrome;thediffi-
+cultyofexpressinganimalcryptochromeswithFADcorrectlyboundisnodoubtpartlyresponsible.
+Third,FAD–tryptophanradicalpairsincryptochromesexhibitlong-lived(microsecond)electron-
+spinpolarizationinstrongmagneticfields(>100mT)(15,16),butwhetherthespincoherence
+wouldpersistforthislonginweakfieldsisnotclear.Whatisneededisa“killerexperiment”to
+establishthatcryptochromereallyisthemagneticdetectorinvivo.
+AlignmentandImmobilizationofCryptochromes
+Adirectionalmagnetic-fieldeffectrequiresnotonlyatleastoneanisotropichyperfineinteraction
+butalsothatatleastoneorpreferablybothradicalshaverestrictedmobility(107).Ifbothwere
+tumbling end over end, as they would do in a nonviscous liquid, the directional effects would
+averagetozero.Moreover,becauseacompasssensorislikelytorequirethecorrelatedresponses
+www.annualreviews.org • Radical-PairMagnetoreception 317
+
+--- Page 20 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+ofmanyradicalpairstoachieveanadequatesignal-to-noiseratio,itisimportantthattheyarenot
+onlyimmobilebutalsoatleastpartiallyalignedrelativetooneanother(73,107,182).Although
+eachmemberofarandomlyorientedarrayofimmobileradicalpairscouldsensethedirectionof
+anexternalfield,theintegratedsignalfromthewholearraywouldbevanishinglysmall.
+Cryptochromescanbealignediftheyareassociatedwithorganizedintracellularstructuralele-
+mentssuchasthecytoskeletonor,morelikely,cellmembranes.Cryptochromesarewater-soluble
+proteins and do not associate directly with membranes. However, in subcellular fractionation
+experiments,theyarefoundwithhighabundanceinthemembranefraction(146andP.Bolte,
+A.Gunther,andH.Mouritsen,unpublisheddata).Thissuggeststhatcryptochromescouldbind
+tointeractionpartnersthatarethemselvespartsofcellmembranes.Theseeminglyideallocation
+withinthebirdretinawouldbeintheoutersegmentsofthephotoreceptorcells,wherestacksof
+hundredsofparallelcellmembranesarefound,orintheinnersegments,whichcontainalayerof
+parallelmembranecylinders(182).Indeed,birdcryptochromeshavebeenfoundinphotorecep-
+torcells(139,146).Cryptochrome1aseemstobelocatedexclusivelyintheultravioletconesin
+chickenandnight-migratoryEuropeanrobins(133),whereascryptochrome1bappearsprimarily
+inretinalganglioncells(19,139,149).However,cellmembranesarenotrigidstructures(96);they
+aredynamiconavarietyoftimescales,althoughmembranestackingmayrestrictthemotionsome-
+whatintheoutersegmentsofthephotoreceptorcells.Moreover,manytransmembraneproteins
+canrotatearoundtheaxisperpendiculartotheplaneofthemembrane.Theeffectsthesemotions
+wouldhaveontheperformanceofaradical-pairsensordependcruciallyontheirtimescale.Very
+slowmotionisequivalenttostaticdisorderandisnottooserious(73,107,182).Fastermotionis
+likelytobemuchmoreofaproblembecauseoftheefficientspinrelaxationthatcanresult(107).It
+isparticularlyinterestinginthisrespectthatrhodopsinproteinsinthedisksoftheoutersegments
+of mouse rod photoreceptors appear to be arranged in long, parallel tracks consisting of up to
+severalhundreddimers(64),whichdonoteasilyrotate.Ifcryptochromeswereassociatedwith
+these structures, highly aligned and relatively rigidly fixed arrays of magnetoreceptor proteins
+couldbeachieved.
+The requirement that the cryptochromes must be mutually aligned may not be as strict as
+originallythought(162).Atfirstsight,itseemsunlikelythatacollectionofimmobile,randomly
+oriented molecules in a cell could serve as a compass sensor because the responses of different
+moleculestothedirectionofamagneticfieldwoulddifferandtendtocanceloneanother.However,
+theconditionforadirectionalresponseatthecellularlevelisthattheradicalpairsare(atleast
+partially)alignedwithoneanotherandnotnecessarilythatthemoleculesfromwhichtheyare
+formed are themselves ordered. Suppose that a ray of light entering the eye and striking the
+retinaislinearlypolarized.16Theprobabilitythatagivencryptochromemoleculeisphotoexcited
+dependsonitsorientationwithrespecttotheelectricvectorofthelight,awell-knowneffectcalled
+photoselection(106).Thismeansthatradicalpairsaremorelikelytobecreatedincryptochrome
+moleculeswithcertainorientations.Eventhoughtheremaybelittle(orno)rotationalorderamong
+theproteinsthemselves,itisthereforequitepossiblethatphotoselectiongivesrisetoapopulation
+of radical-pair states with some degree of rotational order. Thus, even a completely randomly
+oriented array of cryptochrome molecules in a cell could allow the cell to act as a directional
+sensor(106).
+Twofurtherdeductionsfollowfromthephotoselectionconcept.First,theresponseofamag-
+netoreceptorcellshouldbesensitivetotheplaneofpolarizationoftheincominglight.Fromthe
+16Sunlightisnaturallypolarizedasaresultofscatteringintheatmosphere.Thedegreeofpolarizationcanbeupto75%ina
+north–south-orientedbandintheskyatdawnanddusk.
+·
+318 Hore Mouritsen
+
+--- Page 21 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+aboveargument,raysofhorizontallyandverticallypolarizedlighthittingtheretinaareexpected
+toproducedifferentrotationaldistributionsofradicalpairsthatwouldhavedifferentresponses
+tothegeomagneticfield.Experimentalevidenceforaninteractionbetweenpolarizedlightand
+light-dependentmagnetic-compassorientationintrainedzebrafincheshasrecentlybeenreported
+(141).Second,evenunpolarizedlightshouldshowphotoselectioneffectsbecausetheelectricvec-
+torisalways perpendicular tothedirectionofpropagation.Thefactthattheelectricvector of
+unpolarizedlightisnotisotropicallydistributedinspacemeansthatwhenitstrikesacellinthe
+retina,itproducesananisotropicdistributionofradicalpairs.Althoughphotoselectioneffectsare
+expectedtobemorepronouncedforpolarizedlight,itispossible,inprinciple,thatrandomlyori-
+entedcryptochromesexcitedbyunpolarizedlightcouldprovidetheprimarysignalforamagnetic
+directionsensor(106).
+StructuralandKineticAspectsofCryptochromes
+An additional requirement for a radical-pair compass is that the singlet and triplet states have
+verysimilarenergies,whichmeansthattheradicalsmustnotbetooclosetooneanother.Aloose
+analogywouldbetwoside-by-sidebarmagnetsthatattractiftheyhaveoppositepolesfacing(↑↓,
+a singlet) but repel if one of them is flipped over (↑↑, a triplet). If the radicals are more than
+approximately1.5to2.0nmapart,thesingletandtripletstatesareexpectedhavequitesimilar
+energies (38) (think of small bar magnets separated by more than 15 to 20 cm). It is probably
+importantthattheexchangeanddipolarinteractionsofthetwospins(38),whichcausethesinglet
+and triplet states to have different energies, are comparable to or preferably smaller than the
+interactionwiththeEarth’smagneticfieldforonlythencanthelatterhaveasignificanteffecton
+thespindynamics(Figures4and7).However,theradicalsshouldnotbetoofarapartbecause
+then(a)theirformationmaynotbefastenoughtocompeteefficientlywithotherprocesses(e.g.,
+fluorescenceorintersystemcrossing)and(b)theirrecombination(thek stepinFigure8b)may
+S
+betooslowtocompetewithspinrelaxation.Itcanbeargued(169)thatthisproblemhasbeen
+avoided in cryptochrome by consecutive electron transfers along the Trp triad. The distances
+involvedinthethreesteps(i.e.,FAD–Trp ,Trp –Trp ,andTrp –Trp )arealllessthan0.6nm
+A B A C B
+(169),ensuringthatthetwoelectronspinsareseparatedrapidlyandefficientlytoadistanceof
+∼2 nm where recombination can proceed on a microsecond timescale. This point is discussed
+inmoredetailinReference169.Thereisalsothepossibilitythat,ataseparationof∼2nm,the
+(exchangeanddipolar)contributionstothesingletandtripletenergiespartiallycancel,allowing
+singlet-triplet interconversion to proceed more easily (38). Finally, there is the possibility of a
+furtherelectrontransferfromanelectrondonortotheTrp radicalinRP1toproducearadical
+C
+pairwithalargerseparationandthereforesmallerspin-spininteractionsandlargermagnetic-field
+effects.Possibleelectrondonorscouldbeatyrosineresidue(59)orafourthtryptophanresidue
+(28,143)inthecryptochromeoragroupinanotherproteinboundtothecryptochrome.
+BIOLOGICALASPECTSOFMAGNETICSENSING
+Signaling
+The identity of the magnetic signaling state in a cryptochrome magnetoreceptor is presently
+unclear.AtleastinArabidopsiscryptochromes,signalingappearstobetriggeredbyachangein
+the conformation of the C terminus of the protein when the FADis photoreduced to FADH•
+(8,70,102,153).IfthisoccursviaelectrontransferfromtheTrptriad,thenitseemsplausiblethat
+thesignalingstatecouldariseinatwo-stepprocess.First,RP1isconvertedtothelonger-lived
+www.annualreviews.org • Radical-PairMagnetoreception 319
+
+--- Page 22 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+RP2state(Figure8).Second,RP2isthenfurtherstabilizedagainstreverseelectrontransferby
+reductionofthetryptophanradicalbyanextrinsicelectrondonor.Inthisway,themagnetic-field
+effectonRP1,whose∼1-μslifetimeprobablymakesittooshort-livedtobethesignalingstate,
+couldbetransferredviaRP2toamuchlonger-livedstateoftheproteinthatcouldtriggersignal
+transduction.
+Buthowcouldchangesinthelevelsofasignalingstateleadtochangesinneuronalsignalsthat
+canbeprocessedwithinthebrain?Whenreceptorproteinsareactivatedbytherelevantphysical
+and/orchemicalstimuli,inthiscaseacombinationoflightandthegeomagneticfield,theyusually
+undergoaconformationalchange.Thischangeintheshapeofaprotein,inturn,activatesthe
+firststepofaspecificsignalingcascade,whichcanincludeone,two,ormanyconsecutivechemical
+reactions (61). Many signaling cascades involve G proteins (150).17 In each of these steps, the
+signal is amplified, and overall amplification factors of more than a million can occur (61). In
+otherwords,biologicalsystemscanachieveveryhighlevelsofamplificationandcanthusreliably
+detectevenveryweakprimarysignalsprovidedtheyaredistinguishablefromnoise.
+Attheendofasignalingcascade,aconformationalchangeinanion-channelproteinusually
+resultsintheopeningorclosingofthechannel,whichchangestheratesatwhichionsmovein
+and/or out of the cell and so alters the cell’s membrane potential (90). This, in turn, modifies
+the rate and/or relative timing of action potentials18 in the form of voltage spikes traveling
+along a neuron and/or the rate of release of neurotransmittersthat affect neighboring neurons
+(61).Identificationofthesignalingstate,thesignalingcascade,andtheionchannelsinvolvedin
+magnetic-compasssensinginbirdswouldbeamajorstepforward.Atpresent,essentiallynothing
+isknownabouttheprotein-proteininteractionsthatmightallowanaviancryptochrometotrans-
+ducedirectionalmagneticinformation(37).Sofar,theonlyexperimentallysuggestedinteraction
+partnerisaDrosophilahomologofthebacterialiron-sulfurclusterassemblyprotein,IscA(160).
+Averydifferentkindofsignalingmechanismhasbeenproposed.Stonehametal.(185)sug-
+gested that if a radical-pair reaction produces a long-lived, charge-separated triplet state with
+a large electric dipole moment, then its electric field could influence the isomerization of the
+photoreceptor pigment retinal, and therefore modulate the visual signals transmitted from the
+photoreceptorcellstothebrain.Inthisway,magneticsensingwouldnotneeditsown,separate,
+biochemicalsignalingpathway.Atpresent,thereisnoexperimentalevidenceforthisidea,which
+maynotbecompatiblewithcryptochromephotochemistry.Norisitclearthatacryptochrome
+could physically get close enough to a rhodopsin for the electric field effect to be significant.
+Furthermore,ifthecryptochromeandretinalpathwayswereintertwined,theessentialseparation
+ofstandardvisionandmagnetoreceptionsignalswouldbeevenmoredifficultthaniftherewere
+strictlyseparatepathways(seethesectiontitledNeuronalProcessingandPerception—Separation
+ofLightIntensityChangesandMagneticInformation).
+Neuroanatomy
+Thebrainsofvertebratessuchasbirdsarestructuredinamodularfashion(82,84,137,161,176),
+andmostareasinthebrainarededicatedtoprocessingaspecifickindofinformation.19Thereare
+visualareas,auditoryareas,somatosensoryareas,andsoon.Apurelyvisualareadoesnotprocess
+17Gproteinsareguaninenucleotide–bindingproteinsthatoperateasmolecularswitchesinmanydifferentsignalingcascades.
+18Actionpotentialscanbethoughtofasthefundamentalbinarycodeonwhichmostneuralprocessingofinformationinthe
+brainisbased.
+19Therearealsospecificbrainareasthatintegrateinformationfromdifferentsensesandothersthatareinvolved,forexample,
+instoringandretrievingmemory.
+·
+320 Hore Mouritsen
+
+--- Page 23 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+auditoryorsomatosensoryinformationandviceversa.Eachareaischaracterizedbyitslocation
+andconnectivitywithinthebrain—factorsthatareconsistentbetweenindividuals(82,161,176)—
+andbyasuiteofneurotransmittersandreceptorproteins(84,188).Thefieldofneuroanatomy
+mapsthesecharacteristics.
+Functionalneuroanatomylinksneuroanatomywithfunction(83,124).Itusesthefactthatthe
+activation of certain genes called immediate early genes (83, 124), and consequently the levels
+ofcertainproteins(suchasegr-1andc-fos),inagivenbrainareacorrelateswiththedegreeof
+neuronalactivityintheprevious30–60min20andcanthereforebeusedtomapwhichpartsofthe
+brainananimalprimarilyusesforacertaintask(72,83,110,113,124,136).21 Whengenesare
+“read”(transcribed),messengerRNA(mRNA)isproducedinthenucleusofthecellandtranslated
+intoproteinsinthecytoplasm.Theexpressionlevelsofimmediateearlygenesindifferentparts
+ofthebraincanthereforebequantifiedasmRNAbyinsituhybridization,22orasproteinsusing
+antibodies(immunohistochemistry23).
+TheretinalganglioncellsinbotheyesandaforebrainareanamedClusterNinbothhalves
+ofthebrainhavebeenshown,throughtheuseoffunctionalneuroanatomy,tobebyfarthemost
+activepartsofthenervoussystemwhenbirdsusemagnetic-compassinformationinorientation
+behavior24(46,66,67,113,136,139,216).TheactivationofClusterNrequireslight:Itsactivity
+disappears when light is prevented from reaching the eyes (67, 113, 136). A mapping of the
+connectionsinthebird’sbrainusingneuronaltracingshowedthatClusterNreceivesitsinput
+fromthedorsallateralgeniculatenucleus(GLD)inthevisualthalamus,which,inturn,receivesits
+inputfromtheretinalganglioncellsintheeyes(71).Thispathwayisknownasthethalamofugal
+visualpathway(71).Becauseitendsintheso-calledvisualwulst,wecanconcludethatClusterNis
+asmallpartofthevisualwulst(71,137).WhenClusterNisdestroyed,night-migratorysongbirds
+can no longer use their magnetic compass, whereas their sun and star compasses still function
+normally(215).Thus,magnetic-compassinformationisprocessedinClusterN.
+ThefactsthatClusterNisactiveinbothbrainhemispheresandispartofthevisualsystemare
+verystrongevidencethatthemagneticcompassislightdependent,thatbirdsperceivemagnetic-
+compassinformationasavisualimpression,andthattheprimarysensormustbelocatedinboth
+eyes (137, 138). An earlier claim (207) that the magnetic compass is located only in the bird’s
+righteyehasturnedouttobefalse(41,66,67,113).Functionalneuroanatomydataalonecannot
+identifywhichcelltypeswithintheeyescontaintheprimarymagneticsensorymoleculesbecause
+allinformationleavingtheeyesistransmittedthroughtheretinalganglioncellstotherestofthe
+brain(36,199),andtheretinalganglioncells(andafewamacrinecells)aretheonlycelltypes
+withintheeyethatgenerateactionpotentials(189)andexpressegr-1andc-fos.Thus,thereareno
+presentlyknownmolecularactivitymarkersavailabletodeterminewhichoftheothercelltypes
+intheeyearehighlyactiveduringmagnetic-compassorientationbehavior.
+20Thereareotherimmediateearlygenesthatappearondifferenttimescales.
+21Thechallengeistodesignabehavioralexperimentinwhichthetaskofinterestisisolatedasfaraspossiblefromother
+behaviors.Ifabirdperformsdifferenttaskssimultaneously,manypartsofthebrainwillshowhighlevelsofactivity,making
+itdifficulttoassociatebrainareaswithspecificbehaviors.
+22InsituhybridizationusesalabeledcomplementaryRNA(orDNA)strandtolocalizeaspecificRNA(orDNA)sequence.
+23Immunohistochemistryreferstotheprocessofdetectingthepresenceofproteinsinthecellsofatissuesectionbyusing
+fluorophore-labeledantibodiesthatbindspecificallytotheproteininquestion.
+24Theeyeisgenerallyconsideredtobeaseparatebutintegralpartofthebrain;itissequesteredfromthebrainearly
+indevelopment,keepingitsconnectionswiththebrainintactthroughtheopticnervemadeupofganglioncellaxons.
+Furthermore,processingtakesplaceinalargenumberofinterneuronswithintheeyesothattheinformationfrom∼100million
+photoreceptorcellsiscompressedandsentthrough∼100timesfewerganglioncellsthatcommunicatewiththerestofthe
+brain.
+www.annualreviews.org • Radical-PairMagnetoreception 321
+
+--- Page 24 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+To sum up, because of the specifically dedicated, modular structure of the bird’s brain, the
+functional neuroanatomical data from night-migratory songbirds provide very strong support
+fortheexistenceofalight-dependentmagnetoreceptionmechanismwiththeprimarydetector
+moleculeslocatedintheeyes.Oneconsequenceofthisisthatthemagneticfieldisasecondary
+stimulusmodulatingaprimarylight-dependenteffect.Thiscreatessomeadditionalchallenges,
+whichweconsidernext.
+NeuronalProcessingandPerception—SeparationofLight-IntensityChanges
+andMagneticInformation
+Howphotoreceptor-basedmagneticinformationisprocessedwithinthecellandinthenervous
+systemisnotknownatpresent.Virtuallyallnaturalsensorysystemsarebasedondetectingchanges
+inphysicaland/orchemicalparametersratherthanabsolutelevels.Inmagnetic-compasssensing,
+thissuggeststhatbirdsshouldcompareorscandifferentdirectionsusingtheirmagnetic-compass
+sensor looking for maxima and/or minima from which the direction of the magnetic field can
+beinferred.Somebirdsperformcharacteristicheadscanstypicallycovering90◦ or180◦ inthe
+horizontalplaneinordertosensethedirectionoftheEarth’smagneticfield(135).Asmentioned
+above,inlight-dependentmagnetoreception,themagnetic-fieldeffectisasecondarymodulation
+ofaprimarylight-detectionmechanism.Consequently,beingabletodistinguishchangesinlight-
+intensityfrommagnetic-fieldeffectswillbeamajorchallengeforthebird’snervoussystem.
+Becausethefirststepinlight-dependentmagnetoreceptionislightdetection,notmagnetore-
+ception,amagneticfieldisnotexpectedtoaffectaphotoreceptor-basedmagneticsensorysystem
+incompletedarkness.Furthermore,ifweconsiderasinglelight-dependentmagnetoreceptorin
+isolation, a change in the intensity of the light would have the same qualitative effect on it as
+a change in the magnetic stimulus (163). This is analogous to the situation in color vision, in
+whichasinglecolorreceptorcannotdeterminewhetheranincreasedactivationisduetoageneral
+increaseoflightintensityorachangeinthewavelengthdistribution.Colorvisionisachievedby
+comparingtheresponsesoftwoneighboringreceptorsthataresensitivetodifferentpartsofthe
+visualspectrum(123).
+Inasimilarfashion,theseparationoflightandmagnetic-fieldeffectscanmostelegantlybe
+achieved by having two populations of identical receptor molecules in close proximity to each
+other,withdifferent,ideallyperpendicular,orientations.Thisarrangementcouldbeachievedei-
+therwithinonecellorinneighboringcells,containingreceptorsorientedindifferentdirections.
+Becauseoftheirclosespatialproximity,thelightinputwillbeapproximatelythesame,butthe
+magnetic-fieldeffectswillbedifferent.Comparisonoftheoutputsofthetworeceptorpopulations
+couldbeachievedintheearlystagesofneuronalprocessing,andtheresultingsignalcouldthenbe
+processedinaspecializedneuronalinformationchanneldedicatedtomagneticsensing,separate
+fromimage-formationprocessing.Here,itisparticularlyinterestingtoconsiderthedouble-cone
+photoreceptorcellsconsistingoftwo“grown-together”cones(Figure9),whichareabundantin
+birdretinas.Theirfunctioniscurrentlyamystery,buttheywouldbeaparticularlywell-suitedloca-
+tionforlight-dependentmagnetoreceptionand/orpolarizedlightdetectionifthecryptochromes
+and/oropsins,respectively,wereorthogonallyorientedinthetwocones(Figure9).Thereareof
+coursemanyothertheoreticallypossiblestructuralandneuronalprocessingarrangementswithin
+abird’sretinathatcouldbeusedtoseparatemagneticandlight-intensitychanges,buttheone
+outlinedaboveseemstobethemoststraightforward(formoredetail,seeReference163).
+Theouterand/orinnersegmentsofthephotoreceptorcells(rodsand/orcones)wouldseem
+tobetheidealcellularlocationsforcryptochromesinvolvedindetectingmagnetic-compassin-
+formationbecausetheycontainorientedmembranestowhichcryptochromescouldbeattached
+·
+322 Hore Mouritsen
+
+--- Page 25 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+andtherebyaligned(182).Thedownsideisthatthesecellsareteemingwiththevisualpigments
+used for normal vision (rhodopsin in the rods and various opsins in the cones). Owing to the
+muchhigherabundanceandlightabsorptioncrosssectionofthe(rhod)opsins,theywilldomi-
+nate changes in the membrane potential of the photoreceptor cell and therefore the release of
+neurotransmitters.However,thereareseveralwaysoutofthisdilemma.
+The rod photoreceptor cells are active under low-light conditions, whereas the cone cells
+are active at higher-light intensities. The low-light intensities available at night are below the
+thresholdintensityneededtoactivatetheconeopsins,andthereforethemembranepotentialofthe
+conesisnotaffectedbytheopsinsatnight.Consequently,cryptochrome-based,light-dependent
+magnetic sensors could work during the night if they were located in the cones because any
+membranepotentialchangesthecryptochromesgeneratedwouldnotcompetewithopsinsignals.
+Incontrast,acryptochrome-basedmagneticcompasslocatedinconecellswouldalmostcertainly
+notworkduringthedaybecauseitwouldhavetocompetewithverystrongmembranepotential
+changesgeneratedbythemuchmoreabundantopsins.Oneconsequenceoftheseconsiderations
+is that the magnetic compass of night-migratory songbirds would—if the primary sensors are
+locatedinphotoreceptorcells—almostcertainlybelocatedinoneoftheconephotoreceptorcell
+types and would then work only during the night. This idea is supported by a brain activation
+studythatshowedthatClusterN—theprocessingcenterformagnetic-compassinformation(see
+above)—indiurnallyandnocturnallymigratingmeadowpipitsishighlyactiveatnightbutnot
+duringtheday(216).
+Coulddiurnalbirdshavealight-dependent,cryptochrome-basedmagneticcompassthatcould
+work during the day? This is not completely inconceivable provided the cryptochromes were
+located in rod photoreceptor cells. It would, however, require that the cryptochrome signals
+wouldbedetectableasamodulationofthelevelofneurotransmitterreleasefoundinthelight-
+saturatedrodcellsduringtheday.Followingthesamelineofargumentasthatusedforcones,the
+rodsarehighlyunlikelytoharbormagnetoreceptivecryptochromesinnight-migratorysongbirds
+becausetheprimaryvisualprocessesintherodswouldalmostcertainlymaskanycryptochrome
+signalsfromwithinthosecellsatnight.
+Thereisoneother,somewhatlesslikely,hypotheticalsolution,whichcouldbypassmembrane
+potentialcompetitionbetweencryptochromesandopsins.Thecryptochrome-signalingpathway
+couldbeenzymaticandactivate,forexample,akinase,whichinturncouldproduceadiffusiblemes-
+sengersuchasnitricoxide,whosereleasetoneighboringcellswouldbeindependentofthemem-
+branepotential.However,nosuchpathwayiscurrentlyknowninphotoreceptorcellsofanyanimal.
+Tosumup,itseemseasiertoimaginehowalight-dependentmagneticcompasscouldwork
+intheretinaduringthenightthanduringtheday,andbyfarthestrongestevidencesupporting
+light-mediated,radical-pair–basedmagnetoreceptioncomesfromsongbirdsmigratingexclusively
+duringthenight.Butisthereenoughlightavailableatnight?Wediscussthisinthenextsection.
+HowMuchLightIsNeededforLight-DependentMagnetoreception?
+The fact that many bird species migrate only at night appears, at first sight, to contradict the
+notionoflight-dependentmagnetoreception.However,thenightskyisnevertotallydark—some
+lightisalwaysavailable;afterall,birdsneedtoseetobeabletofly.Birdscanseeatnightusing
+the rod pathway, which relies on the photopigment rhodopsin. Rhodopsin requires only a few
+photonstodetectlight,anditisexpectedthatcryptochromescouldalsoworknearthisphysical
+detectionlimit.Thus,fortheradical-pairmechanismtowork,itwould,inprinciple,requireonly
+tens to a few thousands of photons in order to build up the signaling-state statistics needed to
+www.annualreviews.org • Radical-PairMagnetoreception 323
+
+--- Page 26 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+determinetheaxisofthemagnetic-fieldlines(seeFigures1and6).Thus,nightmigrationand
+light-dependentmagnetoreceptionarenotincompatible.
+It is, however, clear that the weaker the magnetic-field effect, the more photons would be
+needed,anditisthereforeworthtakingacloserlookathowmanyphotonsactuallyentertheeye
+ofamigratorybirdatnight.Itisknownthatbirdscanorientinfreeflightusingtheirmagnetic
+compassonmoonless,darkstarrynightswithlightintensitiesdownto3×10−4 lux(32).Atthis
+light intensity, only approximately 3 photons hit 1 μm2 of pupil area per second. The area of
+the retina is approximately 10–30 times larger than the area of the pupil, and the diameter of
+the outer segment of a cone is approximately 2 μm in a night-migratory songbird (A. Meyer,
+unpublisheddata).Consequently,onverydarknightseachconeoutersegmentreceivesnomore
+a Double cones
+Outer segment
+cross section b
+Inner segment
+cross section c
+0° 90° 0° 90° 0° 90° 0° 90°
+Opsin
+dimer
+tracks
+0° off 90° on
+bipolar bipolar b 0° cone 90° cone
+cell 0° 90° cell
+On
+Off
+Cross section through outer segments
+Magnetosensory
+proteins
+0° cone 90° cone
+c
+Bistratified
+retinal
+ganglion cell
+Brain
+Cross section through inner segments
+·
+324 Hore Mouritsen
+
+--- Page 27 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+thanapproximately1photons−1 (assumingnoabsorptionoflightbetween thecorneaandthe
+photoreceptor). Seen from the perspective of radical-pair–based magnetoreception, this is an
+extraordinarilysmallnumber.Thisestimate,however,assumesuniformilluminationofthevisual
+field,whichisthecaseunderovercastskies,butclearlynotforastar-litnight.Photoreceptorouter
+segments“lookingat”astarreceivemanymorephotonspersecondasthefollowingargument
+suggests.Ofthestarsvisibletothehumaneye,allbutthefaintestcanbeseenusingthefovea,
+whichcontainsonlycones(189).Thethresholdforhumanconevisionisalittleabovethatrequired
+toreadabookbythelightofafullmoon(i.e.,atleast103 photonss−1 perphotoreceptorouter
+segment).Consequently,allstarsvisibleinthefoveashouldilluminateatleastoneconewithat
+least103photonss−1.Becausetheintensityofabrightstar(class0)isapproximately100timesthat
+ofthefainteststarsvisibletothehumanfovea(∼class5),aphotoreceptoroutersegment“looking
+at”astarshouldbeexposedtoapproximately103–105photonss−1.
+Thelackofpointlightsourcesprovidingahighphotonfluxmaybeoneofseveralreasonswhy
+radarobservationshaveshownthatbirdstendtobesignificantlymoredisorientedduringperiods
+ofsustainedovercastskiesthanunderclearskies(39)andwhymigratingbirdshardlyeverperform
+levelflightwithinclouds.Instead,theyflyeitheraboveorbelowtheclouds(T.Alerstam,personal
+communication) where either the stars are visible or dead reckoning on landmarks is possible.
+Furthermore, catastrophic mortalities of migratory birds have been reported during extended
+periodsofthickovercastandfogwhenflightaboveorbelowthecloudsisnotpossible(4,145).
+Even though the opsins in the cones do not absorb enough light to trigger their signaling
+cascade,theyshouldstillabsorbincomingphotons.Ifthecryptochromeswouldbelocatedinthe
+outersegmentsofthephotoreceptors,theywouldhavetocompetedirectlywiththeopsinsfor
+thefewincomingphotons.Owingtothemuchhigherabundanceandabsorptioncrosssection
+oftheopsins,thiswouldmeanthatonly1in100to1in10,000photonswouldbeabsorbedby
+the cryptochromes, which could be too few to build up the signaling-state statistics needed to
+determinetheaxisofthemagnetic-fieldlines.
+Theseconsiderationsspeakagainstalocationofmagnetoreceptivecryptochromesintheouter
+segment membrane disks of the photoreceptor cells. If the cryptochromes were located in the
+innersegmentsofthephotoreceptorcells,orinanyretinalcelltypeotherthanthephotoreceptor
+cells,theywouldbelocatedinfrontoftheopsinsinthelightpathway,wouldgetachancetoabsorb
+←−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
+Figure9
+Hypotheticalillustrationsuggestinghowtheaviandoubleconescouldberesponsibleforlight-dependent
+magnetoreception.(a)Doubleconesconsistoftwocloselyattachedconecells.(b)Itispossiblethatthe
+opsinsintheoutersegmentsofthephotoreceptorcellsarearrangedinparallelrowsofdimersatnight(but
+notduringtheday)likethoserecentlyfoundinmouserodcellsunderlow-lightconditions(64).Ifthe
+cryptochromeswereattachedtosuchdimertracks,theycouldbehighlyorientedwithinthediskmembranes
+andthereforerespondinunisontothedirectionofthemagneticfield.Ifthesetrackswereorientedat90◦to
+eachotherinthetwohalvesofanygivendoublecone,thiscouldformthebasisforanopponentprocessing
+pathwaysimilartotheonesknownforcolorvisioninvertebratesandpolarizationvisionininsects(12,123).
+Forinstance,a0◦“off”bipolarcellcouldreceiveinputfromanumberof0◦membersofthedoublecones,
+whereasa90◦“on”bipolarcellcouldreceiveinputfromamatchingnumberof90◦membersofthesame
+doublecones.Thesebipolarcellscouldprojectontoabistratifiedcompassganglioncell,whichwouldthen
+sendtheinformationtotherestofthebrainforfurtherprocessing.Therearemanyotherprocessing
+designs,whichcouldforinstanceinvolvetwo“on”bipolarcelltypesandoneinhibitoryamacrinecelltype,
+whichcouldleadtothesameopponentprocessingfunction.(c)Asanalternativetoalocationbetweenthe
+outersegmentdisks,thecryptochromescouldalsobeassociatedwiththehighlydirectedinnersegment
+membranes.Thiswouldhavetheadvantagethatthecryptochromeswouldnothavetocompetewithopsins
+fortheincomingphotons.
+www.annualreviews.org • Radical-PairMagnetoreception 325
+
+--- Page 28 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+Outer segments
+Photoreceptor cell layer
+Outer plexiform layer
+Inner nuclear layer
+Inner plexiform layer
+Ganglion cell layer
+Ganglion cells
+Amacrine cells
+t
+h
+Bipolar cells g
+Horizontal cells g
+li
+n
+Photoreceptor cells
+mi
+o
+c
+n
+I
+Figure10
+Schematiccrosssectionthroughtheretinashowingthelocationsofthevariouscelltypesrelativetothedirec-
+tionoftheincominglight.Lightenterstheretinafromtheganglioncellsidesothatithastopassthroughthe
+ganglioncells,amacrinecells,bipolarcells,andhorizontalcellsaswellastheinnersegmentsofthephotore-
+ceptorcellsbeforeitreachestheoutersegmentsofthephotoreceptorcells,whichcontainallthe(rhod)opsins.
+thephotonsfirst,andsowouldnothavetocompetewiththeopsinsforthefewphotonsthatreach
+theretinaatnight(seeFigure 10).Themelanopsinpathway(63)used,forexample,tocontrol
+pupil dilation in many vertebrates is one example of a pathway in which non-image-forming
+photoreceptormoleculeshavebeenplacedinfrontoftheoutersegments(inthiscaseinganglion
+cells).Thepotentialproblemwithlocatingthecryptochromesinthenonphotoreceptorcelltypes
+oftheretina—ganglioncells,amacrinecells,horizontalcells,andbipolarcells—isthatthereare
+noobvious,stable,alignedstructureswithinthesecelltypestowhichthecryptochromescould
+·
+326 Hore Mouritsen
+
+--- Page 29 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+attach.Therefore,atthismomentthehighlyparallel,cylindrical,innersegmentsoftheconesmay
+providethebestcompromisebetweentheneedtoimmobilizeandalignthecryptochromes(182)
+andtheneedtoavoidcompetitionwiththeopsinsfortheincomingphotons(seeFigure10).
+Nomatterwhereintheretinathesensorsarelocated,theprimaryseparationoflight-intensity
+and magnetic-field effects almost certainly takes place within the retina. This preprocessed in-
+formationmustbetransmittedtothebrainforfurtherprocessing:Asdescribedabove,thatthe
+thalamofugalvisualpathwayincludingClusterNisinvolvedisalmostcertain.However,tobeused
+fornavigation,themagnetic-compassinformationhastobeintegratedwithnavigation-relevant
+informationderivedfromavarietyofothersensesandstimuli(134,137).Exactlywhereinthe
+brainthisisdoneisnotknownatpresent,butanumberofsuggestionsbasedoncurrentknowledge
+oftheavianbrainhaverecentlybeenpresented(137).
+VisualModulationPatterns
+Therehavebeenattemptstoconstructvisualmodulationpatterns(i.e.,pictorialrepresentations
+of how a bird might perceive the information derived from a radical-pair compass sensor) (74,
+106,162,182).Suchpatternsareusefulwhenexplaininglight-dependentmagnetoreceptionand
+are also a convenient way of summarizing the effect of the geomagnetic field on model radical
+pairsatdifferentlocationsintheretina,buttheyshouldnotbetakentooliterally.
+Howinformationfromtheprimarymagnetoreceptorcellsisprocessediscompletelyunknown,
+so any attempt to model what the bird actually perceives is necessarily na¨ıve and potentially
+misleading. Consequently, any attempt to project such patterns onto the walls of a behavioral
+testingchamberinordertomeasurethebehavioralorphysiologicalresponsesofmigratorybirds
+wouldalmostcertainlyteachusnothingaboutlight-dependentmagnetoreception.
+TIME-DEPENDENTMAGNETICFIELDS
+EffectsofTime-DependentMagneticFields
+Arguably the most convincing evidence in favor of the radical-pair mechanism of magnetore-
+ception comes from reports that migratory birds can be prevented from using their magnetic
+compassbybeingsubjectedtoweaktime-dependentmagneticfields(42,92,164,165,187,203).
+Laboratorystudiesofsmallorganicradicalshaveestablishedthattheeffectofastaticmagnetic
+fieldonaradical-pairreactioncanbemodifiedbyanadditional,time-dependentmagneticfield
+(20,51,168),andthatthiscanbeusedasadiagnostictestfortheoperationoftheradical-pair
+mechanism(68).Theseeffects,whichareentirelyconsistentwithradical-pairtheory,generally
+gobythenameofreactionyielddetectedmagneticresonance(RYDMR).
+TheprincipalrequirementforaRYDMReffectisthatthetime-dependentfieldmusthavea
+frequencycomponentthatmatchesoneofthefrequencieswithwhichtheradicalpairoscillates
+betweenitssingletandtripletstatesinthestaticfield(seeFigure4).Thisresonanceeffectmaybe
+likenedtomakingaviolinstringvibrateusingatuningforkthatemitssoundat,orverycloseto,
+thenaturalfrequencyofthestring.Ifthetime-dependentfieldisinresonancewithoneormore
+ofthenaturalfrequenciesoftheradicalpair,itcanchangetheextentandtimingofsinglet-triplet
+interconversionandhencetheyieldofthereactionproduct(CinFigure6a).
+EffectsattheLarmorFrequency
+Toseehowthiswouldwork,considerFigure11,whichshowshistogramsofthesinglet-triplet
+interconversionfrequenciesforafewmodelradicalpairsina50-μTstaticfield,withhyperfine
+www.annualreviews.org • Radical-PairMagnetoreception 327
+
+--- Page 30 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+a
+0.02
+0.01
+4+4
+2 4 6 8 10 12 14
+b
+0.02
+0.01 4+3
+2 4 6 8 10 12 14
+c
+0.04
+0.02
+4+2
+2 4 6 8 10 12 14
+d
+0.08
+0.04
+4+1
+2 4 6 8 10 12 14
+e
+0.30
+0.20
+0.10 4+0
+2 4 6 8 10 12 14
+Frequency (MHz)
+Figure11
+Singlet-tripletinterconversionfrequenciesinmodelradicalpairs.Histogramsofthefrequenciesatwhicha
+time-dependentmagneticfieldcouldaltertheresponseofaradicalpairtoa50-μTstaticmagneticfield.
+Oneradicalhasfour1Hhyperfineinteractions;theotherhas(a)4,(b)3,(c)2,(d)1,and(e)0.Theprincipal
+valuesoftheanisotropichyperfineinteractionswerechosenrandomlyintherangeof−250to+250μT.
+Thewidthsofthehistogrambinsare0.1MHz.Thefiveprobabilitydistributionshavedifferentvertical
+scales.Inthecaseofpanele,thepeakinthedistributionattheLarmorfrequency(1.4MHz)is∼30times
+strongerthanatanyothersinglefrequency.Notethatthecalculationsshownherewereperformedforone
+orientationoftheradicalpairinthe50-μTmagneticfield.Whenthedistributionsarerecalculatedfor
+differentorientations,theonlyfeaturethatdoesnotchangeisthestrongoneat1.4MHzinpanele.
+interactionschosenrandomlyintherangeof−250to+250μT.Eachpanelshowsthefraction
+oftheinterconversionfrequenciesthatfallintobinsofwidth0.1MHzbetween0.1and15MHz.
+Whenbothradicalshavefourhyperfine-couplednuclearspins(Figure11a),theradicalpairhasa
+broadspreadofinterconversionfrequencies.Becausetheheightsofthehistogrambarsaddupto
+1,thebarsallhavelowamplitude(<0.02inthiscase).Figure11b–eshowswhathappenswhenthe
+·
+328 Hore Mouritsen
+
+--- Page 31 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+number,N,ofhyperfineinteractionsinthesecondradicalisreducedfromfourtozero,keeping
+thenumberinthefirstradicalfixedatfour.WhenN=2(Figure11c),somefrequenciesstartto
+standoutabovethebroadbackground.WhenN=1(Figure11d),justahandfuloffrequencies
+dominatethedistribution,andwhenN=0(Figure11e)(i.e.,whenallofthehyperfineinteractions
+havebeenremovedfromthesecondradical),thereisjustonestrongcomponentsuperimposedon
+abroad,weakbackground.ThisuniquecomponentoccursattheLarmorfrequency(∼1.4MHz
+fora50-μTfield)regardlessofwhatthehyperfineinteractionsareinthefirstradical.However,
+thisistrueonlyiftheexchangeanddipolarinteractionsintheradicalpairaresmallcompared
+to50μT,whichinpracticewouldrequiretheradicalstobe50%furtherapartthanFAD•− and
+TrpH•+incryptochromes(38).
+Assumingthattheeffectofatime-dependentmagneticfieldonaradicalpairisproportional
+totheheightofthehistogrambarattheappropriatefrequency,threecasescanbeidentifiedfrom
+calculationssuchasthoseinFigure11:(a)Whenbothradicalshaveseveralhyperfineinteractions,
+theradicalpairislikelytobeaffectedbytime-dependentfieldsatavarietyofdifferentfrequencies
+(determinedbythehyperfineinteractionsinbothradicals)withnoparticularfrequenciesbeing
+muchmoresensitivethananyothers(Figure11a,b);(b)whenoneoftheradicalshasonlyoneor
+twohyperfineinteractions,thereshouldbesignificantlystrongerresponsesatafewfrequencies
+(determinedbythehyperfineinteractionsinthesimplerradical;Figure11c,d);and(c)onlywhen
+one radical is devoid of hyperfine interactions will there be a strong resonance at the Larmor
+frequency(Figure11e)andthenonlyiftheinteractionofthetwoelectronspinsisverysmall.
+Theoriginofthisbehaviorisclear:Incasec,everyradicalpairhasoneradicalwithamagnet-
+icallyisolatedelectronspinthatinteractsonlywiththegeomagneticfieldandsodrivessinglet-
+triplet interconversion at the Larmor frequency. In case b, the electron in the second radical
+contributesasmallnumberoffrequenciesdeterminedpartlybythegeomagnetic-fieldstrength
+butmostly(becausetheyarestronger)bythehyperfineinteractions.Incasea,bothradicalsare
+dominated by their hyperfine interactions, and no particular frequencies stand out. In general,
+themorehyperfineinteractionsthereareintheradicals,thewiderthespreadofinterconversion
+frequenciesandthesmallertheamplitudeineachofthehistogrambins.
+TheFAD–Trpradicalpairislikecaseabecausetherearemorethan10nucleiinbothradicals
+withsignificanthyperfineinteractions(108).Assuch,onewouldnotexpectamuchmoresensitive
+response to a field oscillating at or close to the Larmor frequency than at, say, half or double
+thatfrequency.However,thisispreciselywhatRitzetal.(165)reported:a15-nTradiofrequency
+field at 1.315 MHz (the Larmor frequency in Frankfurt am Main, Germany) was sufficient to
+preventEuropean robins fromusingtheir magnetic compass.By contrast,when the frequency
+waseither0.65MHzor2.63MHz,theintensityofthetime-dependentmagneticfieldhadtobe
+aslargeas470–480nTbeforethebirdsbecamedisoriented.Magneticdisorientationcausedby
+electromagneticfieldsattheLarmorfrequencyhasalsobeenreportedforgardenwarblersand
+cockroaches(92,194).
+TheinterpretationputonthefindingofRitzetal.(165)wasthatoneoftheradicalsmustbe
+devoidofhyperfineinteractions(i.e.,casec).Butthentheproblemistoknowwhatthisnewradical
+couldbeandhowtheseparationofthetworadicalscouldbelargeenoughtoensurethattheirmu-
+•−
+tualspininteractionisnegligible.Superoxide,O ,aradicalformofdioxygen,hasbeensuggested
+2
+•−
+as a possible alternative to the tryptophan radical (119, 165). O itself is free from hyperfine
+2
+interactions(16Ohasnospin;Table1),and,otherthingsbeingequal,anFAD-O •− radicalpair
+2
+isexpectedtobemuchmoresensitivetothegeomagneticfieldthanistheFAD–Trpradicalpair
+(108).Althoughattractiveinbiologicalterms[O efficientlyoxidizesreducedflavinsandcan,in
+2
+•− •−
+principle,formFAD-O radicalpairsintheprocess(142,158)],O isexpectedtohaveexceed-
+2 2
+inglyfastspinrelaxation(86,87).Unlikemostorganicradicals,whichhavemuchlowersymmetry,
+www.annualreviews.org • Radical-PairMagnetoreception 329
+
+--- Page 32 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+theelectronspininO •− couplesstronglytothemolecularaxis25andsorelaxesalmostasfastasthe
+2
+•−
+moleculerotates[probablyinnanoseconds(86,87)].ItseemsinconceivablethatO couldbind
+2
+stronglyenoughtocryptochrome(oranyotherimmobileobject)topreventthisfromhappening.
+•−
+WethereforecannotimaginethatO couldformpartofamagnetic-compasssensor.
+2
+Comingupwithabiologicallyplausibleradical(ormetalion)thatsatisfiesthedualconditions
+of negligible hyperfine interactions and slow spin relaxation has not been possible. Apart from
+superoxide,essentiallyeverybiologicalradicalonecanthinkofhasoneormorehydrogenand/or
+nitrogenatomsintheneighborhoodofthemolecularorbitalthatcontainstheunpairedelectron.
+Insummary,onewouldnotexpecttoseearesonanceattheLarmorfrequencyfromanyradical
+pairthatcouldreasonablyariseinorfromcryptochrome.Likewise,theclaimbyRitzetal.(164)
+thataradiofrequencyfieldorientedata24◦ or48◦ angletothegeomagneticfielddisruptedthe
+birds’magneticcompassorientation,whereasaradiofrequencyfieldalignedwiththegeomagnetic
+fielddidnot,isonlyexpectedtobetruewhenoneradicalhasnohyperfineinteractionsanddoes
+notinteractwithitspartnerradicalandis,thus,alsoincompatiblewithanyrealisticorganicradical.
+Averyrecentstudy(175),designedtoreplicatetheexperimentsofRitzetal.(165)undermuch
+morestringentlycontrolledconditions(whichinvolvedtestingbirdsdouble-blindlyinahighly
+electromagneticallyscreenedenvironment),failedtoseespecificeffectsonthebirds’magnetic-
+compass orientation capabilities using fields oscillating at the Larmor frequency. These results
+seriouslyquestionwhetherthespecificeffectsreportedattheLarmorfrequencyarereal.Thenew
+findingsaremoreconsistentwithradicalpairssuchastheFAD–Trppairincryptochromethat
+havehyperfineinteractionsinbothradicals.
+The points made above also raise the question of why several other studies have reported
+disruption of the magnetic orientation of various animals exposed to Larmor-frequency fields
+(forinstance,92,186,194).Inouropinion,theoriginoftheseeffectsisunclear.Noneofthese
+reportsincludedmeasurementsofthespectrumoftheradiofrequencyfieldstowhichtheanimals
+were exposed. This raises concerns that the nominally single-frequency exposures were in fact
+contaminated by broadband components and/or significant sidebands that could have caused
+thereportedeffects.Accurategenerationandmeasurementofsingle-frequencyelectromagnetic
+fields and broadband fields with well-defined bandwidths are challenging and require accurate
+signalgeneratorsandamplifiersandhigh-qualitysignalanalyzerswithappropriatelydesignedand
+calibratedantennas.Unfortunately,suchequipmentisexpensive.Toallowreliableinterpretation
+of future behavioral experiments, we consider it essential that both the magnetic and electric
+componentsofthetime-dependentfieldsarecarefullygenerated,measured,andreported(e.g.,
+from∼10kHzto10MHzorbeyond).
+Itcouldbearguedthatsuchcareinthedesignandexecutionofradiofrequencyexposuresis
+unnecessaryiftheaimissimplytodeterminewhetheraparticularbehaviororiginatesinradical
+pairsormagnetite.26Wedonotsharethisview.Eventually,researchonmagnetoreceptionshould
+strive for mechanistic explanations for the observed behaviors. Radiofrequency field effects on
+animalbehaviorcanprovideimportantcluestotheorigin,identities,andpropertiesoftheprimary
+sensorsbutonlyiftheexperimentalconditionsareaccuratelyknown.
+Furthermore,itisvitalthatallaspectsofbehavioralexperimentsarefullydouble-blindedto
+avoidthedangerthatresearchersareunconsciouslyinfluencedbyexpectationsoftheoutcomes.
+25Aresultofthestrongspin-orbitcouplinginO•−.
+2
+26Amagnetite-basedsensorintheinteriorofacellwouldmovefartooslowlytotrackaradiofrequencyfieldthatchanged
+directionmorethanamilliontimespersecondandhadanintensityseveralordersofmagnitudesmallerthanthegeomagnetic
+field.Thereshouldthereforebenoradiofrequencyfieldeffectsonmagnetitemagnetoreceptors.
+·
+330 Hore Mouritsen
+
+--- Page 33 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+Notallpredictionsoftheradical-pairmodelwillbe(orhavebeen)equallyreliable,simplybecause
+far too little is known about the radicals that might be involved. Double-blinded experimental
+proceduresarethebestguardagainstunintentionalbiaswhentestingmodel-basedhypotheses.
+AnotherpuzzlingaspectofthebehavioralexperimentsisthattheLarmor-frequencyfieldsthat
+appearedtodisorienttherobinsareveryweakindeed[∼15nT(165)].Howcouldatime-dependent
+fieldsome3,000timessmallerthan50μTdistortorcorruptthedirectionalinformationcoming
+fromtheEarth’smagneticfield(91)?Theonlyobviousexplanationisthatthespincoherencein
+theradicalpairisextraordinarilylonglived.Wesawinthediscussionofspinrelaxationabovethat
+atimeroughlyequaltotheLarmorperiod(∼700ns)isrequiredfortheEarth’sfieldtohavea
+significantimpactonthespindynamicsoftheradicalpair.Thisargumentcaneasilybeextended
+totime-dependentfields.Foratime-dependentfield3,000timesweakerthantheEarth’sfield,
+onewouldhavetowaitatleast3,000timeslonger(i.e.,∼2ms)beforeitcouldhaveasimilareffect.
+Imagininghowthespinrelaxationcouldbethatslowisextraordinarilydifficult(89,91).
+EffectsofBroadbandElectromagneticNoise
+ThedisorientationofEuropeanrobinsbyweakbroadbandelectromagneticfields(42,175)iseven
+moredifficulttounderstandbecausethefieldsinvolvedaresomuchweakerthanthoseusedinthe
+Larmor-frequencyexperiments(165,175).Thebirds’abilitytoorientinthegeomagneticfield
+wasfoundtobedisruptedbyelectromagneticnoise(sometimesreferredtoaselectrosmog)with
+aroot-mean-squareamplitudeof10to100pTanda40-minmax-holdamplitudeof0.1to20nT
+(measuredwitha10-kHzbandwidth)inthefrequencyrangeof2kHzto9MHz(42,175).Even
+thoughthesefieldscontaincomponentsthatoscillateatallpossiblesinglet-tripletinterconversion
+frequencies(e.g.,Figure11a)sothattherecouldbemultipleadditiveeffects,itisdifficulttosee
+howthespinrelaxationcouldbeslowenoughtoallowtheelectrosmogtocorruptthedirectional
+informationcomingfromthemuchstrongergeomagneticfield.
+However, the effect of broadband noise may not be a direct magnetic interference with the
+spindynamicsoftheradical-pairsensor:Thatthefluctuatingmagneticfieldaffectssomeother
+aspectofmagneticsensingorthatitistheelectricratherthanthemagneticcomponentofthe
+electromagneticfieldthatisresponsiblecannotbeexcluded.
+THEORETICALCONSIDERATIONS
+Entanglement
+The quantum nature of the radical-pair hypothesis has attracted the interest of theoreticians
+(7,27,56,75,101,105,154,191,218)andhasbeenhighlightedinseveralreviews(81,104,126,
+219),popularsciencearticles(6,196),andabook(5)ontheemergingfieldofquantumbiology.
+Oneofthemainreasonsforallthisattentionisthatthetwoelectronspinsinasingletradicalpair
+areentangled.Entanglement(aquantumphenomenonfamouslydescribedbyEinsteinas“spooky
+actionatadistance”)inthecontextofaradicalpairmeansthatthebehaviorofoneelectronspinis
+affectedbywhathappenstotheothereventhoughtheymaybewellseparatedandhaveanegligible
+interactionenergy.Entanglementisinterestinginavarietyofcontexts.Forexample,entangled
+quantum bits, known as qubits, can allow certain computations to be performed much more
+efficientlythanwithclassicalbitsinconventionalprocessors.Theproblemisthatentanglement
+isusuallydifficulttocreateandtopreserveforlongenoughtodoanythinguseful.Sothenotion
+that nature might have found a way to make an entangled state, maintain it for a microsecond
+or longer, and use it as the basis of a sensory mechanism is, to put it mildly, intriguing. It is,
+www.annualreviews.org • Radical-PairMagnetoreception 331
+
+--- Page 34 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+therefore,importanttoknowwhetherentanglementactuallyconveys anadvantage intermsof
+theperformanceofaradicalpairasacompasssensor.
+Asimplewaytoapproachthisquestionistocomparethebehaviorofradicalpairsthathave
+beenformedinasingletstate(seeFigures4,6,and7)withthebehaviorofthosethathavebeen
+formedinatripletstate(75).Uptonow,wehaveconsideredonlyinitialsingletsbecausethatis
+whathappensincryptochrome(69,120,179,201).Imagine,forexample,thatthephotoinduced
+electron transfers in cryptochrome are slow enough that the excited singlet state of the FAD,
+producedbylightabsorption,hastimetoswitchtotheexcitedtripletstate,aprocessknownas
+intersystem crossing (103). Electron transfer along the Trp triad would then generate a triplet
+radicalpairbecauseoftherequirementtoconservespin.Asfarasweknow,thisdoesnothappenin
+acryptochrome,butifitdid,itcouldbethebasisofacompasssensor.Infact,reportsofmagnetic-
+fieldeffectsoninitialtripletpairs(formedinorganicradicalreactionsinliquids)areconsiderably
+more numerous than those on initial singlet pairs (184). The point is that the electron spins
+in a singlet radical pair are entangled—whereas those in a triplet pair need not be (75)—but
+magnetic-fieldeffectscanbeseeninbothcases.Thissimpleargumentshowsthatentanglement
+isnotessentialforaradical-paircompass.27 Asaconsequence,mostofthetheoreticalworkon
+entanglementinthiscontext,thoughintrinsicallyinteresting,haslittlepracticalrelevancetothe
+mechanismofcompassmagnetoreception(27,56,101,154,190,218).
+Entanglement, therefore, seems to be something one gets “for free” in a cryptochrome—
+somethingthatisnotessentialfortheabilityoftheproteintoactasamagnetic-compasssensor.
+Indeed, to spin chemists,28 the very existence of spin entanglement is neither surprising nor
+particularlyexciting.Thetwoelectronspinsinachemicalbondinamoleculeareessentiallyan
+entangledsingletsoitisnotterriblysurprisingthataradicalpairformedbyshiftingoneofthose
+electronsrapidlytoanotherpartofthemoleculeshouldalsobeentangled.However,wecannot
+excludethepossibilitythatthereissomecompletelyunknownaspectoftheradical-pairmechanism
+inwhichtheentanglementplaysanimportantorevencrucialroleinboostingthesensitivityor
+precisionofthedirectionalresponsetoaweakmagneticfield.Newhypothesesofthissortwould
+bewelcomebut,ofcourse,wouldhavetobe(bio)chemically,aswellasphysically,plausible.
+CompassPrecision
+Theoreticaldescriptionsofradical-paircompasseshaveuntilveryrecentlybeenunabletoaccount
+forthehighprecision—betterthan5◦—withwhichbirdsareabletodetectthedirectionofthe
+Earth’smagneticfield(3,109).Usingrealisticmodelsof[FAD•−TrpH•+]radicalpairs,Hiscock,
+Worster,andcolleagues(74)haveshownthatwhenthespincoherencepersistsforlongerthana
+fewmicroseconds,theoutputofthesensorcontainsasharpfeature,referredtoasaspike.The
+spikearisesfromavoidedcrossingsofthequantummechanicalspinenergylevelsoftheradicalsand
+coulddeliveraheadingprecisionsufficienttoexplainthenavigationalbehaviorofmigratorybirds
+inthewild.Thisstudy(a)affordsnewinsightsintoradical-pairmagnetoreception,(b)suggestsways
+inwhichtheperformanceofthecompasscouldhavebeenoptimizedbyevolution,(c)mayprovide
+thebeginningsofanexplanationforthemagneticdisorientationofmigratorybirdsexposedto
+anthropogenic electromagnetic noise, and (d) suggests that radical-pair magnetoreception may
+bemoreofaquantumbiologyphenomenonthanpreviouslyrealized(74).
+27Evenifnotpresentinitially,entanglementcan,inprinciple,ariseasaresultofthecoherentspindynamicsoftheradical
+pair.This,too,islargelyofacademicinterest.
+28Formoreinformationonspinchemistry,seehttp://spinportal.chem.ox.ac.uk/.
+·
+332 Hore Mouritsen
+
+--- Page 35 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+RealisticRadicals
+Therehasbeenrelativelylittleworkdoneonrealisticmodelsoftheradicalpairsthatareknown
+tobeformed,orcouldfeasiblybeformed,inorfromcryptochromes(25,27,31,106,108).Now
+thatthebasicprinciplesofchemicaldirectionsensingarewellunderstood,itseemssensibleto
+focustheoreticalattentiononcryptochromesratherthanonabstractsystems(7,24,29,35,75,
+88,100,105,107,154,157,198,212,218)becausetheyaretheonlycandidatemagnetoreceptor
+moleculeswehaveatthemomentandbecausetheoreticalpredictionscanbetestedbyexperiment
+(albeit,sometimes,withconsiderabledifficulty).By“realistic”here,wemeantwothings.First,
+foranythingotherthanaqualitativetreatment,thespinsystemneedstoberealisticallycomplex.
+Althoughtreatmentsofverysimplemodelsystemsundoubtedlyhavetheirplace,theyshouldnot
+beexpectedtogiveareliablepictureofwhathappensinabiologicalcontext.Extrapolation,for
+example,fromamodelradicalpaircontainingzero,one,ortwonuclearspinsto[FAD•−Trp•+],
+whichhasmorethan15significanthyperfineinteractions,isquitelikelytobemisleading(111,121).
+Second,althoughcalculationsthateitherignorespinrelaxationorincludeitphenomenologically
+certainlyhavevalue(7,29,56,105,157,190,198,213),theytoocanbedeceptive.Consideringthe
+powerofmoderncomputersandtheingenuityoftheoreticians,thereisamplescopefordetailed
+treatmentsofcryptochrome-derivedradicalpairsinwhichtheelectrontransferstepsandthespin
+relaxation are incorporated by means of realistic magnetic interactions and realistic molecular
+dynamics(31,89,108,118,178,179).
+Finally, we would like to see a serious attempt to explain the quite remarkable finding that
+Europeanrobinsarepreventedfromusingtheirmagneticcompassbybroadbandelectromagnetic
+noise in the frequency range of ∼2 kHz to ∼9 MHz with root-mean-squareamplitudes in the
+range0.1to1.0pTHz−1/2(42,175).Wesuspectthatifthedisorientingeffectoftheseexceedingly
+weakfieldscanbeshowntoarisefromadisruptioninthespindynamics(oreven,unlikelyasit
+may seem, to be a consequence of the entanglement) of a radical-pair sensor molecule, then
+in all likelihood, it will provide powerful insights into the detailed operation of the compass
+sensor.
+CONCLUSIONS
+Current evidence strongly suggests that night-migratory songbirds have a light-dependent
+magnetic-compasssensorlocatedintheireyesandthattheunderlyingmechanismreliesonthe
+quantum spin dynamics of photoinduced radical pairs probably generated in cryptochromes.
+As outlined in Appendix 1, night-migratory songbirds seem to have a separate magnetic-map
+sensebased,atleastinpart,oninputreceivedthroughtheophthalmicbranchofthetrigeminal
+nerve.
+Bypresentingandexplainingtheprinciplesoftheradical-pairmechanism,wehaveidentifieda
+numberofcriticalareaswherefutureresearchisneededtodemonstratewhether,andtounderstand
+how,aradical-pairmechanismcouldenablemigratorybirdstosensethedirectionoftheEarth’s
+magneticfield.Itisclearthattrulymultidisciplinaryapproachesinvolvingquantumphysics;chem-
+istry; computer simulation; mathematical modeling; biochemistry; and molecular, neuro-, and
+behavioralbiologywillbeneededtosolvethisimportantlong-standingprobleminbiology.
+APPENDIX1:THEMAGNETITEHYPOTHESIS
+There is another mechanism by which animals could, in principle, sense the Earth’s magnetic
+field. Magnetite (Fe O ), a crystalline form of iron oxide, can exist as ∼50-nm single-domain
+3 4
+www.annualreviews.org • Radical-PairMagnetoreception 333
+
+--- Page 36 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+particleswithpermanentmagneticmomentsthatarelargeenoughthattheparticlescanrotate
+intoalignmentwitha50-μTmagneticfield(93–95,180,181,197,210).Smallercrystals(∼20nm)
+aresuperparamagnetic,meaningthatanexternalmagneticfieldcaninducemagneticmoments,
+whichmaycauseadjacentparticlestoattractorrepel(34,94).Inbothcases,themovementofthe
+crystalsinducedbythemagneticfieldcouldbedetected,forexample,bymechanoreceptorsorby
+theopeningofionchannels,andsoformthebasisofamagneticintensityordirectionsensor(85).
+Relatediron-containingmineralswithsimilarproperties(e.g.,maghemite,Fe O )havealsobeen
+2 3
+discussed(e.g.,Reference43).
+Manystudieshavedocumentedparticlesofmagnetiteorotherironmineralsin,forexample,
+nematodeworms,mollusks,insects,crustaceans,andavarietyofvertebrates(96,133,204,209).
+However,themereexistenceofbiogenic,iron-based,magneticparticlesdoesnotimplyrelevance
+tomagnetoreception(133).Ironisrequiredfortheproperfunctionofmostorganisms;ironho-
+meostasisisthereforeimportant,andironmineraldepositsmayjustbeawayforanorganismto
+storeexcessiron.Magneticparticlesorstructurescanonlybeconsideredaspossiblemagnetosen-
+sorsiftheyarefoundatspecificandconsistentlocationsinthebody,andiftheyarelinkedtothe
+nervoussystem(132–134).
+Chainsofmagnetitecrystals—magnetosomes—arefoundinmagnetotacticbacteriaandlead
+tomagneticallyorientedswimmingbehavior(10,18,50).However,theyarenotpartofanactive
+sensorysystemandmerelyresultinpassivealignmentofthebacteriumintheEarth’smagnetic
+field(133,204).Nevertheless,magnetosomesdoprovethatlivingcellsarecapableofsynthesizing
+magnetiteparticleswithlargeenoughmagneticmomentsthattheycanalignwiththegeomagnetic
+field.Similarstructureshaverepeatedlybeensuggestedasthebasisforavianmagnetoreception
+(e.g.,Reference96),butsofarmagnetosomeshavenotbeendetectedinthetissueofbirdsorany
+othervertebrate(133,134,204).
+Foralongtime,iron-mineralstructures—claimedtoconsistofmagnetitespherules,maghemite
+platelets,andavesicle—inthebirds’upperbeakwerethoughttofunctionasmagneticsensors(43,
+47).Thesestructureswerereportedtobelocatedindendrites(sensorynerveendings)atthree
+specificbilateralpositionsintheupperbeak.However,detailedstudies(192,193)onmorethan
+200pigeonsshowedthattheyarealmostcertainlymacrophages29 ratherthanmagnetosensitive
+neurons. That the structures reported by Treiber et al. (192, 193) included those previously
+interpretedasmagneticsensors(43)wassubsequentlyindependentlyconfirmed(132).However,
+technicallimitationsofthePrussianbluestainingmethodmeansthatotheriron-basedmagnetic
+sensorscouldhaveremainedundetected(132).
+Despite the controversy at the sensor level, a growing body of evidence suggests that the
+ophthalmicbranchofthetrigeminalnerve(V1),theonlynonolfactorynerveenteringtheupper
+beak,isinvolvedinmagnetoreception.ConvincingsupportfortherelevanceofV1inspecifictasks
+hascomefromstudiesinwhichthenervehasbeenablated(seeReference138foradiscussionof
+othermethodsofdisablingV1).SeveralstudiesinwhichV1hadbeensurgicallyseveredshowed
+significanteffectsonbirds’abilitiestodetectmagnetic-fieldchanges(128)orfoundasignificant
+decrease in magnetically induced neural responses in trigemino-recipient hindbrain structures
+aftereitherV1ablationorremovalofmagnetic-fieldstimulation(72,110).Thus,V1doesseem
+to convey magnetic information from the upper beak even though the primary sensors remain
+unknown.
+29Macrophagesareimmunecellscharacterizedbytheirabilitytoengulfforeignparticulateandcolloidalmaterial.Here,they
+areinvolvedinironhomeostasisandcontainferritinclusters.
+·
+334 Hore Mouritsen
+
+--- Page 37 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+ThemagneticinformationcarriedbyV1isunlikelytoprovidecompassinformationbecause
+intacttrigeminalnervesareneithernecessarynorsufficientformagnetic-compassorientation(11,
+215).Incontrast,V1mostlikelycarriespositionalmagneticinformationtothebrain.Migratory
+reedwarblerscorrectforavirtualmagneticdisplacement(99)andcancompensateforanactual
+1,000-kmdisplacementonlyifV1remainsintact(97).Furthermore,strongmagneticpulses,which
+wouldremagnetizeaniron-containingsensor,leadtodeflectedorientationinadultmigratorybirds
+(77,78).
+Inconclusion,birdsappeartohaveamagneticsenseassociatedwithV1.Itseemstobeinvolved
+indetectingmagnetic-mapinformation,notmagnetic-compassinformation.Thenatureofthe
+V1-associated magnetic sensors is unknown, but current evidence suggests that they are most
+likelytobeiron-mineral–based.
+APPENDIX2:INTERACTIONS,FIELDS,FREQUENCIES,
+ANDENERGIES
+TheinteractionofaspinwithamagneticfieldisknownasaZeemaninteraction.Theenergy(cid:2)E
+oftheZeemaninteractionofanelectroninamagneticfieldofstrengthBisgivenby
+(cid:2)E =hν =gμ B, 1.
+L B
+whereν istheLarmorfrequency,μ istheBohrmagneton(9.274×10−24JT −1),hisPlanck’s
+L B
+constant(6.626×10−34Js),andgistheg-valueoftheelectron.Forafreeelectron,g=2.002319,
+sothat
+(cid:2)E =1.86×10 −23B andν =2.80×1010B, 2.
+L
+where(cid:2)E isinjoules,ν isinhertz(i.e.,s−1),andBisinteslas.WhentheLarmorfrequencyis
+L
+expressedinkilohertzandthemagnetic-fieldstrengthisinmicroteslas,theconversionfactoris
+28.0kHzμT−1.Ina50-μTfield,(cid:2)E =9.28×10−28J,andν =1.40MHz.
+L
+Theg-valuesofunpairedelectronsinorganicradicalsdifferalittlefrom∼2.0023,theexact
+• •
+value depending on the structure of the radical. For example, CH 2.0026, CH OH 2.0033,
+3 2
+CH • CHO2.0045,RC • O∼2.0005,R N•O∼2.006,andROO • ∼2.015(inwhichRisanalkyl
+2 2
+group).Thesenumbersaresufficientlycloseto2.0023thatEquation2canstillbeusedforthe
+weakmagneticfieldsofconcernhere.
+Nucleihavemagneticmomentsthatare∼103timessmallerthantheelectron(becauseoftheir
+muchlargermass).NuclearZeemaninteractionsintheEarth’sfieldarethereforetinyandcanbe
+ignoredhere.
+Theenergiesof1Hand14Nhyperfineinteractionsinorganicradicalsarenormallylessthan
+∼4 × 10−26Jor,usingEquation2,lessthan∼2mTor∼60MHz.Manyhyperfineinteractions
+arestrongerthan∼50μT.ThisdoesnotstoptheEarth’smagneticfieldaffectingtheradical-pair
+chemistry(seeFigure2).
+The thermal energy associated with the random motions of molecules is k T, where k is
+B B
+Boltzmann’s constant (1.381×10−23 J K−1) and T is the temperature (in Kelvin). At 25◦C (or
+298K),k T≈4×10−21J.Thisisconsiderablylargerthantheenergiesmentionedabove,meaning
+B
+that the thermodynamic effect of the geomagnetic field on a radical-pair reaction is tiny. The
+fractionalchangeinanequilibriumconstantortherateconstantofathermallyactivatedchemical
+reactioncausedbya50-μTfieldat298Kisatmost1−exp(−(cid:2)E/k T)≈(cid:2)E/k T ≈2×10−7
+B B
+(i.e.,onepartin5million).TheIntroductionandSpinRelaxationsectionsaboveexplainwhythis
+isnotaproblemfortheradical-pairmechanism.
+www.annualreviews.org • Radical-PairMagnetoreception 335
+
+--- Page 38 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+Thesinglet(S)andthreetripletstates(T+1 ,T
+0
+,andT−1 )ofapairofelectronscanberepre-
+sentedusingarrows(↑and↓)toindicatethetwoallowedstatesofeachspin,thus,30
+S=(↑ ↓ )−(↓ ↑ )
+1 2 1 2
+T+1 =(↑
+1
+↑
+2
+); T
+0
+=(↑
+1
+↓
+2
+)+(↓
+1
+↑
+2
+); T−1 =(↓
+1
+↓
+2
+).
+Thesubscripts1and2labelthetwoelectrons.Thesubscriptsonthetripletstatesdenotethe
+sizeoftheprojectionofthespinangularmomentumvectorontoanarbitraryaxis,inunitsofh/2π.
+DISCLOSURESTATEMENT
+The authorsarenotaware ofanyaffiliations,memberships,funding,or financial holdingsthat
+mightbeperceivedasaffectingtheobjectivityofthisreview.
+ACKNOWLEDGMENTS
+WethankDanielKattnigforpreparingFigures3and8;ThomasAlerstamforsharinghisvast
+experience gained from observing migratory birds with radar; Arndt Meyer for measuring the
+diameter of European robin photoreceptor outer segments; and Karin Dedek, Anja Gunther,
+Hamish Hiscock, Daniel Kattnig, Ilia Solov’yov, and Susannah Worster for helpful comments
+onthemanuscript.Wearegratefultothefollowingforfinancialsupport:theDefenseAdvanced
+Research Projects Agency (QuBE:N66001-10-1-4061toH.M. and P.J.H.),the European Re-
+searchCouncil(undertheEuropeanUnion’sseventhFrameworkProgram,FP7/2007-2013/ERC
+grantagreementno.34,0451toP.J.H.),theEMFBiologicalResearchTrust(toP.J.H.),theAir
+ForceOfficeofScientificResearch(AirForceMaterielCommand,USAFawardno.FA9550-14–
+1-0095toP.J.H.andH.M.),theDeutscheForschungsgemeinschaft(GRK1885toH.M.),and
+theVolkswagenstiftung(LichtenbergProfessurtoH.M.).
+LITERATURECITED
+1. AhmadM,CashmoreAR.1993.HY4geneofA. thalianaencodesaproteinwithcharacteristicsofa
+blue-lightphotoreceptor.Nature366:162–66
+2. AhmadM,GallandP,RitzT,WiltschkoR,WiltschkoW.2007.Magneticintensityaffectscryptochrome-
+dependentresponsesinArabidopsisthaliana.Planta225:615–24
+3. AkessonS,MorinJ,MuheimR,OttossonU.2001.Avianorientationatsteepanglesofinclination:exper-
+imentswithmigratorywhite-crownedsparrowsatthemagneticNorthPole.Proc.R.Soc.B268:1907–13
+4. AlerstamT.1988.Findingsofdeadbirdsdriftedashorerevealcatastrophicmortalityamongearlyspring
+migrants,especiallyrooksCorvusfrugilegusoverthesouthernBalticSea.Anser27:181–218
+5. Al-KhaliliJ,McFaddenJ.2014.LifeontheEdge:TheComingofAgeofQuantumBiology.London:Bantam
+6. BallP.2011.Physicsoflife:thedawnofquantumbiology.Nature474:272–74
+7. Bandyopadhyay JN, Paterek T, Kaszlikowski D. 2012. Quantum coherence and sensitivity of avian
+magnetoreception.Phys.Rev.Lett.109:110502
+8. BanerjeeR,SchleicherE,MeierS,VianaRM,PokornyR,etal.2007.ThesignalingstateofArabidopsis
+cryptochrome2containsflavinsemiquinone.J.Biol.Chem.282:14916–22
+9. BazalovaO,KvicalovacM,ValkovaT,SlabyP,BartosP,etal.2016.Cryptochrome2mediatesdirectional
+magnetoreceptionincockroaches.PNAS113:1660–65
+30The√1
+2
+normalizationfactorsforSandT0havebeenomitted.
+·
+336 Hore Mouritsen
+
+--- Page 39 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+10. BazylinskiDA,FrankelRB.2004.Magnetosomeformationinprokaryotes.Nat.Rev.Microbiol.2:217–30
+11. BeasonRC,SemmP.1996.Doestheavianophthalmicnervecarrymagneticnavigationalinformation?
+J.Exp.Biol.199:1241–44
+12. BernardGD,WehnerR.1977.Functionalsimilaritiesbetweenpolarizationvisionandcolorvision.Vis.
+Res.17:1019–28
+13. BertholdP.1999.Acomprehensivetheoryfortheevolution,controlandadaptabilityofavianmigration.
+Ostrich70:1–11
+14. BinhiV.2008.Donaturallyoccurringmagneticnanoparticlesinthehumanbodymediateincreasedrisk
+ofchildhoodleukaemiawithEMFexposure?Int.J.Radiat.Biol.84:569–79
+15. BiskupT,HitomiK,GetzoffED,KrapfS,KoslowskiT,etal.2011.Unexpectedelectrontransferin
+cryptochromeidentifiedbytime-resolvedEPRspectroscopy.Angew.Chem.Int.Ed.Engl.50:12647–51
+16. BiskupT,SchleicherE,OkafujiA,LinkG,HitomiK,etal.2009.Directobservationofaphotoinduced
+radicalpairinacryptochromeblue-lightphotoreceptor.Angew.Chem.Int.Ed.Engl.48:404–7
+17. Bjo¨rnLO,ed.2015.Photobiology:TheScienceofLightandLife.NewYork:Springer
+18. BlakemoreR.1975.Magnetotacticbacteria.Science190:377–79
+19. Bolte P, BleibaumF, Einwich A, Gu¨nther A, Liedvogel M, et al. 2016. Localisation of the putative
+magnetoreceptiveproteincryptochrome1bintheretinaeofmigratorybirdsandhomingpigeons.PLOS
+ONE11:e0147819
+20. BowmanMK,BudilDE,ClossGL,KostkaAG,WraightCA,NorrisJR.1981.Magnetic-resonance
+spectroscopyoftheprimarystate,PF,ofbacterialphotosynthesis.PNAS78:3305–7
+21. BrautigamCA,SmithBS,MaZ,PalnitkarM,TomchickDR,etal.2004.Structureofthephotolyase-like
+domainofcryptochrome1fromArabidopsisthaliana.PNAS101:12142–47
+22. BrettelK,ByrdinM.2010.ReactionmechanismsofDNAphotolyase.Curr.Opin.Struct.Biol.20:693–701
+23. BuchachenkoAL.2009.MagneticIsotopeEffectinChemistryandBiochemistry.NewYork:NovaScience
+24. CaiCY,AiQ,QuanHT,SunCP.2012.Sensitivechemicalcompassassistedbyquantumcriticality.
+Phys.Rev.A85:022315
+25. CaiJ.2011.Quantumprobeanddesignforachemicalcompasswithmagneticnanostructures.Phys.Rev.
+Lett.106:100501
+26. CaiJ,CarusoF,PlenioMB.2012.Quantumlimitsforthemagneticsensitivityofachemicalcompass.
+Phys.Rev.A85:040304
+27. CaiJ,GuerreschiGG,BriegelHJ.2010.Quantumcontrolandentanglementinachemicalcompass.
+Phys.Rev.Lett.104:220502
+28. CailliezF,Mu¨llerP,FirminoT,PernotP,delaLandeA.2016.Energeticsofphotoinducedcharge
+migrationwithinthetryptophantetradofananimal(6−4)photolyase.J.Am.Chem.Soc.138:1904–15
+29. CarrilloA,CornelioMF,deOliveiraMC.2015.Environment-inducedanisotropyandsensitivityofthe
+radicalpairmechanismintheaviancompass.Phys.Rev.E92:012720
+30. ChavesI,PokornyR,ByrdinM,HoangN,RitzT,etal.2011.Thecryptochromes:bluelightphotore-
+ceptorsinplantsandanimals.Annu.Rev.PlantBiol.62:335–64
+31. CintolesiF,RitzT,KayCWM,TimmelCR,HorePJ.2003.Anisotropicrecombinationofanimmobi-
+lizedphotoinducedradicalpairina50-μTmagneticfield:amodelavianphotomagnetoreceptor.Chem.
+Phys.294:385–99
+32. CochranWW,MouritsenH,WikelskiM.2004.Migratingsongbirdsrecalibratetheirmagneticcompass
+dailyfromtwilightcues.Science304:405–8
+33. CohenAE.2009.Nanomagneticcontrolofintersystemcrossing.J.Phys.Chem.A113:11084–92
+34. DavilaAF,FleissnerG,WinklhoferM,PetersenN.2003.Anewmodelforamagnetoreceptorinhoming
+pigeonsbasedoninteractingclustersofsuperparamagneticmagnetite.Phys.Chem.Earth28:647–52
+35. Dellis AT, Kominis IK. 2012. The quantum Zeno effect immunizes the avian compass against the
+deleteriouseffectsofexchangeanddipolarinteractions.Biosystems107:153–57
+36. Dhande OS, Huberman AD. 2014. Retinal ganglion cell maps in the brain: implications for visual
+processing.Curr.Opin.Neurobiol.24:133–42
+37. DodsonCA,HorePJ,WallaceMI.2013.Aradical senseofdirection:signalling and mechanismin
+cryptochromemagnetoreception.TrendsBiochem.Sci.38:435–46
+www.annualreviews.org • Radical-PairMagnetoreception 337
+
+--- Page 40 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+38. EfimovaO,HorePJ.2008.Roleofexchangeanddipolarinteractionsintheradicalpairmodelofthe
+avianmagneticcompass.Biophys.J.94:1565–74
+39. EmlenST.1980.Decisionmakingbynocturnalbirdmigrants:theintegrationofmultiplecues.Acta
+XVIICongr.Intern.Ornithol.,Berlin,pp.553–60.Berlin:DeutschenOrnithologen-Gesellschaft
+40. EngelhardC,WangXC,RoblesD,MoldtJ,EssenLO,etal.2014.Cellularmetabolitesenhancethe
+light sensitivity of Arabidopsis cryptochrome through alternate electron transfer pathways. Plant Cell
+26:4519–31
+41. Engels S, Hein CM, Lefeldt N, Prior H, Mouritsen H. 2012. Night-migratory songbirds possess a
+magneticcompassinbotheyes.PLOSONE7:e43271
+42. EngelsS,SchneiderNL,LefeldtN,HeinCM,ZapkaM,etal.2014.Anthropogenicelectromagnetic
+noisedisruptsmagneticcompassorientationinamigratorybird.Nature509:353–56
+43. FalkenbergG,FleissnerG,SchuchardtK,KuehbacherM,ThalauP,etal.2010.Avianmagnetoreception:
+Elaborateironmineralcontainingdendritesintheupperbeakseemtobeacommonfeatureofbirds.
+PLOSONE5:e9231
+44. FedeleG,EdwardsMD,BhutaniS,HaresJM,MurbachM,etal.2014.Geneticanalysisofcircadian
+responsestolowfrequencyelectromagneticfieldsinDrosophilamelanogaster.PLOSGenet.10:e1004804
+45. FedeleG,GreenEW,RosatoE,KyriacouCP.2014.Anelectromagneticfielddisruptsnegativegeotaxis
+inDrosophilaviaaCRY-dependentpathway.Nat.Commun.5:4391
+46. FeendersG,LiedvogelM,RivasM,ZapkaM,HoritaH,etal.2008.Molecularmappingofmovement-
+associatedareasintheavianbrain:amotortheoryforvocallearningorigin.PLOSONE3:e1768
+47. FleissnerG,Holtkamp-RotzlerE,HanzlikM,WinklhoferM,FleissnerG,etal.2003.Ultrastructural
+analysisofaputativemagnetoreceptorinthebeakofhomingpigeons.J.Comp.Neurol.458:350–60
+48. FoleyLE,GegearRJ,ReppertSM.2011.Humancryptochromeexhibitslight-dependentmagnetosen-
+sitivity.Nat.Commun.2:356
+49. ForbesMDE,JarochaLE,SimS,TarasovVF.2013.Time-resolvedelectronparamagneticresonance
+spectroscopy:history,technique,andapplicationtosupramolecularandmacromolecularchemistry.Adv.
+Phys.Org.Chem.47:1–83
+50. FrankelRB,BlakemoreRP.1989.Magnetiteandmagnetotaxisinmicroorganisms.Bioelectromagnetics
+10:223–37
+51. FrankevichEL,KubarevSI.1982.Spectroscopyofreactionyielddetectedmagneticresonance.InTriplet
+StateODMRSpectroscopy,ed.RHClarke,pp.137–83.NewYork:Wiley
+52. FranssonT,JakobssonS,JohanssonP,KullbergC,LindJ,VallinA.2001.Birdmigration:Magnetic
+cuestriggerextensiverefuelling.Nature414:35–36
+53. FrischMJ,TrucksGW,SchlegelHB,ScuseriaGE,RobbMA,etal.2004.Gaussian03,RevisionC.02.
+Wallingford,CT:Gaussian,Inc.
+54. FrostBJ,MouritsenH.2006.Theneuralmechanismsoflongdistanceanimalnavigation.Curr.Opin.
+Neurobiol.16:481–88
+55. GagliardoA.2013.Fortyyearsofolfactorynavigationinbirds.J.Exp.Biol.216:2165–71
+56. GaugerEM,RieperE,MortonJJL,BenjaminSC,VedralV.2011.Sustainedquantumcoherenceand
+entanglementintheaviancompass.Phys.Rev.Lett.106:040503
+57. GegearRJ,CasselmanA,WaddellS,ReppertSM.2008.Cryptochromemediateslight-dependentmag-
+netosensitivityinDrosophila.Nature454:1014–18
+58. GegearRJ,FoleyLE,CasselmanA,ReppertSM.2010.Animalcryptochromesmediatemagnetorecep-
+tionbyanunconventionalphotochemicalmechanism.Nature463:804–7
+59. GiovaniB,ByrdinM,AhmadM,BrettelK.2003.Light-inducedelectrontransferinacryptochrome
+blue-lightphotoreceptor.Nat.Struct.Biol.10:489–90
+60. GoezM.2013.Elucidatingorganicreactionmechanismsusingphoto-CIDNPspectroscopy.Top.Curr.
+Chem.338:1–32
+61. GompertsBD,KramerIM,TathamPER.2013.SignalTransduction.Amsterdam:Academic
+62. GuilfordT,BiroD.2014.Routefollowingandthepigeon’sfamiliarareamap.J.Exp.Biol.217:169–79
+63. Gu¨lerAD,EckerJL,LallGS,HaqS,AltimusCM,etal.2008.Melanopsincellsaretheprincipalconduits
+forrod–coneinputtonon-image-formingvision.Nature453:102–5
+·
+338 Hore Mouritsen
+
+--- Page 41 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+64. GunkelM,SchonebergJ,AlkhaldiW,IrsenS,NoeF,etal.2015.Higher-orderarchitectureofrhodopsin
+inintactphotoreceptorsanditsimplicationforphototransductionkinetics.Structure23:628–38
+65. HarrisS-R,HenbestKB,MaedaK,PannellJR,TimmelCR,etal.2009.Effectofmagneticfieldson
+cryptochrome-dependentresponsesinArabidopsisthaliana.J.R.Soc.Interface6:1193–205
+66. HeinCM,EngelsS,KishkinevD,MouritsenH.2011.Robinshaveamagneticcompassinbotheyes.
+Nature471:E11–12
+67. HeinCM,ZapkaM,HeyersD,KutzschbauchS,SchneiderNL,MouritsenH.2010.Night-migratory
+gardenwarblerscanorientwiththeirmagneticcompassusingtheleft,therightorbotheyes.J.R.Soc.
+Interface7:S227–33
+68. HenbestKB,KukuraP,RodgersCT,HorePJ,TimmelCR.2004.Radiofrequencymagneticfieldeffects
+onaradicalrecombinationreaction:adiagnostictestfortheradicalpairmechanism.J.Am.Chem.Soc.
+126:8102–3
+69. HenbestKB,MaedaK,HorePJ,JoshiM,BacherA,etal.2008.Magnetic-fieldeffectonthephotoacti-
+vationreactionofEscherichiacoliDNAphotolyase.PNAS105:14395–99
+70. HerbelV,OrthC,WenzelR,AhmadM,BittlR,BatschauerA.2013.LifetimesofArabidopsiscryp-
+tochromesignalingstatesinvivo.PlantJ.74:583–92
+71. HeyersD,MannsM,LukschH,Gu¨ntu¨rku¨nO,MouritsenH.2007.Avisualpathwaylinksbrainstruc-
+turesactiveduringmagneticcompassorientationinmigratorybirds.PLOSONE2:e937
+72. HeyersD,ZapkaM,HoffmeisterM,WildJM,MouritsenH.2010.Magneticfieldchangesactivatethe
+trigeminalbrainstemcomplexinamigratorybird.PNAS107:9394–99
+73. HillE,RitzT.2010.Candisorderedradicalpairsystemsprovideabasisforamagneticcompassin
+animals?J.R.Soc.Interface7:S265–71
+74. HiscockHG,WorsterS,KattnigDR,SteersC,JinY,etal.2016.Thequantumneedleoftheavian
+magneticcompass.PNAS113:4634–39
+75. HogbenHJ,BiskupT,HorePJ.2012.Entanglementandsourcesofmagneticanisotropyinradical
+pair-basedavianmagnetoreceptors.Phys.Rev.Lett.109:220501
+76. Hogben HJ, Efimova O, Wagner-Rundell N, Timmel CR, Hore PJ. 2009.Possible involvement of
+superoxideanddioxygenwithcryptochromeinavianmagnetoreception:originofZeemanresonances
+observedbyinvivoEPRspectroscopy.Chem.Phys.Lett.480:118–22
+77. HollandRA.2010.Differentialeffectsofmagneticpulsesontheorientationofnaturallymigratingbirds.
+J.R.Soc.Interface7:1617–25
+78. HollandRA.2014.Truenavigationinbirds:fromquantumphysicstoglobalmigration.J.Zool.293:1–15
+79. HorePJ.2011.Thequantumrobin.NavigationNews,November/December,pp.15–17
+80. HorePJ.2015.NuclearMagneticResonance.Oxford:OxfordUniv.Press
+81. HuelgaSF,PlenioMB.2013.Vibrations,quantaandbiology.Contemp.Phys.54:181–207
+82. JarvisED,Gu¨ntu¨rku¨nO,BruceL,CsillagA,KartenH,etal.2005.Avianbrainsandanewunderstanding
+ofvertebratebrainevolution.Nat.Rev.Neurosci.6:151–59
+83. JarvisED,NottebohmF.1997.Motor-drivengeneexpression.PNAS94:4097–5102
+84. JarvisED,YuJ,RivasMV,HoritaH,FeendersG,etal.2013.Globalviewofthefunctionalmolecular
+organizationoftheaviancerebrum:mirrorimagesandfunctionalcolumns.J.Comp.Neurol.521:3614–65
+85. JohnsenS,LohmannKJ.2005.Thephysicsandneurobiologyofmagnetoreception.Nat.Rev.Neurosci.
+6:703–12
+86. KarogodinaTY,DranovIG,SergeevaSV,StassDV,SteinerUE.2011.Kineticmagnetic-fieldeffect
+involvingthesmallbiologicallyrelevantinorganicradicalsnitricoxideandsuperoxide.ChemPhysChem.
+12:1714–28
+87. KarogodinaTY,SergeevaSV,StassDV.2009.Magneticfieldeffectinthereactionofrecombinationof
+nitricoxideandsuperoxideanion.Appl.Magn.Reson.36:195–208
+88. KatsoprinakisGE,DellisAT,KominisIK.2010.Coherenttripletexcitationsuppressestheheading
+erroroftheaviancompass.NewJ.Phys.12:085016
+89. KattnigDR,Solov’yovIA,HorePJ.2016.Electronspinrelaxationincryptochrome-basedmagnetore-
+ception.Phys.Chem.Chem.Phys.18:12443–56
+90. Kaupp UB, Koch KW. 1992. Role of cGMP and Ca2+ in vertebrate photoreceptor excitation and
+adaptation.Annu.Rev.Physiol.54:153–75
+www.annualreviews.org • Radical-PairMagnetoreception 339
+
+--- Page 42 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+91. KavokinKV.2009.Thepuzzleofmagneticresonanceeffectonthemagneticcompassofmigratorybirds.
+Bioelectromagnetics30:402–10
+92. Kavokin KV, Chernetsov N, Pakhomov A, Bojarinova J, Kobylkov D, Namozov B. 2014. Magnetic
+orientationofgardenwarblers(Sylviaborin)under1.4MHzradiofrequencymagneticfield.J.R.Soc.
+Interface11:20140451
+93. KirschvinkJL,GouldJL.1981.Biogenicmagnetiteasabasisformagnetic-fielddetectioninanimals.
+Biosystems13:181–201
+94. KirschvinkJL,WalkerMM.1985.Particlesizeconsiderationsformagnetitebasedmagnetoreceptors.In
+MagnetiteBiomineralizationandMagnetoreceptioninOrganisms:ANewBiomagnetism,ed.JLKirschvink,
+DSJones,BJMcFadden,pp.243–54.NewYork:Plenum
+95. KirschvinkJL,WalkerMM,DiebelCE.2001.Magnetite-basedmagnetoreception.Curr.Opin.Neurobiol.
+11:462–67
+96. KirschvinkJL,WinklhoferM,WalkerMM.2010.Biophysicsofmagneticorientation:strengthening
+theinterfacebetweentheoryandexperimentaldesign.J.R.Soc.Interface7:S179–91
+97. KishkinevD,ChernetsovN,HeyersD,MouritsenH.2013.Migratoryreedwarblersneedintacttrigem-
+inalnervestocorrectfora1,000kmeastwarddisplacement.PLOSONE8:e65847
+98. KishkinevD,ChernetsovN,MouritsenH.2010.Adouble-clockorjetlagmechanismisunlikelytobe
+involvedindetectionofeast-westdisplacementsinalong-distanceavianmigrant.Auk127:773–80
+99. Kishkinev D, Chernetsov N, Pakhomov A, Heyers D, Mouritsen H. 2015. Eurasian reed warblers
+compensateforvirtualmagneticdisplacement.Curr.Biol.25:R822–24
+100. KominisIK.2009.QuantumZenoeffectexplainsmagnetic-sensitiveradical-ion-pairreactions.Phys.
+Rev.E80:056115
+101. KominisIK.2012.Magneticsensitivityandentanglementdynamicsofthechemicalcompass.Chem.
+Phys.Lett.542:143–46
+102. KondohM,ShiraishiC,Mu¨llerP,AhmadM,HitomiK,etal.2011.Light-inducedconformational
+changesinfull-lengthArabidopsisthalianacryptochrome.J.Mol.Biol.413:128–37
+103. Kowalczyk RM, Schleicher E, Bittl R, Weber S. 2004. The photoinduced triplet of flavins and its
+protonationstates.J.Am.Chem.Soc.126:11393–99
+104. Lambert N, Chen YN, Cheng YC, Li CM, Chen GY, Nori F. 2013. Quantum biology. Nat. Phys.
+9:10–18
+105. Lambert N, De Liberato S, Emary C, Nori F. 2013. Radical-pair model of magnetoreception with
+spin-orbitcoupling.NewJ.Phys.15:083024
+106. LauJCS,RodgersCT,HorePJ.2012.Compassmagnetoreceptioninbirdsarisingfromphoto-induced
+radicalpairsinrotationallydisorderedcryptochromes.J.R.Soc.Interface9:3329–37
+107. LauJCS,Wagner-RundellN,RodgersCT,GreenNJB,HorePJ.2010.Effectsofdisorderandmotion
+inaradicalpairmagnetoreceptor.J.R.Soc.Interface7:S257–64
+108. Lee AA, Lau JCS, Hogben HJ, Biskup T, Kattnig DR, Hore PJ. 2014. Alternative radical pairs for
+cryptochrome-basedmagnetoreception.J.R.Soc.Interface11:20131063
+109. LefeldtN,DreyerD,SchneiderNL,SteenkenF,MouritsenH.2015.Migratoryblackcapstestedin
+Emlenfunnelscanorientat85degreesbutnotat88degreesmagneticinclination.J.Exp.Biol.218:206–11
+110. LefeldtN,HeyersD,SchneiderNL,EngelsS,ElbersD,MouritsenH.2014.Magneticfield-driven
+inductionofZENKinthetrigeminalsystemofpigeons(Columbalivia).J.R.Soc.Interface11:20140777
+111. LewisAM,ManolopoulosDE,HorePJ.2014.Asymmetricrecombinationandelectronspinrelaxation
+inthesemiclassicaltheoryofradicalpairreactions.J.Chem.Phys.141:044111
+112. LiX,WangQ,YuXH,LiuHT,YangH,etal.2011.Arabidopsiscryptochrome2(CRY2)functions
+bythephotoactivationmechanismdistinctfromthetryptophan(Trp)triad-dependentphotoreduction.
+PNAS108:20844–49
+113. LiedvogelM,FeendersG,WadaK,TrojeNF,JarvisED,MouritsenH.2007.Lateralizedactivationof
+ClusterNinthebrainsofmigratorysongbirds.Eur.J.Neurosci.25:1166–73
+114. LiedvogelM,MaedaK,HenbestK,SchleicherE,SimonT,etal.2007.Chemicalmagnetoreception:
+Birdcryptochrome1aisexcitedbybluelightandformslong-livedradical-pairs.PLOSONE2:e1106
+115. LiedvogelM,MouritsenH.2010.Cryptochromes—apotentialmagnetoreceptor:Whatdoweknow
+andwhatdowewanttoknow?J.R.Soc.Interface7:S147–62
+·
+340 Hore Mouritsen
+
+--- Page 43 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+116. LinCT,TodoT.2005.Thecryptochromes.GenomeBiol.6:220
+117. LohmannKJ,PutmanNF,LohmannCMF.2012.Themagneticmapofhatchlingloggerheadseaturtles.
+Curr.Opin.Neurobiol.22:336–42
+118. Lu¨demannG,Solov’yovIA,KubarT,ElstnerM.2015.Solventdrivingforceensuresfastformationof
+apersistentandwell-separatedradicalpairinplantcryptochrome.J.Am.Chem.Soc.137:1147–56
+119. MaedaK,HenbestKB,CintolesiF,KuprovI,RodgersCT,etal.2008.Chemicalcompassmodelof
+avianmagnetoreception.Nature453:387–90
+120. MaedaK,RobinsonAJ,HenbestKB,HogbenHJ,BiskupT,etal.2012.Magneticallysensitivelight-
+inducedreactionsincryptochromeareconsistentwithitsproposedroleasamagnetoreceptor.PNAS
+109:4774–79
+121. Manolopoulos DE, Hore PJ. 2013. An improved semiclassical theory of radical pair recombination
+reactions.J.Chem.Phys.139:124106
+122. MarleyR,GiachelloCNG,ScruttonNS,BainesRA,JonesAR.2014.Cryptochrome-dependentmag-
+neticfieldeffectonseizureresponseinDrosophilalarvae.Sci.Rep.4:5799
+123. MarshakDW,MillsSL.2014.Short-wavelengthcone-opponentretinalganglioncellsinmammals.Vis.
+Neurosci.31:165–75
+124. MelloCV,VicarioDS,ClaytonDF.1992.Songpresentationinducesgene-expressioninthesongbird
+forebrain.PNAS89:6818–22
+125. Mo¨biusK,SavitskyA.2009.High-FieldEPRSpectroscopyonProteinsandTheirModelSystems.Cambridge,
+UK:R.Soc.Chem.
+126. MohseniM,OmarY,EngelGS,PlenioMB,eds.2014.QuantumEffectsinBiology.Cambridge,UK:
+CambridgeUniv.Press
+127. Mo¨llerA,SagasserS,WiltschkoW,SchierwaterB.2004.Retinalcryptochromeinamigratorypasserine
+bird:apossibletransducerfortheavianmagneticcompass.Naturwissenschaften91:585–88
+128. MoraCV,DavisonM,WildJM,WalkerMM.2004.Magnetoreceptionanditstrigeminalmediationin
+thehomingpigeon.Nature432:508–11
+129. MoserCC,KeskeJM,WarnckeK,FaridRS,DuttonPL.1992.Natureofbiologicalelectrontransfer.
+Nature355:796–802
+130. MouritsenH.2001.Navigationinbirdsandotheranimals.ImageVis.Comput.19:713–31
+131. MouritsenH.2003.Spatiotemporalorientationstrategiesoflong-distancemigrants.InAvianMigration,
+ed.PBerthold,EGwinner,ESonnenschein,pp.493–513.Berlin:Springer-Verlag
+132. MouritsenH.2012.Searchforthecompassneedles.Nature484:320–21
+133. Mouritsen H. 2013. The magnetic senses. In Neurosciences - From Molecule to Behavior: A University
+Textbook,ed.CGGalizia,P-MLledo,pp.427–43.Berlin:Springer-Verlag
+134. MouritsenH.2014.Magnetoreceptioninbirdsanditsuseforlong-distancemigration.InSturkie’sAvian
+Physiology,ed.CScanes,pp.113–33.NewYork:Elsevier
+135. MouritsenH,FeendersG,LiedvogelM,KroppW.2004.Migratorybirdsuseheadscanstodetectthe
+directionoftheEarth’smagneticfield.Curr.Biol.14:1946–49
+136. MouritsenH,FeendersG,LiedvogelM,WadaK,JarvisED.2005.Night-visionbrainareainmigratory
+songbirds.PNAS102:8339–44
+137. MouritsenH,HeyersD,Gu¨ntu¨rku¨nO.2016.Theneuralbasisoflong-distancenavigationinbirds.
+Annu.Rev.Physiol.78:133–54
+138. MouritsenH,HorePJ.2012.Themagneticretina:light-dependentandtrigeminalmagnetoreception
+inmigratorybirds.Curr.Opin.Neurobiol.22:343–52
+139. MouritsenH,Janssen-BienholdU,LiedvogelM,FeendersG,StalleickenJ,etal.2004.Cryptochromes
+andneuronal-activitymarkerscolocalizeintheretinaofmigratorybirdsduringmagneticorientation.
+PNAS101:14294–99
+140. MouritsenH,MouritsenO.2000.Amathematicalexpectationmodelforbirdnavigationbasedonthe
+clock-and-compassstrategy.J.Theor.Biol.207:283–91
+141. MuheimR,Sjo¨bergS,Pinzon-RodriguezA.2016.Polarizedlightmodulateslight-dependentmagnetic
+compassorientationinbirds.PNAS113:1654–59
+142. Mu¨llerP,AhmadM.2011.Light-activatedcryptochromereactswithmolecularoxygentoformaflavin-
+superoxideradicalpairconsistentwithmagnetoreception.J.Biol.Chem.286:21033–40
+www.annualreviews.org • Radical-PairMagnetoreception 341
+
+--- Page 44 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+143. Mu¨llerP,YamamotoJ,MartinR,IwaiS,BrettelK.2015.Discoveryandfunctionalanalysisofa4th
+electron-transferringtryptophanconservedexclusivelyinanimalcryptochromesand(6-4)photolyases.
+Chem.Commun.51:15502–5
+144. MuusLT,AtkinsPW,McLauchlanKA,PedersenJB.1977.ChemicallyInducedMagneticPolarization.
+Dordrecht,Neth.:D.Reidel
+145. NewtonI.2010.TheMigrationEcologyofBirds.London,UK:Academic
+146. NießnerC,DenzauS,GrossJC,PeichlL,BischofHJ,etal.2011.Avianultraviolet/violetconesidentified
+asprobablemagnetoreceptors.PLOSONE6:e20091
+147. NießnerC,DenzauS,PeichlL,WiltschkoW,WiltschkoR.2014.Magnetoreceptioninbirds:I.Im-
+munohistochemicalstudiesconcerningthecryptochromecycle.J.Exp.Biol.217:4221–24
+148. NießnerC,DenzauS,StapputK,AhmadM,PeichlL,etal.2013.Magnetoreception:activatedcryp-
+tochrome1aconcurswithmagneticorientationinbirds.J.R.Soc.Interface10:20130638
+149. NießnerC,GrossJC,DenzauS,PeichlL,FleissnerG,etal.2016.Seasonallychangingcryptochrome
+1bexpressionintheretinalganglioncellsofamigratingpasserinebird.PLOSONE11:e0150377
+150. OldhamWM,HammHE.2008.HeterotrimericGproteinactivationbyG-protein-coupledreceptors.
+Nat.Rev.Mol.CellBiol.9:60–71
+151. OzturkN,SelbyCP,AnnayevY,ZhongDP,SancarA.2011.ReactionmechanismofDrosophilacryp-
+tochrome.PNAS108:516–21
+152. OzturkN,SelbyCP,ZhongDP,SancarA.2014.MechanismofphotosignalingbyDrosophilacryp-
+tochrome.Roleoftheredoxstatusoftheflavinchromophore.J.Biol.Chem.289:4634–42
+153. PartchCL,ClarksonMW,OzgurS,LeeAL,SancarA.2005.Roleofstructuralplasticityinsignal
+transductionbythecryptochromeblue-lightphotoreceptor.Biochemistry44:3795–805
+154. PaulsJA,ZhangYT,BermanGP,KaisS.2013.Quantumcoherenceandentanglementintheavian
+compass.Phys.Rev.E87:062704
+155. PerdeckAC.1958.TwotypesoforientationinmigratingSturnusvulgarisandFringillacoelebsasrevealed
+bydisplacementexperiments.Ardea46:1–37
+156. Phillips JB, Borland SC. 1992. Behavioral evidence for use of a light-dependent magnetoreception
+mechanismbyavertebrate.Nature359:142–44
+157. PooniaVS,SahaD,GangulyS.2015.Statetransitionsanddecoherenceintheaviancompass.Phys.Rev.
+E91:052709
+158. PrabhakarR,SiegbahnPEM,MinaevBF,AgrenH.2002.Activationoftripletdioxygenbyglucose
+oxidase:spin-orbitcouplinginthesuperoxideion.J.Phys.Chem.B106:3742–50
+159. PutmanNF,LohmannKJ,PutmanEM,QuinnTP,KlimleyAP,NoakesDLG.2013.Evidencefor
+geomagneticimprintingasahomingmechanisminpacificsalmon.Curr.Biol.23:312–16
+160. QinS,YinH,YangC,DouY,LiuZ,etal.2016.Amagneticproteinbiocompass.Nat.Mater.15:217–26
+161. Reiner A, Perkel DJ, Bruce LL, Butler AB, Csillag A, et al. 2004. Revised nomenclature for avian
+telencephalonandsomerelatedbrainstemnuclei.J.Comp.Neurol.473:377–414
+162. RitzT,AdemS,SchultenK.2000.Amodelforphotoreceptor-basedmagnetoreceptioninbirds.Biophys.
+J.78:707–18
+163. RitzT,AhmadM,MouritsenH,WiltschkoR,WiltschkoW.2010.Photoreceptor-basedmagnetorecep-
+tion:optimaldesignofreceptormolecules,cells,andneuronalprocessing.J.R.Soc.Interface7:S135–46
+164. RitzT,ThalauP,PhillipsJB,WiltschkoR,WiltschkoW.2004.Resonanceeffectsindicatearadical-pair
+mechanismforavianmagneticcompass.Nature429:177–80
+165. RitzT,WiltschkoR,HorePJ,RodgersCT,StapputK,etal.2009.Magneticcompassofbirdsisbased
+onamoleculewithoptimaldirectionalsensitivity.Biophys.J.96:3451–57
+166. RodgersCT.2007.Magneticfieldeffectsinchemicalsystems.PhDthesis,UniversityofOxford,United
+Kingdom
+167. RodgersCT.2009.Magneticfieldeffectsinchemicalsystems.PureAppl.Chem.81:19–43
+168. RodgersCT,HenbestKB,KukuraP,TimmelCR,HorePJ.2005.Low-fieldopticallydetectedEPR
+spectroscopyoftransientphotoinducedradicalpairs.J.Phys.Chem.A109:5035–41
+169. RodgersCT,HorePJ.2009.Chemicalmagnetoreceptioninbirds:aradicalpairmechanism.PNAS
+106:353–60
+·
+342 Hore Mouritsen
+
+--- Page 45 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+170. Rodgers CT, Norman SA, Henbest KB, Timmel CR, Hore PJ. 2007. Determination of radical re-
+encounter probability distributionsfrom magnetic field effects on reaction yields. J. Am. Chem. Soc.
+129:6746–55
+171. Salikhov KM, Molin YN, Sagdeev RZ, Buchachenko AL. 1984.Spin Polarization and Magnetic Field
+EffectsinRadicalReactions.NewYork:Elsevier
+172. Sancar A. 2000. Cryptochrome: the second photoactive pigment in the eye and its role in circadian
+photoreception.Annu.Rev.Biochem.69:31–67
+173. SancarA.2003.StructureandfunctionofDNAphotolyaseandcryptochromeblue-lightphotoreceptors.
+Chem.Rev.103:2203–37
+174. SchultenK,SwenbergCE,WellerA.1978.Abiomagneticsensorymechanismbasedonmagneticfield
+modulatedcoherentelectronspinmotion.Z.Phys.Chem.111:1–5
+175. SchwarzeS,SchneiderN-L,ReichlT,DreyerD,LefeldtN,etal.2016.Weakbroadbandelectromag-
+neticfieldsaremoredisruptivetomagneticcompassorientationinanight-migratorysongbird(Erithacus
+rubecula)thanstrongnarrow-bandfields.Front.Behav.Neurosci.10:55
+176. ShanahanM,BingmanVP,ShimizuT,WildM,Gu¨ntu¨rku¨nO.2013.Large-scalenetworkorganization
+intheavianforebrain:aconnectivitymatrixandtheoreticalanalysis.Front.Comput.Neurosci.7:89
+177. Solov’yov IA, Chandler DE, Schulten K. 2007. Magnetic field effects in Arabidopsis thaliana
+cryptochrome-1.Biophys.J.92:2711–26
+178. Solov’yov IA, Domratcheva T, Schulten K. 2014. Separation of photo-induced radical pair in cryp-
+tochrometoafunctionallycriticaldistance.Sci.Rep.4:3845
+179. Solov’yovIA,DomratchevaT,ShahiARM,SchultenK.2012.Decryptingcryptochrome:revealingthe
+molecularidentityofthephotoactivationreaction.J.Am.Chem.Soc.134:18046–52
+180. Solov’yovIA,GreinerW.2007.Theoreticalanalysisofanironmineral-basedmagnetoreceptormodel
+inbirds.Biophys.J.93:1493–509
+181. Solov’yovIA,GreinerW.2009.Iron-mineral-basedmagnetoreceptorinbirds:polarityorinclination
+compass?Eur.Phys.J.D51:161–72
+182. Solov’yovIA,MouritsenH,SchultenK.2010.Acuityofacryptochromeandvision-basedmagnetore-
+ceptionsysteminbirds.Biophys.J.99:40–49
+183. Solov’yov IA, Schulten K. 2009. Magnetoreception through cryptochrome may involve superoxide.
+Biophys.J.96:4804–13
+184. SteinerUE,UlrichT.1989.Magneticfieldeffectsinchemicalkineticsandrelatedphenomena.Chem.
+Rev.89:51–147
+185. StonehamAM,GaugerEM,PorfyrakisK,BenjaminSC,LovettBW.2012.Anewtypeofradical-pair-
+basedmodelformagnetoreception.Biophys.J.102:961–68
+186. ThalauP,RitzT,BurdaH,WegnerRE,WiltschkoR.2006.Themagneticcompassmechanismsof
+birdsandrodentsarebasedondifferentphysicalprinciples.J.R.Soc.Interface3:583–87
+187. Thalau P, Ritz T, Stapput K, Wiltschko R, Wiltschko W. 2005. Magnetic compass orientation of
+migratorybirdsinthepresenceofa1.315MHzoscillatingfield.Naturwissenschaften92:86–90
+188. ThompsonCL,NgL,MenonV,MartinezS,LeeCK,etal.2014.Ahigh-resolutionspatiotemporal
+atlasofgeneexpressionofthedevelopingmousebrain.Neuron83:309–23
+189. ThoresonW.2008.Thevertebrateretina.InNeuroimmunePharmacology,ed.TIkezu,HEGendelman,
+pp.123–34.NewYork:Springer
+190. TierschM,BriegelHJ.2012.Decoherenceinthechemicalcompass:theroleofdecoherenceforavian
+magnetoreception.Philos.Trans.R.Soc.A370:4517–40
+191. TierschM,GuerreschiGG,ClausenJ,BriegelHJ.2014.Approachestomeasuringentanglementin
+chemicalmagnetometers.J.Phys.Chem.A118:13–20
+192. TreiberCD,SalzerM,BreussM,UshakovaL,LauwersM,etal.2013.Highresolutionanatomical
+mappingconfirmstheabsenceofamagneticsensesystemintherostralupperbeakofpigeons.Commun.
+Integr.Biol.6:e24859
+193. TreiberCD,SalzerMC,RieglerJ,EdelmanN,SugarC,etal.2012.Clustersofiron-richcellsinthe
+upperbeakofpigeonsaremacrophagesnotmagnetosensitiveneurons.Nature484:367–70
+194. VachaM,PuzovaT,KvicalovaM.2009.Radiofrequencymagneticfieldsdisruptmagnetoreceptionin
+Americancockroach.J.Exp.Biol.212:3473–77
+www.annualreviews.org • Radical-PairMagnetoreception 343
+
+--- Page 46 ---
+
+25:15:41
+5202
+tcO
+90
+,uhT
+:nO
+321.41.131.701
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+BB45CH14-Hore ARI 10June2016 8:22
+195. vanWilderenLJGW,SilkstoneG,MasonM,vanThorJJ,WilsonMT.2015.Kineticstudiesonthe
+oxidationofsemiquinoneandhydroquinoneformsofArabidopsiscryptochromebymolecularoxygen.
+FEBSOpenBio5:885–92
+196. VedralV.2011.Livinginaquantumworld.Sci.Am.304:38–43
+197. WalkerMM,DennisTE,KirschvinkJL.2002.Themagneticsenseanditsuseinlong-distancenavigation
+byanimals.Curr.Opin.Neurobiol.12:735–44
+198. WaltersZB.2014.Quantumdynamicsoftheaviancompass.Phys.Rev.E90:042710
+199. Wa¨ssleH.2004.Parallelprocessinginthemammalianretina.Nat.Rev.Neurosci.5:747–57
+200. WeberS.2005.Light-drivenenzymaticcatalysisofDNArepair:areviewofrecentbiophysicalstudies
+onphotolyase.Biochim.Biophys.Acta1707:1–23
+201. Weber S, Biskup T, Okafuji A, Marino AR, Berthold T, et al. 2010. Origin of light-induced spin-
+correlatedradicalpairsincryptochrome.J.Phys.Chem.B114:14745–54
+202. WiltschkoR,StapputK,ThalauP,WiltschkoW.2010.Directionalorientationofbirdsbythemagnetic
+fieldunderdifferentlightconditions.J.R.Soc.Interface7:S163–77
+203. WiltschkoR,ThalauP,GehringD,NießnerC,RitzT,WiltschkoW.2015.Magnetoreceptioninbirds:
+theeffectofradio-frequencyfields.J.R.Soc.Interface12:20141103
+204. WiltschkoR,WiltschkoW.1995.MagneticOrientationinAnimals.Berlin:Springer-Verlag
+205. WiltschkoW.1968.U¨berdenEinflußstatischerMagnetfelderaufdieZugorientierungderRotkehlchen
+(Erithacusrubecula).Z.Tierpsychol.25:537–58
+206. WiltschkoW,MunroU,FordH,WiltschkoR.1993.Red-lightdisruptsmagneticorientationofmi-
+gratorybirds.Nature364:525–27
+207. WiltschkoW,TraudtJ,Gu¨ntu¨rku¨nO,PriorH,WiltschkoR.2002.Lateralizationofmagneticcompass
+orientationinamigratorybird.Nature419:467–70
+208. WiltschkoW,WiltschkoR.1972.MagneticcompassofEuropeanrobins.Science176:62–64
+209. WinklhoferM,Holtkamp-RotzlerE,HanzlikM,FleissnerG,PetersenN.2001.Clustersofsuperpara-
+magneticmagnetiteparticlesintheupper-beakskinofhomingpigeons:evidenceofamagnetoreceptor?
+Eur.J.Mineral.13:659–69
+210. WinklhoferM,KirschvinkJL.2010.Aquantitativeassessmentoftorque-transducermodelsformagne-
+toreception.J.R.Soc.Interface7:S273–89
+211. WoodwardJR.2002.Radicalpairsinsolution.Prog.React.Kinet.Mech.27:165–207
+212. XuBM,ZouJ,LiH,LiJG,ShaoB.2014.Effectofradiofrequencyfieldsontheradicalpairmagne-
+toreceptionmodel.Phys.Rev.E90:042711
+213. XuBM,ZouJ,LiJG,ShaoB.2013.Estimatingthehyperfinecouplingparametersoftheaviancompass
+bycomprehensivelyconsideringtheavailableexperimentalresults.Phys.Rev.E88:032703
+214. YoshiiT,AhmadM,Helfrich-ForsterC.2009.Cryptochromemediateslight-dependentmagnetosen-
+sitivityofDrosophila’scircadianclock.PLOSBiol.7:813–19
+215. ZapkaM,HeyersD,HeinCM,EngelsS,SchneiderNL,etal.2009.Visualbutnottrigeminalmediation
+ofmagneticcompassinformationinamigratorybird.Nature461:1274–78
+216. ZapkaM,HeyersD,LiedvogelM,JarvisED,MouritsenH.2010.Night-timeneuronalactivationof
+ClusterNinaday-andnight-migratingsongbird.Eur.J.Neurosci.32:619–24
+217. ZeugnerA,ByrdinM,BoulyJ-P,BakrimN,GiovaniB,etal.2005.Light-inducedelectrontransferin
+Arabidopsiscryptochrome-1correlateswithinvivofunction.J.Biol.Chem.280:19437–40
+218. ZhangYT,BermanGP,KaisS.2014.Sensitivityandentanglementintheavianchemicalcompass.Phys.
+Rev.E90:042707
+219. ZhangYT,BermanGP,KaisS.2015.Theradicalpairmechanismandtheavianchemicalcompass:
+quantumcoherenceandentanglement.Int.J.Quant.Chem.115:1327–41
+·
+344 Hore Mouritsen

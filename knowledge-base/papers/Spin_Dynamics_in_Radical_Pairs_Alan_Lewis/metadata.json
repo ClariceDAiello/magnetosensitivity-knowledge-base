@@ -1,0 +1,48 @@
+{
+  "paper_id": "Spin_Dynamics_in_Radical_Pairs_Alan_Lewis",
+  "doi": "10.1007/978-3-030-00686-0",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "includeanextendedintroduction",
+    "aswellasaforewordbythestudent’ssupervisor"
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "The coherent spin dynamics of radical pairs play a crucial role in their reactions,\nwhich consequently cannot be described by a simple kinetic scheme. Instead,\nsimulations of the spin dynamics are required in order to predict the rate and\noutcomeofradicalpairreactions,andespeciallytheirresponsetotheapplicationof\na magnetic field. Unfortunately, the number of spin states of the radical pair\nincreases exponentially with the number of nuclear spins, making deterministic\nquantum mechanical simulations of realistic radical pairs difficult.\nTo overcome this difficulty, this thesis begins by presenting an efficient\nstochasticquantummechanicalmethodcapableofdescribingaradicalpairwithas\nmany as 20 nuclear spins, which we use to analyse spin-dependent charge\nrecombination rates along molecular wires. This enables us to identify the mech-\nanism of charge recombination of both the singlet and triplet states of the wire by\ndetermining their relative contributions to the overall recombination rate.\n",
+  "date_added": "2025-10-09T13:15:42.992478",
+  "last_modified": "2025-10-09T13:15:42.992480",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "Literature/Spin Dynamics in Radical Pairs_Alan Lewis.pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}
