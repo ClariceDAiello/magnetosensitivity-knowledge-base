@@ -1,48 +1,224 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "version": "1.0.0",
-  "last_updated": "2025-10-09T00:00:00Z",
-  "description": "Conceptual relationships in magnetosensitivity research",
+  "version": "2.0.0",
+  "last_updated": "2025-10-09T13:20:00Z",
+  "description": "Conceptual relationships in magnetosensitivity research - Enhanced from literature corpus",
   "relationships": [
     {
       "subject": "cryptochrome",
       "predicate": "is_a",
-      "object": "flavoprotein"
+      "object": "flavoprotein",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "cryptochrome",
+      "predicate": "contains",
+      "object": "flavin_adenine_dinucleotide",
+      "source": "10.1038/NCHEM.2447"
     },
     {
       "subject": "cryptochrome",
       "predicate": "exhibits",
-      "object": "radical_pair_mechanism"
+      "object": "radical_pair_mechanism",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "cryptochrome",
+      "predicate": "located_in",
+      "object": "retina (birds)",
+      "source": "10.1146/annurev-biophys-032116-094545"
+    },
+    {
+      "subject": "photolyase",
+      "predicate": "is_a",
+      "object": "flavoprotein",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "photolyase",
+      "predicate": "related_to",
+      "object": "cryptochrome",
+      "source": "10.1038/NCHEM.2447"
     },
     {
       "subject": "radical_pair_mechanism",
       "predicate": "sensitive_to",
-      "object": "geomagnetic_field"
+      "object": "geomagnetic_field",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "radical_pair_mechanism",
+      "predicate": "requires",
+      "object": "hyperfine_coupling",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "radical_pair_mechanism",
+      "predicate": "requires",
+      "object": "spin_selectivity",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "chemical_amplification",
+      "predicate": "enhances",
+      "object": "radical_pair_mechanism",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "chemical_amplification",
+      "predicate": "depends_on",
+      "object": "radical_termination",
+      "source": "10.1038/NCHEM.2447"
     },
     {
       "subject": "electron_paramagnetic_resonance",
       "predicate": "detects",
-      "object": "radical_pairs"
+      "object": "radical_pairs",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "electron_paramagnetic_resonance",
+      "predicate": "measures",
+      "object": "hyperfine_coupling",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "fluorescence_spectroscopy",
+      "predicate": "monitors",
+      "object": "magnetic_field_effects",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "transient_absorption_spectroscopy",
+      "predicate": "detects",
+      "object": "radical_pairs",
+      "source": "10.1038/NCHEM.2447"
     },
     {
       "subject": "spin_dynamics_simulation",
       "predicate": "models",
-      "object": "radical_pair_mechanism"
+      "object": "radical_pair_mechanism",
+      "source": "10.1007/978-3-030-00686-0"
+    },
+    {
+      "subject": "spin_dynamics_simulation",
+      "predicate": "predicts",
+      "object": "magnetic_field_effects",
+      "source": "10.1007/978-3-030-00686-0"
     },
     {
       "subject": "hyperfine_coupling",
-      "predicate": "influences",
-      "object": "spin_evolution"
+      "predicate": "drives",
+      "object": "singlet_triplet_interconversion",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "hyperfine_coupling",
+      "predicate": "provides",
+      "object": "anisotropy (for compass)",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "zeeman_interaction",
+      "predicate": "drives",
+      "object": "singlet_triplet_interconversion",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "zeeman_interaction",
+      "predicate": "isolates",
+      "object": "triplet_sublevels",
+      "source": "10.1038/NCHEM.2447"
     },
     {
       "subject": "flavin_adenine_dinucleotide",
       "predicate": "cofactor_of",
-      "object": "cryptochrome"
+      "object": "cryptochrome",
+      "source": "10.1038/NCHEM.2447"
     },
     {
-      "subject": "transient_absorption_spectroscopy",
-      "predicate": "measures",
-      "object": "radical_pair_kinetics"
+      "subject": "flavin_adenine_dinucleotide",
+      "predicate": "forms_radical_pair_with",
+      "object": "tryptophan",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "flavin_mononucleotide",
+      "predicate": "forms_radical_pair_with",
+      "object": "tryptophan",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "flavin_mononucleotide",
+      "predicate": "forms_radical_pair_with",
+      "object": "ascorbic_acid",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "tryptophan",
+      "predicate": "electron_donor_for",
+      "object": "flavin_adenine_dinucleotide",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "photoexcitation",
+      "predicate": "triggers",
+      "object": "electron_transfer",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "electron_transfer",
+      "predicate": "forms",
+      "object": "radical_pairs",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "intersystem_crossing",
+      "predicate": "forms",
+      "object": "triplet_state",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "singlet_state",
+      "predicate": "interconverts_with",
+      "object": "triplet_state",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "migratory_birds",
+      "predicate": "uses",
+      "object": "magnetic_compass",
+      "source": "10.1146/annurev-biophys-032116-094545"
+    },
+    {
+      "subject": "migratory_birds",
+      "predicate": "contains",
+      "object": "cryptochrome (in retina)",
+      "source": "10.1146/annurev-biophys-032116-094545"
+    },
+    {
+      "subject": "drosophila_melanogaster",
+      "predicate": "exhibits",
+      "object": "cryptochrome-dependent magnetosensitivity",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "arabidopsis_thaliana",
+      "predicate": "contains",
+      "object": "cryptochrome",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "low_field_effect",
+      "predicate": "characteristic_of",
+      "object": "radical_pairs with small hyperfine coupling",
+      "source": "10.1038/NCHEM.2447"
+    },
+    {
+      "subject": "ascorbic_acid",
+      "predicate": "produces",
+      "object": "low_field_effect",
+      "source": "10.1038/NCHEM.2447"
     }
   ],
   "hierarchies": {
@@ -50,6 +226,10 @@
       "magnetosensitivity": [
         "radical_pair_mechanism",
         "magnetite_mechanism"
+      ],
+      "radical_pair_mechanism": [
+        "chemical_amplification",
+        "singlet_triplet_interconversion"
       ]
     },
     "proteins": {
@@ -59,21 +239,73 @@
       ],
       "flavoproteins": [
         "cryptochrome",
-        "photolyase",
-        "flavin_reductase"
+        "photolyase"
+      ]
+    },
+    "cofactors": {
+      "flavins": [
+        "flavin_adenine_dinucleotide",
+        "flavin_mononucleotide"
+      ],
+      "electron_donors": [
+        "tryptophan",
+        "ascorbic_acid"
       ]
     },
     "techniques": {
       "spectroscopy": [
         "transient_absorption_spectroscopy",
         "electron_paramagnetic_resonance",
-        "fluorescence_spectroscopy"
+        "fluorescence_spectroscopy",
+        "cavity_ring_down_spectroscopy"
       ],
       "computational": [
         "spin_dynamics_simulation",
         "molecular_dynamics",
         "density_functional_theory"
       ]
+    },
+    "magnetic_fields": {
+      "field_types": [
+        "geomagnetic_field",
+        "hypomagnetic_field",
+        "weak_magnetic_field",
+        "rf_field"
+      ]
+    },
+    "organisms": {
+      "model_organisms": [
+        "drosophila_melanogaster",
+        "arabidopsis_thaliana"
+      ],
+      "magnetosensitive_animals": [
+        "migratory_birds",
+        "drosophila_melanogaster"
+      ]
+    },
+    "spin_states": {
+      "radical_pair_states": [
+        "singlet_state",
+        "triplet_state"
+      ]
     }
+  },
+  "process_flows": {
+    "cryptochrome_photocycle": [
+      "photoexcitation",
+      "electron_transfer",
+      "radical_pair_formation",
+      "singlet_triplet_interconversion",
+      "spin_selective_recombination",
+      "radical_termination"
+    ],
+    "magnetic_compass_sensing": [
+      "light_absorption",
+      "cryptochrome_activation",
+      "radical_pair_formation",
+      "magnetic_field_modulation",
+      "signal_transduction",
+      "neural_response"
+    ]
   }
 }

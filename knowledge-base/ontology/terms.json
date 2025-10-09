@@ -1,72 +1,261 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "version": "1.0.0",
-  "last_updated": "2025-10-09T00:00:00Z",
-  "description": "Controlled vocabulary for magnetosensitivity research",
+  "version": "2.0.0",
+  "last_updated": "2025-10-09T13:20:00Z",
+  "description": "Controlled vocabulary for magnetosensitivity research - Enhanced from literature corpus",
   "categories": {
     "mechanisms": {
       "radical_pair_mechanism": {
         "definition": "A proposed mechanism for magnetosensitivity based on spin-correlated radical pairs",
-        "synonyms": ["RPM", "radical pair model"],
-        "related_terms": ["spin chemistry", "quantum coherence"]
+        "synonyms": ["RPM", "radical pair model", "RP mechanism"],
+        "related_terms": ["spin chemistry", "quantum coherence", "spin correlation"],
+        "source": "10.1038/NCHEM.2447"
+      },
+      "chemical_amplification": {
+        "definition": "Enhancement of magnetic field effects through slow radical termination reactions under continuous photoexcitation",
+        "synonyms": ["MFE amplification", "signal amplification"],
+        "related_terms": ["radical termination", "photocycle", "steady-state"],
+        "source": "10.1038/NCHEM.2447"
+      },
+      "singlet_triplet_interconversion": {
+        "definition": "Coherent interconversion between singlet and triplet radical pair states driven by magnetic interactions",
+        "synonyms": ["S-T mixing", "spin interconversion"],
+        "related_terms": ["hyperfine coupling", "Zeeman interaction", "coherent spin dynamics"],
+        "source": "10.1038/NCHEM.2447"
+      },
+      "intersystem_crossing": {
+        "definition": "Non-radiative transition between electronic states of different spin multiplicity",
+        "synonyms": ["ISC"],
+        "related_terms": ["spin-orbit coupling", "triplet state formation"],
+        "source": "10.1038/NCHEM.2447"
       },
       "magnetite_mechanism": {
-        "definition": "Magnetosensitivity based on biogenic magnetite crystals",
-        "synonyms": ["magnetic particles", "ferromagnetic hypothesis"],
-        "related_terms": ["magnetoreception", "compass orientation"]
+        "definition": "Magnetosensitivity based on biogenic magnetite crystals and mechanical torque",
+        "synonyms": ["magnetic particles", "ferromagnetic hypothesis", "magnetosome"],
+        "related_terms": ["magnetoreception", "compass orientation", "iron-containing nanoparticles"],
+        "source": "10.1146/annurev-biophys-032116-094545"
       }
     },
     "proteins": {
       "cryptochrome": {
-        "definition": "Blue light photoreceptor protein implicated in magnetosensitivity",
+        "definition": "Blue light photoreceptor protein implicated in magnetosensitivity, contains FAD cofactor",
         "synonyms": ["CRY", "cryptochrome protein"],
-        "variants": ["CRY1", "CRY2", "CRY4"]
+        "variants": ["CRY1", "CRY2", "CRY4", "AtCry1"],
+        "organisms": ["birds", "Drosophila", "Arabidopsis", "mammals"],
+        "source": "10.1038/NCHEM.2447"
+      },
+      "photolyase": {
+        "definition": "Flavoprotein closely related to cryptochromes, repairs UV-damaged DNA",
+        "synonyms": ["DNA photolyase"],
+        "related_terms": ["cryptochrome", "flavoprotein", "radical pair formation"],
+        "source": "10.1038/NCHEM.2447"
       },
       "flavoprotein": {
-        "definition": "Protein containing flavin cofactor, candidate for radical pair mechanism",
-        "synonyms": ["FAD-containing protein"],
-        "related_terms": ["flavin adenine dinucleotide", "flavin mononucleotide"]
+        "definition": "Protein containing flavin cofactor (FAD or FMN), candidate for radical pair mechanism",
+        "synonyms": ["FAD-containing protein", "flavin protein"],
+        "related_terms": ["flavin adenine dinucleotide", "flavin mononucleotide"],
+        "source": "10.1038/NCHEM.2447"
+      },
+      "lysozyme": {
+        "definition": "Model protein used to study intermolecular flavin-tryptophan radical pairs",
+        "synonyms": ["hen-egg white lysozyme", "HEWL"],
+        "applications": ["model system for cryptochrome photochemistry"],
+        "source": "10.1038/NCHEM.2447"
+      }
+    },
+    "cofactors_and_radicals": {
+      "flavin_adenine_dinucleotide": {
+        "definition": "Flavin cofactor in cryptochromes and flavoproteins, photochemically active",
+        "synonyms": ["FAD"],
+        "radical_forms": ["FAD•−", "FADH•"],
+        "related_terms": ["cryptochrome chromophore", "electron acceptor"],
+        "source": "10.1038/NCHEM.2447"
+      },
+      "flavin_mononucleotide": {
+        "definition": "Flavin cofactor, smaller analog of FAD",
+        "synonyms": ["FMN"],
+        "radical_forms": ["FMN•−", "FMNH•"],
+        "applications": ["model system for cryptochrome studies"],
+        "source": "10.1038/NCHEM.2447"
+      },
+      "tryptophan": {
+        "definition": "Aromatic amino acid, electron donor in cryptochrome radical pairs",
+        "synonyms": ["Trp", "W"],
+        "radical_form": ["Trp•+", "tryptophanyl radical"],
+        "related_terms": ["Trp triad", "electron transfer chain"],
+        "source": "10.1038/NCHEM.2447"
+      },
+      "ascorbic_acid": {
+        "definition": "Vitamin C, potential electron donor forming radical pairs with flavins",
+        "synonyms": ["ascorbate", "vitamin C"],
+        "radical_form": ["ascorbyl radical"],
+        "related_terms": ["alternative radical pair", "low hyperfine coupling"],
+        "source": "10.1038/NCHEM.2447"
+      }
+    },
+    "organisms": {
+      "migratory_birds": {
+        "definition": "Birds that migrate seasonally and use magnetic compass for navigation",
+        "examples": ["European robin", "night-migratory songbirds", "garden warbler"],
+        "magnetic_sensors": ["cryptochrome in retina", "possibly magnetite"],
+        "source": "10.1146/annurev-biophys-032116-094545"
+      },
+      "drosophila_melanogaster": {
+        "definition": "Fruit fly, model organism for cryptochrome-based magnetosensitivity studies",
+        "synonyms": ["Drosophila", "fruit fly"],
+        "magnetic_response": ["light-dependent magnetosensitivity", "cryptochrome-dependent"],
+        "source": "10.1038/NCHEM.2447"
+      },
+      "arabidopsis_thaliana": {
+        "definition": "Model plant organism, contains cryptochromes",
+        "synonyms": ["Arabidopsis", "thale cress"],
+        "cryptochromes": ["AtCry1", "AtCry2"],
+        "source": "10.1038/NCHEM.2447"
       }
     },
     "magnetic_fields": {
       "geomagnetic_field": {
-        "definition": "Earth's magnetic field (~50 µT)",
-        "synonyms": ["GMF", "terrestrial magnetic field"],
-        "typical_values": "25-65 µT"
+        "definition": "Earth's magnetic field, typically ~50 µT",
+        "synonyms": ["GMF", "terrestrial magnetic field", "Earth's field"],
+        "typical_values": "25-65 µT",
+        "relevance": "Biologically relevant field strength for navigation",
+        "source": "10.1038/NCHEM.2447"
       },
       "hypomagnetic_field": {
         "definition": "Magnetic field significantly weaker than Earth's field",
-        "synonyms": ["near-zero field", "low field"],
-        "typical_values": "<5 µT"
+        "synonyms": ["near-zero field", "low field", "shielded environment"],
+        "typical_values": "<5 µT",
+        "applications": ["testing magnetic field dependence"],
+        "source": "10.1146/annurev-biophys-032116-094545"
+      },
+      "weak_magnetic_field": {
+        "definition": "Magnetic field below ~1 mT, comparable to or stronger than geomagnetic field",
+        "typical_values": "50 µT - 1 mT",
+        "effects": ["can modulate radical pair reactions", "low field effect"],
+        "source": "10.1038/NCHEM.2447"
+      },
+      "low_field_effect": {
+        "definition": "Characteristic MFE showing positive effect at sub-mT fields with zero crossing around 1-2 mT",
+        "typical_fields": "0.1-2 mT",
+        "cause": "Radical pairs with small hyperfine couplings (e.g., ascorbyl radical)",
+        "source": "10.1038/NCHEM.2447"
       },
       "rf_field": {
         "definition": "Radio frequency electromagnetic field",
-        "synonyms": ["radiofrequency field", "oscillating field"],
-        "typical_values": "MHz-GHz range"
+        "synonyms": ["radiofrequency field", "oscillating field", "AC field"],
+        "typical_values": "MHz-GHz range",
+        "source": "Original ontology"
+      }
+    },
+    "magnetic_interactions": {
+      "hyperfine_coupling": {
+        "definition": "Magnetic interaction between electron and nuclear spins, key to radical pair compass",
+        "synonyms": ["HFC", "hyperfine interaction", "A tensor"],
+        "typical_values": "0.1-3 mT for organic radicals",
+        "importance": "Provides anisotropy for directional sensing",
+        "source": "10.1038/NCHEM.2447"
+      },
+      "zeeman_interaction": {
+        "definition": "Interaction of electron spin with external magnetic field",
+        "synonyms": ["Zeeman splitting", "Zeeman energy"],
+        "formula": "E = g μ_B B",
+        "importance": "Isolates triplet sublevels in strong fields",
+        "source": "10.1038/NCHEM.2447"
+      },
+      "exchange_coupling": {
+        "definition": "Direct spin-spin interaction between two radicals",
+        "synonyms": ["J coupling", "exchange interaction"],
+        "typical_values": "Should be small for magnetic sensing (< 0.1 mT)",
+        "source": "10.1007/978-3-030-00686-0"
       }
     },
     "experimental_techniques": {
+      "fluorescence_spectroscopy": {
+        "definition": "Detection of emitted light following photoexcitation, used to monitor MFEs",
+        "synonyms": ["fluorescence detection", "fluorescence microscopy"],
+        "applications": ["MFE detection", "cryptochrome photocycle monitoring"],
+        "variants": ["time-resolved", "spectral ly-resolved"],
+        "source": "10.1038/NCHEM.2447"
+      },
       "transient_absorption_spectroscopy": {
-        "definition": "Time-resolved optical spectroscopy technique",
-        "synonyms": ["TAS", "flash photolysis"],
-        "applications": ["radical pair detection", "kinetics measurement"]
+        "definition": "Time-resolved optical spectroscopy technique for detecting short-lived intermediates",
+        "synonyms": ["TAS", "flash photolysis", "pump-probe spectroscopy"],
+        "applications": ["radical pair detection", "kinetics measurement", "triplet state detection"],
+        "source": "10.1038/NCHEM.2447"
       },
       "electron_paramagnetic_resonance": {
-        "definition": "Spectroscopic technique for detecting unpaired electrons",
+        "definition": "Spectroscopic technique for detecting unpaired electrons and measuring magnetic parameters",
         "synonyms": ["EPR", "ESR", "electron spin resonance"],
-        "applications": ["radical detection", "spin state analysis"]
+        "applications": ["radical detection", "spin state analysis", "hyperfine coupling measurement"],
+        "variants": ["continuous wave", "pulsed", "MARY spectroscopy"],
+        "source": "10.1038/NCHEM.2447"
+      },
+      "cavity_ring_down_spectroscopy": {
+        "definition": "High-sensitivity absorption technique using optical cavity",
+        "synonyms": ["CRDS"],
+        "applications": ["sensitive detection of radical pairs", "MFE measurement"],
+        "source": "10.1038/NCHEM.2447"
       }
     },
     "computational_methods": {
       "spin_dynamics_simulation": {
-        "definition": "Numerical simulation of spin evolution in radical pairs",
-        "synonyms": ["quantum dynamics", "density matrix calculation"],
-        "related_terms": ["Liouville equation", "spin Hamiltonian"]
+        "definition": "Numerical simulation of spin evolution in radical pairs using density matrix formalism",
+        "synonyms": ["quantum dynamics", "density matrix calculation", "Liouville equation solver"],
+        "related_terms": ["spin Hamiltonian", "master equation"],
+        "applications": ["MFE prediction", "compass sensitivity calculation"],
+        "source": "10.1007/978-3-030-00686-0"
       },
       "molecular_dynamics": {
-        "definition": "Computational simulation of molecular motion",
-        "synonyms": ["MD", "MD simulation"],
-        "applications": ["protein dynamics", "conformational sampling"]
+        "definition": "Computational simulation of molecular motion and protein dynamics",
+        "synonyms": ["MD", "MD simulation", "classical MD"],
+        "applications": ["protein dynamics", "conformational sampling", "radical pair distance/orientation"],
+        "source": "Original ontology"
+      },
+      "density_functional_theory": {
+        "definition": "Quantum mechanical method for electronic structure calculations",
+        "synonyms": ["DFT"],
+        "applications": ["g-tensor calculation", "hyperfine coupling prediction", "radical structure"],
+        "source": "10.1007/978-3-030-00686-0"
+      }
+    },
+    "photochemistry": {
+      "photoexcitation": {
+        "definition": "Absorption of light promoting molecule to excited electronic state",
+        "related_terms": ["1F*", "excited singlet state", "photon absorption"],
+        "wavelengths": ["blue light (450-480 nm) for flavins"],
+        "source": "10.1038/NCHEM.2447"
+      },
+      "electron_transfer": {
+        "definition": "Movement of electron from donor to acceptor, forming radical pair",
+        "types": ["intraprotein", "intermolecular"],
+        "examples": ["FAD* + Trp → FAD•− + Trp•+"],
+        "source": "10.1038/NCHEM.2447"
+      },
+      "radical_termination": {
+        "definition": "Reactions that remove free radicals, returning them to ground states",
+        "types": ["oxidation", "reduction", "disproportionation"],
+        "importance": ["Controls amplification factor via k_F and k_D"],
+        "source": "10.1038/NCHEM.2447"
+      }
+    },
+    "spin_states": {
+      "singlet_state": {
+        "definition": "Radical pair state with total spin S = 0, antiparallel spins",
+        "notation": ["1(F•− D•+)", "S"],
+        "properties": ["spin-allowed reverse electron transfer", "can react selectively"],
+        "source": "10.1038/NCHEM.2447"
+      },
+      "triplet_state": {
+        "definition": "Radical pair state with total spin S = 1, parallel spins",
+        "notation": ["3(F•− D•+)", "T", "T+, T0, T−"],
+        "properties": ["formed from excited triplet FAD", "three sublevels in magnetic field"],
+        "source": "10.1038/NCHEM.2447"
+      },
+      "spin_selectivity": {
+        "definition": "Differential reactivity of singlet vs triplet radical pair states",
+        "importance": "Required for magnetic field effect on reaction yields",
+        "examples": ["singlet-specific reverse electron transfer"],
+        "source": "10.1038/NCHEM.2447"
       }
     }
   }
