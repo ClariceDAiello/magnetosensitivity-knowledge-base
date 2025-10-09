@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "paper_id": "",
+  "doi": "",
+  "title": "",
+  "authors": [],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "",
+  "date_added": "",
+  "last_modified": "",
+  "access": {
+    "license": "",
+    "access_level": "open|restricted|embargoed",
+    "original_file": "",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

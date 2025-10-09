@@ -1,0 +1,73 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "last_updated": "2025-10-09T00:00:00Z",
+  "description": "Controlled vocabulary for magnetosensitivity research",
+  "categories": {
+    "mechanisms": {
+      "radical_pair_mechanism": {
+        "definition": "A proposed mechanism for magnetosensitivity based on spin-correlated radical pairs",
+        "synonyms": ["RPM", "radical pair model"],
+        "related_terms": ["spin chemistry", "quantum coherence"]
+      },
+      "magnetite_mechanism": {
+        "definition": "Magnetosensitivity based on biogenic magnetite crystals",
+        "synonyms": ["magnetic particles", "ferromagnetic hypothesis"],
+        "related_terms": ["magnetoreception", "compass orientation"]
+      }
+    },
+    "proteins": {
+      "cryptochrome": {
+        "definition": "Blue light photoreceptor protein implicated in magnetosensitivity",
+        "synonyms": ["CRY", "cryptochrome protein"],
+        "variants": ["CRY1", "CRY2", "CRY4"]
+      },
+      "flavoprotein": {
+        "definition": "Protein containing flavin cofactor, candidate for radical pair mechanism",
+        "synonyms": ["FAD-containing protein"],
+        "related_terms": ["flavin adenine dinucleotide", "flavin mononucleotide"]
+      }
+    },
+    "magnetic_fields": {
+      "geomagnetic_field": {
+        "definition": "Earth's magnetic field (~50 µT)",
+        "synonyms": ["GMF", "terrestrial magnetic field"],
+        "typical_values": "25-65 µT"
+      },
+      "hypomagnetic_field": {
+        "definition": "Magnetic field significantly weaker than Earth's field",
+        "synonyms": ["near-zero field", "low field"],
+        "typical_values": "<5 µT"
+      },
+      "rf_field": {
+        "definition": "Radio frequency electromagnetic field",
+        "synonyms": ["radiofrequency field", "oscillating field"],
+        "typical_values": "MHz-GHz range"
+      }
+    },
+    "experimental_techniques": {
+      "transient_absorption_spectroscopy": {
+        "definition": "Time-resolved optical spectroscopy technique",
+        "synonyms": ["TAS", "flash photolysis"],
+        "applications": ["radical pair detection", "kinetics measurement"]
+      },
+      "electron_paramagnetic_resonance": {
+        "definition": "Spectroscopic technique for detecting unpaired electrons",
+        "synonyms": ["EPR", "ESR", "electron spin resonance"],
+        "applications": ["radical detection", "spin state analysis"]
+      }
+    },
+    "computational_methods": {
+      "spin_dynamics_simulation": {
+        "definition": "Numerical simulation of spin evolution in radical pairs",
+        "synonyms": ["quantum dynamics", "density matrix calculation"],
+        "related_terms": ["Liouville equation", "spin Hamiltonian"]
+      },
+      "molecular_dynamics": {
+        "definition": "Computational simulation of molecular motion",
+        "synonyms": ["MD", "MD simulation"],
+        "applications": ["protein dynamics", "conformational sampling"]
+      }
+    }
+  }
+}

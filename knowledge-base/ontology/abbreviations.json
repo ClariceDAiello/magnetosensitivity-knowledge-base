@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "last_updated": "2025-10-09T00:00:00Z",
+  "description": "Common abbreviations in magnetosensitivity research",
+  "abbreviations": {
+    "RPM": "Radical Pair Mechanism",
+    "CRY": "Cryptochrome",
+    "FAD": "Flavin Adenine Dinucleotide",
+    "FMN": "Flavin Mononucleotide",
+    "GMF": "Geomagnetic Field",
+    "MF": "Magnetic Field",
+    "EMF": "Electromagnetic Field",
+    "RF": "Radio Frequency",
+    "EPR": "Electron Paramagnetic Resonance",
+    "ESR": "Electron Spin Resonance",
+    "TAS": "Transient Absorption Spectroscopy",
+    "MARY": "Magnetically Affected Reaction Yield",
+    "ISC": "Intersystem Crossing",
+    "HFC": "Hyperfine Coupling",
+    "ZFS": "Zero-Field Splitting",
+    "MD": "Molecular Dynamics",
+    "DFT": "Density Functional Theory",
+    "TDDFT": "Time-Dependent Density Functional Theory",
+    "QM": "Quantum Mechanics",
+    "QM/MM": "Quantum Mechanics/Molecular Mechanics"
+  }
+}

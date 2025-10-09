@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "last_updated": "2025-10-09T00:00:00Z",
+  "description": "Chronological timeline of discoveries in magnetosensitivity research",
+  "timeline": [],
+  "decades": {
+    "1970s": [],
+    "1980s": [],
+    "1990s": [],
+    "2000s": [],
+    "2010s": [],
+    "2020s": []
+  },
+  "milestones": []
+}

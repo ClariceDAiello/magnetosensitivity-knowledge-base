@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "last_updated": "2025-10-09T00:00:00Z",
+  "description": "Topic-based organization of research papers",
+  "topics": {
+    "radical_pair_mechanism": {
+      "description": "Papers focusing on radical pair mechanisms in magnetosensitivity",
+      "paper_ids": [],
+      "subtopics": {
+        "cryptochrome": [],
+        "flavoproteins": [],
+        "spin_chemistry": []
+      }
+    },
+    "experimental_methods": {
+      "description": "Papers describing experimental techniques for studying magnetosensitivity",
+      "paper_ids": [],
+      "subtopics": {
+        "spectroscopy": [],
+        "behavioral_assays": [],
+        "cellular_assays": []
+      }
+    },
+    "computational_modeling": {
+      "description": "Papers on computational approaches to modeling magnetic field effects",
+      "paper_ids": [],
+      "subtopics": {
+        "quantum_dynamics": [],
+        "molecular_dynamics": [],
+        "kinetic_modeling": []
+      }
+    },
+    "biological_systems": {
+      "description": "Papers organized by organism or biological system studied",
+      "paper_ids": [],
+      "subtopics": {
+        "birds": [],
+        "insects": [],
+        "plants": [],
+        "mammals": [],
+        "in_vitro": []
+      }
+    },
+    "magnetic_field_parameters": {
+      "description": "Papers organized by field strength and characteristics",
+      "paper_ids": [],
+      "subtopics": {
+        "geomagnetic": [],
+        "weak_fields": [],
+        "strong_fields": [],
+        "rf_fields": []
+      }
+    }
+  }
+}

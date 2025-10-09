@@ -1,0 +1,19 @@
+# PDF Processing
+pymupdf>=1.23.0  # Fast PDF text extraction
+pdfplumber>=0.10.0  # Table and layout analysis
+pypdf>=3.17.0  # Metadata extraction
+PyPDF2>=3.0.0  # Additional PDF utilities
+
+# GROBID Integration
+requests>=2.31.0  # HTTP client for GROBID API
+
+# Text Processing
+python-dateutil>=2.8.0  # Date parsing
+
+# Data Handling
+python-magic>=0.4.27  # File type detection (optional)
+
+# Optional: Advanced NLP for better metadata extraction
+# Uncomment if needed:
+# spacy>=3.7.0
+# scikit-learn>=1.3.0

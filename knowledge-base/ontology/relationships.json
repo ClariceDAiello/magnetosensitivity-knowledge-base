@@ -1,0 +1,79 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "last_updated": "2025-10-09T00:00:00Z",
+  "description": "Conceptual relationships in magnetosensitivity research",
+  "relationships": [
+    {
+      "subject": "cryptochrome",
+      "predicate": "is_a",
+      "object": "flavoprotein"
+    },
+    {
+      "subject": "cryptochrome",
+      "predicate": "exhibits",
+      "object": "radical_pair_mechanism"
+    },
+    {
+      "subject": "radical_pair_mechanism",
+      "predicate": "sensitive_to",
+      "object": "geomagnetic_field"
+    },
+    {
+      "subject": "electron_paramagnetic_resonance",
+      "predicate": "detects",
+      "object": "radical_pairs"
+    },
+    {
+      "subject": "spin_dynamics_simulation",
+      "predicate": "models",
+      "object": "radical_pair_mechanism"
+    },
+    {
+      "subject": "hyperfine_coupling",
+      "predicate": "influences",
+      "object": "spin_evolution"
+    },
+    {
+      "subject": "flavin_adenine_dinucleotide",
+      "predicate": "cofactor_of",
+      "object": "cryptochrome"
+    },
+    {
+      "subject": "transient_absorption_spectroscopy",
+      "predicate": "measures",
+      "object": "radical_pair_kinetics"
+    }
+  ],
+  "hierarchies": {
+    "mechanisms": {
+      "magnetosensitivity": [
+        "radical_pair_mechanism",
+        "magnetite_mechanism"
+      ]
+    },
+    "proteins": {
+      "photoreceptors": [
+        "cryptochrome",
+        "photolyase"
+      ],
+      "flavoproteins": [
+        "cryptochrome",
+        "photolyase",
+        "flavin_reductase"
+      ]
+    },
+    "techniques": {
+      "spectroscopy": [
+        "transient_absorption_spectroscopy",
+        "electron_paramagnetic_resonance",
+        "fluorescence_spectroscopy"
+      ],
+      "computational": [
+        "spin_dynamics_simulation",
+        "molecular_dynamics",
+        "density_functional_theory"
+      ]
+    }
+  }
+}
