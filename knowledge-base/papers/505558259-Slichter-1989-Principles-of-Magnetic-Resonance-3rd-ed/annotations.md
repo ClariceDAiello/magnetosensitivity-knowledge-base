@@ -1,7 +1,7 @@
 # Annotations: --- Page 1 ---
 
 ## Quick Reference
-- **Paper ID**: nchem_2447
+- **Paper ID**: 505558259-Slichter-1989-Principles-of-Magnetic-Resonance-3rd-ed
 - **Annotation Date**: 2025-11-05
 - **Annotated By**: System
 

@@ -6,8 +6,8 @@
 - **Authors**: sametime, physically, thebiologicaleffectsofweakmagneticfieldsarestillregarded
 - **Publication**: [Journal, year, volume, pages]
 - **Keywords**: [Standardized keywords]
-- **Date Added**: 2025-11-05T07:51:11.263338
-- **Last Modified**: 2025-11-05T07:51:11.263338
+- **Date Added**: 2025-11-05T08:34:13.910848
+- **Last Modified**: 2025-11-05T08:34:13.910848
 
 ## Access Information (FAIR-A: Accessible)
 - **License**: [Copyright/license information]

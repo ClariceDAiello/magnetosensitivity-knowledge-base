@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "version": "1.0.0",
-  "last_updated": "2025-11-05T08:01:56.894052",
+  "last_updated": "2025-11-05T08:40:33.501829",
   "description": "Master index of all papers in the magnetosensitivity knowledge base",
   "papers": [
     {
@@ -17,7 +17,7 @@
         ""
       ],
       "year": null,
-      "date_added": "2025-10-09T13:13:59.355689",
+      "date_added": "2025-11-05T08:37:24.867629",
       "file_path": "knowledge-base/papers/nchem_2447"
     },
     {
@@ -70,7 +70,7 @@
         "thebiologicaleffectsofweakmagneticfieldsarestillregarded"
       ],
       "year": null,
-      "date_added": "2025-11-05T07:51:11.263338",
+      "date_added": "2025-11-05T08:34:13.910848",
       "file_path": "knowledge-base/papers/Magnetobiology_Underlying_Physical_Problems_by_Vladimir_N__Binhi"
     },
     {
@@ -94,7 +94,7 @@
         "Amsterdam"
       ],
       "year": null,
-      "date_added": "2025-11-05T07:47:50.002663",
+      "date_added": "2025-11-05T08:31:05.152096",
       "file_path": "knowledge-base/papers/1-s2_0-0301010489870922-main"
     },
     {
@@ -107,7 +107,7 @@
         "and Proteins 39"
       ],
       "year": null,
-      "date_added": "2025-11-05T07:49:09.240808",
+      "date_added": "2025-11-05T08:32:23.306794",
       "file_path": "knowledge-base/papers/26172531-biochemistry-the-chemical-reactions-of-living-cell-volumes1-and-2-david-e-metzler-220904090"
     },
     {
@@ -129,7 +129,7 @@
         "4130−4135 ReadOnline"
       ],
       "year": null,
-      "date_added": "2025-11-05T07:49:10.739616",
+      "date_added": "2025-11-05T08:33:09.802561",
       "file_path": "knowledge-base/papers/65937_VoR"
     },
     {
@@ -179,7 +179,7 @@
         "Inc. • Publishers"
       ],
       "year": null,
-      "date_added": "2025-11-05T07:50:26.305022",
+      "date_added": "2025-11-05T08:33:48.820535",
       "file_path": "knowledge-base/papers/Bertil_Hille_-_Ion_Channels_of_Excitable_Membranes__2001__Sinauer_Associates__-_libgen_li"
     },
     {
@@ -235,7 +235,7 @@
       "title": "--- Page 1 ---",
       "authors": [],
       "year": null,
-      "date_added": "2025-11-05T07:50:46.641558",
+      "date_added": "2025-11-05T08:33:48.970492",
       "file_path": "knowledge-base/papers/Introduction_to_Magnetic_Resonance__Alan_Carrington__Andrew_D__McLachlan___z-lib_org_"
     },
     {
@@ -272,7 +272,7 @@
         "UK"
       ],
       "year": null,
-      "date_added": "2025-11-05T07:54:11.251644",
+      "date_added": "2025-11-05T08:37:12.038708",
       "file_path": "knowledge-base/papers/Spin_Dynamics__Basics_of_Nuclear_Magnetic_Resonance__2nd_edition____PDFDrive_com__"
     },
     {
@@ -285,7 +285,7 @@
         "DOI: 10.1080/00268976.2019.1643510"
       ],
       "year": null,
-      "date_added": "2025-11-05T07:54:12.039107",
+      "date_added": "2025-11-05T08:37:12.833230",
       "file_path": "knowledge-base/papers/Studies_on_coherent_and_incoherent_spin_dynamics_that_control_the_magnetic_field_effect_on_photogene"
     },
     {
@@ -329,7 +329,7 @@
         "and Masanobu Wakasa"
       ],
       "year": null,
-      "date_added": "2025-11-05T07:54:24.211003",
+      "date_added": "2025-11-05T08:37:23.217915",
       "file_path": "knowledge-base/papers/bcsj_74_773"
     },
     {
@@ -548,7 +548,7 @@
         "and Developmental"
       ],
       "year": null,
-      "date_added": "2025-11-05T08:00:59.871679",
+      "date_added": "2025-11-05T08:40:32.907815",
       "file_path": "knowledge-base/papers/powabygdtxyuasxdgab6-signature-a3d921819d20ccbd7ec0a08eaa973ea261b36c1c596c50146db916f517ed22e8-poli"
     },
     {
@@ -561,7 +561,7 @@
         "13181-13186 13181"
       ],
       "year": null,
-      "date_added": "2025-11-05T08:01:00.440173",
+      "date_added": "2025-11-05T08:40:33.500260",
       "file_path": "knowledge-base/papers/reversion-of-magnetic-field-effects-observed-in-the-reaction-of-a-triplet-born-radical-pair-consisti"
     },
     {
@@ -596,6 +596,53 @@
       "year": null,
       "date_added": "2025-11-05T08:01:56.892619",
       "file_path": "knowledge-base/papers/wagner_thesis"
+    },
+    {
+      "paper_id": "3-540-38592-4",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "R.Beig",
+        "Wien",
+        "Austria"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T08:32:35.979406",
+      "file_path": "knowledge-base/papers/3-540-38592-4"
+    },
+    {
+      "paper_id": "505558259-Slichter-1989-Principles-of-Magnetic-Resonance-3rd-ed",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "Permeabilityof -",
+        "- J.lo\"",
+        "4IlX 10-7 Wb/Am 4l1:xlO-'"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T08:33:07.771440",
+      "file_path": "knowledge-base/papers/505558259-Slichter-1989-Principles-of-Magnetic-Resonance-3rd-ed"
+    },
+    {
+      "paper_id": "75401377-Abragam-The-Principles-of-Nuclear-Magnetism",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [],
+      "year": null,
+      "date_added": "2025-11-05T08:33:10.149529",
+      "file_path": "knowledge-base/papers/75401377-Abragam-The-Principles-of-Nuclear-Magnetism"
+    },
+    {
+      "paper_id": "pdfcoffee_com_electron-paramagnetic-resonance-of-transition-ions-a-abragam-b-bleaney-2012-oxford-uni",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "Great Clarendon Street",
+        "Oxford OX2 GDP"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T08:37:59.293735",
+      "file_path": "knowledge-base/papers/pdfcoffee_com_electron-paramagnetic-resonance-of-transition-ions-a-abragam-b-bleaney-2012-oxford-uni"
     }
   ]
 }

@@ -1,7 +1,7 @@
 # Annotations: --- Page 1 ---
 
 ## Quick Reference
-- **Paper ID**: nchem_2447
+- **Paper ID**: pdfcoffee_com_electron-paramagnetic-resonance-of-transition-ions-a-abragam-b-bleaney-2012-oxford-uni
 - **Annotation Date**: 2025-11-05
 - **Annotated By**: System
 

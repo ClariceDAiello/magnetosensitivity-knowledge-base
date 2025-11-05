@@ -1,0 +1,48 @@
+{
+  "paper_id": "pdfcoffee_com_electron-paramagnetic-resonance-of-transition-ions-a-abragam-b-bleaney-2012-oxford-uni",
+  "doi": "",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "Great Clarendon Street",
+    "Oxford OX2 GDP"
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "group that has the same multiplication table as\no+ is, by definition, the double cubic group 0+. The group 0+ is\nobtained by adding to 0 the element R which is represented in o+ by\nthe matrix R commutes with all the other elements of 0+\nand its square is equal to the unit element: R2 = E.\nIf A is an element of 0, every element of 0+ is either A or RA — AB.\nThis definition of the double group 0+ can clearly be extended to any\nfinite rotation group.\nThe irreducible representations F to F of 0 are also irreducible\nx 5\nrepresentations of 0+. They are representations where R is represented\nby the unit matrix, but there are others. To elucidate them we must\nfind the classes of 0+. One might think naively that as 0+ has twice as\nmany elements as 0 it has twice as many classes, those already listed\nfor O plus\nActually this is not so: C and RC belong to the same class and\n2 2\nsimilarly C' and RC%. This can be shown as follows (Opechowski 1940).\n2",
+  "date_added": "2025-11-05T08:37:59.293735",
+  "last_modified": "2025-11-05T08:37:59.293738",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "/Users/clarice/Desktop/Claude test/Literature/pdfcoffee.com_electron-paramagnetic-resonance-of-transition-ions-a-abragam-b-bleaney-2012-oxford-university-press-pdf-pdf-free.pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

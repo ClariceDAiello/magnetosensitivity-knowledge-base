@@ -16,8 +16,8 @@
   },
   "keywords": [],
   "abstract": "possibilityof(cid:15)takinghalf-integervalues1/2,3/2...,aswellastheintegervalues0,1,2...thatarisefrom\nangularmomentumphysics,asdiscussedabove.\nFor example, if (cid:15) is equal to 3/2, then Equation 7.16 shows that m may take the values m=\n+3/2,+1/2,−1/2 and −3/2. The four states |(cid:15),m(cid:8)=|3/2,+3/2(cid:8), |3/2,+1/2(cid:8), |3/2,−1/2(cid:8) and |3/2,−3/2(cid:8)\ndefine a four-dimensional ‘block’, in the sense of Equation 7.25. The same cyclic commutation relation-\nshipsapplyasbefore,andtheshiftoperatorshavematrixelementsthatconformtothestandardequation,\nEquation7.21.\nHowever,thereisacatch.Althoughhalf-integerspinisafullyconsistent‘mathematical’possibility,it\nlongappearedtohaveabsolutelynorelationshipwiththerealworld.2 The‘physical’angularmomentum\noperatorsdefinedinEquation7.12cannevergeneratehalf-integervaluesof(cid:15).\nNevertheless, there is a wealth of experimental evidence for the existence, and even the prevalence, of\nhalf-integerspinintheworldoffundamentalparticles.Theex",
-  "date_added": "2025-11-05T07:54:11.251644",
-  "last_modified": "2025-11-05T07:54:11.251647",
+  "date_added": "2025-11-05T08:37:12.038708",
+  "last_modified": "2025-11-05T08:37:12.038710",
   "access": {
     "license": "Unknown",
     "access_level": "restricted",

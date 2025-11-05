@@ -6,8 +6,8 @@
 - **Authors**: Chapter 2. Amino Acids, Peptides, and Proteins 39
 - **Publication**: [Journal, year, volume, pages]
 - **Keywords**: [Standardized keywords]
-- **Date Added**: 2025-11-05T07:49:09.240808
-- **Last Modified**: 2025-11-05T07:49:09.240808
+- **Date Added**: 2025-11-05T08:32:23.306794
+- **Last Modified**: 2025-11-05T08:32:23.306794
 
 ## Access Information (FAIR-A: Accessible)
 - **License**: [Copyright/license information]

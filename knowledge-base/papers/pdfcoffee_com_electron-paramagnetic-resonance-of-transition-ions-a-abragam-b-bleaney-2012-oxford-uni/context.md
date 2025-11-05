@@ -3,11 +3,11 @@
 ## Metadata (FAIR-F: Findable)
 - **Identifier**: 
 - **Title**: --- Page 1 ---
-- **Authors**: the Biochemistry, Cell Biology, Genetics, and Developmental
+- **Authors**: Great Clarendon Street, Oxford OX2 GDP
 - **Publication**: [Journal, year, volume, pages]
 - **Keywords**: [Standardized keywords]
-- **Date Added**: 2025-11-05T08:40:32.907815
-- **Last Modified**: 2025-11-05T08:40:32.907815
+- **Date Added**: 2025-11-05T08:37:59.293735
+- **Last Modified**: 2025-11-05T08:37:59.293735
 
 ## Access Information (FAIR-A: Accessible)
 - **License**: [Copyright/license information]
@@ -86,18 +86,22 @@
 
 ## Abstract
 
-genetic information with the world of real living organisms?
-The analysis of gene functions depends on two complementary approaches:
-genetics and biochemistry. Genetics starts with the study of mutants: we either
-find or make an organism in which a gene is altered, and then examine the effects
-on the organism’s structure and performance (Figure 1–23). Biochemistry more
-directly examines the functions of molecules: here we extract molecules from an
-organism and then study their chemical activities. By combining genetics and
-biochemistry, it is possible to find those molecules whose production depends on
-a given gene. At the same time, careful studies of the performance of the mutant
-organism show us what role those molecules have in the operation of the organ-
-ism as a whole. Thus, genetics and biochemistry used in combination with cell
-biology provide the best way to relate genes and molecules to the structure and
-function of an organism.
-5 µm
-In recent years, DNA sequence information 
+group that has the same multiplication table as
+o+ is, by definition, the double cubic group 0+. The group 0+ is
+obtained by adding to 0 the element R which is represented in o+ by
+the matrix R commutes with all the other elements of 0+
+and its square is equal to the unit element: R2 = E.
+If A is an element of 0, every element of 0+ is either A or RA — AB.
+This definition of the double group 0+ can clearly be extended to any
+finite rotation group.
+The irreducible representations F to F of 0 are also irreducible
+x 5
+representations of 0+. They are representations where R is represented
+by the unit matrix, but there are others. To elucidate them we must
+find the classes of 0+. One might think naively that as 0+ has twice as
+many elements as 0 it has twice as many classes, those already listed
+for O plus
+Actually this is not so: C and RC belong to the same class and
+2 2
+similarly C' and RC%. This can be shown as follows (Opechowski 1940).
+2

@@ -6,8 +6,8 @@
 - **Authors**: CiteThis:J.Phys.Chem.Lett.2024, 15, 4130−4135 ReadOnline
 - **Publication**: [Journal, year, volume, pages]
 - **Keywords**: [Standardized keywords]
-- **Date Added**: 2025-11-05T07:49:10.739616
-- **Last Modified**: 2025-11-05T07:49:10.739616
+- **Date Added**: 2025-11-05T08:33:09.802561
+- **Last Modified**: 2025-11-05T08:33:09.802561
 
 ## Access Information (FAIR-A: Accessible)
 - **License**: [Copyright/license information]

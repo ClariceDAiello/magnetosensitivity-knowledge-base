@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-11-05T08:01:56.895523",
-  "total_pdfs": 47,
-  "processed": 46,
+  "last_updated": "2025-11-05T08:40:33.502356",
+  "total_pdfs": 51,
+  "processed": 51,
   "pending": 0,
   "papers": [
     {
       "pdf_filename": "1-s2.0-0301010489870922-main.pdf",
       "paper_id": "1-s2.0-0301010489870922-main",
       "status": "completed",
-      "date_processed": "2025-11-05T07:47:50.004759",
+      "date_processed": "2025-11-05T08:31:05.154058",
       "fair_compliance_score": 0,
       "issues": []
     },
@@ -17,9 +17,23 @@
       "pdf_filename": "26172531-biochemistry-the-chemical-reactions-of-living-cell-volumes1-and-2-david-e-metzler-220904090335-9a89918f.pdf",
       "paper_id": "26172531-biochemistry-the-chemical-reactions-of-living-cell-volumes1-and-2-david-e-metzler-220904090335-9a89918f",
       "status": "completed",
-      "date_processed": "2025-11-05T07:49:09.246063",
+      "date_processed": "2025-11-05T08:32:23.312078",
       "fair_compliance_score": 0,
       "issues": []
+    },
+    {
+      "pdf_filename": "3-540-38592-4.pdf",
+      "paper_id": "3-540-38592-4",
+      "status": "completed",
+      "date_processed": "2025-11-05T08:32:35.981265",
+      "fair_compliance_score": 53,
+      "issues": [
+        "No valid DOI found",
+        "Title missing or not extracted properly",
+        "Publication year missing",
+        "No ontology terms linked",
+        "Research context under-populated (0/6 fields)"
+      ]
     },
     {
       "pdf_filename": "41557_2016_BFnchem2447_MOESM350_ESM.pdf",
@@ -30,10 +44,40 @@
       "issues": []
     },
     {
+      "pdf_filename": "505558259-Slichter-1989-Principles-of-Magnetic-Resonance-3rd-ed.pdf",
+      "paper_id": "505558259-Slichter-1989-Principles-of-Magnetic-Resonance-3rd-ed",
+      "status": "completed",
+      "date_processed": "2025-11-05T08:33:07.774297",
+      "fair_compliance_score": 53,
+      "issues": [
+        "No valid DOI found",
+        "Title missing or not extracted properly",
+        "Publication year missing",
+        "No ontology terms linked",
+        "Research context under-populated (0/6 fields)"
+      ]
+    },
+    {
       "pdf_filename": "64.pdf",
       "paper_id": "64",
       "status": "completed",
-      "date_processed": "2025-11-05T07:49:10.158964",
+      "date_processed": "2025-11-05T07:49:10.157901",
+      "fair_compliance_score": null,
+      "issues": []
+    },
+    {
+      "pdf_filename": "65937.VoR.pdf",
+      "paper_id": "65937.VoR",
+      "status": "completed",
+      "date_processed": "2025-11-05T08:33:09.804276",
+      "fair_compliance_score": 0,
+      "issues": []
+    },
+    {
+      "pdf_filename": "75401377-Abragam-The-Principles-of-Nuclear-Magnetism.pdf",
+      "paper_id": "75401377-Abragam-The-Principles-of-Nuclear-Magnetism",
+      "status": "completed",
+      "date_processed": "2025-11-05T08:33:10.151026",
       "fair_compliance_score": 50,
       "issues": [
         "No valid DOI found",
@@ -44,40 +88,20 @@
       ]
     },
     {
-      "pdf_filename": "65937.VoR.pdf",
-      "paper_id": "65937.VoR",
-      "status": "completed",
-      "date_processed": "2025-11-05T07:49:10.740538",
-      "fair_compliance_score": 0,
-      "issues": []
-    },
-    {
       "pdf_filename": "80743f71ba3a68ea256c6d91b8ca52ba.pdf",
       "paper_id": "80743f71ba3a68ea256c6d91b8ca52ba",
       "status": "completed",
-      "date_processed": "2025-11-05T07:49:25.230963",
-      "fair_compliance_score": 63,
-      "issues": [
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)",
-        "License information missing"
-      ]
+      "date_processed": "2025-11-05T07:49:25.228962",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "978-3-540-37062-8.pdf",
       "paper_id": "978-3-540-37062-8",
       "status": "completed",
-      "date_processed": "2025-11-05T07:49:41.720534",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:49:41.718205",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "BIOELECTROMAGNETISM.pdf",
@@ -91,21 +115,15 @@
       "pdf_filename": "BUCHACHENKOELSEVIER2024.pdf",
       "paper_id": "BUCHACHENKOELSEVIER2024",
       "status": "completed",
-      "date_processed": "2025-11-05T07:49:46.453800",
-      "fair_compliance_score": 63,
-      "issues": [
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)",
-        "License information missing"
-      ]
+      "date_processed": "2025-11-05T07:49:46.452464",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "Bertil Hille - Ion Channels of Excitable Membranes (2001, Sinauer Associates) - libgen.li.pdf",
       "paper_id": "Bertil_Hille_-_Ion_Channels_of_Excitable_Membranes_2001,_Sinauer_Associates_-_libgen.li",
       "status": "completed",
-      "date_processed": "2025-11-05T07:50:26.307575",
+      "date_processed": "2025-11-05T08:33:48.824443",
       "fair_compliance_score": 0,
       "issues": []
     },
@@ -113,63 +131,39 @@
       "pdf_filename": "Biological Effects of Static Magnetic Fields.pdf",
       "paper_id": "Biological_Effects_of_Static_Magnetic_Fields",
       "status": "completed",
-      "date_processed": "2025-11-05T07:50:44.745936",
-      "fair_compliance_score": 63,
-      "issues": [
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)",
-        "License information missing"
-      ]
+      "date_processed": "2025-11-05T07:50:44.742044",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "FREE-RADICALS-IN-BIOLOGICAL-SYSTEMS.pdf",
       "paper_id": "FREE-RADICALS-IN-BIOLOGICAL-SYSTEMS",
       "status": "completed",
-      "date_processed": "2025-11-05T07:50:45.352280",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:50:45.350907",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "FranciscoTalk.pdf",
       "paper_id": "FranciscoTalk",
       "status": "completed",
-      "date_processed": "2025-11-05T07:50:45.375088",
-      "fair_compliance_score": 45,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Authors missing or not extracted",
-        "Publication year missing",
-        "full_text.txt is short (599 chars)"
-      ]
+      "date_processed": "2025-11-05T07:50:45.374049",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "Free_Radicals_in_Chemical_Biology.pdf",
       "paper_id": "Free_Radicals_in_Chemical_Biology",
       "status": "completed",
-      "date_processed": "2025-11-05T07:50:46.500132",
-      "fair_compliance_score": 63,
-      "issues": [
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)",
-        "License information missing"
-      ]
+      "date_processed": "2025-11-05T07:50:46.499003",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "Introduction to Magnetic Resonance (Alan Carrington, Andrew D. McLachlan) (z-lib.org).pdf",
       "paper_id": "Introduction_to_Magnetic_Resonance_Alan_Carrington,_Andrew_D._McLachlan_z-lib.org",
       "status": "completed",
-      "date_processed": "2025-11-05T07:50:46.642548",
+      "date_processed": "2025-11-05T08:33:48.971700",
       "fair_compliance_score": 0,
       "issues": []
     },
@@ -177,35 +171,23 @@
       "pdf_filename": "L-G-0000575529-0002359145.pdf",
       "paper_id": "L-G-0000575529-0002359145",
       "status": "completed",
-      "date_processed": "2025-11-05T07:50:47.261874",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:50:47.259965",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "Magnetic_Spin_Effects_in_Chemical_Reactions.pdf",
       "paper_id": "Magnetic_Spin_Effects_in_Chemical_Reactions",
       "status": "completed",
-      "date_processed": "2025-11-05T07:50:47.292917",
-      "fair_compliance_score": 58,
-      "issues": [
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "full_text.txt is short (704 chars)",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:50:47.291783",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "Magnetobiology Underlying Physical Problems by Vladimir N. Binhi.pdf",
       "paper_id": "Magnetobiology_Underlying_Physical_Problems_by_Vladimir_N._Binhi",
       "status": "completed",
-      "date_processed": "2025-11-05T07:51:11.266404",
+      "date_processed": "2025-11-05T08:34:13.913883",
       "fair_compliance_score": 0,
       "issues": []
     },
@@ -221,7 +203,7 @@
       "pdf_filename": "Spin Dynamics_ Basics of Nuclear Magnetic Resonance (2nd edition) ( PDFDrive.com ).pdf",
       "paper_id": "Spin_Dynamics__Basics_of_Nuclear_Magnetic_Resonance_2nd_edition__PDFDrive.com_",
       "status": "completed",
-      "date_processed": "2025-11-05T07:54:11.254643",
+      "date_processed": "2025-11-05T08:37:12.043038",
       "fair_compliance_score": 0,
       "issues": []
     },
@@ -229,7 +211,7 @@
       "pdf_filename": "Studies on coherent and incoherent spin dynamics that control the magnetic field effect on photogenerated radical pairs.pdf",
       "paper_id": "Studies_on_coherent_and_incoherent_spin_dynamics_that_control_the_magnetic_field_effect_on_photogenerated_radical_pairs",
       "status": "completed",
-      "date_processed": "2025-11-05T07:54:12.040204",
+      "date_processed": "2025-11-05T08:37:12.834312",
       "fair_compliance_score": 0,
       "issues": []
     },
@@ -237,15 +219,9 @@
       "pdf_filename": "Weak magnetic field effects in biology are measurable.pdf",
       "paper_id": "Weak_magnetic_field_effects_in_biology_are_measurable",
       "status": "completed",
-      "date_processed": "2025-11-05T07:54:22.725546",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:54:22.723037",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "annurev-biophys-032116-094545.pdf",
@@ -259,21 +235,15 @@
       "pdf_filename": "b107250c.pdf",
       "paper_id": "b107250c",
       "status": "completed",
-      "date_processed": "2025-11-05T07:54:23.516895",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:54:23.515656",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "bcsj.74.773.pdf",
       "paper_id": "bcsj.74.773",
       "status": "completed",
-      "date_processed": "2025-11-05T07:54:24.211922",
+      "date_processed": "2025-11-05T08:37:23.220095",
       "fair_compliance_score": 0,
       "issues": []
     },
@@ -281,239 +251,151 @@
       "pdf_filename": "biochemistryvolume2secondeditionthechemicalreactionsoflivingcellsdavide-220802115710-f9dcc21e.pdf",
       "paper_id": "biochemistryvolume2secondeditionthechemicalreactionsoflivingcellsdavide-220802115710-f9dcc21e",
       "status": "completed",
-      "date_processed": "2025-11-05T07:56:28.375776",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:56:28.366057",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "ch01.pdf",
       "paper_id": "ch01",
       "status": "completed",
-      "date_processed": "2025-11-05T07:56:29.157181",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:56:29.155738",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "ch06.pdf",
       "paper_id": "ch06",
       "status": "completed",
-      "date_processed": "2025-11-05T07:56:29.550235",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:56:29.548818",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "ch07.pdf",
       "paper_id": "ch07",
       "status": "completed",
-      "date_processed": "2025-11-05T07:56:29.860263",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:56:29.857986",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "ch09.pdf",
       "paper_id": "ch09",
       "status": "completed",
-      "date_processed": "2025-11-05T07:56:31.880140",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:56:31.878675",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "ch11.pdf",
       "paper_id": "ch11",
       "status": "completed",
-      "date_processed": "2025-11-05T07:56:32.314801",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:56:32.313474",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "ch13.pdf",
       "paper_id": "ch13",
       "status": "completed",
-      "date_processed": "2025-11-05T07:56:39.027334",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:56:39.025623",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "free-radicals-in-biology-and-medicine-220515093837-10384540.pdf",
       "paper_id": "free-radicals-in-biology-and-medicine-220515093837-10384540",
       "status": "completed",
-      "date_processed": "2025-11-05T07:57:34.987608",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:57:34.981490",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "hogben_thesis.pdf",
       "paper_id": "hogben_thesis",
       "status": "completed",
-      "date_processed": "2025-11-05T07:57:45.024198",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:57:45.021979",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "ijms-24-08218.pdf",
       "paper_id": "ijms-24-08218",
       "status": "completed",
-      "date_processed": "2025-11-05T07:57:46.749631",
-      "fair_compliance_score": 63,
-      "issues": [
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)",
-        "License information missing"
-      ]
+      "date_processed": "2025-11-05T07:57:46.748216",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "index.pdf",
       "paper_id": "index",
       "status": "completed",
-      "date_processed": "2025-11-05T07:57:46.987235",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:57:46.985757",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "lipidperoxidation-200922124146.pdf",
       "paper_id": "lipidperoxidation-200922124146",
       "status": "completed",
-      "date_processed": "2025-11-05T07:57:47.531118",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:57:47.529688",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "nchem.2447.pdf",
       "paper_id": "nchem.2447",
-      "status": "processing",
-      "date_processed": "2025-11-05T07:57:47.531539",
-      "fair_compliance_score": null,
+      "status": "completed",
+      "date_processed": "2025-11-05T08:37:24.869346",
+      "fair_compliance_score": 0,
       "issues": []
     },
     {
       "pdf_filename": "nwae244.pdf",
       "paper_id": "nwae244",
       "status": "completed",
-      "date_processed": "2025-11-05T07:58:28.564199",
-      "fair_compliance_score": 63,
-      "issues": [
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)",
-        "License information missing"
-      ]
+      "date_processed": "2025-11-05T07:58:28.562525",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "p375.pdf",
       "paper_id": "p375",
       "status": "completed",
-      "date_processed": "2025-11-05T07:58:29.886965",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:58:29.885410",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "part1.pdf",
       "paper_id": "part1",
       "status": "completed",
-      "date_processed": "2025-11-05T07:58:29.996618",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:58:29.995196",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "part2.pdf",
       "paper_id": "part2",
       "status": "completed",
-      "date_processed": "2025-11-05T07:58:30.042551",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T07:58:30.041310",
+      "fair_compliance_score": null,
+      "issues": []
+    },
+    {
+      "pdf_filename": "pdfcoffee.com_electron-paramagnetic-resonance-of-transition-ions-a-abragam-b-bleaney-2012-oxford-university-press-pdf-pdf-free.pdf",
+      "paper_id": "pdfcoffee.com_electron-paramagnetic-resonance-of-transition-ions-a-abragam-b-bleaney-2012-oxford-university-press-pdf-pdf-free",
+      "status": "completed",
+      "date_processed": "2025-11-05T08:37:59.297197",
+      "fair_compliance_score": 0,
+      "issues": []
     },
     {
       "pdf_filename": "powabygdtxyuasxdgab6-signature-a3d921819d20ccbd7ec0a08eaa973ea261b36c1c596c50146db916f517ed22e8-poli-160827124630.pdf",
       "paper_id": "powabygdtxyuasxdgab6-signature-a3d921819d20ccbd7ec0a08eaa973ea261b36c1c596c50146db916f517ed22e8-poli-160827124630",
       "status": "completed",
-      "date_processed": "2025-11-05T08:00:59.880062",
+      "date_processed": "2025-11-05T08:40:32.918881",
       "fair_compliance_score": 0,
       "issues": []
     },
@@ -521,7 +403,7 @@
       "pdf_filename": "reversion-of-magnetic-field-effects-observed-in-the-reaction-of-a-triplet-born-radical-pair-consisting-of-two.pdf",
       "paper_id": "reversion-of-magnetic-field-effects-observed-in-the-reaction-of-a-triplet-born-radical-pair-consisting-of-two",
       "status": "completed",
-      "date_processed": "2025-11-05T08:01:00.441215",
+      "date_processed": "2025-11-05T08:40:33.502350",
       "fair_compliance_score": 0,
       "issues": []
     },
@@ -529,43 +411,25 @@
       "pdf_filename": "spin-catalysis-of-chemical-reactions.pdf",
       "paper_id": "spin-catalysis-of-chemical-reactions",
       "status": "completed",
-      "date_processed": "2025-11-05T08:01:02.064499",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T08:01:02.063081",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "srep38543.pdf",
       "paper_id": "srep38543",
       "status": "completed",
-      "date_processed": "2025-11-05T08:01:02.439677",
-      "fair_compliance_score": 60,
-      "issues": [
-        "Title missing or not extracted properly",
-        "Authors missing or not extracted",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T08:01:02.438307",
+      "fair_compliance_score": null,
+      "issues": []
     },
     {
       "pdf_filename": "wagner_thesis.pdf",
       "paper_id": "wagner_thesis",
       "status": "completed",
-      "date_processed": "2025-11-05T08:01:56.895518",
-      "fair_compliance_score": 53,
-      "issues": [
-        "No valid DOI found",
-        "Title missing or not extracted properly",
-        "Publication year missing",
-        "No ontology terms linked",
-        "Research context under-populated (0/6 fields)"
-      ]
+      "date_processed": "2025-11-05T08:01:56.892619",
+      "fair_compliance_score": null,
+      "issues": []
     }
   ]
 }

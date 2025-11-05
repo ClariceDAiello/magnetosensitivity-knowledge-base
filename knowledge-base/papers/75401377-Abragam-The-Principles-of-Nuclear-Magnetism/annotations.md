@@ -1,7 +1,7 @@
 # Annotations: --- Page 1 ---
 
 ## Quick Reference
-- **Paper ID**: nchem_2447
+- **Paper ID**: 75401377-Abragam-The-Principles-of-Nuclear-Magnetism
 - **Annotation Date**: 2025-11-05
 - **Annotated By**: System
 

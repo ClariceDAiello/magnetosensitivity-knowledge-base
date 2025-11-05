@@ -6,8 +6,8 @@
 - **Authors**: J. Phys. Chem. 1995, 99, 13181-13186 13181
 - **Publication**: [Journal, year, volume, pages]
 - **Keywords**: [Standardized keywords]
-- **Date Added**: 2025-11-05T08:01:00.440173
-- **Last Modified**: 2025-11-05T08:01:00.440173
+- **Date Added**: 2025-11-05T08:40:33.500260
+- **Last Modified**: 2025-11-05T08:40:33.500260
 
 ## Access Information (FAIR-A: Accessible)
 - **License**: [Copyright/license information]

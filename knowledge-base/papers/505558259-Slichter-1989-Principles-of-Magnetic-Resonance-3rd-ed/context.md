@@ -3,11 +3,11 @@
 ## Metadata (FAIR-F: Findable)
 - **Identifier**: 
 - **Title**: --- Page 1 ---
-- **Authors**: the Biochemistry, Cell Biology, Genetics, and Developmental
+- **Authors**: Permeabilityof -, - J.lo", 4IlX 10-7 Wb/Am 4l1:xlO-'
 - **Publication**: [Journal, year, volume, pages]
 - **Keywords**: [Standardized keywords]
-- **Date Added**: 2025-11-05T08:40:32.907815
-- **Last Modified**: 2025-11-05T08:40:32.907815
+- **Date Added**: 2025-11-05T08:33:07.771440
+- **Last Modified**: 2025-11-05T08:33:07.771440
 
 ## Access Information (FAIR-A: Accessible)
 - **License**: [Copyright/license information]
@@ -82,22 +82,3 @@
 
 ### Computational Implementations
 [Links to code implementing methods from this paper]
-
-
-## Abstract
-
-genetic information with the world of real living organisms?
-The analysis of gene functions depends on two complementary approaches:
-genetics and biochemistry. Genetics starts with the study of mutants: we either
-find or make an organism in which a gene is altered, and then examine the effects
-on the organism’s structure and performance (Figure 1–23). Biochemistry more
-directly examines the functions of molecules: here we extract molecules from an
-organism and then study their chemical activities. By combining genetics and
-biochemistry, it is possible to find those molecules whose production depends on
-a given gene. At the same time, careful studies of the performance of the mutant
-organism show us what role those molecules have in the operation of the organ-
-ism as a whole. Thus, genetics and biochemistry used in combination with cell
-biology provide the best way to relate genes and molecules to the structure and
-function of an organism.
-5 µm
-In recent years, DNA sequence information 
