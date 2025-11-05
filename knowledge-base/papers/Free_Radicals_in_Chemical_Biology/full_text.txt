@@ -1,0 +1,45 @@
+
+
+--- Page 1 ---
+
+RADICALSINCHEMICALBIOLOGY 703
+doi:10.2533/chimia.2008.703 CHIMIA2008,62,No.9
+EDITORIAL
+Free Radicals in Chemical Biology
+The continuous increase in interest in free radicals associated with
+life sciences is motivated by the discovery of numerous processes in
+biology that make use of these species as key intermediates in their
+mechanisms. Important links have also been found with medicine
+since many physiopathological conditions and aging processes are
+correlated with free radical formation and reactivity.
+In the last decade, it became clear that for an in-depth understand-
+ingofbiologicalprocesses,amolecularapproach,basedonchemical
+principles and tools, was necessary. Therefore, the discipline of chemical biology was born with the scope of
+creatinganinterfacebetweenchemistryandbiology,interms,notonlyofmethodologies,butoflanguageand
+mutual comprehension as well.
+The interface between free radicals and chemical biology became valuable in view of the fact that several free
+radical-based processes are known from the molecular point of view, and which have allowed biomarkers as
+well as pharmacological and biological tools to be identified. Examples include lipid peroxidation and oxida-
+tive damage to DNA and proteins; processes that are currently recognized as the molecular basis of several
+diseases and of aging.
+Nevertheless, there is still a wide gap between chemical and mechanistic knowledge and their use for the in-
+vestigationofbiologicalproblems.Thereisaneedtointegratemethodologiesinchemistryandbiologyinorder
+to apply chemical tools to the complexity of living organisms. In addition, sharing a common language among
+scientists with different backgrounds has proven difficult.
+TheCOSTAction‘FreeRadicalsinChemicalBiology’intendstofillthesegaps,withfourworkinggroupsdeal-
+ing with the main radical processes in biomolecules such as lipids, proteins, nucleic acids and the effects of
+small, biologically relevant free radicals. Radical species are considered either as part of the normal metabolic
+functioning, or as responsible for the attack on molecules, thereby causing the onset of biological damage.
+Preventiveandrepairstrategiesagainstradical-baseddamagearealsoincludedinthescenarioofthebiological
+effects.TheActionisopentoavarietyofscientistsspanningfromchemistrytomedicine,whohavecontributed
+to the articles in this issue of CHIMIA, providing an overview of the main subjects and tasks of the Action. The
+general aim is to address physiologically and pathologically relevant processes based on free radicals, in an
+effort to improve quality of life and health.
+IhopethatthefieldofFreeRadicalsinChemicalBiologyinauguratedbyourCOSTActionwillalsorepresentthe
+ideal scientific environment for the new generation of researchers and an important opportunity for achieving
+excellence of European science in the direction of multidisciplinarity and basic and applied research.
+I wish to thank all authors and the Editor-in-Chief for making this special issue possible.
+Chryssostomos Chatgilialoglu
+Consiglio Nazionale delle Ricerche, Bologna
+ItiswithgreatpleasurethattheEditorialBoardofCHIMIAthanksProfDr.ChryssostomosChatgilialogluforhis
+efforts in the planning and realization of this issue on ‘Radicals in Chemical Biology’.

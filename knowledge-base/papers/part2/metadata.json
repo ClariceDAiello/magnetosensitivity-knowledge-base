@@ -1,0 +1,48 @@
+{
+  "paper_id": "part2",
+  "doi": "",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "ModernBiophysicalChemistry:DetectionandAnalysisofBiomolecules",
+    "SecondEdition.PeterJomoWalla."
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "",
+  "date_added": "2025-11-05T07:58:30.041310",
+  "last_modified": "2025-11-05T07:58:30.041312",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "/Users/clarice/Desktop/Claude test/Literature/part2.pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

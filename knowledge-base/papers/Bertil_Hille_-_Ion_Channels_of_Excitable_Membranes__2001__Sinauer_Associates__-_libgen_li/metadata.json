@@ -1,0 +1,48 @@
+{
+  "paper_id": "Bertil_Hille_-_Ion_Channels_of_Excitable_Membranes__2001__Sinauer_Associates__-_libgen_li",
+  "doi": "",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "Sinauer Associates",
+    "Inc. • Publishers"
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "nature of their writing, Cole and Cur­\ntis's attempts to describe the membrane as a linear circuit element and their cau­\ntion in offering any interpretation kept them from thinking about which ions par­\nticipated in the conductance increase.\nJust as most features of Bernstein's theory seemed confirmed, another impor­\ntant discrepancy with the idea of membrane breakdown was found. For the first\ntime, Hodgkin and Huxley (1939, 1945) and Curtis and Cole (1940, 1942) were\nable to measure the full action potential of an axon with an intracellular micro-\npipette. They had expected to observe a transient drop of membrane potential to\nnear 0 mV as the membrane became transiently permeable to all ions. Instead, EM\novershot zero and reversed sign by tens of millivolts (Figure 2.1).",
+  "date_added": "2025-11-05T07:50:26.305022",
+  "last_modified": "2025-11-05T07:50:26.305024",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "/Users/clarice/Desktop/Claude test/Literature/Bertil Hille - Ion Channels of Excitable Membranes (2001, Sinauer Associates) - libgen.li.pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

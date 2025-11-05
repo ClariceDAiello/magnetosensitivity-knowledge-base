@@ -1,0 +1,1793 @@
+
+
+--- Page 1 ---
+
+International Journal o f
+Molecular Sciences
+Review
+Spin Dynamics of Flavoproteins
+JörgMatysik1,* ,LucaGerhards2,TobiasTheiss3,LisaTimmermann3,PatrickKurle-Tucholski1,GuzelMusabirova1,
+RuonanQin1,FrankOrtmann4,IliaA.Solov’yov2,5,6 andTanjaGulder3
+1 InstitutfürAnalytischeChemie,UniversitätLeipzig,Linnéstr.3,04103Leipzig,Germany
+2 InstitutfürPhysik,CarlvonOssietzkyUniversitätOldenburg,Carl-vonOssietzky-Str.9-11,
+26129Oldenburg,Germany
+3 InstitutfürOrganischeChemie,UniversitätLeipzig,Johannisallee29,04103Leipzig,Germany
+4 TUMSchoolofNaturalSciences,TechnischeUniversitätMünchen,Lichtenbergstr.4,
+85748Garching,Germany
+5 ResearchCenterforNeurosensoryScience,CarlvonOssietzkyUniversitätOldenburg,
+Carl-von-Ossietzky-Str.9-11,26129Oldenburg,Germany
+6 CenterforNanoscaleDynamics(CENAD),CarlvonOssietzkyUniversitätOldenburg,
+Carl-von-Ossietzky-Str.9-11,26129Oldenburg,Germany
+* Correspondence:joerg.matysik@uni-leipzig.de
+Abstract:Thisshortreviewreportsthesurprisingphenomenonofnuclearhyperpolarizationoccur-
+ringinchemicalreactions,whichiscalledCIDNP(chemicallyinduceddynamicnuclearpolarization)
+orphoto-CIDNPifthechemicalreactionislight-driven.Thephenomenonoccursinbothliquidand
+solid-state,andelectrontransfersystems,oftencarryingflavinsaselectronacceptors,areinvolved.
+Here,weexplainthephysicalandchemicalpropertiesofflavins,theiroccurrenceinspin-correlated
+radicalpairs(SCRP)andthepossibleinvolvementofflavin-carryingSCRPsinanimalmagneto-
+receptionatearth’smagneticfield.
+Keywords:flavin;photo-CIDNP;magnetoreception;flavoproteins
+Citation:Matysik,J.;Gerhards,L.;
+Theiss,T.;Timmermann,L.;Kurle- 1. Flavins: ElectronicProperties,Reactivity,andPhotochemistry
+Tucholski,P.;Musabirova,G.;Qin,R.;
+Flavin derivatives perform an outstanding role in the manifold of biological pro-
+Ortmann,F.;Solov’yov,I.A.;Gulder,
+cesses. Thesecolorfulcompoundshaveuniquephotochemicalandredoxpropertiesand,
+T.SpinDynamicsofFlavoproteins.
+thus, possess interesting chemical and biological potential [1]. Extensive research has
+Int.J.Mol.Sci.2023,24,8218.
+beenconductedonflavoenzymes,whichrelyonaflavincofactor. Themechanismsand
+https://doi.org/10.3390/
+structuresoftheseenzymeshavebeenthoroughlydocumented,withaparticularfocus
+ijms24098218
+ontheirdiversecatalyticactivities. Themainstructuralfeatureofflavinsistheirreactive
+AcademicEditor:M.Natália
+7,8-dimethyl-10-alkylisoalloxazinecorestructurethatispartofthethreemostimportant
+D.S.Cordeiro
+flavinsinnature(-)-riboflavin(RF,1),flavinmononucleotide(FMN,2),andflavinadenine
+Received:4April2023 dinucleotide(FAD,3)(Figure1). RF(1),widelyknownasvitaminB 2 ,performsakeyrole
+Revised:19April2023 inenergymetabolism[2]. Furthermore,itservesasthestartingmaterialfortheinvivo
+Accepted:27April2023 synthesis of 2 and 3. They are the biologically active forms of RF (1) and act as rather
+Published:4May2023 non-covalentlythancovalentlyboundcofactorsinmostflavoenzymes[3–6].
+Sincethefirststudiesonenzymeclass,containingFMN(2)orFAD(3)asaprosthetic
+group,inthemiddle1930sbyWarburg[7],Krebs[8],andTheorel[9],itisknownthatflavins
+performacrucialroleinnumerousoxidationandreductionreactions.Thisincludesthefour
+Copyright: © 2023 by the authors.
+primaryenergymetabolismsystems,photosynthesis,aerobicrespiration,denitrification,
+Licensee MDPI, Basel, Switzerland.
+andsulfurrespiration. Unlikeothercofactors,flavinsare,inprinciple,abletohandleboth
+This article is an open access article
+one-electron(single-electrontransfer,SET)andtwo-electrontransferprocesses[10]. This
+distributed under the terms and
+specialabilityisduetothethreeredoxstatesoftheisoalloxazinemoiety. Thequinoidform
+conditionsoftheCreativeCommons
+4(Fl ),whichpossessesaconjugatedπ-systembetweentherings,isapowerfuloxidant,
+ox
+Attribution(CCBY)license(https://
+whichconstitutestheprimaryreactivitytowardssubstrates. Inaddition,flavinsexistin
+creativecommons.org/licenses/by/
+theirradicalFl semiquinone(5)andthecompletelyreducedFl form(6,Figure1).
+4.0/). seq red
+Int.J.Mol.Sci.2023,24,8218.https://doi.org/10.3390/ijms24098218 https://www.mdpi.com/journal/ijms
+
+--- Page 2 ---
+
+Int. J. Mol. Sci. 2023, 24, x FOR PEER REVIEW 2 of 20
+principle, able to handle both one-electron (single-electron transfer, SET) and two-electron
+transfer processes [10]. This special ability is due to the three redox states of the
+isoalloxazine moiety. The quinoid form 4 (Flox), which possesses a conjugated π-system
+between the rings, is a powerful oxidant, which constitutes the primary reactivity towards
+Int.J.Mol.Sci.2023,24,8218 2of19
+substrates. In addition, flavins exist in their radical Flseq semiquinone (5) and the
+completely reduced Flred form (6, Figure 1).
+Figure 1. (a) Structural composition of the 7,8-dimethyl-10-alkylalloxazine core with its biologically
+Figure1.(a)Structuralcompositionofthe7,8-dimethyl-10-alkylalloxazinecorewithitsbiologically
+most relevant derivatives all substituted at the N(10)-position. (b) The most common redox states
+mostrelevantderivativesallsubstitutedattheN(10)-position.(b)Themostcommonredoxstatesof
+of flavin derivatives.
+flavinderivatives.
+The typical redo T x h p e o t t y en p t i i c a a l l f r o e r d f o r x ee p o R t F e n (1 ti ) a i l n f o s r ol f u re t e io R n F a ( t 1 p ) H in 7 s o is lu E timo = n − a 2 t 0 p 0 H m 7 V is . E Em i = s −200mV.E is
+m m
+the so-called two-electron midpoint reduction potential and is defined as the average
+theso-calledtwo-electronmidpointreductionpotentialandisdefinedastheaveragevalue
+value of both oxidation/reduction steps. This is due to the frequently occurring low
+ofbothoxidation/reductionsteps. Thisisduetothefrequentlyoccurringlowstabilityof
+stability of the one-electron reduced state 5, which results from the alteration of the
+theone-electronreducedstate5,whichresultsfromthealterationoftheplanaritywhenthe
+planarity when t
+r
+h
+e
+e
+d
+r
+o
+e
+x
+d
+s
+o
+t
+x
+a t
+s
+e
+ta
+c
+t
+h
+e
+a
+c
+n
+h
+g
+a
+e
+n
+s
+g
+[
+e
+1
+s
+1
+[
+]
+1
+.
+1
+H
+].
+o
+H
+w
+o
+e
+w
+ve
+e
+r
+v
+,
+e
+i
+r
+n
+, i
+e
+n
+n
+e
+z
+n
+y
+z
+m
+y
+e
+m
+s,
+e
+t
+s
+h
+,
+e
+th
+E
+e Emv
+a
+v
+l
+a
+u
+l
+e
+ue
+o f
+o
+R
+f R
+F
+F
+(1
+(
+)
+1
+v
+)
+ariesdrastically
+m
+varies drasticallyf rforomm− −440000 mmVV ttoo ++6600 mmVV,, bbeeccaauussee ooff ssttaabbiilliizziinngg eeffffeeccttss oonn tthhee iinnddiivviidduuaall oxidationstates
+oxidation states oorriiggiinnaattiinngg ffrroomm tthhee pprrootteeiinn’’ss eennvviirroonnmmeenntt [[1122––1144]]..
+One of the most iOmnpeoortfatnhte omxiodsitziimngp aogrteanntts oinx iednizziynmgaatgice nfltasviinn ecnaztaylmysaitsi cisfl mavoilneccualtaarl ysisismolecular
+oxygen. Due to otxhyeg henig.h Dreudeutcotiothne phoitgehntrieadl uocft iOon2, pito tise natnia lexocfeOlle
+2
+n, ti toixsidaannet xfcreolmle nat oxidant from a
+thermodynamic tphoerinmt oodfy nvaiemwi c[1p5o]i.n Ftloafvivni-edwep[e1n5d].enFtl aovxiind-adseepse nandden mt ooxniodoaxsyegseannadsems onooxygenases
+utilize O2 to perfuortimliz oexOyg
+2
+etno tprearnfsofremr roexayctgieonnst,r asnuscfhe rasr eBaacetyioern-sV,islluigcehr aosxBidaaeytieorn-Vs i[ll1i6g]e raonxdi dations[16]and
+hydroxylation-dehhyyddroroxgyelantaiotino-ndse h[1y7d].r oFgoer nbaottiho nesn[z1y7m].eF colrasbsoetsh, tehnez ytrmanescfloarsmseast,iothne sttraarntss formationstarts
+with a SET fromw igthroauSnEdT-sftraotme tgrriopulentd O-s2t attoe ttrhipel erteOdu
+2
+ctoedth gerroeudnudce-sdtagtreo usinndg-lsetta tfelasviningl e6t flavin6forming
+forming a caged aracdaigceadl praadiri c7a (lFpigaiurr7e (2F)i. gIunr cea2s)e. oInf ocxaisdeaosfeos,x Oid2a isse us,sOed
+2
+jiussut saesd ajnu setleacstraonne lectronacceptor,
+acceptor, yieldinygi ehlyddinroggheynd proergoexnidpee raonxdid tehea nodxitdhiezeodx icdoifzaecdtocro 4fa acfttoerr 4a asfetceornads SecEoTn fdroSmET fromtheflavin
+the flavin cofaccotofarc totor toththe essuuppeerrooxxiiddee.. HHowoweveevre,rm, omnooonxoyogxeyngaesneassfeosr mfoCrm(4 a)C-h(y4da)r-operoxyflavin(8)
+hydroperoxyflavaisn t(h8e) kaesy threea ckteivye rienatcetrimvee diniatetermfreodmiastien gfrloetm-t rsipinlegtleint-tterripacletito innst.eArafctetiroinnss.e rtinganoxygen
+After inserting aant oomxyginenth aetosumb sintr tahtee hsuybdsrtorxaytefl havyidnro(9x)yifslagveinne (r9a)t eisd gtehnaetrgaitveeds tohxaitd giziveeds flavin4afterthe
+oxidized flavin l4o ssafotefrw tahtee rlo[1s8s] .oUf nwcaotnetrr o[l1le8d]. rUednucoctnitornolilnedd iroexdyugcetniona ssinoc idaitoexdywgeinth a spontaneous
+associated with ac ospllaopnstaenoefotuhse ccoalglaepdsrea odfi ctahlep caaigreodr rthadeipcaelr opxayirfl oavr itnheo fpteenropxryofdlauvciens otfotxeinc reactiveoxygen
+produces toxic rsepaecctiievse( RoOxySg)eans ssipdeeciperso d(RuOctSs)t haast smidaey rperaocdtuncotns -sthpaetc ifimcaayll yrewacitth ncoenll-ularcomponents
+specifically witha cnedll,uthlaurs ,caormeptooxniecn[t1s9 ]a.nTdh,u tsh,unsa,t uarree dtoexviecl o[p19e]d. oTxhyugse, nn-uattuilrizei ndgeveenlzoypmedes controllingand
+oxygen-utilizingfi ennez-ytumneins gcothnetrooxlildinagti oanndp ofitnene-ttiaulnoinfgo xtyhgee onx[i2d0a]t.iTonh eptowteonfltiaavl ooefn ozyxymgeencl assesmentioned
+[20]. The two flaabvooveenzreyamcter acplaidssleysw mithentthioeinresdm aabllo-mveo lerecauclet oraxpididizleyr ,wwihthil ethdeeihry dsmroaglel-nases,agroupof
+molecule oxidizeern, zwymhielse adlseohcyadtreoggoernizaesdesa,s aO 2g-rroeusppo onfs ievnezflyamvoeesn azlysmo ecsa,tiengtoerriazcetdin ams oOst 2-casesveryslowly
+responsive flavoweinthzyomxyegse, ni[n2t1e]r.aDcte hiynd rmogoesnt asceassyesie ldvearym ixsltouwrelyo fHw2itOh2 aonxdygaevne ry[2r1e]a. ctivesuperoxide
+Dehydrogenasesa yniieolnd. aI nmgixetnuerrea ol,fe Hnz 2Oym
+2
+aensdr eaq vueirrye rceearctatiivnet sauctpicesrotoxiidme parnoiovne.t Ihne greanteeroafl,t hereactionwith
+oxygen. Improving accessibility to O in the protein environment and stabilizing the
+2
+trapped[O − FlH•]arehereamongthemostimportanttools[14].
+2
+Contrarytotheabove-mentionedmechanismsutilizingSETprocesses,certainflavoen-
+zymespossesstheabilityofatwo-electrontransfer[22]. Oneexampleofsuchenzymesare
+flavin-dependenthalogenases. Theycatalyzetheformationofcarbon-halogenbondsin
+particularatelectronricharomaticC-atomsbyoxidizingahalideion(Figure3a)[23,24].
+Here,reducedflavin(6)isdirectlyattackedattheC4apositiongeneratinghydroperoxide
+
+--- Page 3 ---
+
+Int.J.Mol.Sci.2023,24,8218 3of19
+Int. J. Mol. Sci. 2023, 24, x FOR PEER REVIEW 3 of 20
+species(8),whichundergoesanucleophilicsubstitutionattheelectrophilicoxygenatom
+O1byahalideHal−,suchaschloride. TheformedhypohalousacidHOHal(10)isapotent
+enzymes require certain tactics to improve the rate of the reaction with oxygen. Improving
+electrophilichalogenatingagent. Thegeneratedhydroxylatedflavin9producesoxidized
+accessibility to O2 in the protein environment and stabilizing the trapped [O2− FlH●] are
+Int. J. Mol. Sci. 2023, 24, x FOR PEER RflEaVvIiEnW4 thatisreducedbyaflavine-reductasetoclosethecatalyticcycle[25–27]. 4 of 20
+here among the most important tools [14].
+and development of plants [38,39]. While the mechanism for magnetic perceptions in
+birds is still uncertain, a likely explanation is based on the electron-transfer chain between
+the acceptor flavin and the neighboring tryptophan donors in the protein environment.
+Starting with a photoexcited flavin in the cryptochrome, tryptophan residues in close
+proximity, then transfer electrons to the flavin, yielding a flavin-tryptophan radical pair.
+It is assumed that this radical pair is a magnetoreceptor due to its spin-dynamics and,
+thus, can interact with the weak magnetic field of the earth [40,41]. Dependent on how the
+cryptochromes are aligned, different physiological signals are generated [42].
+Furthermore, the observed radical pair mechanism led to increased research of magnetic
+fields acting on anthropogenic biological systems, including flavoproteins [43].
+Generation of a spin-correlated radical pair (SCRP) can be investigated by so-called
+CIDNP nuclear magnetic resonance spectroscopy (NMR) which will be discussed in the
+Figure 2. Different SET reaction pathways of the flavin cofactor.
+Ffoiglluorwe2in.gD icfhfearpentetrSsE oTfr tehacisti orenvpieatwhw. aysoftheflavincofactor.
+Contrary to the above-mentioned mechanisms utilizing SET processes, certain
+flavoenzymes possess the ability of a two-electron transfer [22]. One example of such
+enzymes are flavin-dependent halogenases. They catalyze the formation of carbon-
+halogen bonds in particular at electron rich aromatic C-atoms by oxidizing a halide ion
+(Figure 3a) [23,24]. Here, reduced flavin (6) is directly attacked at the C4a position
+generating hydroperoxide species (8), which undergoes a nucleophilic substitution at the
+electrophilic oxygen atom O1 by a halide Hal−, such as chloride. The formed hypohalous
+acid HOHal (10) is a potent electrophilic halogenating agent. The generated hydroxylated
+flavin 9 produces oxidized flavin 4 that is reduced by a flavine-reductase to close the
+catalytic cycle [25–27].
+In addition to their versatile behavior utilizing molecular oxygen, flavins also possess
+very interesting photophysical properties, which will be addressed in the following
+chapters in detail. The absorption peaks of Flox (4) in aqueous solution show four maxima
+at 445, 375, 265, and 220 nm. π ⟶ π* transitions are responsible for the relatively high
+molar absorption coefficients [28]. In nature, these photophysical properties are utilized
+in light-dependent flavin catalysis for one-electron reductions (Figure 3b). In these
+Figure 3. Proposed mechanism of (a) two-electron transfer mechanism exemplary shown for flavin-
+Figure3.Proposedmechanismof(a)two-electrontransfermechanismexemplaryshownforflavin-
+processes, upond eexpceintadteinotn h baylo tgheen alisgeh atn ad r (ebd) uocneed-e flelactvrionn a rnediounc t(i6o*n)s sopf elicgiehst- tinradnuscfeedr sfl aav siinn cgaltea lysis.
+dependenthalogenaseand(b)one-electronreductionsoflight-inducedflavincatalysis.
+electron to a substrate. The now generated, highly reactive semiquinone 5 reduces the
+corresponding 2su. Fblsatrvaitnes tAhcrotiunggh i na thseec Conlads sSiEcaTl. ROandeic aeln Pzyamir eM ceocnhdauncistimng i nt hLiisq tuyipde-S otaf te NMR
+Inadditiontotheirversatilebehaviorutilizingmolecularoxygen,flavinsalsopossess
+reaction is the D ve N ry A iT- n pht h eer o eftls oot l iuy nra gissp eh, hi nw ogt h o p ifcihehly dr s e icod afu lsc ppe r sion p t-h ecrhy t meiems in ,isw et rh dyi i c mihse wbrsai lsl geb ede n e aor dna d tae re dbs sob ely dd U ian Vstsh -ul e img f h opl ttl ioowni nvgercyh amptuecrhs
+and, thus, is par ict no ond fte trt haa erily . D TtNoh A echa -seb tms r o air icn pa tlr i e oinp ntaup iriet a miokne s c:o hEf avF nel insm i(f4 i )tnhi nec e arl qelscu o[ e 2mo 9 ub] s .i nT soah lte ui ot r ine o d noofs x ht-wp ow oot erfao ndu tiir acm la olasf x iism eaneartg4e4t5i,c3a7ll5y,
+ox
+the thymine dim 2h6ieg5 r ,h i alnyn d cfoa2 nv2 to0 rra nas mbt lt .eo π, ii→tts wo π n *ilelt r -e anl noe stc i t t rhio oan nps pr a eer dne u ric efe s dipt o rin ass d i“i b csl ape li fni o s r f− toh 2r. eb2ir dV eld a veti snv .” e s.l a yHtu her ing ach teem d, roelacormabbsionrapttiioonn,
+calomel electrod cao elte h( f Sofi CucigE eh) n , ts wth[ he2ri 8 cm] h .o I udn nyn dna eat r umli r niec, eas tlh lyt e h s eae lh ploi h gwo het odr p e, h diysu s cki i c niang le ptpirco oat p elln eyr t i tca ieol sno atfrr oe flla ulev tdi i l n izb i eyn d tt ihh neis l i eglhetc-tdroepneicn dspenint
+case [30,31]. flstaavteins.c aInta ltyhsiiss fcohraopnteer-,e lwecet rownilrle dreupcotirotn osn(F itghue redi3sbc)o.vIenrtyh easnedp rtohcee sismesp,luicpaotinonesx coitfa ttihoins
+The remark bpa yrbint l h ec eipph llieo g.t h oWt p aeh ywre sid ilclu s sc oeeef d ftlhfl aaa vtv i nfiln sa ava rinne i so n naort (e o 6 i* nd) ley sa p ul e s“c epi d ela s byt yer ra nsn a”s t u fine r r ets .h A ae d sfii den ilg tdi l o eonfe a sl l epl c yitn, r i-o ncnh etomaistsruyb. strate.
+synthetic organTich cehneomwisgtreyn, efrlaavteinds, hpiegrhfolyrmre aac ctrivuecisael mroiqleu ains opnheo5torceadtaulcyesstst h[3e2c]o, rmreossptloyn dingsubstrate
+in oxidative reta2hc.1rto.i ouDngissh co[a3vs3ee]rc.y o Aonfsd t hStehE PeT r.icOnhcneipemleei ncoazf lyP mahcoettiocv-oCintyIdD uoNcftP inf lignav tLhiiniqssu tiyidnp- Seatoa tfnero NenaM-cetnRioz nymisathtiecaDl NA-photolyase,
+surrounding is wsighnicihf T ic hraee nd tud lycise c rso etd vhu eyr cmy e dino , ef c hdth eimm e ei p cra hsl ogly teo nm -eC orIad DtieN fdie P db y, e t fUa f i eVl c o-t rl iego dhr itf g laa innv adin t,e std ha ur f esr ,o uimssep d tah rv ete or 1fy 9t 6h7e DreNseAa-rscthra ionf
+frequently. The rreeppaeirrtomireec hoaf nfliasvmini ncactealllysz[e2d9 ]p.hTohteorreeadcotixo-npso stepnatnias lfroofmth tehteh oyxmidinaetiodnim ofe rincontrastto
+Bargon, Fischer and Johnsen [44]. It was observed during the thermal decomposition of
+alkyl groups, itcsycolnoea-dedleitcitornons roedf udceiednsra, ddiceahlailso−ge2n.2atVionv s.osf ataurryalt edhaclaidloems, elaerolemctartoidc e(SCE),which
+organic peroxides and azo compounds in a series of NMR experiments. As the authors
+halogenations tou ncdofearclitnoer srethgeenheigrahtiroendsu icnin bgiopcoatteanlytisails o[3f4fl–a3v7i]n. inthiscase[30,31].
+noted, intermittently, in some reactions, the proton resonance lines of the reaction
+Another type oTfh felarveimn-adrkepabenledpehnot teonpzhyymsiecss opfeflrfaovrimnsinagre anno timonplyorutasnedt rboylen aintu rteh.eA dditionally,in
+products appeared in emission (i.e., negative) rather than in enhanced absorption (i.e.,
+biology of animsaylns tahnedti cpolargnatsn iacrceh cermypisttorcyh,flroamvienss. pCerryfoprtmocharcormuceisa larroel eflaavsipnh-cootonctaaitnaliynsgt,s [32],mostlyin
+positive). This allowed them to suggest that the molecules were originally formed in a
+blue-light absorobxiindga tpivreotreeiancst iothnast [3a3re]. aAsssuthmeecdh etmo ibcea lcarcutciviaitl yfoorf flthaev imnsaignnaetnico ns-eennszey mofa ticalsurround-
+negative spin polarization state of their proton spin system due to the chemical reaction.
+migratory birds, the circadian clock of insects and mammalians, and for the movement
+The same observation has been made independently by Ward and Lawler for the reactions
+of alkyl halides with lithium alkyls afterward [45]. It then was discovered that nuclear
+polarization could also be induced by photoexcitation of a redox-competent dye in the
+presence of the biomolecule of interest 1968 [46] and the effect has been coined photo-
+CIDNP. However, the first observation of this phenomenon [47,48] appeared already in
+1963, since radical chemical reactions may give rise to an analog effect in electron
+
+--- Page 4 ---
+
+Int.J.Mol.Sci.2023,24,8218 4of19
+ingissignificantlyreduced,chemicallymodified,tailoredflavinsareusedveryfrequently.
+Therepertoireofflavincatalyzedphotoreactionsspansfromtheoxidationofalkylgroups,
+cycloadditionsofdiens,dehalogenationofarylhalides,aromatichalogenationstocofactor
+regenerationsinbiocatalysis[34–37].
+Anothertypeofflavin-dependentenzymesperforminganimportantroleinthebiology
+ofanimalsandplantsarecryptochromes. Cryptochromesareflavin-containing,blue-light
+absorbingproteinsthatareassumedtobecrucialforthemagneticsenseofmigratorybirds,
+thecircadianclockofinsectsandmammalians,andforthemovementanddevelopmentof
+plants[38,39]. Whilethemechanismformagneticperceptionsinbirdsisstilluncertain,a
+likelyexplanationisbasedontheelectron-transferchainbetweentheacceptorflavinandthe
+neighboringtryptophandonorsintheproteinenvironment. Startingwithaphotoexcited
+flavininthecryptochrome,tryptophanresiduesincloseproximity,thentransferelectrons
+totheflavin,yieldingaflavin-tryptophanradicalpair. Itisassumedthatthisradicalpairis
+amagnetoreceptorduetoitsspin-dynamicsand,thus,caninteractwiththeweakmagnetic
+field of the earth [40,41]. Dependent on how the cryptochromes are aligned, different
+physiologicalsignalsaregenerated[42]. Furthermore,theobservedradicalpairmechanism
+ledtoincreasedresearchofmagneticfieldsactingonanthropogenicbiologicalsystems,
+includingflavoproteins[43]. Generationofaspin-correlatedradicalpair(SCRP)canbe
+investigatedbyso-calledCIDNPnuclearmagneticresonancespectroscopy(NMR)which
+willbediscussedinthefollowingchaptersofthisreview.
+2. FlavinsActingintheClassicalRadicalPairMechanisminLiquid-StateNMR
+Theflourishingfieldofspin-chemistryisbasedonaboldassumptionverymuchcon-
+trarytochemicalintuition: Eveniftherecombinationoftworadicalsisenergeticallyhighly
+favorable, it will not happen if it is “spin forbidden”. Hence, recombination, although
+thermodynamicallyallowed,iskineticallycontrolledbytheelectronicspinstates. Inthis
+chapter,wewillreportonthediscoveryandtheimplicationsofthisprinciple. Wewillsee
+thatflavinsareideal“players”inthefieldofspin-chemistry.
+2.1. DiscoveryofthePrincipleofPhoto-CIDNPinLiquid-StateNMR
+Thediscoveryofthephoto-CIDNPeffectoriginatedfromthe1967researchofBargon,
+FischerandJohnsen[44]. Itwasobservedduringthethermaldecompositionoforganic
+peroxides and azo compounds in a series of NMR experiments. As the authors noted,
+intermittently, in some reactions, the proton resonance lines of the reaction products
+appeared in emission (i.e., negative) rather than in enhanced absorption (i.e., positive).
+This allowed them to suggest that the molecules were originally formed in a negative
+spinpolarizationstateoftheirprotonspinsystemduetothechemicalreaction. Thesame
+observationhasbeenmadeindependentlybyWardandLawlerforthereactionsofalkyl
+halideswithlithiumalkylsafterward[45]. Itthenwasdiscoveredthatnuclearpolarization
+couldalsobeinducedbyphotoexcitationofaredox-competentdyeinthepresenceofthe
+biomoleculeofinterest1968[46]andtheeffecthasbeencoinedphoto-CIDNP.However,
+thefirstobservationofthisphenomenon[47,48]appearedalreadyin1963,sinceradical
+chemicalreactionsmaygiverisetoananalogeffectinelectronparamagneticresonance
+(EPR)spectra,buttheobservationwasnotfurtherdiscussed. Therefore,thefirstworkcited
+asCIDEP(chemicallyinduceddynamicelectronpolarization)wasthatofPaulandFischer,
+who,in1970[49],studiedthereductionandoxidationofpropionicandisobutyricacids.
+Itwasnecessarytohaveatheoreticalmodelinordertoexplainalltheobservedphe-
+nomena. TheoriginalmodelbyBargonandFischer[45,50,51]proposedtoexplainsignal
+amplificationonthespectrumwasbasedonanOverhausereffectanddependedonelectron-
+nuclearcross-relaxationinfreeradicals. However,foravarietyofreasons[44,52–55],this
+modelhasnowbeenabandoned. KapteinandOosterhoff[56]andClossandCloss[54]
+proposedtheradicalpairmechanism(RPM)thatsatisfactorilyexplainslargeenhancements
+and multiplet spectra and allows for spectral simulations. To describe CIDEP spectra,
+this theoretical concept was adjusted, and the term “spin-correlated radical pair” was
+
+--- Page 5 ---
+
+Int. J. Mol. Sci. 2023, 24, x FOR PEER REVIEW 5 of 20
+paramagnetic resonance (EPR) spectra, but the observation was not further discussed.
+Therefore, the first work cited as CIDEP (chemically induced dynamic electron
+polarization) was that of Paul and Fischer, who, in 1970 [49], studied the reduction and
+oxidation of propionic and isobutyric acids.
+It was necessary to have a theoretical model in order to explain all the observed
+phenomena. The original model by Bargon and Fischer [45,50,51] proposed to explain
+signal amplification on the spectrum was based on an Overhauser effect and depended
+on electron-nuclear cross-relaxation in free radicals. However, for a variety of reasons
+[44,52–55], this model has now been abandoned. Kaptein and Oosterhoff [56] and Closs
+Int.J.Mol.Sci.2023,24,8218 5of19
+and Closs [54] proposed the radical pair mechanism (RPM) that satisfactorily explains
+large enhancements and multiplet spectra and allows for spectral simulations. To describe
+CIDEP spectra, this theoretical concept was adjusted, and the term “spin-correlated
+coraindeicda[l5 p7a,5ir8”] .wInasfl caovionperdo t[e5i7n,s5,8s]u. Icnh falsavcorypprtootcehinros,m sue,cah SaCs RcrPyhpatoscahlsroombeee, na oSbCsRerPv hedas( saelseo
+Fbigeuenre o4)b.sFeorvrepdh o(tsoe-eC FIDigNuPreN 4M). RFeoxr ppehriomtoe-nCtsI,DSNCPR PNsMareR oeftxepneprirmodenutcse,d SbCyRiPllsu marine aotifotenn
+opfrfloadvuincecdo mbyp oilulunmdsin,faotiromni nogf aflamvoinle ccoumlarpotruipnldest, sftoartemainngd ,as umboseleqcuuelanrt lytr,iopxleidt isztiantge aarnod-,
+msuatbicsecqoumenptoluy,n odxsidaisz,ien.gg .a,raonmaarotimc caotmicpaomuinndosa acsid, e..Ign., tahnis acroasmea,tdicu eamtoinsop iancicdo.n Isne trhviast cioanse,,
+thdeuSe CtoR sPpiisnb coornnsienrvitastitorinp, ltehtes tSaCteR.P is born in its triplet state.
+FFigiguurere4 .4.T Timime-er-erseosolvlvededE EPPRRs pspecetcrturummo offa aS CSCRRPPi ninW WTTc rcyrpyptotcohchrormomee( C(Cryry-D-DAASSHHf rforommX Xenenopoupuss
+laevis) in blue and after mutation of tryptophan 324 to phenylalanine 500 ns after pulser laser
+laevis) in blue and after mutation of tryptophan 324 to phenylalanine 500 ns after pulser laser
+excitation [59].
+excitation[59].
+AAcccocordrdininggt ototh tehme omdoeld,enlu, cnleuacrlesapri nspstinat esstactaens ccoannt rcoolnthtreoel lethcter oenleicctsrtoanteica nstdatteh earne-d
+fothreertehfoerceh tehme icchaelmfaicteal [f6a0t]e. [6T0h].e Tcheen tcreanltrealel meleemntesnotsf othf itshims emchecahnaisnmisma raeretw twoor araddiciacalsls
+(m(moolelceuculelsesw withitha nanu nupnapiareirdedel eecletrcotrno)nfo) rfmorimnginagS aC SRCP,RwP,h wichhiccahn ceaxni setxiinsti tisns iitnsg sleintg|lSe(cid:105)t o|𝑆r⟩
+oonre oonfet hoef tthhree ethtrreipe ltertipstlaett essta|tTe
+0
+s(cid:105) ,|𝑇| (cid:2868)T⟩
++
+,|(cid:105)𝑇 (cid:2878),⟩|,T|𝑇
+−(cid:2879)
+(cid:105)⟩ ((FFiigguurree 55AA))o orri nina ac coohheererenntts usuppeerprpoosistiitoionn
+(i(nint htheeh higighh-fi-feiledldli mlimit)ito) focf
+S
+𝑐| (cid:3020)S|(cid:105)𝑆⟩++c
+T
+𝑐| (cid:3021)T|𝑇
+0(cid:2868)
+(cid:105)⟩ ((FFiigguurree5 5BB))[ [6611]].. IInn mmaannyyc caasseess,,t thheer reeccoommbbininaatitoionn
+rereaacctitoionno offa as isninggleletts tsatateteS SCCRRPPo occccuursrse effiffcicieienntltyly,,w whhilielet htheer erceocommbbininaatitoionno offt htheet rtirpiplelett
+SSCCRRPPi sisk kinineetitciacalllylys pspinin-f-oforbrbididddenen..
+SincetherecombinationoftheSCRPreactionisspin-selective,thesinglet-tripletinter-
+conversionaffectstherecombinationrate(Figure5C).ForaSCRPformedbytheradicals1
+and2,andasinglemagneticnucleus(I=1/2)withisotropichyperfinecouplingtooneof
+theradicals,theHamiltonianiswrittenasfollows:
+Hˆ = ω Sˆ +ω Sˆ −J (cid:0) Sˆ ·Sˆ (cid:1) +a Sˆ Iˆ + a iso(cid:0) Sˆ+ Iˆ−+Sˆ− Iˆ+(cid:1) (1)
+1 1z 2 2z ex 1 2 iso 1z z 2 1 1
+whereωistheelectronLarmorfrequency,a istheisotropicpartofthehyperfineinterac-
+iso
+tion,and JistheexchangeinteractionintheSCRP.ThedifferenceintheLarmorfrequencies
+oftheelectronsandtheisotropicpartofthehyperfineinteractionleadstothemixingofthe
+|S〉and|T 〉states.Theterm aiso (cid:0) Sˆ+ Iˆ−+Sˆ− Iˆ+(cid:1) ,inwhichtheraising(lowering)operators
+0 2 1 1
+aredefinedas Sˆ+(−) = Sˆ ±iSˆ ,and Iˆ+(−) = Iˆ ±iIˆ isassociatedwith|S〉->|T 〉and
+x y x y +
+|S〉->|T− 〉transitions,whicharepossibleonlyinweakmagneticfields(fieldslessorabout
+the hyperfine coupling, HFC) or in the neighborhood of the |S〉 to |T± 〉 level-crossing
+point. Thisconcepthasbeendiscussedindetailhere[62–64].
+
+--- Page 6 ---
+
+Int.J.Mol.Sci.2023,In24t., J8. 2M18ol. Sci. 2023, 24, x FOR PEER REVIEW 6of19 6 of 20
+Figure5.(A)ThevectorrepresentationoffourspinstatesofSCRP;(B)Vectormodelforvisualization
+oftheintercomb
+F
+in
+ig
+a
+u
+ti
+r
+o
+e
+n
+5
+c
+.
+o n
+(A
+ve
+)
+rs
+T
+i
+h
+o
+e
+n o
+v
+f
+e
+a
+ct
+r
+o
+a
+r
+d
+r
+ic
+e
+a
+p
+l
+re
+p
+s
+a
+e
+i
+n
+r
+t
+i
+a
+n
+ti
+h
+o
+i
+n
+g h
+of
+m
+f
+a
+o
+g
+u
+n
+r
+e t
+s
+i
+p
+c
+i
+fi
+n
+e l
+s
+d
+ta
+s.
+te
+L
+s
+e f
+o
+t:
+f
+S
+S
+t
+C
+at
+R
+e
+P|;
+T
+(B(cid:105); )
+c
+V
+en
+e
+t
+c
+e
+to
+r:
+r model for
+0
+visualization of the intercombination conversion of a radical pair in high magnetic fields. Left: State
+superpositionofstates;right: singletstate;(C)Theenergyofthefourspinstatesofaradicalpair
+|𝑇 ⟩; center: superposition of states; right: singlet state; (C) The energy of the four spin states of a
+(cid:2868)
+alongamagnetic
+ra
+fi
+d
+e
+i
+l
+c
+d
+a
+;
+l p
+Jeaxir r e
+a
+f
+l
+e
+o
+r
+n
+s
+g
+t o
+a
+t
+m
+h
+a
+e
+g
+e
+n
+x
+e
+c
+t
+h
+ic
+a n
+fi
+g
+el
+e
+d
+c
+;
+o
+𝐽
+up l
+r
+i
+e
+n
+f
+g
+er
+c
+s
+o
+t
+n
+o
+s
+t
+t
+h
+a
+e
+n t
+e
+.
+xchange coupling constant.
+(cid:3032)(cid:3051)
+Hence,sinceonlythesingletSCRPsareallowedtorecombineandform“recombination
+Since the recombination of the SCRP reaction is spin-selective, the singlet-triplet
+products”,thetripletradicalpairswilldiffuseapartandformso-called“escapeproducts”
+inter-conversion affects the recombination rate (Figure 5C). For a SCRP formed by the
+whenthetimescalefordiffusionisshorterthanthereverseintersystemcrossingtime(in
+radicals 1 and 2, and a single magnetic nucleus (I = 1/2) with isotropic hyperfine coupling
+whichotherwiseasingletcouldbeobtainedfirst). Thisselectionprocessiscalled“spin
+to one of the radicals, the Hamiltonian is written as follows:
+sorting”. Thedistinguishedreactionproductsappeartobeenrichedincertainspinstatesof
+𝑎
+magneticnuclei,i.e.,non-equ𝐻(cid:3553)ili=bri𝜔um𝑆(cid:4632) p+ola𝜔riz𝑆(cid:4632)ed−[6𝐽5](cid:3435)le𝑆(cid:4632)ad∙i𝑆(cid:4632)ng(cid:3439)+to𝑎asi𝑆g(cid:4632)na𝐼(cid:4632)l+patt(cid:3036)(cid:3046)e(cid:3042)rn(cid:3435)𝑆(cid:4632)i(cid:2878)n𝐼(cid:4632)t(cid:2879)h+eN𝑆(cid:4632)(cid:2879)M𝐼(cid:4632)(cid:2878)R(cid:3439) (1)
+(cid:2869) (cid:2869)(cid:3053) (cid:2870) (cid:2870)(cid:3053) (cid:3032)(cid:3051) (cid:2869) (cid:2870) (cid:3036)(cid:3046)(cid:3042) (cid:2869)(cid:3053) (cid:3053) 2 (cid:2869) (cid:2869)
+spectrum,whichisexplainedbyKaptein’ssignrules[66,67]. Accordingtotheserules,the
+phaseoftheenwhhaenrcee m𝜔e nist tΓh,ei .ee.l,epctorosinti vLearomronre gfraetqivuee,nfcoyr, a𝑎g(cid:3036)(cid:3046)i(cid:3042)v eisn tnhuec liseoutsroispipcr opvairdt eodf bthye hyperfine
+theproductofifnotuerrascitginons:, and 𝐽 is the exchange interaction in the SCRP. The difference in the Larmor
+frequencies of theΓ e=lec−trµo·nεs· sagnnd( ∆thge) i·ssogtnr(oapic )part of the hyperfine interactio(2n) leads to the
+where sgn(a
+iso
+m
+(
+)
+l
+—
+o
+i
+w
+x t i h n
+er
+e g
+i n
+s o
+g
+ig f
+)
+n
+o
+th
+p
+o e
+e
+f
+r
+| t
+a
+h S
+to
+e ⟩
+r
+i
+s
+a s n
+a
+o d
+r
+t
+e
+r o |
+d
+p T
+e
+i 0
+f
+c ⟩
+i n
+h s
+e
+t y
+d
+a p t
+a
+e e
+s
+s r . fi
+𝑆(cid:4632)
+T n(cid:2878) h e((cid:2879) e )c o
+=
+t i e s u o r
+𝑆
+p m
+(cid:4632)
+li n
+±
+(cid:3028) g (cid:3284) (cid:2870) (cid:3294)
+𝑖
+(cid:3290)
+𝑆
+c
+(cid:4632)
+(cid:3435) o 𝑆(cid:4632) n (cid:2869)
+,
+(cid:2878) s
+a
+𝐼(cid:4632) t
+n
+(cid:2879) a
+d
+n + t
+𝐼(cid:4632)
+𝑆(cid:4632) f(cid:2878) (cid:2869) (cid:2879) o((cid:2879) 𝐼 r (cid:4632)(cid:2878) )t (cid:3439)
+=
+h , a
+𝐼(cid:4632)
+t in n
+±
+u w c
+𝑖
+h l
+𝐼(cid:4632)
+e ic u h s
+i s
+, t h
+as
+e
+s o
+r
+c
+a
+i
+i
+a
+si
+t
+n
+ed
+g
+sgn(∆g)—signofthedifferencebetweenthetwog-factors(cid:3051)ofthe(cid:3052) tworadicals,µ(cid:3051)—an(cid:3052)ex-
+with |S⟩->|T+ ⟩ and |S⟩->|T− ⟩ transitions, which are possible only in weak magnetic fields
+pressionfortheelectronicspinstateoftheprecursorstate,andε—thereactionproduct,
+(fields less or about the hyperfine coupling, HFC) or in the neighborhood of the |S⟩ to |T± ⟩
+whichispositiveforrecombinationproductsandnegativeforescapeproducts[68]. How-
+level-crossing point. This concept has been discussed in detail here [62–64].
+ever,itshouldbeemphasizedthatthesignrulesapplyonlywhen,duringthediffusion
+Hence, since only the singlet SCRPs are allowed to recombine and form
+convergence,theradicalsofthegeminateradicalpairhavesufficienttimetoundergoa
+“recombination products”, the triplet radical pairs will diffuse apart and form so-called
+singlet-tripletinter-conversiononeormoretimes. Therefore,deviationsfromtheKaptein
+“escape products” when the time scale for diffusion is shorter than the reverse intersystem
+rulescanbeexpectedwhentheviscosityofthesolutionishigh,orinsystemsinwhichthe
+crossing time (in which otherwise a singlet could be obtained first). This selection process
+hyperfineinteractionconstantsorg-factordifferencesarerelativelylarge[65],asdiscussed
+is called “spin sorting”. The distinguished reaction products appear to be enriched in
+by Salikhov [69]. For many of these 1H liquid-state photo-CIDNP NMR studies, flavin
+certain spin states of magnetic nuclei, i.e., non-equilibrium polarized [65] leading to a
+compoundswereusedfortheefficientlight-inducedformationoftheSCRP,andviceversa,
+signal pattern in the NMR spectrum, which is explained by Kaptein’s sign rules [66,67].
+photo-CIDNPNMRofferedamethodtodetectshort-livedflavinradicalsinsolution[70].
+According to these rules, the phase of the enhancement Г, i.e., positive or negative, for a
+Therealsohavebeenworksonthephoto-CIDNPeffectbeyond1Hliquid-stateNMR
+given nucleus is provided by the product of four signs:
+using flavin dyes, including studies in the gas phase [71,72], on various nuclei as 19F
+nuclei,usingvariousfluorescentdyes[73],anГd=st−ud𝜇i∙e𝜀s∙o𝑠f𝑔o𝑛r ( g∆a𝑔n ) ic∙-𝑠c𝑔he𝑛m (𝑎i(cid:3036)c(cid:3046)a(cid:3042) ) l r eactionmecha- (2)
+nisms[74–76].wPrhoetreein 𝑠s𝑔t𝑛ru(𝑎ctur)e—shthaev esibgene onf itnhvee sistoigtraotepdicu hsyinpgertfhineep chooutop-lCinIgD cNoPnsetfafnetc tfo[7r 7t]h.at nucleus,
+(cid:3036)(cid:3046)(cid:3042)
+Methodsoftim𝑠e𝑔-r𝑛e(s∆o𝑔lv)e—dspighno toof- CthIDe NdiPffeefrfeencctew beeretwdeeevne ltohpee dtw[7o8 g],-ftahcetocorsn coefp tthoef tiwsootr orapdicicals, 𝜇—an
+mixingbyVietehxapnredsscioo-nw foorrk tehres e[l6e3c,t7ro9n,8i0c] sapnind sfitaetled o-cf ythclei npgrepcuhrostoor- CstIaDteN, aPnNd M𝜀—Rtohfel riqeaucitdion product,
+samples[79,81,w82h]iwcha sisd epvoesliotipveed f.oVre rreycsotmrobnignaCtIioDnN pPreofdfeuccttss haanvde bneeegnatfiovuen dfoirn emscoalpeceu plarroducts [68].
+systems,suchasradicalscomplexedwithfree-movinglimitmicelles[83,84]andbiradical
+systems [85–87]. Hence, photo-CIDNP in the fluid phase with SCRPs formed by small
+
+--- Page 7 ---
+
+Int.J.Mol.Sci.2023,24,8218 7of19
+moleculeshasbeenexploredinmanyaspectsand,ingeneral,wellrationalizedintermsof
+theclassicalRPM.
+2.2. FlavoproteinsStudiedbyLiquid-StatePhoto-CIDNPNMR
+As mentioned above, FMN and FAD are present in a great variety of biocatalytic
+processes. Inparticular,thecommon7,8-dimethylisoalloxazineringstructuralmotifis
+responsible for not only the color, but also electron-mediation processes and has been
+investigatedintensively. Initially,continuous-wave(CW)EPR[88–90]andENDOR[91]
+experimentswereappliedtostudytheelectronicstructureofflavinisoalloxazinemoiety
+initsFl stateinsolution. Theactivefunctionoftheflavininelectron-transferreactions
+seq
+andenzyme-catalyzedprocesseswerealsoidentified[92,93]. Moreover,protein-cofactor
+interactions in flavin radicals were unraveled and the formation of a molecular triplet
+state[94,95]ledinsomecasestoaformationofacovalentbondwithnearbyaminoacid
+residue[96].
+Liquid-statephoto-CIDNPNMRstudiesontheseflavoproteinscarryingbothdonor
+andacceptorwerehamperedbytheimpossibilitytoundergodiffusionofthetwopartsofthe
+SCRP,i.e.,formingescapeproducts. In2005,however,Richteretal.[97]observedstrongly
+spin-hyperpolarizedsignalsfromthelight-oxygen-voltage-sensingnumber2(LOV2)do-
+main of the blue-light photoreceptor phototropin from oat (Avena sativa), when the 13C
+liquid-stateNMRspectrawererecordedunderillumination(Figure6). Thisstudyhasbeen
+thefirstobservationofaphoto-CIDNPeffectinanintegralflavoproteinsystem, having
+bothelectrondonorandacceptorincorporatedwithintheprotein. Thisnewobservation
+brokethepatternthatthephoto-CIDNPeffectinelectron-transferproteinswaslimitedin
+photosyntheticreactioncenters(RCs)studiedundermagic-anglespinning(MAS)NMR
+conditions. Inthishighlyrelevantexperiment,theFMNwasuniformlylabeledwith13C
+andthecysteinelocatednearFMNwasmutatedtoalanine(C450A)toallowtheformation
+ofSCRPs.Basedontheobservationofthestrongmoleculartripletpopulationsinthesystem
+observedbyopticalspectroscopyandtime-resolvedEPR[98],Eisenreichetal.[99],in2008,
+proposedacyclicreactionschemefortheproductionofphoto-CIDNPinLOV2-C450Aof
+phototropin: UponilluminationofthecofactorFMN,amoleculartripletstateoftheFMN
+Int. J. Mol. Sci. 2023, 24, x FOR PEER REaVnIEdW, inducedbyelectrontransferfromanelectron-donatingaromaticamino8 aofc i2d0 ,aSCRPis
+formed. Duetospin-conservationrules,theSCRPisformedinitstripletstate.
+FiFguigreu re6. 61.3C13 CNNMMR Rspsepcetrcat raofo f[u[u13C131C7]F
+17
+M]FNM-reNco-rnesctiotuntsetdit uLtOedV2L-OC4V520-AC 4d5o0mAaidno. m(Aa)i n“.D(Aar)k“”D ark”spec-
+spectrum. (B) Scaled “light” spectrum. (C) Difference spectrum “light”-minus-“dark” [97].
+trum. (B)Scaled“light”spectrum. (C)Differencespectrum“light”-minus-“dark”[97]. Reprinted
+Reprinted with permission from [97]. Copyright 2005 American Chemical Society.
+withpermissionfrom[97].Copyright2005AmericanChemicalSociety.
+In 2015, Eisenreich et al. [100] presented strategies for 13C labeling of tryptophan in
+LOV2-C450A of phototropin and obtained 13C liquid-state photo-CIDNP NMR spectra of
+single and double mutant LOV2 and discussed the benefit of fractional labeling method
+on the light-induced nuclear spin polarization quantitative analysis in terms of their
+strongly attenuating cross relaxation pathways. A very similar sample, phototropin
+LOV1-C57S, was studied by 13C MAS NMR under illumination and showed a strong solid-
+state photo-CIDNP effect (see below) [101–103].
+Recently, Pompe et al. [104] investigated the electronic structure of flavin
+semiquinone radicals in solution in terms of their 13C hyperfine coupling constants by
+using the photo-CIDNP effect and discussed the spin density distribution within the
+radicals, the HFC constants determined in this work provide the reference for further
+studies on 13C hyperfine couplings in the transient radical involved flavoprotein system.
+3. Flavoproteins Showing a Solid-State Photo-CIDNP Effect
+While the photo-CIDNP effect in liquids relies on the classical RPM, the latter cannot
+be used for the explanation of the effect in the solid-state. Since diffusion of the SCRP,
+which is required for the classical RPM, is severely limited, spin sorting does not lead to
+a separation of the hyperpolarized signals. However, the observation of a photo-CIDNP
+effect in frozen photosynthetic RCs from Rhodobacter sphaeroides [105] demonstrated the
+possibility that the effect might also occur in the solid-state. While time-resolved photo-
+CIDNP MAS experiments showed that classical spin-sorting is active during the spin-
+evolution of the SCRP, the effect of the RPM vanishes after about 100 μs [106]; instead,
+steady-state nuclear hyperpolarization is observed, which is not caused by the RPM.
+Therefore, different mechanisms were proposed, namely, three-spin mixing (TSM)
+[107,108], differential decay (DD) [109], and differential relaxation (DR) [110,111]. The
+TSM relies on the coupling of two electron spins to a nuclear spin, which evolves
+coherently in the singlet-triplet manifold of the SCRP and converts electronic into nuclear
+hyperpolarization. It is driven by the electron-electron dipolar coupling and the
+anisotropic pseudosecular hyperfine coupling. These interactions lead to a degeneracy of
+
+--- Page 8 ---
+
+Int.J.Mol.Sci.2023,24,8218 8of19
+In2015,Eisenreichetal.[100]presentedstrategiesfor13Clabelingoftryptophanin
+LOV2-C450Aofphototropinandobtained13Cliquid-statephoto-CIDNPNMRspectraof
+singleanddoublemutantLOV2anddiscussedthebenefitoffractionallabelingmethodon
+thelight-inducednuclearspinpolarizationquantitativeanalysisintermsoftheirstrongly
+attenuatingcrossrelaxationpathways. Averysimilarsample,phototropinLOV1-C57S,
+wasstudiedby13CMASNMRunderilluminationandshowedastrongsolid-statephoto-
+CIDNPeffect(seebelow)[101–103].
+Recently,Pompeetal.[104]investigatedtheelectronicstructureofflavinsemiquinone
+radicalsinsolutionintermsoftheir13Chyperfinecouplingconstantsbyusingthephoto-
+CIDNP effect and discussed the spin density distribution within the radicals, the HFC
+constantsdeterminedinthisworkprovidethereferenceforfurtherstudieson13Chyperfine
+couplingsinthetransientradicalinvolvedflavoproteinsystem.
+3. FlavoproteinsShowingaSolid-StatePhoto-CIDNPEffect
+Whilethephoto-CIDNPeffectinliquidsreliesontheclassicalRPM,thelattercannot
+be used for the explanation of the effect in the solid-state. Since diffusion of the SCRP,
+whichisrequiredfortheclassicalRPM,isseverelylimited,spinsortingdoesnotleadto
+aseparationofthehyperpolarizedsignals. However,theobservationofaphoto-CIDNP
+effectinfrozenphotosyntheticRCsfromRhodobactersphaeroides[105]demonstratedthe
+possibilitythattheeffectmightalsooccurinthesolid-state. Whiletime-resolvedphoto-
+CIDNP MAS experiments showed that classical spin-sorting is active during the spin-
+evolution of the SCRP, the effect of the RPM vanishes after about 100 µs [106]; instead,
+steady-state nuclear hyperpolarization is observed, which is not caused by the RPM.
+Therefore,differentmechanismswereproposed,namely,three-spinmixing(TSM)[107,108],
+differentialdecay(DD)[109], anddifferentialrelaxation(DR)[110,111]. TheTSMrelies
+onthecouplingoftwoelectronspinstoanuclearspin,whichevolvescoherentlyinthe
+singlet-tripletmanifoldoftheSCRPandconvertselectronicintonuclearhyperpolarization.
+Itisdrivenbytheelectron-electrondipolarcouplingandtheanisotropicpseudosecular
+hyperfinecoupling. Theseinteractionsleadtoadegeneracyofthreeofthefourelectron-
+electron-nuclear energy levels in the S-T manifold and enabling mixing between the
+0
+statesallowingtheconversionofelectron-electronzero-quantumcoherenceintonuclear
+anti-phase coherence. It is maximized at the double-matching condition and vanishes
+if pseudosecular hyperfine coupling are zero. This generally excludes that the TSM is
+active in liquids; however, given that the molecule or protein is large, and tumbling is
+substantiallyslowed,anisotropicelectron-nuclearinteractionsarenotaveragedallowing
+forphoto-CIDNPcontributionsfromTSM.TheDDmechanismreliesondifferentlifetimes
+ofthesingletandthetripletbranchinordertobuilduphyperpolarization. Thisdifference
+breaksthesymmetryoftheSCRPbypseudosecularhyperfineinteractionsand,thus,leads
+toaconversionofpolarizationintonuclearcoherence. Itdependsonasingle-matching
+conditionssinceitdoesnotrelyonelectron-electrondipolarcouplings. Inphotosynthetic
+reactioncenters,TSMandDDcontributesimultaneouslytothephoto-CIDNPsignalswith
+TSMasitsdominatingfactorleadingtoanemissivesignalpattern. PolarizationfromDD;
+instead, itleadstoasetofabsorptivesignalintensities. Insystems, wherealong-lived
+molecular triplet state occurs, for example, photosynthetic reaction centers without its
+adjacentcarotenoid(R26),theelectronictripletinducesparamagneticrelaxationofnuclear
+spins resulting in an imbalance of nuclear hyperpolarization in the electronic ground
+statewhichisdescribedbytheDRmechanism. Thepolarizationgeneratedinthetriplet
+branchisremovedwhilepolarizationinthesingletbranchismaintained. Asaresult,the
+polarizationgeneratedbyphoto-CIDNPinthesingletbranch, whichinphotosynthetic
+reaction centers resembles the RPM, is the only contribution towards hyperpolarized
+signalsinthegroundstate. Recently,theseconceptshavebeenunifiedwiththeliquid-state
+photo-CIDNPeffectbylevel-crossing(LC)andlevelanti-crossing(LAC)analysis[112].
+Whenacouplingmatrixelementdisturbsthecoherence, theLCisavoidedandturned
+into a LAC leading to a mixing of the spin states. Analysis of LACs can predict signal
+
+--- Page 9 ---
+
+Int.J.Mol.Sci.2023,24,8218 9of19
+enhancementsatdifferentmagneticfieldstrengthsandisabletoattributeittotheinfluence
+ofsolid-statephoto-CIDNPmechanisms.
+Itwasspeculatedthatthesolid-statephoto-CIDNPeffectisanintrinsicpropertyof
+photosynthesis,confinedtothephotosyntheticapparatus[113]. However,theobservation
+ofhyperpolarizedsignalsunderilluminationintheLOV1domainofphototropinC57Sin
+frozensolution[103]demonstratedthatalsootherelectrontransferproteinsarecapable
+toinducethiseffect. Field-dependentmeasurementsofphototropinLOV1C57Sinfrozen
+solutionareshowninFigure7withenhancedsignalsfromFMNandtryptophanwhich
+Int. J. Mol. Sci. 2023, 24, x FOR PEERa RrEeViInEvWo lvedintheelectrontransferandformtheSCRP.Here,similartophotosyn1t0h oeft i2c0
+RCs[114,115],thesignofpolarizationstronglydependsonthefield.
+FFigiguurree7 7..1 133CC pphhoottoo--CCIIDDNNPP MMAASS NNMMRR ooff pphhoottoottrrooppiinn LLOOVV11 CC5577SS aatt aa mmaaggnneettiicc fifieelldd ooff 99..44 TT ((AA)),,
+4.7 T (B), 2.4 T (C), and 1.4 T (D) [116].
+4.7T(B),2.4T(C),and1.4T(D)[116].
+Byemployingisotopeenrichment,photo-CIDNPfield-cyclingmethodsbecameavail-
+able. Figure8showsthefield-dependentintensityof13Cand15Nenrichedtryptophan
+insideLOV1ofphototropinand1Hoftheresidualwater[101]. Whiletheseexperiments
+wereconductedinaliquidstate,LC/LACanalysisshowedthatanisotropicinteractions
+areresponsibleforthefield-dependenceshownbecauseoftheinversedependenceonthe
+gyromagneticconstant. Therefore,solid-statephoto-CIDNPmechanismsareactive,evenin
+liquidsprovidedthatsufficientorientationofthenucleusisgiven. InadditiontoLOV1of
+phototropin,otherflavoproteinsshowingthesolid-statephoto-CIDNPeffectwerereported
+showinganorientationdependenceoftheelectron-donatingaminoacid[102]. Allconsist
+ofaLOVdomainwithelectrontransferfromaconservedtryptophantoFMN,however,
+even without tryptophan, photo-CIDNP enhancement is observed, most likely coming
+fromtyrosine(s)oftheLOVdomainastheelectrondonor.
+Figure 8. Magnetic field-dependence of 13C (red) and 15N (blue) photo-CIDNP signals from labeled
+tryptophan from phototropin LOV1-C57S. 1H (black) photo-CIDNP is observed from residual water
+in deuterated water. The maxima of the light-induced signals inversely correspond to the
+gyromagnetic constant suggesting that even in liquid, solid-state photo-CIDNP mechanisms are
+responsible for the signal enhancement [101].
+
+--- Page 10 ---
+
+Int. J. Mol. Sci. 2023, 24, x FOR PEER REVIEW 10 of 20
+Int.J.Mol.Sci.2023,24,8218 10of19
+Figure 7. 13C photo-CIDNP MAS NMR of phototropin LOV1 C57S at a magnetic field of 9.4 T (A),
+4.7 T (B), 2.4 T (C), and 1.4 T (D) [116].
+FFiigguurree8 8..M Maaggnneettiiccfi feieldld--ddeeppeennddeenncceeo off1 133CC ((rreedd)) aanndd 1155NN ((bblluuee)) pphhoottoo--CCIIDDNNPP ssiiggnnaallss ffrroomm llaabbeelleedd
+tr
+tr
+y
+y
+p
+p
+to
+to
+p
+p
+h
+h
+a
+a
+n
+n
+f r
+f
+o
+ro
+m
+m
+p
+p
+h
+h
+o
+o
+to
+to
+tr
+t
+o
+r
+p
+op
+in
+in
+L
+L
+O
+O
+V
+V
+1-
+1
+C
+-C
+57
+5
+S
+7
+.
+S1.
+H
+1H
+(b
+(
+l
+b
+a
+l
+c
+a
+k
+c
+)
+k
+p
+)
+h
+p
+o
+h
+t
+o
+o
+t
+-
+o
+C
+-C
+ID
+ID
+N
+N
+P
+P
+is
+i
+o
+s
+b
+o
+s
+b
+e
+s
+r
+e
+v
+r
+e
+v
+d
+ed
+fr o
+fr
+m
+om
+re
+r
+s
+e
+id
+si
+u
+d
+a
+u
+l
+a
+w
+l
+a
+w
+te
+a
+r
+te
+in
+r
+in deuterated water. The maxima of the light-induced signals inversely correspond to the
+deuteratedwater.Themaximaofthelight-inducedsignalsinverselycorrespondtothegyromagnetic
+gyromagnetic constant suggesting that even in liquid, solid-state photo-CIDNP mechanisms are
+constantsuggestingthateveninliquid,solid-statephoto-CIDNPmechanismsareresponsibleforthe
+responsible for the signal enhancement [101].
+signalenhancement[101].
+In Figure 9, the tentative photo-cycle for phototropin LOV1-C57S is shown. After
+blue-lightirradiation,theFMNisinanelectronicallyexcitedsingletstatewithsubsequent
+intersystem-crossing(ISC)toanexcitedmoleculartripletstate. Inthefollowing,thetriplet
+statecaneitherrelaxtotheelectronicgroundstateorinducesanelectrontransferfrom
+thetryptophantoformtheSCRPinthetripletstate. TheSCRPevolvesunderelectron-
+nuclearspininteractionathighfieldsintheS-T manifoldwhereitcanrecombineonly
+0
+fromthesingletbranchtothegroundstate. Hereinliesthedifferencetothephoto-cycle
+of photosynthetic RCs, where the SCRP is created in the singlet state allowing direct
+recombination. InLOV1,ontheotherhand,theSCRPisborninitstripletstate. Incasethat
+S-T interconversionisaffectedbynuclearspinstatesviaa ,acertainnuclearspinstate
+0 iso
+willenrichinthesingletstateoftheSCRP.Furthermore,nuclearhyperpolarizationarising
+duringtheS-T interconversionmightalsooriginatefromtheTSMwhichrequiressolid-
+0
+stateconditions. Intermsofspintronics,thenuclearspinsstemmingfromthecoherentspin
+evolutionoftheSCRPcouldbeexploitedasaspin-filter. Theenrichmentofnuclearspin
+polarizationcaninfluenceelectronspinpolarization,e.g.,inspintronicdevices. Therefore,
+light-driven flavin systems implemented into such devices might provide a method to
+analyzespininteractionsordetectelectronspinsviachangesinnuclearhyperpolarization.
+The recombination rate of the SCRP in the triplet state is (close to) zero, since this
+reactionisspinforbidden,thereforeonlythesingletstateactsasadecaychannelforthe
+SCRP to the electronic ground state. Such scheme might be interpreted as an extreme-
+case DD, since the two decay branches have very different kinetics (since one branch
+is not at all active). Alternatively, one might consider this scheme as a special case of
+the DR (since one branch does not contribute at all to the nuclear spin statistics in the
+electronicgroundstate). Inanycase,sincephoto-CIDNPenhancementinLOV1depends
+onanisotropicinteractions[101],theinvolvementofDD,TSM,orbothisexpected. Future
+time-resolvedphoto-CIDNPMASexperimentswillprovidemoreinsightintothephoto-
+
+--- Page 11 ---
+
+Int. J. Mol. Sci. 2023, 24, x FOR PEER REVIEW 11 of 20
+In Figure 9, the tentative photo-cycle for phototropin LOV1-C57S is shown. After
+blue-light irradiation, the FMN is in an electronically excited singlet state with subsequent
+intersystem-crossing (ISC) to an excited molecular triplet state. In the following, the triplet
+state can either relax to the electronic ground state or induces an electron transfer from
+the tryptophan to form the SCRP in the triplet state. The SCRP evolves under electron-
+nuclear spin interaction at high fields in the S-T0 manifold where it can recombine only
+from the singlet branch to the ground state. Herein lies the difference to the photo-cycle
+of photosynthetic RCs, where the SCRP is created in the singlet state allowing direct
+recombination. In LOV1, on the other hand, the SCRP is born in its triplet state. In case
+that S-T0 interconversion is affected by nuclear spin states via aiso, a certain nuclear spin
+state will enrich in the singlet state of the SCRP. Furthermore, nuclear hyperpolarization
+arising during the S-T0 interconversion might also originate from the TSM which requires
+solid-state conditions. In terms of spintronics, the nuclear spins stemming from the
+coherent spin evolution of the SCRP could be exploited as a spin-filter. The enrichment of
+nuclear spin polarization can influence electron spin polarization, e.g., in spintronic
+devices. Therefore, light-driven flavin systems implemented into such devices might
+provide a method to analyze spin interactions or detect electron spins via changes in
+nuclear hyperpolarization.
+The recombination rate of the SCRP in the triplet state is (close to) zero, since this
+reaction is spin forbidden, therefore only the singlet state acts as a decay channel for the
+SCRP to the electronic ground state. Such scheme might be interpreted as an extreme-case
+DD, since the two decay branches have very different kinetics (since one branch is not at
+all active). Alternatively, one might consider this scheme as a special case of the DR (since
+Int.J.Mol.Sci.2023,24,8218 one branch does not contribute at all to the nuclear spin statistics in the ele1c1torfo1n9ic ground
+state). In any case, since photo-CIDNP enhancement in LOV1 depends on anisotropic
+interactions [101], the involvement of DD, TSM, or both is expected. Future time-resolved
+photo-CIDNP MAS experiments will provide more insight into the photo-CIDNP
+CIDNP mechanism and kinetics of flavoproteins. Furthermore, as shown in Figure 9,
+mechanism and kinetics of flavoproteins. Furthermore, as shown in Figure 9, illumination
+illuminationleadstotheformationofFl (5).
+leads to the formation of Fselsqeq (5).
+Figure9.UponblueF-ilgiugrhet 9i.l lUupmoinn baltuioen-l,igthhte ilFluMmNiniastiionna, tpheh FoMtoN-e xisc iinte ad pshtoattoe-feoxlcliotewde sdtabtey foallsouwbesde qbuye an stubsequent
+ISCtothemolecula
+IS
+r
+C
+tr
+t
+i
+o
+p l
+t
+e
+h
+t
+e
+s
+m
+ta
+o
+t
+l
+e
+e
+.
+cu3F la
+M
+r t
+N
+rip
+i
+l
+n
+e
+d
+t s
+u
+t
+c
+a
+e
+te
+s
+.
+a
+3F
+n
+M
+e
+N
+le c
+in
+tr
+d
+o
+u
+n
+ce
+t
+s
+r a
+a
+n
+n
+s
+e
+f
+l
+e
+e
+r
+ct
+f
+r
+r
+o
+o
+n
+m
+tr
+a
+an
+n
+s
+e
+fe
+a
+r
+r b
+fr
+y
+om
+tr y
+a
+p
+n
+t
+e
+o
+a
+p
+rb
+h
+y
+a n
+try
+to
+ptophan to
+form a SCRP born in the triplet state. The radical pair coherently evolves under electron-nuclear
+formaSCRPborninthetripletstate. Theradicalpaircoherentlyevolvesunderelectron-nuclear
+interaction between the triplet and singlet state. Since recombination from the triplet state is spin-
+interactionbetweenfotrhbiedtdreinp,l edtecaanyd tos itnhge leeltecsttraotnei.c Sgirnocuendre-sctoamte bisi nonaltyio pnosfrsoibmle ftrhoemt rtihpel esitnsgtlaett estiastes.p Aind-ditionally,
+forbidden,decaytocythcleice plehcottroo-rneiaccgtiroonu pnrdoc-setsas,t ethies foonrmlyaptioonss oibf lae sfermomiqutihneonsein-rgaldeitcaslt a(Ftels.eqA (5d))d witiitohn parlloyt,onation of
+the FMN can also occur. The star indicates an excited molecular state and is not intended as an
+cyclicphoto-reactionprocess,theformationofasemiquinone-radical(Flseq (5))withprotonation
+annotation.
+oftheFMNcanalsooccur. Thestarindicatesanexcitedmolecularstateandisnotintendedas
+anannotation.
+4. Spin-DynamicsofFlavoproteinsinAnimalNavigation
+Furthermore,flavoproteinswerefoundtohaveimportantrolesinmacroscopicbiolog-
+icalprocessessuchasthetimecyclesofcicadas[117,118]ortheso-calledmagnetoreception
+inmigratoryspecies[38,39,42,119–125]. Magnetoreceptionallowsthemigratoryspecies
+todetecttheEarth’smagneticfield,allowingthemtouseaninnatemagneticcompassto
+preciselynavigatebetweenbreedingandwinteringgrounds[42]. Thisabilityisremarkable
+considering the fact that the Earth’s magnetic field has a significantly low intensity of
+about~50µT.
+The underlying possible mechanism was suggested by K. Schulten and others in
+1978 [119]. They stated that an RPM is a leading hypothesis to explain the sensing of
+suchweakmagneticfieldsbyanorganism. Here,thesenseisfundamentallydrivenby
+alight-activatedradicalpairthatcanrecombineonlyinitssingletstatebutreactstoan
+alternativeproductPindependentofitsspinstate(seeFigure10A)[120,126–129]. Dueto
+adirectionchangeofthemagneticfieldwithrespecttotheradicalpair,differentyields
+for the product formation and recombination could be realized and, thus, ultimately a
+differentiationoftheheadingdirectioncanbeachievedbythemigratoryorganism[126].
+The most promising candidate for a radical pair-based magnetoreceptor is the protein
+cryptochrome,whichcanbefoundforinstanceintheeyeofthenight-migratorysongbird
+Europeanrobin(lat. Erithacusrubecula,ER)[39]. Withintheprotein,anFADcofactoris
+boundadjacenttoachainoftryptophanresidues(Figure10B)[42,126,127,129,130]. This
+chainofmoleculesisthoughttobethecenterfortheformationofaSCRP.
+By interaction with visible blue light, an electron in the FAD is excited which sub-
+sequently triggers an electron-transfer (ET) cascade from the tryptophan (W) residues
+towards the FAD resulting in a spin-correlated [W·+–FAD·−] pair (see Figure 10B) [39].
+In contrast to previous examples, the SCRP is born in a singlet state due to spin con-
+servation, as the ET cascade is rapid [131]. This radical pair may interact with a weak
+externalmagneticfieldwhichleadstoafluctuationbetweenthesingletandthetripletstate
+populations. DuetothePauliprinciple,recombinationtotheoriginalpre-excitedstateis
+
+--- Page 12 ---
+
+Int. J. Mol. Sci. 2023, 24, x FOR PEER REVIEW 12 of 20
+4. Spin-Dynamics of Flavoproteins in Animal Navigation
+Furthermore, flavoproteins were found to have important roles in macroscopic
+biological processes such as the time cycles of cicadas [117,118] or the so-called
+magnetoreception in migratory species [38,39,42,119–125]. Magnetoreception allows the
+migratory species to detect the Earth’s magnetic field, allowing them to use an innate
+magnetic compass to precisely navigate between breeding and wintering grounds [42].
+This ability is remarkable considering the fact that the Earth’s magnetic field has a
+significantly low intensity of about ~50 μT.
+The underlying possible mechanism was suggested by K. Schulten and others in 1978
+[119]. They stated that an RPM is a leading hypothesis to explain the sensing of such weak
+magnetic fields by an organism. Here, the sense is fundamentally driven by a light-
+activated radical pair that can recombine only in its singlet state but reacts to an alternative
+product P independent of its spin state (see Figure 10A) [120,126–129]. Due to a direction
+change of the magnetic field with respect to the radical pair, different yields for the
+Int.J.Mol.Sci.2023,24,8218 12of19
+product formation and recombination could be realized and, thus, ultimately a
+differentiation of the heading direction can be achieved by the migratory organism [126].
+The most promising candidate for a radical pair-based magnetoreceptor is the protein
+focrrybpidtdocehnrfoomrteh, ewthriipchle ctasnta btee [f1o2u5n,1d2 f7o,1r 3in2]s.taHnecnec ien, tthhee eraytei oofb tehtwe neeignhrte-mcoimgrbaitnoartyio snontogbthired
+originalgroundstateofthe[W–FAD]systemandasubsequentproductPisthoughtto
+European robin (lat. Erithacus rubecula, ER) [39]. Within the protein, an FAD cofactor is
+bethekeycomponentforsensingEarth’smagneticfield,whichisinvolvedindrivingthe
+bound adjacent to a chain of tryptophan residues (Figure 10B) [42,126,127,129,130]. This
+singlet-tripletinterconversion.
+chain of molecules is thought to be the center for the formation of a SCRP.
+Figure 10. (A) Radical pair mechanism of electron pair from an acceptor molecule A and a donor
+Figure10. (A)RadicalpairmechanismofelectronpairfromanacceptormoleculeAandadonor
+molecule D induced by a light-activated electron transfer. The radical pair can be found in a singlet
+moleculeDinducedbyalight-activatedelectrontransfer.Theradicalpaircanbefoundinasinglet
+or triplet state and interconvert between both states. Both states will react into a product P, but only
+ortripletstateandinterconvertbetweenbothstates. BothstateswillreactintoaproductP,but
+the singlet state can additionally recombine to the ground state before the electron transfer. (B)
+onlythesingletstatecanadditionallyrecombinetothegroundstatebeforetheelectrontransfer.
+Formation of an SCRP in an FAD and tryptophan (W) chain in cryptochrome 4 via light-induced
+(B)FormationofanSCRPinanFADandtryptophan(W)chainincryptochrome4vialight-induced
+electron transfer cascade.
+electrontransfercascade.
+By interaction with visible blue light, an electron in the FAD is excited which
+Mathematically,thequantumyieldφ foraspecificreactioniofsucharadicalpair
+subsequently triggers an electron-transfer i(ET) cascade from the tryptophan (W) residues
+canbecomputedasfollows[130,132–134]:
+towards the FAD resulting in a spin-correlated [W·+--FAD·−] pair (see Figure 10B) [39]. In
+contrast to previous examples, the SCRP(cid:90) i
+t
+s(cid:48) born in a singlet state due to spin conservation,
+as the ET cascade is rapid [13φ1]i. =Thkiis radTirc (cid:0) aPˆ li pρˆa(tir) (cid:1) mdta (cid:48) y interact with a weak exter(n3a)l
+0
+magnetic field which leads to a fluctuation between the singlet and the triplet state
+wherek isthereactionspecificrateconstant,Pˆ istheprojectionoperatorofacertainstate,
+i i
+andρˆ(t)isthetime-dependent(t)densityoperator.
+Thedescriptionoftheρˆ(t)isgovernedbytheLiouville-vonNeumannequation[133,135]:
+ρˆ(t) = −i (cid:2) Hˆ, ρˆ(t) (cid:3) +Kˆρˆ(t)+Rˆρˆ(t) (4)
+dt
+whereHˆ istheHamiltonianoftheradicalpair,Kˆ isaspin-selectivereactionoperator,and
+Rˆ describes the induced spin relaxation [136]. The Hamiltonian of such a radical pair
+considersseveralspininteractions:
+Hˆ = ωSˆ +ωSˆ + ∑ ∑ Sˆ ·A ·Iˆ +Sˆ ·D·Sˆ −J (2·Sˆ Sˆ + 1 ) (5)
+A B i∈{A,B} i ik ik A B ex A B 2
+k
+Here,thefirsttwotermsaretheZeemaninteractionsoftheelectronspins,andthe
+thirdtermisthehyperfineinteractionbetweenanelectronspinSˆ andanuclearspin Iˆ
+i ik
+coupledbythematrix A andthelasttwotermsaretheelectrondipolar(D)andexchange
+ik
+(J )couplings[60]. Thesolutionoftheequationsaboveisnon-trivialandrequiresahigh
+ex
+
+--- Page 13 ---
+
+Int.J.Mol.Sci.2023,24,8218 13of19
+amount of computational resources. Motivated by this issue, software packages, such
+asMolSpin,weredevelopedtoofferatoolkittoinvestigateallkindsofSCPRdependent
+problems[134].
+In addition to the Earth’s magnetic field, the radical pair spins are affected by the
+adjacentnuclearspinsviahyperfinecoupling,whichistypicallylargerthantheinteraction
+withtheEarth’sfield. Recentstudiesrevealedthatvariationsinthehyperfineinteractions
+aredrasticallyinfluencingthemagneticcompass[130,132]. Figure11illustratestheexem-
+plarysingletquantumyieldofaSCRPwithrespecttothedirectionoftheappliedexternal
+magneticfield,whenincluding14nucleispins[134]. InFigure11C,at90◦,asignificant
+drop(“spike”)inthequantumyieldcanbefoundwhichhasbeenpostulatedtoworklikea
+Int. J. Mol. Sci. 2023, 24, x FOR PEER“ qRuEVanIEtWum needle”intheliterature[133]. Thisquantumneedleisdeliveringanimportan1t4 of 20
+aspectofthesensibilityofaradicalpairbasedmagneticcompass[133].
+FFigiguurere1 11.1.M Magagnneteitcicfi efiledlde fefeffcetsctisn ina ara rdaidcaiclapl apiraiprr porcoescse.ss(.A ()AA) Age gneenriecrirce arcetaicotniosnc hsecmheem,we,h werheere the
+thraedriacdailc palaipra iisr pisropdruodceudce idn itnhet hseinsgilnegt lsettasttea atendan idntienrtceorncovnevrseirosnio bnebtweteweene sninsginlgetle atnadn dtritprilpetle sttates is
+possible. Different reactions may happen from the singlet and triplet states, leading to chemically
+states is possible. Different reactions may happen from the singlet and triplet states, leading to
+distinct reaction products, and external magnetic fields may influence the singlet-triplet
+chemicallydistinctreactionproducts,andexternalmagneticfieldsmayinfluencethesinglet-triplet
+in in te t r e c r o c n o v n e v r e si r o s n io , n th , er t e h b e y re a b ff y e ct a in ff g ec th ti e n r g e la th ti e v e r a e m la o t u iv n e t o a f m re o ac u t n io t n o p f r o r d e u a c c t t s i , oΦn p a ro nd duΦcts . , (B Φ )P1I n a cl n u d d e Φ dP2. (B)
+P1 P2
+Included nuclei in the quantum yield calculation, and (C) magnetic field orientation concerning the
+nuclei in the quantum yield calculation, and (C) magnetic field orientation concerning the two
+two molecules. The orientation of the external magnetic field is varied in the xz-plane of the
+molecules.Theorientationoftheexternalmagneticfieldisvariedinthexz-planeofthemolecular
+molecular reference frame as defined on the isoalloxazine moiety of FAD•−. (C) A calculation of the
+referenceframeasdefinedontheisoalloxazinemoietyofFAD•−. (C)Acalculationofthesinglet
+q s u i a n n g t l u e m t qu yi a e n ld tu , m Φ yi , e f l o d r , Φ th P e 1, r f a o d r i t c h a e l p ra a d ir ic [ a W l p •+ a – ir F A [W D • • + − -- ] F i A n D cr • y −] p i t n o c c h ry ro p m to e ch w r i o th m t e h w e i i t n h ( t B h ) e c i o n u ( p B l ) e c d oupled
+nuclei, adapted fPr1om [134].
+nuclei,adaptedfrom[134].
+Furthermore, theoretical studies with respect to the effects of nuclear polarization
+Additionally,thedipolarcouplingandexchangeinteractionbetweenthetwoelectron
+spacincsubmecuolamtieoinm opnor tthanet rwadhiecnatlh peairirs einpa crraytipotnoicshbreolmowe ~w3e.8ren mpe[r1f3o7r,m13e8d],,w whhicihchis mcearyta pinrloyvide a
+thneewca sweafoyr t[oW in·+v–eFsAtiDga·−te] itnhec rdyypntoacmhriocsm oef. SCRPs in cryptochromes. The motivation for this
+study is based on the limitation of the detection sensitivity of the RPM due to the short
+spin-coherence lifetime of the radical pair, which may be enhanced by nuclear
+polarization [142]. Different nuclear spin states are favorable for specific spin-selective
+reaction products, which are commonly known as spin-sorting [142]. Under specific
+conditions, the preservation of specific nuclear spin state populations would then lead to
+an increased product yield, which is required for a well-functioning magnetic compass.
+The discussed studies provide the first insights for studying the dynamics of the radical
+pair within cryptochromes of migratory species via CIDNP. Photo-CIDNP could
+eventually allow for understanding the possible functionality of RPM in
+magnetoreception. Due to the challenging accessibility of cryptochrome proteins of
+migratory species, however, there are very limited experimental photo-CIDNP
+investigations performed directly on such cryptochromes and only a few model systems
+were studied in recent times [40,41].
+5. Outlook
+
+--- Page 14 ---
+
+Int.J.Mol.Sci.2023,24,8218 14of19
+Uptothisdate,theunderstandingandtheoreticaldescriptionofthe[W·+–FAD·−]
+radicalpairremainsamajorpartofmagnetoreceptionresearch. Aspects,suchasmulti-
+spinsystems,duetoso-calledscavengermolecules(e.g.,O )[123,139–141],theinfluence
+2
+ofotherresidues,suchastheadjacenttyrosine(Figure10B)[142],theinfluenceofspin-
+relaxationthroughfluctuationsofthemagneticinteractionsduetomolecularmotionor
+otherwise[132,136],andtheexplorationoftheprecisekineticsofthesecomplexbiological
+systems[38,129]aresubjectofcurrentresearch. Additionally,recentinvestigationsdemon-
+stratedthatforcryptochromeinDrosophilathe52C-terminalaminoacidsaresufficientto
+facilitatemagnetoreception,eventhough,notryptophanchainisinvolved[143]. These
+newfindingsunderpintheimportanceoffurtherresearch.
+Furthermore, theoretical studies with respect to the effects of nuclear polarization
+accumulationontheradicalpairincryptochromewereperformed,whichmayprovide
+a new way to investigate the dynamics of SCRPs in cryptochromes. The motivation
+for this study is based on the limitation of the detection sensitivity of the RPM due to
+theshortspin-coherencelifetimeoftheradicalpair,whichmaybeenhancedbynuclear
+polarization [142]. Different nuclear spin states are favorable for specific spin-selective
+reaction products, which are commonly known as spin-sorting [142]. Under specific
+conditions,thepreservationofspecificnuclearspinstatepopulationswouldthenleadto
+anincreasedproductyield,whichisrequiredforawell-functioningmagneticcompass.
+Thediscussedstudiesprovidethefirstinsightsforstudyingthedynamicsoftheradical
+pairwithincryptochromesofmigratoryspeciesviaCIDNP.Photo-CIDNPcouldeventually
+allowforunderstandingthepossiblefunctionalityofRPMinmagnetoreception. Dueto
+thechallengingaccessibilityofcryptochromeproteinsofmigratoryspecies,however,there
+are very limited experimental photo-CIDNP investigations performed directly on such
+cryptochromesandonlyafewmodelsystemswerestudiedinrecenttimes[40,41].
+5. Outlook
+Nature has chosen flavin systems for spin-chemical processes. Therefore, flavins
+provideanexcellentstartingpositiontodevelopboth, artificialmagneto-detectionand
+light-pumpedhyperpolarizedNMR.TrustingtheEinheitderNatur,asCarlFriedrichvon
+Weizsäckerstated(DieEinheitderNatur: 1971,CarlFriedrichvonWeizsäcker),theauthors
+areconvincedthattherewillbefundamentallawsofspin-physicsandspin-chemistryto
+provideacommonbasicscheme. Suchacommonlawwouldprovidethebasisforanew
+spin-chemistryinsoftmatter.
+AuthorContributions:J.M.,L.G.,T.T.,L.T.,P.K.-T.,G.M.,R.Q.,F.O.,I.A.S.andT.G.wrotethepaper.
+Allauthorshavereadandagreedtothepublishedversionofthemanuscript.
+Funding:Thisresearchreceivednoexternalfunding.
+Acknowledgments:OurcontributionisdedicatedtothememoryofthelateKonstantinIvanov.The
+MatysikgroupisgratefultotheNederlandseOrganisatievoorWetenschappelijkOnderzoek(NWO)and
+theDeutscheForschungsgemeinschaft(DFG)forlongstandingsupport.TheSolov’yovgroupthankthe
+VolkswagenFoundation(LichtenbergProfessorshiptoIAS),theDeutscheForschungsgemeinschaft
+(DFG;GRK1885:MolecularBasisofSensoryBiologyandSFB1372:MagnetoreceptionandNavigation
+inVertebrates),theMinistryforScienceandCultureofLowerSaxony(SimulationsMeetExperiments
+ontheNanoscale:OpeninguptheQuantumWorldtoArtificialIntelligence(SMART)andDynamik
+aufderNanoskala:VonkohärentenElementarprozessenzurFunktionalität(DyNano)).Computa-
+tionalresourcesforthesimulationswereprovidedbytheCARLClusterattheCarl-von-Ossietzky
+University,Oldenburg,supportedbytheDFGandtheMinistryforScienceandCultureofLower
+Saxony.TheauthorsgratefullyacknowledgethecomputingtimegrantedbytheResourceAllocation
+BoardandprovidedonthesupercomputerLiseandEmmyatNHR@ZIBandNHR@Göttingenas
+partoftheNHRinfrastructure(projectnip00058).
+ConflictsofInterest:Theauthorsdeclarenoconflictofinterest.
+
+--- Page 15 ---
+
+Int.J.Mol.Sci.2023,24,8218 15of19
+References
+1. Silva,E.;Edwards,A.M.Flavins:PhotochemistryandPhotobiology;RoyalSocietyofChemistry:London,UK,2006;ISBN978-0-85404-331-6.
+2. Powers,H.J.Riboflavin(VitaminB-2)andHealth.Am.J.Clin.Nutr.2003,77,1352–1360.[CrossRef][PubMed]
+3. Mansoorabadi,S.O.;Thibodeaux,C.J.;Liu,H.W.TheDiverseRolesofFlavinCoenzymes—Nature’sMostVersatileThespians.
+J.Org.Chem.2007,72,6329–6342.[CrossRef][PubMed]
+4. Manstein,D.J.;Pai,E.F.PurificationandCharacterizationofFADSynthetasefromBrevibacteriumAmmoniagenes.J.Biol.Chem.
+1986,261,16169–16173.[CrossRef]
+5. Karthikeyan,S.;Zhou,Q.;Mseeh,F.;Grishin,N.V.;Osterman,A.L.;Zhang,H.CrystalStructureofHumanRiboflavinKinase
+RevealsaβBarrelFoldandaNovelActiveSiteArch.Structure2003,11,265–273.[CrossRef]
+6. Northrop-Clewes,C.A.;Thurnham,D.I.TheDiscoveryandCharacterizationofRiboflavin.Ann.Nutr.Metab.2012,61,224–230.
+[CrossRef][PubMed]
+7. Warburg,O.TheYellowEnzymeandItsFunctions.Biochem.Z.1933,266,377–411.
+8. Krebs,H.A.MetabolismofAmino-Acids:DeaminationofAmino-Acids.Biochem.J.1935,29,1620–1644.[CrossRef]
+9. Theorell,H.PurificationoftheActiveGroupoftheYellowEnzyme.Biochem.Z.1935,275,344–346.
+10. Tomiki,T.;Saitou,N.PhylogeneticAnalysisofProteinsAssociatedintheFourMajorEnergyMetabolismSystems:Photosynthesis,
+AerobicRespiration,Denitrification,andSulfurRespiration.J.Mol.Evol.2004,59,158–176.[CrossRef]
+11. Walsh, J.D.; Miller, A.F.FlavinReductionPotentialTuningbySubstitutionandBending. J.Mol. Struct. 2003, 623, 185–195.
+[CrossRef]
+12. Fraaijet,M.W.;VanDenHeuvel,R.H.H.;VanBerkel,W.J.H.;Mattevi,A.CovalentFlavinylationIsEssentialforEfficientRedox
+CatalysisinVanillyl-AlcoholOxidase.J.Biol.Chem.1999,274,35514–35520.[CrossRef][PubMed]
+13. Dym,O.;Eisenberg,D.Sequence-StructureAnalysisofFAD-ContainingProteins.ProteinSci.2001,10,1712–1728.[CrossRef]
+14. McDonald,C.A.;Fagan,R.L.;Collard,F.;Monnier,V.M.;Palfey,B.A.OxygenReactivityinFlavoenzymes:ContextMatters.J.Am.
+Chem.Soc.2011,133,16809–16811.[CrossRef][PubMed]
+15. Mattevi,A.ToBeorNottoBeanOxidase:ChallengingtheOxygenReactivityofFlavoenzymes.TrendsBiochem.Sci.2006,31,
+276–283.[CrossRef]
+16. Bucˇko,M.;Gemeiner,P.;Schenkmayerová,A.;Krajcˇovicˇ,T.;Rudroff,F.;Mihovilovicˇ,M.D.Baeyer-VilligerOxidations:Biotechno-
+logicalApproach.Appl.Microbiol.Biotechnol.2016,100,6585–6599.[CrossRef]
+17. Teufel,R.;Miyanaga,A.;Michaudel,Q.;Stull,F.;Louie,G.;Noel,J.P.;Baran,P.S.;Palfey,B.;Moore,B.S.Flavin-MediatedDual
+OxidationControlsanEnzymaticFavorskii-TypeRearrangement.Nature2013,503,552–556.[CrossRef][PubMed]
+18. Wongnate,T.;Surawatanawong,P.;Visitsatthawong,S.;Sucharitakul,J.;Scrutton,N.S.;Chaiyen,P.Proton-CoupledElectron
+TransferandAdductConfigurationAreImportantforC4a-HydroperoxyflavinFormationandStabilizationinaFlavoenzyme.
+J.Am.Chem.Soc.2013,136,241–253.[CrossRef]
+19. Malmström,B.G.EnzymologyofOxygen.Annu.Rev.Biochem.1982,51,21–59.[CrossRef]
+20. Romero,E.;GómezCastellanos,J.R.;Gadda,G.;Fraaije,M.W.;Mattevi,A.SameSubstrate,ManyReactions:OxygenActivation
+inFlavoenzymes.Chem.Rev.2018,118,1742–1769.[CrossRef]
+21. Wang,R.;Thorpe,C.ReactivityofMedium-ChainAcyl-CoADehydrogenasetowardMolecularOxygen.Biochemistry1991,30,
+7895–7901.[CrossRef]
+22. Traber,R.;Kramer,H.E.A.;Hemmerich,P.OneandTwoElectronTransferPathwaysinthePhotoreductionofFlavin.PureAppl.
+Chem.1982,54,1651–1665.[CrossRef]
+23. Büchler,J.;Papadopoulou,A.;Buller,R.RecentAdvancesinFlavin-DependentHalogenaseBiocatalysis:Sourcing,Engineering,
+andApplication.Catalysts2019,9,1030.[CrossRef]
+24. Andorfer,M.C.; Lewis,J.C.UnderstandingandImprovingtheActivityofFlavin-DependentHalogenasesviaRandomand
+TargetedMutagenesis.Annu.Rev.Biochem.2018,87,159–185.[CrossRef]
+25. Barker,R.D.;Yu,Y.;DeMaria,L.;Johannissen,L.O.;Scrutton,N.S.MechanismofActionofFlavin-DependentHalogenases.ACS
+Catal.2022,12,15352–15360.[CrossRef]
+26. VanPée, K.H.; Patallo, E.P.Flavin-DependentHalogenasesInvolvedinSecondaryMetabolisminBacteria. Appl. Microbiol.
+Biotechnol.2006,70,631–641.[CrossRef]
+27. Phintha,A.;Prakinee,K.;Chaiyen,P.Structures,MechanismsandApplicationsofFlavin-DependentHalogenases.InTheEnzymes;
+Chaiyen,P.,Tamanoi,F.,Eds.;AcademicPress:Cambridge,MA,USA,2020;Volume47,pp.327–364;ISBN9780128201374.
+28. Ahmad,I.;Vaid,F.H.M.Chapter2:PhotochemistryofFlavinsinAqueousandOrganicSolvents.InFlavins:Photochemistryand
+Photobiology;Silva,E.,Edwards,A.M.,Eds.;RoyalSocietyofChemistry:London,UK,2006;pp.13–40.
+29. Hartman,T.;Cibulka,R.PhotocatalyticSystemswithFlaviniumSalts:FromPhotolyaseModelstoSyntheticToolforCyclobutane
+RingOpening.Org.Lett.2016,18,3710–3713.[CrossRef]
+30. Scannell,M.P.;Fenick,D.J.;Yeh,S.R.;Falvey,D.E.ModelStudiesofDNAPhotorepair: ReductionPotentialsofThymineand
+CytosineCyclobutaneDimersMeasuredbyFluorescenceQuenching.J.Am.Chem.Soc.1997,119,1971–1977.[CrossRef]
+31. Foja,R.;Walter,A.;Jandl,C.;Thyrhaug,E.;Hauer,J.;Storch,G.ReducedMolecularFlavinsasSingle-ElectronReductantsafter
+Photoexcitation.J.Am.Chem.Soc.2022,144,4721–4726.[CrossRef]
+32. Rehpenn,A.;Walter,A.;Storch,G.MolecularEditingofFlavinsforCatalysis.Synthesis2021,53,2583–2593.[CrossRef]
+
+--- Page 16 ---
+
+Int.J.Mol.Sci.2023,24,8218 16of19
+33. Seel,C.J.;Gulder,T.BiocatalysisFueledbyLight:OntheVersatileCombinationofPhotocatalysisandEnzymes.ChemBioChem
+2019,20,1871–1897.[CrossRef]
+34. Murray,A.T.;Matton,P.;Fairhurst,N.W.G.;John,M.P.;Carbery,D.R.BiomimeticFlavin-CatalyzedAldehydeOxidation.Org.
+Lett.2012,14,3656–3659.[CrossRef]
+35. Graml,A.;Neveselý,T.;JanKutta,R.;Cibulka,R.;König,B.DeazaflavinReductivePhotocatalysisInvolvesExcitedSemiquinone
+Radicals.Nat.Commun.2020,11,1–11.[CrossRef][PubMed]
+36. Mojr,V.;Svobodová,E.;Straková,K.;Neveselý,T.;Chudoba,J.;Dvorˇáková,H.;Cibulka,R.TailoringFlavinsforVisibleLight
+Photocatalysis:Organocatalytic[2+2]CycloadditionsMediatedbyaFlavinDerivativeandVisibleLight.Chem.Commun.2015,
+51,12036–12039.[CrossRef][PubMed]
+37. Walter, A.; Storch, G. Synthetic C6-Functionalized Aminoflavin Catalysts Enable Aerobic Bromination of Oxidation-Prone
+Substrates.Angew.Chem.Int.Ed.2020,59,22505–22509.[CrossRef]
+38. Xu,J.;Jarocha,L.E.;Zollitsch,T.;Konowalczyk,M.;Henbest,K.B.;Richert,S.;Golesworthy,M.J.;Schmidt,J.;Déjean,V.;Sowood,
+D.J.C.;etal.MagneticSensitivityofCryptochrome4fromaMigratorySongbird.Nature2021,594,535–540.[CrossRef]
+39. Evans,E.W.;Dodson,C.A.;Maeda,K.;Biskup,T.;Wedge,C.J.;Timmel,C.R.MagneticFieldEffectsinFlavoproteinsandRelated
+Systems.InterfaceFocus2013,3,20130037.[CrossRef]
+40. Paul,S.;Meng,L.;Berger,S.;Grampp,G.;Matysik,J.;Wang,X.TheFlavin–TryptophanDyadF10TasaCryptochromeModel
+Compound:SynthesisandPhotochemistry.ChemPhotoChem2017,1,12–16.[CrossRef]
+41. Paul, S.; Kiryutin, A.S.; Guo, J.; Ivanov, K.L.; Matysik, J.; Yurkovskaya, A.V.; Wang, X. Magnetic Field Effect in Natural
+CryptochromeExploredwithModelCompound.Sci.Rep.2017,7,1–10.[CrossRef]
+42. Hore,P.J.;Mouritsen,H.TheRadical-PairMechanismofMagnetoreception.Annu.Rev.Biophys.2016,45,299–344.[CrossRef]
+43. Messiha, H.L.; Wongnate, T.; Chaiyen, P.; Jones, A.R.; Scrutton, N.S. Magnetic Field Effects as a Result of the Radical Pair
+MechanismAreUnlikelyinRedoxEnzymes.J.R.Soc.Interface2015,12,20141155.[CrossRef]
+44. Bargon,J.;Fischer,H.;Johnsen,U.Kernresonanz-EmissionslinienWährendRascherRadikalreaktionenI.Aufnahmeverfahren
+UndBeispiele.Z.Naturforsch.A1967,22,1551–1555.[CrossRef]
+45. Ward,F.R.;Lawler,R.G.NuclearMagneticResonanceEmissionandEnhancedAbsorptioninRapidOrganometallicReactions.
+J.Am.Chem.Soc.1967,89,5518–5519.[CrossRef]
+46. Cocivera,M.OpticallyInducedOverhauserEffectinSolution.NuclearMagneticResonanceEmission.J.Am.Chem.Soc.1968,90,
+3261–3263.[CrossRef]
+47. Fessenden,R.W.;Schuler,R.H.ElectronSpinResonanceStudiesofTransientAlkylRadicals.J.Chem.Phys.1963,39,2147–2195.
+[CrossRef]
+48. Smaller,B.;Remko,J.R.;Avery,E.C.ElectronParamagneticResonanceStudiesofTransientFreeRadicalsProducedbyPulse
+Radiolysis.J.Chem.Phys.1968,48,5174–5181.[CrossRef]
+49. Paul,H.;Fischer,H.EmissionUndVerstärkteAbsorptioninDenESR-SpektrenKurzlebigerRadikaleinWäßrigenLösungen.Z.
+Naturforsch.A1970,25,443–445.[CrossRef]
+50. Fischer,H.;Bargon,J.ChemicallyInducedDynamicNuclearPolarizationduringThermalDecompositionofPeroxidesandAzo
+Compounds.Acc.Chem.Res.1969,2,110–114.[CrossRef]
+51. Bargon,J.;Fischer,H.Kernresonanz-EmissionslinienWährendRascherRadikalreaktionenII.ChemischInduzierteDynamische
+Kernpolarisation.Z.Naturforsch.A1967,22,1556–1562.[CrossRef]
+52. Lawler,R.G.ChemicallyInducedDynamicNuclearPolarization.J.Am.Chem.Soc.1967,89,5519–5521.[CrossRef]
+53. Kaptein, R.ChemicallyInducedDynamicNuclearPolarizationinFiveAlkylRadicals. Chem. Phys. Lett. 1968, 2, 261–267.
+[CrossRef]
+54. Closs,G.L.;Closs,L.E.InducedDynamicNuclearSpinPolarizationinReactionsofPhotochemicallyandThermallyGenerated
+TripletDiphenylmethylene.J.Am.Chem.Soc.1969,91,4549–4550.[CrossRef]
+55. Closs,G.L.;Trifunac,A.D.ChemicallyInducedNuclearSpinPolarizationasaToolforDeterminationofSpinMultiplicitiesof
+Radical-PairPrecursors.J.Am.Chem.Soc.1969,91,4554–4555.[CrossRef]
+56. Kaptein,R.;Oosterhoff,J.L.ChemicallyInducedDynamicNuclearPolarizationII.(RelationwithAnomalousESRSpectra).Chem.
+Phys.Lett.1969,4,195–197.[CrossRef]
+57. Closs,G.L.;Forbes,M.D.E.;Norris,J.R.Spin-PolarizedElectronParamagneticResonanceSpectraofRadicalPairsinMicelles:
+ObservationofElectronSpin-SpinInteractions.J.Phys.Chem.1987,91,3592–3599.[CrossRef]
+58. Hore,P.J.;Hunter,D.A.;McKie,C.D.;Hoff,A.J.ElectronParamagneticResonanceofSpin-CorrelatedRadicalPairsinPhotosyn-
+theticReactions.Chem.Phys.Lett.1987,137,495–500.[CrossRef]
+59. Biskup,T.;Schleicher,E.;Okafuji,A.;Link,G.;Hitomi,K.;Getzoff,E.D.;Weber,S.DirectObservationofaPhotoinducedRadical
+PairinaCryptochromeBlue-LightPhotoreceptor.Angew.Chem.Intl.Ed.2009,48,404–407.[CrossRef]
+60. Matysik,J.;Ding,Y.;Kim,Y.;Kurle,P.;Yurkovskaya,A.;Ivanov,K.;Alia,A.Photo-CIDNPinSolidState.Appl.Magn.Reson.2022,
+53,521–537.[CrossRef]
+61. Adrian,F.J.PrinciplesoftheRadicalPairMechanismofChemicallyInducedNuclearandElectronSpinPolarization.Rev.Chem.
+Intermed.1979,3,3–43.[CrossRef]
+62. Turro, N.J.; Ramamurthy, V.; Scaiano, J.C. Principles of Molecular Photochemistry: An Introduction; University Science Books:
+Sausalito,CA,USA,2009;ISBN978-1-891389-57-3.
+
+--- Page 17 ---
+
+Int.J.Mol.Sci.2023,24,8218 17of19
+63. Panov,M.S.;Pravdivtsev,A.N.;Ivanov,K.L.;Yurkovskaya,A.V.;Vieth,H.-M.CoherentPolarizationTransferEffectsAreCrucial
+forInterpretingLow-FieldCIDNPData.Appl.Magn.Reson.2014,45,893–900.[CrossRef]
+64. Ivanov,K.L.;Pravdivtsev,A.N.;Yurkovskaya,A.V.;Vieth,H.M.;Kaptein,R.TheRoleofLevelAnti-CrossingsinNuclearSpin
+Hyperpolarization.Prog.Nuc.Magn.Reson.Spectrosc.2014,81,1–36.[CrossRef]
+65. Salikhov,K.M.;Molin,Y.N.;Sagdeev,R.Z.;Buchachenko,A.L.SpinPolarizationandMagneticEffectsinRadicalReactions;Elsiever:
+Amsterdam,TheNetherlands,1984;ISBN0-444-99677-X.
+66. Kaptein,R.SimpleRulesforChemicallyInducedDynamicNuclearPolarization.J.Chem.Soc.D1971,732–733.[CrossRef]
+67. Kaptein,R.ChemicallyInducedDynamicNuclearPolarization.VIII.SpinDynamicsandDiffusionofRadicalPairs.J.Am.Chem.
+Soc.1972,94,6251–6262.[CrossRef]
+68. Köckenberger, W.; Matysik, J. Hyperpolarization Methods in NMR; Topics in Current Chemistry; Kuhn, L.T., Ed.; Springer:
+Berlin/Heidelberg,Germany,2016;Volume338,ISBN9780128032244.
+69. Salikhov,K.M.MutualEffectofNucleiuponCIDNPinHighFields.ViolationoftheKapteinRules.Chem.Phys.1982,64,371–379.
+[CrossRef]
+70. Hore,J.;Broadhurst,R.W.Photo-CIDNPofBiopolymers.Prog.Nucl.Magn.Reson.Spectrosc.1993,25,345–402.[CrossRef]
+71. Obynochny,A.A.;Sagdeev,R.Z.;Salikhov,K.M.;Sukhenko,S.A.;Yurkovskaya,A.V.OpticalNuclearPolarizationintheGas
+Phase.Chem.Phys.1986,104,415–419.[CrossRef]
+72. Yurkovskaya,A.V.;Galimov,R.R.;Obynochny,A.A.;Salikhov,K.M.;Sagdeev,R.Z.TheFieldDependenceofCIDNPinGas-Phase
+ReactionsofBiradicals.Chem.Phys.1987,112,259–264.[CrossRef]
+73. Okuno,Y.;Cavagnero,S.Fluorescein:APhoto-CIDNPSensitizerEnablingHypersensitiveNMRDataCollectioninLiquidsat
+LowMicromolarConcentration.J.Phys.Chem.B2016,120,715–723.[CrossRef]
+74. Sadler, D.E.; Wendler, J.; Olbrich, G.; Schaffner, K. Photochemical Reaction Mechanisms of β,γ-Unsaturated Ketones. The
+1,3-AcetylShiftinCyclopent-2-EnylMethylKetones.J.Am.Chem.Soc.1984,106,2064–2071.[CrossRef]
+75. Roth,H.D.OrganicRadicalCationsinFluidSolution:UnusualStructuresandRearrangements.Acc.Chem.Res.1987,20,343–350.
+[CrossRef]
+76. Neshchadin,D.;Gescheidt,G.CIDNPasaToolforRapidRearrangements:NewInsightsintoCyclobutanoid4-Center/3-Electron
+RadicalCations.J.Phys.Org.Chem.2013,26,737–741.[CrossRef]
+77. Kaptein,R.Photo-CIDNPStudiesofProteins.InBiologicalMagneticResonance;Springer:Boston,MA,USA,1982;pp.145–191.
+78. Mok,K.H.;Hore,P.J.Photo-CIDNPNMRMethodsforStudyingProteinFolding.Methods2004,34,75–87.[CrossRef]
+79. Ivanov,K.L.;Miesel,K.;Yurkovskaya,A.V.;Korchak,S.E.;Kiryutin,A.S.;Vieth,H.-M.TransferofCIDNPamongCoupledSpins
+atLowMagneticField.Appl.Magn.Reson.2006,30,513–534.[CrossRef]
+80. Ivanov,K.L.;Yurkovskaya,A.V.;Vieth,H.-M.CoherentTransferofHyperpolarizationinCoupledSpinSystemsatVariable
+MagneticField.J.Chem.Phys.2008,128,154701.[CrossRef][PubMed]
+81. Pravdivtsev,A.N.;Yurkovskaya,A.V.;Ivanov,K.L.;Vieth,H.M.ImportanceofPolarizationTransferinReactionProductsfor
+InterpretingandAnalyzingCIDNPatLowMagneticFields.J.Magn.Reson.2015,254,170–184.[CrossRef][PubMed]
+82. Yurkovskaya,A.;Grosse,S.;Dvinskikh,S.;Morozova,O.;Vieth,H.-M.SpinandMolecularDynamicsofBiradicalsasStudiedby
+LowFieldNuclearPolarizationatVariableTemperature.J.Phys.Chem.A1999,103,980–988.[CrossRef]
+83. Shkrob,I.A.;Tarasov,V.F.;Bagryanskaya,E.G.ElectronSpinExchangeinMicellizedRadicalPairs.I.13CLowFieldChemically
+InducedDynamicNuclearPolarization(CIDNP)and13CRadioFrequencyStimulatedNuclearPolarization(SNP).Chem.Phys.
+1991,153,427–441.[CrossRef]
+84. Lopez, J.J.; Carter, M.A.G.; Tsentalovich, Y.P.; Morozova, O.B.; Yurkovskaya, A.V.; Hore, P.J. Effects of Surfactants on the
+PhotosensitizedProductionofTyrosineRadicalsStudiedbyPhoto-CIDNP.Photochem.Photobiol.2002,75,6.[CrossRef]
+85. Morozova,O.B.;Yurkovskaya,A.V.;Tsentalovich,Y.P.;Vieth,H.-M.1Hand13CNuclearPolarizationinConsecutiveBiradicals
+duringthePhotolysisof2,2,12,12-Tetramethylcyclododecanone.J.Phys.Chem.A1997,101,399–406.[CrossRef]
+86. Morozova,O.B.;Yurkovskaya,A.V.;Tsentalovich,Y.P.;Sagdeev,R.Z.;Wu,T.;Forbes,M.D.E.StudyofConsecutiveBiradicals
+from2-Hydroxy-2,12-DimethylcyclododecanonebyTR-CIDNP,TREPR,andLaserFlashPhotolysis.J.Phys.Chem.A1997,101,
+8803–8808.[CrossRef]
+87. Tsentalovich,Y.P.;Morozova,O.B.;Avdievich,N.I.;Ananchenko,G.S.;Yurkovskaya,A.V.;Ball,J.D.;Forbes,M.D.E.Influenceof
+MolecularStructureontheRateofIntersystemCrossinginFlexibleBiradicals.J.Phys.Chem.A1997,101,8809–8816.[CrossRef]
+88. Müller,F.;Hemmerich,P.;Ehrenberg,A.;Palmer,G.;Massey,V.TheChemicalandElectronicStructureoftheNeutralFlavin
+RadicalasRevealedbyElectronSpinResonanceSpectroscopyofChemicallyandIsotopicallySubstitutedDerivatives.Eur.J.
+Biochem.1970,14,185–196.[CrossRef]
+89. Edmondson,D.E.Electron-Spin-ResonanceStudiesonFlavoenzymes.Biochem.Soc.Trans.1985,13,593–600.[CrossRef][PubMed]
+90. Ehrenberg,A.;Müller,F.;Hemmerich,P.Basicity,VisibleSpectra,andElectronSpinResonanceofFlavosemiquinoneAnions.Eur.
+J.Biochem.1967,2,286–293.[CrossRef]
+91. Bretz,N.;Mastalsky,I.;Elsner,M.;Kurreck,H.FirstENDORInvestigationsofBiologicallyRelevantOrganicRadicalsinReversed
+Micelles.Angew.Chem.Int.Ed.1987,26,345–347.[CrossRef]
+92. Massey,V.TheChemicalandBiologicalVersatilityofRiboflavin.Biochem.Soc.Trans.2000,28,283.[CrossRef]
+93. Frey,P.A.RadicalMechanismsofEnzymaticCatalysis.Annu.Rev.Biochem.2001,70,121–148.[CrossRef]
+
+--- Page 18 ---
+
+Int.J.Mol.Sci.2023,24,8218 18of19
+94. Swartz,T.E.;Corchnoy,S.B.;Christie,J.M.;Lewis,J.W.;Szundi,I.;Briggs,W.R.;Bogomolni,R.A.ThePhotocycleofaFlavin-
+BindingDomainoftheBlueLightPhotoreceptorPhototropin.J.Biol.Chem2001,276,36493–36500.[CrossRef]
+95. Kennis,J.T.M.;Crosson,S.;Gauden,M.;VanStokkum,I.H.M.;Moffat,K.;VanGrondelle,R.PrimaryReactionsoftheLOV2
+DomainofPhototropin,aPlantBlue-LightPhotoreceptor.Biochemistry2003,42,3385–3392.[CrossRef]
+96. Salomon,M.;Christie,J.M.;Knieb,E.;Lempert,U.;Briggs,W.R.PhotochemicalandMutationalAnalysisoftheFMN-Binding
+DomainsofthePlantBlueLightReceptor,Phototropin.Biochemistry2000,39,9401–9410.[CrossRef]
+97. Richter,G.;Weber,S.;Römisch,W.;Bacher,A.;Fischer,M.;Eisenreich,W.PhotochemicallyInducedDynamicNuclearPolarization
+inaC450AMutantoftheLOV2DomainoftheAvenaSativaBlue-LightReceptorPhototropin. J.Am. Chem. Soc. 2005,127,
+17245–17252.[CrossRef][PubMed]
+98. Schleicher,E.; Kowalczyk,R.M.; Kay,C.W.M.; Hegemann,P.; Bacher,A.; Fischer,M.; Bittl,R.; Richter,G.; Weber,S.Onthe
+ReactionMechanismofAdductFormationinLOVDomainsofthePlantBlue-LightReceptorPhototropin.J.Am.Chem.Soc.2004,
+126,11067–11076.[CrossRef]
+99. Eisenreich,W.;Joshi,M.;Weber,S.;Bacher,A.;Fischer,M.NaturalAbundanceSolution13CNMRStudiesofaPhototropinwith
+PhotoinducedPolarization.J.Am.Chem.Soc.2008,130,13544–13545.[CrossRef][PubMed]
+100. Eisenreich,W.;Joshi,M.;Illarionov,B.;Kacprzak,S.;Lukaschek,M.;Kothe,G.;Budisa,N.;Fischer,M.;Bacher,A.;Weber,S.
+StrategyforEnhancementof13C-Photo-CIDNPNMRSpectrabyExploitingFractional13C-LabelingofTryptophan. J.Phys.
+Chem.B2015,119,13934–13943.[CrossRef][PubMed]
+101. Ding, Y.; Kiryutin, A.S.; Yurkovskaya, A.V.; Sosnovsky, D.V.; Sagdeev, R.Z.; Bannister, S.; Kottke, T.; Kar, R.K.; Schapiro, I.;
+Ivanov, K.L.; et al. Nuclear Spin-Hyperpolarization Generated in a Flavoprotein under Illumination: Experimental Field-
+DependenceandTheoreticalLevelCrossingAnalysis.Sci.Rep.2019,9,18436.[CrossRef]
+102. Ding,Y.;Kiryutin,A.S.;Zhao,Z.;Xu,Q.Z.;Zhao,K.H.;Kurle,P.;Bannister,S.;Kottke,T.;Sagdeev,R.Z.;Ivanov,K.L.;etal.Tailored
+FlavoproteinsActingasLight-DrivenSpinMachinesPumpNuclearHyperpolarization. Sci. Rep. 2020,10,18658. [CrossRef]
+[PubMed]
+103. Thamarath,S.S.;Heberle,J.;Hore,P.J.;Kottke,T.;Matysik,J.Solid-StatePhoto-CIDNPEffectObservedinPhototropinLOV1-C57S
+by13CMagic-AngleSpinningNMRSpectroscopy.J.Am.Chem.Soc.2010,132,15542–15543.[CrossRef]
+104. Pompe,N.;Illarionov,B.;Fischer,M.;Bacher,A.;Weber,S.CompletingthePicture:Determinationof13CHyperfineCoupling
+ConstantsofFlavinSemiquinoneRadicalsbyPhotochemicallyInducedDynamicNuclearPolarizationSpectroscopy.J.Phys.Chem.
+Lett.2022,5160–5167.[CrossRef]
+105. Zysmilich,M.G.; McDermott,A.PhotochemicallyInducedDynamicNuclearPolarizationintheSolid-State15NSpectraof
+ReactionCentersfromPhotosyntheticBacteriaRhodobacterSpbaeroidesR-26.J.Am.Chem.Soc.1994,116,8362–8363.[CrossRef]
+106. Daviso,E.;Alia,A.;Prakash,S.;Diller,A.;Gast,P.;Lugtenburg,J.;Matysik,J.;Jeschke,G.Electron-NuclearSpinDynamicsina
+BacterialPhotosyntheticReactionCenter.J.Phys.Chem.C2009,113,10269–10278.[CrossRef]
+107. Jeschke,G.ANewMechanismforChemicallyInducedDynamicNuclearPolarizationintheSolidState.J.Am.Chem.Soc.1998,
+120,4425–4429.[CrossRef]
+108. Jeschke,G.Electron-Electron-NuclearThree-SpinMixinginSpin-CorrelatedRadicalPairs.J.Chem.Phys.1997,106,10072–10086.
+[CrossRef]
+109. Polenova,T.;McDermott,A.E.ACoherentMixingMechanismExplainsthePhotoinducedNuclearPolarizationinPhotosynthetic
+ReactionCenters.J.Phys.Chem.B1999,103,535–548.[CrossRef]
+110. McDermott,A.;Zysmilich,M.G.;Polenova,T.SolidStateNMRStudiesofPhotoinducedPolarizationinPhotosyntheticReaction
+Centers:MechanismandSimulations.SolidStateNucl.Magn.Reson.1998,11,21–47.[CrossRef][PubMed]
+111. Boxer,S.G.;Chidsey,C.E.D.;Roelofs,M.G.AnisotropicMagneticInteractionsinthePrimaryRadicalIon-PairofPhotosynthetic
+ReactionCenters.Proc.Natl.Acad.Sci.USA1982,79,4632–4636.[CrossRef]
+112. Sosnovsky,D.V.;Jeschke,G.;Matysik,J.;Vieth,H.M.;Ivanov,K.L.LevelCrossingAnalysisofChemicallyInducedDynamic
+NuclearPolarization:TowardsaCommonDescriptionofLiquid-StateandSolid-StateCases.J.Chem.Phys.2016,144.[CrossRef]
+[PubMed]
+113. Matysik, J.; Diller, A.; Roy, E.; Alia, A. The Solid-State Photo-CIDNP Effect. Photosynth Res 2009, 102, 427–435. [CrossRef]
+[PubMed]
+114. Thamarath, S.S.; Bode, B.E.; Prakash, S.; Sai Sankar Gupta, K.B.; Alia, A.; Jeschke, G.; Matysik, J. Electron Spin Density
+DistributionintheSpecialPairTripletofRhodobacterSphaeroidesR26RevealedbyMagneticFieldDependenceoftheSolid-State
+Photo-CIDNPEffect.J.Am.Chem.Soc.2012,134,5921–5930.[CrossRef]
+115. Gräsing,D.;Bielytskyi,P.;Céspedes-Camacho,I.F.;Alia,A.;Marquardsen,T.;Engelke,F.;Matysik,J.Field-CyclingNMRwith
+High-ResolutionDetectionunderMagic-AngleSpinning:DeterminationofField-WindowforNuclearHyperpolarizationina
+PhotosyntheticReactionCenter.Sci.Rep.2017,7,12111.[CrossRef]
+116. ThamarathSurendran,S.TowardsPhoto-CIDNPMASNMRasaGenerallyApplicableEnhancementMethod. Ph.D.Thesis,
+LeidenUniversity,Leiden,TheNetherlands,2014.
+117. Bouly, J.P.; Schleicher, E.; Dionisio-Sese, M.; Vandenbussche, F.; VanDerStraeten, D.; Bakrim, N.; Meier, S.; Batschauer, A.;
+Galland,P.;Bittl,R.;etal.CryptochromeBlueLightPhotoreceptorsAreActivatedthroughInterconversionofFlavinRedoxStates.
+J.Biol.Chem.2007,282,9383–9391.[CrossRef]
+
+--- Page 19 ---
+
+Int.J.Mol.Sci.2023,24,8218 19of19
+118. Vaidya,A.T.;Top,D.;Manahan,C.C.;Tokuda,J.M.;Zhang,S.;Pollack,L.;Young,M.W.;Crane,B.R.FlavinReductionActivates
+DrosophilaCryptochrome.Proc.Natl.Acad.Sci.USA2013,110,20455–20460.[CrossRef]
+119. Schulten, K.; Swenberg, C.E.; Weiler, A.ABiomagneticSensoryMechanismBasedonMagneticFieldModulatedCoherent
+ElectronSpinMotion.Z.Phys.Chem.1978,111,1–5.[CrossRef]
+120. Maeda, K.; Henbest, K.B.; Cintolesi, F.; Kuprov, I.; Rodgers, C.T.; Liddell, P.A.; Gust, D.; Timmel, C.R.; Hore, P.J.Chemical
+CompassModelofAvianMagnetoreception.Nature2008,453,387–390.[CrossRef][PubMed]
+121. Wong,S.Y.;Frederiksen,A.;Hanic´,M.;Schuhmann,F.;Grüning,G.;Hore,P.J.;Solov’yov,I.A.NavigationofMigratorySongbirds:
+AQuantumMagneticCompassSensor.Neuroforum2021,27,141–150.[CrossRef]
+122. Solov’Yov,I.A.;Mouritsen,H.;Schulten,K.AcuityofaCryptochromeandVision-BasedMagnetoreceptionSysteminBirds.
+Biophys.J.2010,99,40–49.[CrossRef]
+123. Solov’yov,I.A.;Schulten,K.MagnetoreceptionthroughCryptochromeMayInvolveSuperoxide.Biophys.J.2009,96,4804–4813.
+[CrossRef][PubMed]
+124. Solov’yov,I.A.;Greiner,W.Iron-Mineral-BasedMagnetoreceptorinBirds:PolarityorInclinationCompass?Eur.Phys.J.D2009,
+51,161–172.[CrossRef]
+125. Ritz, T.; Adem, S.; Schulten, K.AModelforPhotoreceptor-BasedMagnetoreceptioninBirds. Biophys. J.2000, 78, 707–718.
+[CrossRef]
+126. Ritz,T.;Thalau,P.;Phillips,J.B.;Wiltschko,R.;Wiltschko,W.ResonanceEffectsIndicateaRadical-PairMechanismforAvian
+MagneticCompass.Nature2004,429,177–180.[CrossRef]
+127. Solov’yov,I.A.;Chandler,D.E.;Schulten,K.MagneticFieldEffectsinArabidopsisThalianaCryptochrome-1.Biophys.J.2007,92,
+2711–2726.[CrossRef]
+128. Pedersen,J.B.;Nielsen,C.;Solov’yov,I.A.MultiscaleDescriptionofAvianMigration:FromChemicalCompasstoBehaviour
+Modeling.Sci.Rep.2016,6,36709.[CrossRef]
+129. Solov’yov,I.A.;Schulten,K.ReactionKineticsandMechanismofMagneticFieldEffectsinCryptochrome.J.Phys.Chem.B2012,
+116,1089–1099.[CrossRef][PubMed]
+130. Grüning,G.;Wong,S.Y.;Gerhards,L.;Schuhmann,F.;Kattnig,D.R.;Hore,P.J.;Solov’yov,I.A.EffectsofDynamicalDegrees
+ofFreedomonMagneticCompassSensitivity:AComparisonofPlantandAvianCryptochromes.J.Am.Chem.Soc.2022,144,
+22902–22914.[CrossRef][PubMed]
+131. Maeda,K.;Robinson,A.J.;Henbest,K.B.;Hogben,H.J.;Biskup,T.;Ahmad,M.;Schleicher,E.;Weber,S.;Timmel,C.R.;Hore,P.J.
+MagneticallySensitiveLight-InducedReactionsinCryptochromeAreConsistentwithItsProposedRoleasaMagnetoreceptor.
+Proc.Natl.Acad.Sci.USA2012,109,4774–4779.[CrossRef]
+132. Kattnig,D.R.;Solov’yov,I.A.;Hore,P.J.ElectronSpinRelaxationinCryptochrome-BasedMagnetoreception.Physi.Chem.Chem.
+Phys.2016,18,12443–12456.[CrossRef][PubMed]
+133. Hiscock,H.G.;Worster,S.;Kattnig,D.R.;Steers,C.;Jin,Y.;Manolopoulos,D.E.;Mouritsen,H.;Hore,P.J.TheQuantumNeedleof
+theAvianMagneticCompass.Proc.Natl.Acad.Sci.USA2016,113,4634–4639.[CrossRef]
+134. Nielsen,C.;Solov’yov,I.A.MolSpin—FlexibleandExtensibleGeneralSpinDynamicsSoftware.J.Chem.Phys.2019,151,194105.
+[CrossRef]
+135. Lindoy,L.P.;Fay,T.P.;Manolopoulos,D.E.QuantumMechanicalSpinDynamicsofaMolecularMagnetoreceptor.J.Chem.Phys.
+2020,152,164107.[CrossRef]
+136. Worster,S.;Kattnig,D.R.;Hore,P.J.SpinRelaxationofRadicalsinCryptochromeandItsRoleinAvianMagnetoreception.J.Chem.
+Phys.2016,145,035104.[CrossRef]
+137. Timmel,C.R.;Till,U.;Brocklehurst,B.;Mclauchlan,K.A.;Hore,P.J.EffectsofWeakMagneticFieldsonFreeRadicalRecombination
+Reactions.Mol.Phys.1998,95,71–89.[CrossRef]
+138. Efimova,O.;Hore,P.J.RoleofExchangeandDipolarInteractionsintheRadicalPairModeloftheAvianMagneticCompass.
+Biophys.J.2008,94,1565–1574.[CrossRef]
+139. Babcock,N.S.;Kattnig,D.R.RadicalScavengingCouldAnswertheChallengePosedbyElectron–ElectronDipolarInteractionsin
+theCryptochromeCompassModel.J.Am.Chem.Soc.2021,1,2033–2046.[CrossRef]
+140. Player,T.C.;Hore,P.J.ViabilityofSuperoxide-ContainingRadicalPairsasMagnetoreceptors.J.Chem.Phys.2019,151,225101.
+[CrossRef][PubMed]
+141. Nielsen,C.;Kattnig,D.R.;Sjulstok,E.;Hore,P.J.;Solov’yov,I.A.AscorbicAcidMayNotBeInvolvedinCryptochrome-Based
+Magnetoreception.J.R.Soc.Interface2017,14,20170657.[CrossRef]
+142. Wong,S.Y.;Solov’yov,I.A.;Hore,P.J.;Kattnig,D.R.NuclearPolarizationEffectsinCryptochrome-BasedMagnetoreception.
+J.Chem.Phys.2021,154,035102.[CrossRef][PubMed]
+143. Bradlaugh,A.A.;Fedele,G.;Munro,A.L.;Hansen,C.N.;Hares,J.M.;Patel,S.;Kyriacou,C.P.;Jones,A.R.;Rosato,E.;Baines,R.A.
+EssentialElementsofRadicalPairMagnetosensitivityinDrosophila.Nature2023,615,111–116.[CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s)andcontributor(s)andnotofMDPIand/ortheeditor(s).MDPIand/ortheeditor(s)disclaimresponsibilityforanyinjuryto
+peopleorpropertyresultingfromanyideas,methods,instructionsorproductsreferredtointhecontent.

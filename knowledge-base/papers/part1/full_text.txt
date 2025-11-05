@@ -1,0 +1,71 @@
+
+
+--- Page 1 ---
+
+11
+Part One
+Basic Methods in Biophysical Chemistry
+In Part 1 of this book the more established modern techniques are presented
+that are nowadays very broadly applied in many labs throughout the world. It
+starts with a chapter that introduces the basic principles governing the interac-
+tions of electromagnetic radiation (“light”) with molecules and biomolecules.
+These interactions are the basis for many of the methods presented not only in
+Part1butalsoinsomechaptersofPart2.Importantexamplesaregeneralmeth-
+ods such as absorption spectroscopy and a plethora of advanced fluorescence
+techniques (Chapters 2 and 3) as well as very important techniques such
+as NMR studies of biomolecules (Chapter 5), but also methods such as super-
+resolution microscopy (Chapter 8), single-biomolecule detection (Chapter 9),
+nonlinear spectroscopy (Chapter 10) and next-generation DNA-sequencing
+methods(Chapter11).
+Theintroductorychapter(Chapter1)aimsatprovidingabriefandconcisebut
+still thorough review of the interaction of electromagnetic radiation with mole-
+cules for readers with a more chemical or physical background and serves as an
+introduction into these interactions for readers with a more biological back-
+ground. Readers who require a rather quick overview and who have at least
+some basic knowledge about orbitals of molecules might focus on Sections 1.1,
+1.3,1.5andthebeginningofSection1.6only.Thesepartsshouldsufficetohave
+enough background information to understand the subsequent chapters. For
+example,theywillalreadygiveanindepthideaabouttransitiondipolemoments
+and the polarization of light, which are central for quite a number of the meth-
+odspresentedinthisbook.
+In Chapters 2 and 3, absorption and fluorescence properties in the visible
+spectral range of important biomolecules and fluorescence markers are pre-
+sented as well as the application of the corresponding techniques to investigate
+biomolecules and biomolecular processes. Important examples are the determi-
+nation of biomolecule concentrations or purities as well as investigations of
+receptor–ligand equilibria, enzymatic conversions and activators and inhibitors.
+In Chapter 3 some very central concepts in modern biophysical chemistry are
+also discussed in more detail, such as labelling and linking techniques, Förster
+ModernBiophysicalChemistry:DetectionandAnalysisofBiomolecules,SecondEdition.PeterJomoWalla.
+2014Wiley-VCHVerlagGmbH&Co.KGaA.Published2014byWiley-VCHVerlagGmbH&Co.KGaA.
+
+--- Page 2 ---
+
+12 BasicMethodsinBiophysicalChemistry
+resonanceenergytransfer(FRET)andfluorescencepolarizationassays.Also,the
+mathematicalframeworkforthelattertwoisdiscussedinmoredetail,butread-
+ers who require a quick overview can also focus only on the description of the
+equations that are marked by boxes, which represent, in general, the central
+equationsthroughoutthisbook.
+Chapter 4 summarizes some very important optical methods that do not pri-
+marily rely on the absorption and emission of unpolarized or linearly polarized
+lightinthevisiblespectralrangebutratheronscatteringoflight,theuseofleft-
+and right-handed circular light or light in the infrared spectral region. These
+techniques are, in general, of great use to derive information about the size,
+shape and secondary structural elements of biomolecules without any labelling
+ofthesamples.
+Chapter 5 gives an overview of the application of nuclear magnetic resonance
+(NMR) techniques, which work with electromagnetic radiation inthe radiowave
+range.NMRallowsfortheanalysisofbiomolecularstructuresundermorephys-
+iological conditions than is possible with classical electron or X-ray microscop-
+ies. Chapter 5 also aims at providing an insight into the physical basics behind
+multidimensionalNMRthatareessentialforsuchstudiesandhowtheinforma-
+tion derived from such techniques can be used to derive a final 3D structure of
+proteins. Also, the use of electron paramagnetic resonance (EPR) for investigat-
+ingbiomoleculesisdescribedinthischapter.
+Chapter 6, finally, presents techniques that allow very accurate determination
+of one of the most central parameters for characterizing biomolecules, namely
+their molecular weight. In this chapter it is discussed how mass spectrometry
+can be applied to biomolecules without harming their structural integrity and
+what further very useful information can be derived using advanced mass spec-
+trometricmethods.

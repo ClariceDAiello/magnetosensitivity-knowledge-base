@@ -1,0 +1,54 @@
+{
+  "paper_id": "ijms-24-08218",
+  "doi": "10.3390/ijms24098218",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "JörgMatysik1",
+    "*",
+    "LucaGerhards2",
+    "TobiasTheiss3",
+    "LisaTimmermann3",
+    "PatrickKurle-Tucholski1",
+    "GuzelMusabirova1",
+    ""
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "Thisshortreviewreportsthesurprisingphenomenonofnuclearhyperpolarizationoccur-\nringinchemicalreactions,whichiscalledCIDNP(chemicallyinduceddynamicnuclearpolarization)\norphoto-CIDNPifthechemicalreactionislight-driven.Thephenomenonoccursinbothliquidand\nsolid-state,andelectrontransfersystems,oftencarryingflavinsaselectronacceptors,areinvolved.\nHere,weexplainthephysicalandchemicalpropertiesofflavins,theiroccurrenceinspin-correlated\nradicalpairs(SCRP)andthepossibleinvolvementofflavin-carryingSCRPsinanimalmagneto-\nreceptionatearth’smagneticfield.",
+  "date_added": "2025-11-05T07:57:46.748216",
+  "last_modified": "2025-11-05T07:57:46.748218",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "/Users/clarice/Desktop/Claude test/Literature/ijms-24-08218.pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

@@ -1,0 +1,611 @@
+
+
+--- Page 1 ---
+
+Chemical Physics 137 ( 1989) 5 l-65
+North-Holland, Amsterdam
+SPIN POLARIZATION AND MAGNETIC FIELD EFFECTS IN RADICAL PAIRS.
+SHORT-TIME PERTURBATIONAL TREATMENT TARING INTO ACCOUNT ISOTROPIC
+AND ANISOTROPIC MAGNETIC INTERACTIONS
+K. LUDERS
+Sektion Physik der Karl-Marx-Vniversitiil, 7010 Leipzig, GDR
+and
+KM. SALIKHOV
+Physical Technical Institute, 420029 Kazan, USSR
+Received 3 March 1989
+Effects of isotropic and anisotropic interactions on the recombination probability, net and multiplet CIDNP and CIDEP were
+calculated. The calculations were based on spin dynamic investigations by the perturbation theory at short times after the radical
+pair (RP) is formed. The anisotropic interaction contributions of the correlated and uncorrelated motions of the radicals of the
+RP to the quantities observed and their dependence on the time between the consecutive contacts were extracted. The contribu-
+tions of the anisotropic and isotropic interactions were compared. Quantitative estimates of these contributions to the magnitudes
+observed are demonstrated, e.g., for a change of polarization sign.
+1. Introduction
+Magnetic and spin effects, observed in “cage” reactions of radical pairs (RPs), result in chemically induced
+dynamic nuclear and electron polarizations (CIDNP, CIDEP), magnetic isotope effect, magnetic field depen-
+dence of reaction quantum yields, etc. [ 11. It is well known that these effects are caused by the dependence of
+the probability of transition to the reactive state, usually the singlet S state of the unpaired electron spins of the
+RP, on a nuclear spin configuration and an external magnetic field. In high magnetic fields the frequency of the
+singlet-triplet (S-T) transitions is determined by the difference of the Larmor precession frequencies of the
+two unpaired electron spins. For a subensemble with the nuclear spin configuration {I,,,, ZBkz}t his difference
+is given by
+AWTofIAiz, IBk,)=b’h- (A’* -gB)Bo + 1 gAadm-- T &aBklBkz , (1)
+( I >
+where g,, gB are the isotropic g factors of radicals A, B, respectively, and aAi, ank are the hfs-coupling constants
+of the ith and kth nuclei of radicals A and B, respectively. Most experimental results on magnetic and spin
+polarization effects in RP reactions can be explained by this frequency of S-T transitions, which is specific to
+each nuclear configuration [ 11.
+In general, the Zeeman and hf interactions of the unpaired electrons are’in fact anisotropic ones (g and a are
+tensors). These interactions are modulated by the random thermal motion of the radicals in the liquid phase
+and induce the transitions between different spin states and change phase coherences: the spin system relaxes.
+In low viscous solvents these processes are usually slow compared with the rate of the S-T transitions described
+0301-0104/89/$03.50 0 Elsevier Science Publishers B.V.
+( North-Holland Physics Publishing Division )
+
+--- Page 2 ---
+
+52 K. Liiders, KM. Salikhov /Spin polarization and magnetic field effects in radical pairs
+by eq. ( 1) and may be neglected. However, this situation is changed if long-lived RPs are considered (e.g.,
+radical reactions in high viscous liquids [ 2-41, ion-RP recombination [ 5-8 1, radical reactions in micelles [9 -
+13 ] ). Several authors investigated an effect of paramagnetic relaxation on “cage” reactions [ 11,14-l 8 1. The
+close connection between the efficiency of the relaxation mechanism of S-T mixing and the kinematics of con-
+secutive contacts of the radicals in the “cage” was shown in ref. [ 171. For short times between consecutive
+contacts the relaxation mechanism also appears to be effective. In previous theoretical treatments [ 11,14- 17 ]
+the influence of paramagnetic relaxation on the recombination probability was considered, where the relaxation
+was characterized by the phenomenological relaxation times T,, T,. A CIDNP effect caused by anisotropic mag-
+netic interactions was discussed in ref. [ 1g -1. Calculations for the case of the rapid radical reorientations in low
+viscous liquids were carried out. This allowed the Redfeld theory [ 19 ] to be used for relaxation term calculation.
+The contribution of the anisotropic interactions to the recombination can appear to be comparable with that of
+isotropic interactions on the assumption
+(g : a)= 15r,(uAg)/2r0. (2)
+Eq. ( 2 ) includes the inner product of the anisotropic parts of the g and a tensors, r2 is the time interval between
+the two consecutive contacts, rO is the rotational correlation time, Ag=g,-gn. If (g : a ) is greater than obtained
+from eq. (2) and sign (g : a ) # sign( aAg), the polarization sign is changed. Because of the approximations of
+the Redlield theory eq. (2) is true only for r2 >> 70. In the reactions in the restricted diffusion systems the time
+between two consecutive contacts and the rotation correlation time may be of the same order. Then the Redfield
+theory is of no use.
+In this paper we treat the spin dynamics of the RP with anisotropic interactions in more detail. Quantitative
+CIDNP calculations, carried out previously in ref. [ 181, do not allow physical parameters regulating the spin
+polarization to be obtained. Qualitative conclusions follow from the analysis of the RP spin motion affected by
+the anisotropic and isotropic magnetic interactions.
+The operator method is used to calculate the observable consequences of spin dynamics. It is based on the fact
+that to calculate the CIDNP, CIDEP and recombination probability one need not provide all the information
+contained in the spin density matrix. To interpret, e.g., CIDNP one needs the average value of a particular
+nuclear spin projection on the external magnetic field direction ( Zkz) (net polarization) or the correlation
+function of the two different spins ( Zk,Z,j )L (multiplet effect) in diamagnetic products of recombination. Thus
+it is reasonable to solve the equation of motion only for measurable values. In ref. [ 1 ] the operator formalism
+was used, where only isotropic magnetic interactions were regarded. In the present study the anisotropic inter-
+actions are taken into consideration.
+2. Spin-ordering operators
+Consider an ensemble of RPs with the spin Hamiltonian JY, described by the density matrix p(t). RPs in the
+S state only can recombine. Thus, the recombination probability p( t ) is determined by the population proba-
+bility in the S state. The latter quantity describes the RPs in the reactive spin state at a time t. The population of
+the S state is equal to the average of the projection operator Pon this state,
+p(t) = <P(t) > =Tr.dp(t)Pl , (3)
+where the trace over electron and nuclear variables is taken. P can be expressed by the total spin operator of the
+two unpaired electrons in the RP S=S,+.S,,
+P= 1 -s/2= (1/4-S*&) . (4)
+Suppose that radicals in the RP have only one re-encounter at time t and that all RPs in the S state recombine,
+then p( t ) equals the recombination probability. In reality a time distribution of the re-encounter probability,
+
+--- Page 3 ---
+
+K. Liiders. KM Salikhov/ Spin polarizationa nd magnetic field effectsi n radical pairs 53
+which is determined by the physical properties of the system, should be considered. Besides, not all RPs do
+recombine during one contact. Consecutive contacts are possible. These factors are essential for a quantitative
+analysis, especially of long-lived RPs, and they should not be neglected. In the present study we investigate an
+effect of anisotropic and isotropic interactions on the RP spin dynamics for short times with special emphasis
+on spin evolution tendencies which cause, e.g., the spin polarization sign, the latter being mainly determined by
+the spin dynamics.
+The Zeeman spin energy of a particular nucleus is assumed to be a measure of CIDNP. Therefore the net
+CIDNP can be described by the average magnitude of the operator [ 1 ]
+KI, = - gd$, Bo P&,P . (5)
+With eq. (4) we get the net polarization of the cage product calculating the mean value of the operator
+K,= -g,~BlrBoIka(l/4-SASB) . (6)
+To be precise, K,A is the value of the net polarization for the case of a (single!) encounter of the RPs at t and
+complete recombination of the S state RPs. Similarly we may regard the following spin operators. The triplet
+RPs do not recombine, but the radicals can react outside the “cage”. Polarization of these “escape” products,
+therefore, is defined by the expectation value of Ikz in the triplet state:
+K;, = -g,,~,6,,BoI,,(3/4+S,S,) . (7)
+The CIDNP multiplet effect in the “cage” product can be obtained from the average value of the spin-spin
+interaction in the S subensemble at the moment of recombination,
+KM =tj&.,I,,( 1/4-S&) . (8)
+In the “escape” products the multiplet effect reflects the mutual spin orientation in the T subensemble,
+K,, = fii&& (314 +S& ) . (9)
+Electron spin polarization is determined by the Zeeman electron energy. For the radical A, e.g., it can be written
+as
+&,, =gJBo&, . (10)
+The mean values of the spin operators were calculated by the equation
+K(t) = (K(t) > = (K(t)p(O) > , (11)
+where p (0 ) is the density matrix at the moment of the RP formation and K(t) is determined by the equation
+azuat= -ir?-‘[K, H] . (12)
+The average values of the spin operators are equal to 0 at the time t = 0 (any residual polarizations KsA and
+KsB due to the triplet mechanism [ 1 ] are not taken into account). If the S or To state is assumed to be a precur-
+sor, the unpaired electron spins are correlated in the beginning, i.e. the correlation functions
+PO= S,+S,_ +SA_sB+ (S, =S,?is,); P, =1/2+2&s, (13)
+are nonzero. The mean values of PO and P, are - 1 in the S state and + 1 in the To state. The RP spin states have
+the following evolution: the initial mutual orientation of the two unpaired electron spins is transformed into the
+orientation of electron and nuclear spins with respect to the magnetic field or the mutual spin orientation in S
+or T subensembles. Therefore, the mean value K(t), characterizing the spin order, deviates from zero. The
+equation of motion ( 12 ) involves the spin operators only. Diffusion and radical reactions (e.g., recombination
+and reactions with acceptors) are not considered. With this in mind the conclusions as to the recombination
+probability, CIDNP and CIDEP should not be considered as being absolute. Thus, e.g., the time dependence of
+
+--- Page 4 ---
+
+54 K. Liiders, KM. Salikhov /Spin polarization and magnetic field effects in radical pairs
+the S state population of the RPs born in the T state is calculated, rather than the recombination probability.
+Because the diffusion is independent of the particular spin state and the recombination is independent of the
+particular nuclear spin state, the calculations based on the spin dynamics allow different mechanisms of the S-
+T transitions to be investigated and qualitative rules for the effects under consideration to be established.
+3. Hamiltonian
+Anisotropies of the g tensor and hfs tensor were included in the model calculations. Thus, the Zeeman and hf
+interactions depend on the orientation of radicals of the particular RP with respect to the external magnetic
+field. The random rotational motion leads to a time dependence of these interactions. Thus, the RP Hamiltonian
+takes the form
+H(t) (14)
+=His +Hanis tt) .
+Considering the coupling with one nuclear spin in each radical, in the case of the strong magnetic field we obtain
+the operators
+(15)
+R=A.B
+ffanis(l)= R=CBBPSR6gR(r)Bo+g~R8aR(f)lR, (16)
+whereg,= ( gRw+gRy+gRz)/3, 6gR=gR( t) -gRE and similarly for aR( t) and 6aR( t). The calculations can be
+unified by using now spherical tensors instead of the Cartesian tensors 6a and 69. The necessary transformations
+are analogous to those in ref. [ 201 and the result is
+(- l)““F:(t)“AR_, . (17)
+R=A,B;jic=&d
+m= -2,...+2
+The functions F:, depend on the orientation of the radical under consideration in the laboratory frame XYZ
+and are transformed under rotation as second-order spherical functions. The g tensor principal axis system is
+chosen to be the molecular frame xyz. The g and a tensor principal axis systems are assumed to be identical.
+The orientation of a molecular frame with respect to the laboratory frame is described by the Euler angles c~,/ 3,
+y. The random particle motion gives rise to the angles (Y/, 3, y and therefore the F& are time dependent. The latter
+can be expressed by the Wigner rotation matrix via the components of the F tensor in the molecular frame,
+where
+o:,,(t)
+=~:,n(~R(t),~R(t), YR(t)) >
+dFo=-(3/2)1/2gjRia,, dF, cdF_, ~0, dF2=dF_2=-g~(6ax-6a,)/2, (19)
+gF,=-(3/2)“2/36gz, gF,=gF_,=O, 8Fz=gF_z=-B(6gx-6g_“)/2, (20)
+dAo=-(2/3)“2[Szlz-(S+I_+S_1+)/4], dA,=-(SzI++S+Iz)/2,
+dA _, =&I_ +S_I,)/2) dA2=-S+I+/2, dA_2=-S_I_/2, (21)
+gA,=-(2/3)“2SzB,,, gA,=-S+&/2, gA_,=S-B,,/2, gAz=gA_z=O. (22)
+For simplicity, the radical index R in eqs. ( 19)-( 22) is dropped. The quantities labeled by indices d and g
+describe anisotropic dipole-dipole interactions and Zeeman interactions, respectively.
+
+--- Page 5 ---
+
+K. Liiders, KM. Salikhov/ Spin polarizationa nd magneticf ield eflectsi n radicalp airs 55
+When there are several nuclei in the radicals, the Hamiltonian can be extended by analogous terms. Since the
+anisotropic part of the Hamiltonian contains time-dependent coordinates it is necessary to carry out averaging
+over all available values of coordinates along with spin state averaging. This coordinate averaging will now be
+marked by a dash over the operator.
+4. Solution of the equation of motion. Results and discussion
+To determine K(t) eq. ( 12) must be repeatedly used and integrated. The result can be expressed by the
+following series:
+K(t)=K(O)+ jdf.X.(t’)+ J(,z’ jdl.K”(r’,r”)+ 1,’ jd,. jdt..ZC”‘(r’,r.$“)+..., (23)
+0 0 0 0 0 0
+where
+K’(t’)=-in-‘[K(O),H(t’)], K”(t’,t”)=-~-2[[1Y(0),H(t”)],H(t’)],
+K”(t’, t”, f”‘)=ifi-3[ [ [K(O),H(t”‘)],H(t”)],H(t’)] .
+Below, the calculations will be terminated with the first term which gives a nonzero contribution to K(t). To
+obtain the interaction contributions of different orders in K(t) the method of repetitive differentiations of op-
+erators was used in ref. [ 11. However, that approach is correct only for the systems described by the time-
+independent Hamiltonian. The expansion in the form of (23) enables K(t) to be calculated for systems with
+time-dependent Hamiltonians.
+4.1. Recombination probability calculations
+In this section we analyse the effect of the anisotropic interactions on the RP recombination probability. We
+are doing this rather thoroughly to demonstrate the basic steps of our method, based on the spin ordering oper-
+ators. For the triplet precursor the recombination probability is determined by the probability pr_s (t) of RP
+transition to the S state (we assume that all S RPs recombine during the first contact at the time t). Thus, pr_s
+may be obtained using the projection operator Pinto the S RP state (see eqs. (3) and (4) ). The contributions
+of the isotropic and anisotropic interactions to the equation of motion can be calculated separately:
+aP,+s(t)iat= (aP,_s (24)
+(f)lW, + (apT+dt)latLnis,
+where
+(aP,_,(t)lat)iS=-i~-‘[P,Hi,]
+, (25)
+(aP,-,(t)lat),,i,=-i~-‘[p,H.nisl . (26)
+Using permutation relations for spin operators we obtain the isotropic interaction contributions from eqs. ( 15 ),
+(25L
+(27)
+(aP,-,lat)is=-i~-‘BQo(~~0+g*a,l*,-g,aBIB,)/2,
+where
+Qo =SA+SB_ -&_S,+ .
+Since only flAR -,nc ontains spin operators the contribution of anisotropic interactions from eqs. ( 18), (26)
+follows:
+
+--- Page 6 ---
+
+56 K. Liiders, KM. Salikhov /Spin polarization and magnetic field effects in radical pairs
+(aPT_s/iilt),,i,= -ifi --I R,c,. (-l)“C,pF,R“P~m, (28)
+,, .
+where
+pP:=[P,flAR ml *
+The explicit expression is
+gP:= -6-“2B0Qo , gPt= -B,Q, 12, gP!, = -BoQ_ 12, gP’= -gPA ,
+dp$=_6--I/Z dP:=6-“2(Q,,ZBz-Q+ZB_ /2+Q_Z,+ /2),
+(Q~~A,-Q+IA-/~+Q-IA+/~),
+dPAI
+=-~&IA+ /~-Q+IA~, “f?w&+ /4+Q+w2,
+dP!, = -QoZ,_ /4+Q_ Z,,/2.
+dP!, =&IA- /4-Q-&/2,
+dP$=-Q+Z~+/2, dP”_2=Q_Z~_/2, dPf=Q+Zs+/2, dPB_2=-Q_ZB_/2, (29)
+where
+Q+ Q-
+=sA,&,+ -sA+&,, =sA,&L -sA_&,*
+Spin operators in eqs. (27 ), (29 ) characterizing electron and nuclear spin correlations (Qo, Q+, Q_ and their
+combinations with I Rx, I R + , ZR _ ) have the average V&ES zero (eq. ( 11) ) . Therefore the next term in the series
+of eq. (23) must be calculated. As a first step we shall proceed to average over spatial coordinates (angles).
+Some terms resulting from K” commutators will become zero as a result of this averaging. The coordinates are
+contained in Hanisa nd Kini, as Wigner matrices D,, (a, /I, y). We have (see ref. [ 2 1 ] )
+2n ?I 2rr
+Di;‘(a,jl, y) da sinpdpdy=O, (30)
+I0IS 0 0
+therefore the linear terms in the D functions can be neglected.
+Thus,
+K”(t’, t”)= -ifi-‘{ [Kl,(t”) Jfi,(t’)] + [K:“iJ(t”) JYanis(t’)]} . (31)
+By eq. ( 18 ) the second term in eq. (3 1) can be expressed as
+Kai,( t’, t” ) = _fi-2 1 (__,)k+m Db(t”)Dt(t’)“F,RcFsrcK~~,_, , (32)
+nkhn
+JLCRS
+where
+~LcK~~=[~lK~,cA~]=[ [K(O), pA’A,R],‘A:]. (33)
+In averaging eq. (32) the degree of correlation of the orientations of the two RP radicals is important. If they
+are independent, then the averages of D R( t N) D ’ ( t’ ) for R # S factorize and the result is
+DR(t”)DS(t’) = D”(Y) DS(t’) =O. (34)
+In general, the situation is more complicated. Firstly, at the moment the RP is born the partners may have a
+definite mutual orientation, which is the same for the whole RP ensemble, so that
+DR(0)DS(O) # DR(0) OS(O). (35)
+Secondly, the rotational motion of the partners can also be mutually correlated. Of course, situations in which
+eq. (34) is true are also possible. E.g., when an ion-RP is formed an electron may be transferred to the molecule
+
+--- Page 7 ---
+
+K. Ltiders,K .M. Salikhov/ Spin polarizationa nd magnetic field effhs in radicalp airs 57
+(acceptor), arbitrarily oriented with respect to the donor of the electron. Let us consider as an example the
+following situation. Because of eq. (34) averaging over the orientations of the two RP radicals contributes only
+when R = S. Expressions Dnk( LX8, , v) D,,,,( o!, /I, y ) , averaged over all orientations, are (see ref. [ 2 1] )
+DnkDim = (- l)‘-m&,_,6,,_,/5 . (36)
+Suppose that the random process DR( t) = D ( (YR( t), BR( t ), yR (t) ) has the only correlation time and the
+rR
+equation
+D,R,(t” )Dt(t’ ) = D,kDl,,, exp[ (t” -t’)/$] (37)
+is true. From spherical tensor symmetry properties we have
+,=k=(-l)k,?k. (38)
+Fromeqs. (32), (36)-(38) follows:
+K&(t’,t”) =-~-2~~~~R~Fj:LF~(-l)k~~Rkexp[(t”-1’)/rR]/5, (39)
+and after a twofold integration is carried out (see eq. (23 ) ) we have
+(40)
+Kanis(t) = -fZ-* &fR(f) “Ff:‘Fr(-l)k %!k/5,
+where
+fR(t)=ri [exp(-t/ra)+t/rR-1] . (41)
+To obtain the contribution of the anisotropic interactions to K(t) eq. (40) should be averaged over the spin
+state populations at t = 0 (see eq. ( 11) ). The nuclear spin states are always assumed to be equally populated at
+t = 0. From this it follows that functions linear with respect to the nuclear spin operators I&, IR + , 1, _ give no
+contribution to the K(t). Therefore,
+(42)
+(~R,P(~))=(~R+P(~))=(~R-P(~))=“.
+In the abovedescribed particular case of determiningh,, for the isotropic part no averaging is necessary, so by
+eqs. (27), (31) wearriveat
+~-2~2[llg2Bf+g~a:I~,+g2sa2BIt,+2~B~(gAaAIAz -g8a&,) +2gAa~g~aJA,Ib l&/2 . (43)
+FdSis =
+By eq. (42) the last two terms, when averaged over nuclear spin states, give no contribution, and integration
+leads to
+P T+sis(t)=fi-‘B2{k2BZ+ C s~a%(k+l )/3}(P0)t2/4 - (44)
+R
+To obtain the contribution of the anisotropic interactions quantities “PF should be calculated. By eqs. (2 1))
+( 22 ) , ( 29 ) , ( 42 ) nonzero contributions occur only for ,Y= t. For Zeeman and hf interactions summation over
+spin operators leads to the expression
+7 (-l)k(~pF)=-B~(7<po)/12+(~Az~Bz))p
+F (-l)“(ddPp)=- ~~,(7<P~)Il2+(~,,~~~)) - (45)
+The sums X,, V,, ‘f; correspond to the inner products of the anisotropic parts of the Cartesian g and a tensors
+to within constant factors:
+
+--- Page 8 ---
+
+58 K. Liiders, KM. Salikhov /Spin polarization and magneticJield eflects in radical pairs
+CdF,dF;=g2j!?2(a: a)=g*j3*(af+a:+aI-3a2). (46)
+n
+After the averaging over the nuclear spin states is accomplished, by eqs. (40)) (46) we have
+P r-sanis(t)=fi-282CfR(t)[(g:g)RB~+g~(a: a)RIR(JR+1)/31(7(P0)/12+(SAzSBz))/S- (47)
+R
+We are now ready to average over the electron spin states at t = 0. (S,,&, ) has an average equal to - l/4 for
+S and T,, states and + l/4 for T, and T_ states. For a T precursor (pTo7,,= PT+~+ = P~_~_ = l/3) we find that
+P ~-sarns(t)=fi-~P*x fR(f)[(g: g)RBi+gi(a: a)RzR(zR+1)/31/18 (48)
+R
+and by eq. (44) the isotropic interaction contributes as
+PT__S,s(f)=A-2P2 Ag*B$+ 1 giaiZ,(Z,+1)/3 t*/12.
+R >
+The probability of finding T-born RPs at the time t in the S state can thus be expressed in virtue of eqs. (48 ),
+(49) by the sum Z’,,,,(t) + Pi,( t). It should be noted that in accord with (48), (49) the contributions of the two
+interactions to J+_~ are additive. Thus eqs. (48), (49) reflect the spin dynamic evolution resulting from the
+isotropic and anisotropic interactions.
+There are many papers dealing with spin dynamics during “cage” reactions [ 11. It is well known that in strong
+magnetic fields the probability of finding T-born RPs in the S state is pss ( t ) = sin* (At/2 ) /3. If we expand this
+expression in a power series and restrict ourselves to the first term, then it coincides with eq. (49 ). Previously
+spin dynamic investigations with anisotropic interactions were carried out only for t X- T,, for whichf( 1) z r,t
+[ 17,181. This applies to low viscous solvents. P T_S (t) was calculated for those systems where paramagnetic
+relaxation times T, R, TZR properly describe the effect of anisotropic interactions. For subensemble with the
+nuclear spin configuration {I,,,, IBkL}, eq. ( 17 ) of ref. [ 171 gives:
+P,,,(t)=1/4- [exp(-t/T’,)]/12-cos(Awt)[exp(-t/T$)]/6, (50)
+where l/T’, = 1 /T, A+ 1/ T, B, 1 /T; = 1 / T2A+ 1/ Tzs, Aw is the difference of Larmor frequencies wR of the two
+unpaired electron spins of the RP (eq. ( 1) ). Damped oscillations are predicted by eq. ( 50) (see ref. [ 17 1, fig.
+2). To compare the results of eqs. (48), (49) with eq. (50), the latter is expanded in a power series:
+PT~S(t)~(l/T;+2/T;)t/12+(A~2-1/2T;2-1/T;2)t2/12+.... (51)
+If we regard the case where relaxation is caused by g tensor anisotropy the paramagnetic relaxation rates are
+[221
+l/T,,=(g: g)R~-ZB2B~TR/5(1+02RT~),
+l/TZR=(g: g)“~-*/3*B~zR[4+3/(1+w~~;)]/30. (52)
+If we take wi ri -zz 1, i.e. the case of the weak magnetic fields and low viscous liquids, the insertion of eq. ( 52)
+into eq. (5 1) leads to a linear term in eq. ( 5 1 ), which coincides with the term in eq. (48), caused by the g
+tensor anisotropy. After being averaged over all the nuclear spin configurations the quantity AW2t2/ 12 in eq.
+( 5 1) (where Ao E AmST,, in eq. ( 1) ) coincides with PT_s,s( t) in eq. (49). If the last two items in eq. (5 1) are
+
+--- Page 9 ---
+
+K. Liiders, KM. Salikhov /Spin polarization and magnetic field effects in radical pairs 59
+neglected (in low viscous liquids usually AU> 1/ T, , 1/ ‘TZ) , the results obtained are in a good agreement with
+those given in ref. [ 17 1.
+When the case t x rR is considered (it followsfR-+t2/2), the spin dynamics cease to depend on the rotation
+correlation time. If S-T evolution is caused primarily by the Zeeman interaction, the recombination probability
+becomes
+Z’-r_s(t)=fi-Z/32B; c 3Ag2+ 1 (g : g)R ) t2/36. (53)
+\ R /
+Similar expressions can be obtained provided S-T evolution is determined only by the hfi mechanism:
+PT_s(~)=~-‘B’C~~R[~U~R+(~: a)R]ZR(ZR+l)t2/108. (54)
+R
+In the case t z%r-R the contributions of the isotropic and anisotropic interactions to the recombination probabil-
+ity appear to be equal if the following condition is fulfilled:
+; ($7:
+glRrR =3&+/2 (55)
+and, analogously, in the case of the hfi mechanism:
+F &(a : a)RzR(zR+l)rRz3 ~g~&zR(zR+l)t/2. (56)
+R
+The ratio of the anisotropic interaction effect to the isotropic one is, thus, dependent on the time prior to the
+contact of the partners. If this time is comparable with the rotational correlation time, the anisotropic interac-
+tion contributes to the recombinations probability even for short-lived RPs. These considerations refer to the
+case of approximately equal populations of all triplet sublevels. The To level population for long-lived RPs, in
+particular, with restricted diffusion and effective S-To mixing caused by the isotropic interactions is greatly
+reduced due to recombination. Therefore, the anisotropic interactions modulating T+-S and T_-S transitions
+appear to be more effective.
+The time-dependent ratio P7_s.JPT_si, is shown in fig. 1. Here the conditions PT_sani.= PT_%. (see eqs.
+(48), (49)) and r A= ra are supposed to be true in the quasistationary case (t < rR ). The curve trend reflects
+the rules expressed by eqs. (53)-( 56): for t< rR the ratio PT_San,S/PT_S,ri s found to be almost unchangeable,
+for t > rR it reduces proportional to t- ‘.
+4.2. Nuclear spin polarization
+4.2. I. Net effect
+The system of one magnetic nucleus in each radical is considered and the expectation value of the net polari-
+zation operator K,, for nucleus ZRi s calculated by eq. ( 6 ) . By eqs. ( 12 ) , ( 15 ) the contribution to CIDNP caused
+by the isotropic interactions in the second-order approximation is (see eq. (23) )
+ZLi,(t) = -?%fi-‘i%& (57)
+(POIRz(gAaAIAz-gBaBIBZ) >t2/2 ,
+where yIR is the gyromagnetic ratio of the nucleus of radical R. The Kaptein rule for net polarization, derived
+from eq. ( 57 ), takes the form
+(58)
+fGR~--&<pOMR,
+where A@&-&. By eq. (57) the pOhiZatiOn of, e.g., nUCkar spin Z, for a T precursor is
+K~*.i,(t)=-y,*y*AgB~a,Z*Z,(Z,+l)t2/18 > (59)
+
+--- Page 10 ---
+
+60 K. Liiders. KM. Salikhov /Spin polarization and magnetic field effects in radical pairs
+ok
+a3
+CL?
+al-
+0.05-
+cm Fig. 1. Dependence of the ratio of the effkiencies of anisotropic
+and isotropic magnetic interactions in the induction of T-S
+0.03
+transitions on the time prior to an encounter. For simplicity, the
+a1 02 05 1 2 5 10 20 50 ordinate scale is defined for the RPs for which PT -Sanis=PT+SI.
+at t/r,+O. The curve trend corresponds to the function 2 ri( - t/
+‘/rR
+f.R)+t/TR-1)]/f2.
+where yA is the gyromagnetic ratio of the unpaired electron of radical A. The contribution of the anisotropic
+interactions to CIDNP is essentially affected by the orientation correlation of the RP partners. This correlation
+may occur at the initial moment of RP formation. Rotational motion of the two RP radicals may also be mu-
+tually correlated. In addition the recombination process can be selective with respect to the mutual orientations
+of the two radicals. Thus, in general, particularly for short times, CIDNP should clearly reflect the presence of
+the correlation effects under discussion.
+In the very simple case of uncorrelated orientations we have
+K ,~,=“iS(t)=-2y,,y,(g: a)R~ffR(t)(z2R~(7~~/12+S*~S~~))/5. (60)
+From eq. (60) for a T precursor we get
+K:R.anis(t)-=Y IRYR(g: s)RBkk(WRUR+ 1 l/27. (61)
+The similar polarization for an S precursor may be easily obtained from eqs. ( 57 ) , ( 6 1) , because the following
+connection is valid:
+K;,(t)=-3KT,(t). (62)
+For the contribution of anisotropic interactions the location of the particular nucleus either in radical A or in
+radical B is indifferent to the sign of CIDNP (in the case of uncorrelated orientations). But it is of importance
+when isotropic interactions are considered. It is irrelevant to anisotropic interactions, for there are no Ag or
+similar quantities, resulting from the parameters of both radicals. The ratio of the contributions of anisotropic
+and isotropic interactions to the net polarization is given by
+K ,R.anls(t)lK,R.iS(t)=2(9: a)RfR(Q/34ref2 + (63)
+Sign changing conditions for net polarization affected by the anisotropic interactions can be obtained from eq.
+(63). For t> ~~ this is the case if the following equation is fulfilled:
+(g: a)Rz -3AgaRt/2r,. (64)
+
+--- Page 11 ---
+
+K. Liiders, K.M. Salikhov /Spin polarization and magnetic field effects in radical pairs 61
+An analogous expression was derived in ref. [ 18 ] (see eq. (2 ) ), where in the framework of the two-positional
+exponential model consecutive contacts of the partners were considered and the longitudinal relaxation was
+neglected. In addition, that expression was derived for the case of strong magnetic fields, when wi ri % 1. For
+the case of low magnetic fields and low viscous solvents (0; ri a 1) the following equation was obtained in-
+stead of eq. (2 ) by the method described in ref. [ 18 ] :
+(9: a)Rx - 3@pR r22/bR . (65)
+Because the nonsecular terms have been considered in the present calculations, eq. (64) should be compared
+with eq. (65 ). Anisotropies calculated from eq. (65 ) for which the Kaptein rule is not available are greater than
+those from eq. (64) (where t a ~~52).
+A comment must be made on the fact that the contribution to CIDNP is determined by the magnetic reso-
+nance parameters of the individual radicals (see eq. (6 1) ) in the case of uncorrelated radical orientation. Es-
+sentially this implies that the magnetic relaxation time depends on the nuclear spin projection, i.e. on the hf
+constant component of the ESR spectrum. This phenomenon is well known in ESR spectroscopy (see, e.g. ref.
+[ 221). This mechanism of CIDNP origination differs greatly from the conventional mechanism according to
+which CIDNP is the result of simultaneous actions of the isotropic hfi and the difirence of the isotropic g
+factors.
+If there is a correlation of the mutual orientations of the partners, the anisotropic interactions result in a
+CIDNP effect very similar to the isotropic hti and Ag mechanisms. In the presence of the orientation correlation
+of the RP partners the means of D R( t” ) Ds (t’ ) are nonzero for R # S. We use eq. (32) and determine contri-
+butions into the CIDNP of those terms which are connected with the radical orientation correlations. For a T
+precursor we get
+Kz.aniscorr(t)= +hYR(gR : aS)B~fRS(t)lR(zR+1)/27, (66)
+where
+&S(t)= jdt’ jdt”xRs(t”-t’). (67)
+0 0
+The correlation function XRsi s defined in a way similar to eq. (37) by
+Dl(t” )%,,(t ) = DbDs,, XRS(t”-t’) . (68)
+The summary contribution of the anisotropic interactions to CIDNP can be expressed as
+K&anis(t)=- [Y,RYRZR(~R+~)B~/~~I(~~~:A~(~)) y (69)
+where
+A~(t)=8gRfR(t)-89%(t) * (70)
+This form of the anisotropic interaction contribution to CIDNP resembles the isotropic interaction contribution
+(cf. eq. (59) ). The result obtained is connected with the RP spin dynamics (S-T transitions) reflecting the
+instantaneous values of the hfi and g tensors of the two radicals of the RP.
+4.2.2. Multiplet effect
+To calculate the multiplet polarization the case when the two nuclei are located in different RP radicals is
+considered first. From eqs. ( 8 ) , ( 15 ) , ( 23 ) the expectation value of the operator of the spin-spin interaction in
+S subensemble at the moment of recombination is obtained
+(71)
+Kl*bs.is(t) = -~j,,y,y,a,a~ZA(ZA+1)Z~(I~+1)(~o)t2/18,
+
+--- Page 12 ---
+
+62 K. Liiders, KM. Salikhov /Spin polarization and magneticJield effects in radical pairs
+from which the Kaptein rule is derived,
+ZLIS(t) cc -jABaAae (PO > . (72)
+Anisotropic interactions do not contribute to the multiplet polarization, if the two nuclei are located in different
+radicals of the RP with uncorrelated mutual orientations. This can be easily demonstrated by the following
+consideration: Commutators pKR in eq. (33) imply the combinations of the products of the spin operators ZR,
+S,, SB with Ian (R’ #R). Analogously, ‘AAsi mplies the combinations of the spin operators ZR, &. Since ZR>
+commutes with ZR,S R, the values peKR are also products of the spin operator combinations ZR,S ,, S, with Za;.
+Thus, the average of the operator jaKR becomes zero (eq. (42) ).
+At the same time the multiplet effect may occur due to the mutual radical orientation correlation. The calcu-
+lation gives
+K ,4B,anis(t)=-2jtiABYAYB(aA: ~~)~A(IA+~)IB(ZB+~)(~P~/~~+SA%SB~)~AB(~)/~~. (73)
+From this we get for a T precursor
+KTIA 8.an,s(t)=-Jj*B~A~B(~A: aB)ZA(zA+l)ZB(Zs+llfAe(t)/81. (74)
+Next we deal with the system in which both nuclei I,, I1 are located in the radical A. If the interaction between
+the two nuclear spins during the RP lifetime is ignored and the principal axis systems of the two hti tensors are
+identical, the Hamiltonian can be written as
+H,,=Pg,S*,(B,+a,Z,.+a,Z,,)+Pg,B,S,,, (75)
+Ha”,,(t)= C (-l)“‘DE,z’F~ “A!,,, (76)
+R,{LflLlI
+where p= g, d, , dz for R = A and p = g for R = B. The average of the operator of the spin-spin interaction of the
+RP in the S state K,,, has to be calculated
+ZL =Jtj12ZlLZ2J l/4-&&) . (77)
+Including isotropic interactions, the result is
+K,,,.i,(t)=~j,zY:u,uzZ,(Zl +l)Zz(Zz+l)<P~)t~Ilg , (78)
+where in comparison with the rule of eq. (72) the sign is changed. The anisotropic interactions contribute as
+K ,,z.,,i,(t)=2~j,2r:(a, : az)ZI(ZI+1)Z2(Z~+1)(7Po112+SAZSBZ)fA(t)/45. (79)
+For a T precursor eq. (79) yields
+KII ,l.anls(t) =fiLy:(a, : a2Vl (1, + 1 Mb + 1 lf,(O/81 . (80)
+The analogous values for an S precursor can be obtained by eq. (62). For t xs- rA anisotropic effects are compa-
+rable with isotropic ones if the relation
+(a, : a2)=3u,u2t/27, (81)
+is true. If sign ( a, : a, ) # sign ( a, a2 ) the multiplet polarization sign is changed.
+4.3. Exchange interaction effects
+In the above calculations the exchange interaction between the two RP radicals has not been considered. It is
+known that the phase correlations of RP states are badly affected by the exchange interaction at the moment the
+partners approach [ 11. Between the two consecutive contacts this interaction is weak, as well as its effect on the
+S and T state populations. We will show this. The exchange interaction operator is
+
+--- Page 13 ---
+
+K. Liiders, KM. Salikhov/ Spin polarizationa nd magnetic field effectsi n radicalp airs 63
+V, ,=-~(r*,)(1/2+2S,S,) * (82)
+V,, commutes with all operators the expectation values of which have been calculated above (P, &, K,,, K,,, ).
+Thus, the exchange interaction does not contribute to K;, in the first-order approximation. All the KI, operators
+considered above imply the multiplication by Qo and those combinations of nuclear spin operators with which
+V,, commutes. Thus, the contribution of V,, in the second-order approximation is defined by the commutator
+[Qo, Vex]:
+K&i,--ifi-‘[KI,, Vex]cc[Qo,S,&]=-a. (83)
+The expectation value of Qo is zero. The exchange interaction contributes only in the third-order approximation
+to the measurable quantities mentioned above ( (Kg ) # 0). Unlike CIDNP the exchange interaction should
+not be neglected in the CIDEP calculations based on the RP mechanism. It is known [ 1 ] that only the consid-
+eration of the exchange interaction leads to the correct explanation of CIDEP in high magnetic fields.
+4.4. Electron spin polarization
+4.4.1. Net effe
+The RP with a few coupling nuclei in each radical is considered. With the exchange interaction the Hamilto-
+nian takes the form
+(84)
+The anisotropic part of H is similar to that in eq. (76). First the average of the Zeeman electron spin energy
+(see eq. ( 10) ) of the radical R for the particular nuclear spin configuration {Zkz}i s calculated. In the second-
+order approximation we have
+K.yR,ist() {Zk,}= T YRBBO&[ Bo + c gAaAkzAkZ- J, geasJBnzl (PO> (85)
+k_(A)
+0 0
+where the upper sign is attributed to the case of R=A and the lower to R=B. ESR line polarization is obtained
+after taking the trace over the nuclear spin states of the partner. For the radical A, e.g., we get
+jdtj ’
+J(t") dt” . (86)
+K,.~,(~){ZA~~}=-YA~BO(~BO+ k&jgAaA~zAk,)(pO)
+0 0
+After the summation of the polarizations of all ESR lines the net polarization results in
+K.~*,i,(t)=-rABBi~(Po) j dt’ 1 J(t”) dt” . (87)
+0 0
+From eq. (87 ) the sign rule for net polarization can be derived:
+KsA.is(t)a-&CPo)J. (88)
+The contributions of the anisotropic interactions occur only in the fourth order. The terms having nonzero
+expectation values at t= 0 have the form
+I’
+J&.anir (t)a Y!Zy Rj13BiAg(g : g)R(Po) j dt I J(Y) dt”) dt”/5fi2, (89)
+0 0
+
+--- Page 14 ---
+
+64 K. Liiders, KM. Salikhov /Spin polarization and magneticjield eflects in radicalp airs
+where the upper sign is attributed to R=A and the lower to R=B. In this equation only anisotropy of the g
+tensor has been considered.
+4.4.2. Multiplet efect
+The multiplet effect is defined by the hfi energy. The corresponding operator for radical R is
+ZL, = YIP C aRt&,JakL . (90)
+k
+Together with the Hamiltonian of eq. (84) we obtain, in the second-order approximation,
+ny~Ca2RliZ,,(Z,,+1)(P,) jdt’]J(t”)dt”/3. (91)
+K.WR.is( t, = - k
+0 0
+From eq. (9 1) we get the sign rule
+KttR.isC JC- J(Po > . (92)
+The anisotropic interaction contributions occur in the fourth order. If g tensor anisotropy is considered the
+terms having nonzero expectation values at t = 0 are
+I I’
+K Mfc.anis(t)=Y2R82BB(g: a&.ZRk(ZRk+l)(PO) jdt’~J(t”)dt”/l5fi. (93)
+0 0
+In the derivation of eqs. (85 )-( 93 ) the exchange interaction was assumed to be a quantity fluctuating with
+time. Yet there is a complex dependence on the distance and the mutual orientations of the two radicals.
+Obviously, the isotropic interactions are of most importance for CIDEP origination. They give the most ef-
+fective contribution to the polarization during the RP lifetime. For free radicals the importance of relaxation
+processes increases. In ref. [ 23 ] cross relaxation processes were described, in which the polarization of electron
+spins or its change of sign is caused by a nuclear polarization transfer.
+References
+[ 1 ] K.M. Salikhov, Yu.N. Molin, R.Z. Sagdeev and A.L. Buchachenko, Spin Polarization and Magnetic Effects in Radical Reactions
+( Akademiai Kiado, Budapest/Elsevier Amsterdam, 1984).
+[2] L. Sterna and A. Pines, Annual Report of Materials and Molecular Research Division of Lawrence Berkeley Laboratory, University
+ofcalifornia, USA, LBL-7355, HC-13, TID-4500-R66 (1977).
+[3] L. Sterna, D. Ronis, S. Wolfe and A. Pines, J. Chem. Phys. 73 ( 1980) 5493.
+[4] L.A. Margulis, I.V. Khudyakov and V.A. Kuzmin, Chem. Phys. Letters 119 ( 1985) 244.
+[S] F.P. Sargent, B. Brocklehurst, R.S. Dixon, E.M. Gordy, V.J. Lopata and A. Singh, J. Phys. Chem. 80 ( 1977) 815.
+[6] K. Schulten, H. Staerk, A. Weller, H.-J. Werner and B. Nickel, Z. Physik. Chem. NF 101 (1976) 371.
+[7] M.E. Michel-Beyerle, R. Haberkom, W. Bube, E. Steffens, H. Schriider, H.J. Neusser, E.W. Schlag and H. Seidlitz, Chem. Phys. 17
+(1976) 139.
+[ 81 Yu.N. Molin, O.A. Anisimov, V.M. Grigoryants, V.K. Molchanov and K.M. SAlikhov, J. Phys. Chem. 84 ( 1980) 1853.
+[P] N.J. Turro and B. Kraeutler, J. Am. Chem. Sot. 100 (1978) 7432.
+[IO] V.F. Tarasov, A.D. Pershin and A.L. Buchachenkov, Izv. Akad. Nauk SSSR Ser. Khim. ( 1980) 1927.
+[ 111H . Hayashi and S. Nagakura, Bull. Chem. Sot. Japan 57 ( 1984) 322.
+[ 121 K. Ltlders and K.M. Salikhov, Chem. Phys. 98 (1985) 259.
+[ 13 ] T. Ulrich, U. Steiner and W. Schlenker, Tetrahedron 42 ( 1986) 613 1.
+[ 141 T. Ulrich and U. Steiner, Chem. Phys. Letters 112( 1984) 365.
+[ 151 S.I. Kubarev, E.A. Pshenicnov and A.S. Shustov, Teor. Exp. Khim. 15 ( 1979) 16.
+[ 161 R.G. Mints and A.A. Pukhov, Chem. Phys. 87 ( 1984) 467.
+
+--- Page 15 ---
+
+K. Liiders. K.M. Salikhov/ Spin polarizationa nd magneticfield e/fectsi n radicalp airs 65
+[ 171 K. Liiders and K.M. Salikhov, Chem. Phys. 117 ( 1987) I 13.
+[ 181 K. Lilders and K.M. Salikhov, Chem. Phys. 128 (1988) 395.
+[ 191 A.G. Redfield, Advances in Magnetic Resonance, Vol. 1, ed. J.S. Waugh (Academic Press, New York, 1965) p. 1.
+[20] J.H. Freed and G.K. Frenkel, J. Chem. Phys. 39 ( 1963) 326.
+[ 2 1] D.A. Varshalovic, A.N. Moskalev and V.K. Chersonskij, Kvantovaya Teorija Uglovovo Momenta (Nauka, Leningrad, 1975).
+[22] A. Carrington and A.D. McLachlan, Introduction to Magnetic Resonance (Harper and Row, London, 1967).
+[23] V.I. Valyayev, Yu.N. Molin, R.Z. Sagdeev, P.J. Hore, K.A. McLauchlan and N.J. Simpson, Mol. Phys. 63 (1988) 891.

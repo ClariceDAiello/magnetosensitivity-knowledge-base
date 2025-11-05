@@ -1,0 +1,269 @@
+
+
+--- Page 1 ---
+
+Tejaswini Uppuluri
+PALB9109
+Seed science and technology
+1
+
+--- Page 2 ---
+
+Oxidation is any chemical reaction that involves the moving of electrons. Specifically, it
+means the substance that gives away electrons is oxidized
+Free radical: an atom or Any molecule that has lost an electron and is left with an
+Types of free radicles
+unpaired electron.
+Highly reactive, Very short half-life, Generate new radicals by chain reaction, Cause
+damage to biomolecules, cells and tissues.
+They can be produced either through autoxidation or enzymatically by lipoxygenase which
+is present in many seeds.
+Antioxidant:
+Antioxidants are the substances that are present in plants or in seeds at lower
+concentration compared to that of oxidizable substrates, significantly delays or prevent
+oxidation of substrates.
+An antioxidant is a molecule capable of inhibiting the oxidation of other
+molecules. Oxidation is a chemical reaction that transfers electrons or hydrogen from a
+substance to an oxidizing agent. Oxidation reactions can produce free radicals. In turn, these
+radicals can start chain reactions.
+2
+
+--- Page 3 ---
+
+Reactive Oxygen Species(ROS)
+The formed chemical upon species incomplete reduction of molecular oxygen
+Reduction Accumulation of ROS leads to cell disturbances injury in and seed development
+or germination processes
+3
+
+--- Page 4 ---
+
+4
+
+--- Page 5 ---
+
+ Lipid peroxidation is a free-radical chain process leading to the deterioration of
+polyunsaturated fatty acids, because they contain multiple double bonds in between
+which lie methylene bridges (-CH2-) that possess especially reactive hydrogen atoms.
+ Most frequently cited cause of seed deterioration
+ Free radicals cause profound membrane damage and loss of membrane integrity.
+Generation of free radicals enzymatically or by autoxidation
+ Singlet oxygen (O )
+2
+ Superoxide anion (O -)
+2
+ Hydrogen peroxide (H O )
+2 2
+ Hydroxl radicals (OH-)
+ Free radicals are suspected of attacking chromosomal DNA.
+ Potential targets are purine and pyrimidine bases.
+ Modifications in the strand lead to increased propensity to genetic mutations.
+ Occurs in all seeds, but more in oil seeds.
+5
+
+--- Page 6 ---
+
+Below 6% Between 6-14% Above 14%
+Lipid Peroxidation is Lipid Peroxidation
+Auto Oxidation is primary
+minimum Because stimulated by the activity
+cause of seed deterioration
+sufficient water is of hydrolytic oxidative
+available act as a buffer enzymes such generated
+against autoxidatively free radical attack as
+lipoxygenase
+6
+
+--- Page 7 ---
+
+Auto Oxidation by free radical reaction.
+Autoxidation may be primary cause of seed deterioration at
+moisture content below 6%.
+Above 14 % moisture content, lipid
+peroxidation may again be stimulated by the activity of hydrolytic
+oxidative enzymes such as lipoxygenase
+7
+
+--- Page 8 ---
+
+Lipid peroxidation initiates a chain of events that leads to loss of membrane integrity,
+Definition:
+changes protein structure and chromosomal DNA modifications
+Lipid peroxidation is the oxidative degradation of lipids. It is the process in which free
+radicals "steal" electrons from the lipids in cell membranes, resulting in cell damage. This
+process proceeds by a free radical chain reaction mechanism. As with any radical reaction,
+the reaction consists of three major steps:
+initiation, propagation, and termination. The chemical products of this oxidation are
+known as lipid peroxides or lipid oxidation products (LOPs)..
+The end products of lipid peroxidation are reactive aldehydes, such as malondialdehyde
+(MDA) and 4- hydroxynonenal (HNE), the second one being known also as "second
+1. Initiation is the step in which a fatty acid radical is produced. The most notable initiators
+messenger of free radicals" and major bioactive marker of lipid peroxidation, due to its
+in living cells are reactive oxygen species (ROS), such as OH· and HOO·, which combines
+numerous biological activities resembling activities of reactive oxygen species.
+with a hydrogen atom to make water and a fatty acid radical.
+2. Propagation: The fatty acid radical is not a very stable molecule, so it reacts readily with
+molecular oxygen, thereby creating a peroxyl-fatty acid radical. This radical is also an
+unstable species that reacts with another free fatty acid, producing a different fatty acid
+3. Termination : When a radical reacts with a non-radical, it always produces another radical,
+radical and a lipid peroxide, or a cyclic peroxide if it had reacted with itself. This cycle
+which is why the process is called a "chain reaction mechanism". The radical reaction stops
+continues, as the new fatty acid radical reacts in the same way.
+when two radicals react and produce a nonradical species. This happens only when the
+concentration of radical species is high enough for there to be a high probability of collision
+of two radicals. Living organisms have different molecules that speed up termination by
+neutralizing free radicals and, therefore, protecting the cell membrane. One important
+antioxidant is vitamin E. Another important antioxidant is vitamin C. Other anti-oxidants
+made within the body include the enzymes superoxide dismutase, catalase, and peroxidase.
+8
+
+--- Page 9 ---
+
+9
+
+--- Page 10 ---
+
+Lipoxygenases (LOXs)
+ Non-heme iron containing dioxygenases. Widely distributed in plants and
+animals.
+ Catalyze polyunsaturated fatty acid to yield unsaturated fatty acid hydro-
+peroxides.
+ Initiates the synthesis of a group of acyclic or cyclic compounds called
+oxylipins-products of fatty acid oxidation with diverse functions in the plant
+cells.
+(Helena Porta and Mario Rocha-Sosa, 2002)
+10
+
+--- Page 11 ---
+
+LOX activity in membranes can be reduced by
+ Reducing the quantity of polyunsaturated fatty acids in seeds through breeding
+ Short time heat treatments (Peanut- 79 0C/ 90s; 600C/ 10min)
+Inhibitors of LOX [U28938 (300μg/mg protein), Nordihydroguaiaretic acid (500 μM),
+4-Nitrocatechol (600 μM) and Eicosa-5,8,11,14-tetraynoic acid (200 μM)]
+ Temperature of storage
+Substrate concentration and pH.
+Damage of mitochondrial membrane due to lipid peroxidation leads
+ To reduces respiration capacity.
+ Reduced ATP production leading to reduced energy availability for the breakdown of
+food reserves.
+ Reduce the supply of ATP to the growing points during germination.
+11
+
+--- Page 12 ---
+
+ Lipid peroxidation occurs with α-tocopherol deficiency.
+ Containing high concentrations of polyunsaturated fatty acids and transition metals.
+ Biological membranes of cells and organelles are constantly being subjected to
+various types of damage.
+12
+
+--- Page 13 ---
+
+Signalling Mechanism in seeds
+13
+
+--- Page 14 ---
+
+Effect of lipid peroxidation and related parameters on the storability of soybean
+(Glycine max) seeds
+ Thirteen soybean [Glycine max (L.) Merill] genotypes (grouped as six “good
+storers” and seven “poor storers”) were selected .
+ To understand the relationship between lipid peroxidation, antioxidant activity and
+seed storability.
+ Good storers possessed significantly high activity (p<0.05) of LOX-1 and lower
+activity of LOX-2 as compared to poor storers.
+ Significant increase (p<0.05) in HPL activity was observed in all poor storer
+genotypes and correlated with higher accumulation of lipid peroxides, total MDA and
+carbonyl content.
+ LOX-1, LOX-2 and HPL enzymes as potential indicators to determine the
+storability of soybean seeds and also can be used as the parameters.
+Vaibhav Kumar et al., 2015
+14
+
+--- Page 15 ---
+
+VMVaoarridaiuatlitaoiotnino i nnin ih nlyi ptdhoreoo pxleeyvrgoeexln ioadfse elliyp(aLisdOe pX(eH)r oPisxLoi)d veaiscz t.ii,nv L igtOioeoXsd -b 1ae,nt wLd OepeXono- gr2 o,s otLodOr eaXrns-d3a p fatoecort ir1v s2itt oimerseo rbnsethatwfst eeoref n
+DPPH radical scavenging activity and antioxidant capacity of soybean
+1sgt2oo rmoadgo ena.nt hds poofo srt osrtoagreer.s after 12 months of storage.
+genotypes.
+15
+
+--- Page 16 ---
+
+How to measure lipid peroxidation?
+1. Direct detection of free radicals
+Electron spin resonance(ESR)
+2. Detection of primary and secondary products of free radical damage
+Estimation of Hydroperoxides, Conjugated dienes, Malondialdehyde,
+Hexaldehyde etc……
+3. Loss of substrates
+There is preferrential deletion of PUFA(Linoleic and Linolenic acids)
+4. Monitoring changes in antioxidant levels
+Tocopherols, Ascorbate, Glutathione
+5. Effect of antioxidant treatments.
+
+--- Page 17 ---
+
+1. Spectrophotometric
+Component Method
+4-hydroxynonel HPLC
+Isoprostanes HPLC, ELISA
+Exhaled gases GC
+Lipid DNA adducts Fluroscence
+Devasagyam et al. 2003
+17
+
+--- Page 18 ---
+
+2-ThioBarbituric Acid Reactive Substances (TBARS) are naturally present in biological
+specimens and include lipid hydroperoxides and aldehydes which increase in concentration
+as a response to oxidative stress. TBARS assay values are usually reported in
+malonaldehyde (malondialdehyde, MDA) equivalents, a compound that results from the
+decomposition of polyunsaturated fatty acid lipid peroxides. The TBARS assay is a well-
+recognized, established method for quantifying these lipid peroxides, although it has been
+criticized for its reactivity towards other compounds other than MDA. This kit offers the
+researcher a straightforward, reproducible and consistent method for analyzing urine for
+lipid peroxidation products.
+Principle:
+This assay is based on the reaction of a chromogenic reagent, 2-thiobarbituric
+acid, with MDA at 25°C. One molecule of MDA reacts with 2 molecules of 2-
+thiobarbituric acid via a Knoevenagel-type condensation to yield a chromophore with
+PINK COLOUR
+absorbance maximum at 532 nm
+18
+
+--- Page 19 ---
+
+Iodometric method
+Iodometric method for lipid hydroperoxides determination is one of the oldest
+methods and is still used to determine lipid peroxide number. The method can be applied
+to extracts of biological samples without present the oxidizing agents. The possible
+interfering factors are especially the presence of oxygen, hydrogen peroxide and protein
+peroxides, which are able to oxidize iodide.
+Principle of this method is based on the ability of lipid hydroperoxides to oxidize iodide
+(I-) to iodine (I2), which further reacts with unreacted iodide (I-) to triiodide anion (I3-)
+and can be determined spectrophotometrically at 290 or 360 nm
+Modification of the iodometric method using commercially available reagent used for the
+determination of lipid (hydro)peroxides spectrophotometrically at 365 nm
+19
+
+--- Page 20 ---
+
+Ferrous oxidation in xylenol orange
+Lipid hydroperoxides (LHPO) were determined spectrophotometrically based on their
+reaction with an excess of Fe2+at low pH in the presence of the dye xylenol orange.
+Triphenylphosphine‐mediated hydroxide formation was used to authenticate the signal
+generated by the hydroperoxides.
+20
+
+--- Page 21 ---
+
+ Lipid modification
+ Regulation of oxygen pressure
+ Antioxidant treatments
+ Hydration/dehydration treatments
+
+--- Page 22 ---
+
+22

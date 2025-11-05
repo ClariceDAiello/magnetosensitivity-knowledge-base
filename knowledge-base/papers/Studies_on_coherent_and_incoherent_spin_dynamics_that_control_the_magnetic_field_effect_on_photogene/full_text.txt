@@ -1,0 +1,869 @@
+
+
+--- Page 1 ---
+
+Molecular Physics
+An International Journal at the Interface Between Chemistry and
+Physics
+ISSN: 0026-8976 (Print) 1362-3028 (Online) Journal homepage: www.tandfonline.com/journals/tmph20
+Studies on coherent and incoherent spin
+dynamics that control the magnetic field effect on
+photogenerated radical pairs
+Tomoaki Miura
+To cite this article: Tomoaki Miura (2020) Studies on coherent and incoherent spin dynamics
+that control the magnetic field effect on photogenerated radical pairs, Molecular Physics,
+118:6, e1643510, DOI: 10.1080/00268976.2019.1643510
+To link to this article: https://doi.org/10.1080/00268976.2019.1643510
+View supplementary material
+Published online: 24 Jul 2019.
+Submit your article to this journal
+Article views: 1891
+View related articles
+View Crossmark data
+Citing articles: 7 View citing articles
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=tmph20
+
+--- Page 2 ---
+
+MOLECULARPHYSICS
+2020,VOL.118,NO.6,e1643510(11pages)
+https://doi.org/10.1080/00268976.2019.1643510
+RESEARCHARTICLE
+Studiesoncoherentandincoherentspindynamicsthatcontrolthemagnetic
+fieldeffectonphotogeneratedradicalpairs
+TomoakiMiura
+DepartmentofScience,NiigataUniversity,Niigata,Japan
+ABSTRACT ARTICLEHISTORY
+Since1970s,magneticfieldeffects(MFEs)onphotogeneratedradicalpairshavebeenthecentre Received10April2019
+offocusinthefieldofspinchemistry.TheMFEattributestoquantummechanicalinterconversion Accepted24June2019
+between the singlet and triplet radical pair states and subsequent spin-selective recombination
+KEYWORDS
+reactions.InthisNewViewarticle,theauthorpicksuptwohottopicsstudiedduringthelasttwo
+Magneticfieldeffect;radical
+decades,whichare(i)so-calledlowfieldeffect(LFE)and(ii)2J-resonanceMFEonfixeddistance
+pair;lowfieldeffect;
+donor–acceptorlinkedmolecules.Inbothofthetopics,quantummechanicalexplanationsaregiven donor-bridge-acceptor
+referringtorecentreports,andsomenovelcalculationshavebeencarriedoutforbridgingtheoreti- molecules
+calandexperimentaldataforlong-livedradicalpairs.Forthefirsttopic,timedomaincalculationsof
+coherentstatemixinghavebeencarriedoutforelucidationofhyperfine(HF)structuredependence
+oftheLFE.Forthesecondtopic,MonteCarlosimulationsofthetorsionalmotionofpolyaromatic
+linkerunithavebeencarriedoutforthedemonstrationoffastdecoherenceinsuchrigidmolecules.
+From these considerations, future possibilities of MFE studies on photo-functional materials and
+biomoleculeshavebeenindicated.
+Introduction
+Experimental studies on MFEs on photogenerated
+Magnetic field effects (MFEs) on chemical reactions
+radicalpairswereextensivelyconductedin1970−1990s
+involvingorganicparamagneticmoleculeshadfirstbeen for short-lived radical pairs in homogeneous solu-
+discovered in 1970s, and significant developments were tions [3–5], long-lived radical pairs in micelles [6–11],
+made on both the experimental and theoretical studies polymethylene-linked biradicals [5,12–15] and photo-
+in1980sasdescribedinthelegendaryreviewbySteiner syntheticreactioncentres[16,17].Afteraround2000,the
+et al. [1]. Radical pairs are one of the most important scope of MFE studies on radical pair chemistry/physics
+paramagnetic intermediatesseeninnumbersofphoto-, wasextendedtocovalentlylinkedrigiddonor–acceptor
+thermal-andradiation-inducedchemicalreactions.The molecules[18,19],novelphotoreceptorproteins[20,21],
+MFEduetotheradicalpairmechanism(RPM)attributes non-linked radical pairs in novel media such as vesi-
+tosinglet(S)–triplet(T)quantummechanicalmixingand cles [22,23] and ionic liquids [24], and electron–hole
+following spin-selective recombination reactions in the pairsinorganicsemiconductors[25–27].Effectsofhigh
+non-equilibriumsituation[1,2]. magnetic fields above a few Tesla [25,28] or sensitive
+CONTACT TomoakiMiura t-miura@chem.sc.niigata-u.ac.jp
+Thisarticlewasoriginallypublishedwitherrors,whichhavenowbeencorrectedintheonlineversion.PleaseseeCorrection
+(https://doi.org/10.1080/00268976.2024.2307242)
+Supplementaldataforthisarticlecanbeaccessedhttps://doi.org/10.1080/00268976.2019.1643510.
+©2019InformaUKLimited,tradingasTaylor&FrancisGroup
+
+--- Page 3 ---
+
+2 T.MIURA
+measurements of effects of very low fields of a few tens this article, energies are represented in angular fre-
+ofmicrotesla[29]werealsostudiedinthisperiodwith quency unit. Rotational modulations of the g tensor
+developmentsofexperimentaltechniquesasabackdrop. and the HF tensor are so fast in solutions that the
+In the course of these studies, novel detection methods anisotropies do not directly affect the MFE in solu-
+suchascavity-basedtransientabsorption[30],nanosec- tions, but such rotational modulations induce inco-
+ond magnetic field switching [31–34] and microspec- herent spin relaxations for individual radicals, which
+troscopy [35,36] have been applied to the MFE studies potentially affect the MFE known as the relaxation
+on radical pairs. Theoretical/computational studies also mechanism[44].TheZeemaninteraction(thefirstterm
+developedinthiserathankstothedevelopmentofhigh- in Equation 1) induces field-dependent energy splitting
+speccomputers[37–41]. of
+InthisNewViewarticle,theauthorpicksuptwohot
+(g +g )μ B
+topics regarding the MFE on radical pairs studied dur- |(cid:2)ω S−T±1 |= 1 2 B (cid:2) 0 =γB 0 =ω 0 (2)
+2
+ingthelasttwodecades,whichare(i)apeculiareffectof
+very low magnetic fields (so-called low field effect, LFE between the S−T
+0
+mixed states and the T±1 states. In
+[42])and(ii)2J-resonanceMFEonrigiddonor–acceptor this article, gyromagnetic ratio γ is defined either for a
+linkedmolecules[43].Thetwophenomenarespectively radical pair (see Equation (2)) or a radical (=gμB / - h),
+0
+derivefromquantummechanicalcoherencesofspinand whichareusedtoconvertcouplingsinangularfrequency
+electronicwavefunctions.However,discrepancybetween unitbetweenthoseinmagneticfieldunit.Notethatthis
+theoreticalandexperimentalstudiesexistsespeciallyfor splitting is very small as ∼1cm −1/T compared to the
+long-lived radical pairs, so that, in this article, partic- thermalenergyatroomtemperature(k T ∼ 200cm −1).
+B
+ular emphasis has been put on theoretical understand- Theexchangeinteraction(thefourthterminEquation1)
+ingof‘realistic’chemical/physicalphenomenaofradical givestheSTenergysplittingas
+pairs.Beforethemaintwotopics,abasictheoryforspin
+dynamicssimulationsisgiven.Inthemaintopics,some ω −ω =2J. (3)
+S T
+new theoretical results will be presented for explain-
+ingpreviouslyreportedexperimentalresults.Thearticle The energy diagram in the absence of HF couplings is
+endswithconclusionandafutureperspective. showninFigure1.S−T 0 mixingduetothedifferencein
+gvalues((cid:2)gmixing)canbeignoredinthelowmagnetic
+fields below ∼1T. Thus the S−T mixing is governed
+TheoryofMFEonradicalpairs–Liouville
+solelybytheHFinteractions(thesecondandthirdterms
+equation
+in Equation 1), which occurs conserving the total spin
+angularmomentumF = S+I.
+In this section, the explanation of a simple Liouville
+Theeffectoffield-dependentS−Tmixingonthereac-
+equation will be given for simulations of MFEs due to
+tion yield/rate is realised by the spin-selective chemical
+RPM.Hereweconsiderasituationwherethespin–orbit
+reactions. For long-lived radical pairs (τ > a), effects
+coupling (SOC) of the radical pair is so small that the
+of the spin-selective reactions and spin relaxation on
+radical pair exhibits distinct spin states. This situation
+is realised when the two radicals do not contain heavy
+atomsandareseparatedsomuchthattheorbitaloverlap
+ofthetworadicalsisnegligiblysmall.
+In the case of radical pairs in solutions, anisotropic
+termsinthespinHamiltonianvanishasaresultofrota-
+tionalaveraging,andtheisotropictermsremainas
+H ˆ = (cid:2) g i μ B B 0 S ˆ + (cid:2) a Sˆ •Iˆ + (cid:2) a Sˆ •Iˆ
+(cid:2) Zi n 1 n m 2 m
+i=1,2 n m
+(cid:3) (cid:4)
+−2J 1 +Sˆ •Sˆ , (1)
+1 2
+2
+where g, μ and B are the g values, Bohr mag-
+i B 0
+netron and magnetic field strength, respectively, a n and Figure1.Magneticfielddependenceofdiagonalenergiesforthe
+a are hyperfine (HF) coupling constants, and 2J is shownradicalpairstatesinthefrequencyunit.HFinteractionsare
+m
+the exchange coupling between the two electrons. In nottakenintoaccount.2J/2π = 200MHz.
+
+--- Page 4 ---
+
+MOLECULARPHYSICS 3
+the spin dynamics should be calculated by theLiouville The time evolution of the spin state is calculated by
+equationofadensitymatrixρˆas numericallysolvingEquation(4).Theradicalpairpopu-
+lationtrρˆ(t)orthepopulationsofrecombination/escape
+dρˆ =(−iH ˆ ˆ × +W ˆ ˆ +(cid:8) ˆ ˆ)ρˆ (4) productscanbecalculatedasfunctionsoftimeandmag-
+dt netic field for the simulation of magnetically affected
+whereH ˆ ˆ× ,W ˆ ˆ and(cid:8) ˆ ˆ denotethecommutatorofthespin reactionyield(MARY).
+Hamiltonian, the super operator for chemical reactions
+AdvancementinresearchesontheLFE
+and the relaxation operator, respectively. In the frame-
+work of the exponential model, recombination reac- Inthissection,thepeculiarMFEatlowmagneticfields,
+tionsfromthesingletandtripletmanifoldsaredescribed so-called LFE, will be treated. Here we consider radical
+respectivelybyHaberkornoperatorsas pairswithanegligibleexchangeinteraction(2J (cid:6) a).
+W ˆ ˆ =− k recS(P ˆ ⊗E ˆ +E ˆ ⊗P ˆ ),
+recS 2 S S ConventionalHFmechanismversusLFE
+W ˆ ˆ =− k recT(P ˆ ⊗E ˆ +E ˆ ⊗P ˆ ), (5) MFE due to so-called HF mechanism is frequently
+recT T T
+2 observedinlowmagneticfields(<1T),whichhasbeen
+explained as follows. The Zeeman splitting among the
+where k and k are the recombination rate con-
+recS recT
+triplet sublevels (see Equation 2) results in less efficient
+stantsfromthesingletandtripletmanifolds,respectively
+[45,46]. Here E
+ˆ
+denotes the identity operator. Dissocia-
+HF-inducedS−T±1 mixingathigherfields,whichresults
+in saturation of the mixing efficiency at ω (cid:7)a. Thus
+tion of the radical pair to free radicals or escape from 0
+the application of a magnetic field to a singlet/triplet-
+chemicalcagessuchasmicellescansimplybesimulated
+bornradicalpairthatrecombinesfromthesingletmani-
+bytheescapeoperatoras
+fold results in monotonical acceleration/deceleration of
+W ˆ ˆ =−k E ˆ ˆ , (6) recombination reaction. The half width at half max-
+esc esc
+imum (B 1/2 ) of the MARY spectra agrees with an
+effective HF constant (a ) calculated by the Weller’s
+whichdumpsallthematrixelementswiththenon-spin- eff
+equationas
+dependentescape(dissociation)rateconstantofk .The
+esc
+dumped radical pair population can be stored on the a 2+a 2
+computermemoryasthefreeradicalpopulation. a =2· eff1 eff2 , (9)
+eff a +a
+In the framework of the exponential model, the eff1 eff2
+mutualdiffusionmotionoftheradicals,whichmodulates where
+(cid:5)
+the inter-electron exchange and magnetic dipolar inter- (cid:2)
+actions, cannot directly be taken into account. Such an a (i=1,2)= a 2I (I +1), (10)
+effi n n n
+effectcanbetreatedasthespin‘dephasing’terms,which n
+willbeexplainedindetaillaterinthisarticle.Thedephas-
+whereI isthenuclearspinofnthnuclear[47].
+ing terms as well as the conventional relaxations of the n
+However,simulationsbasedonthesimplestLiouville
+individual radicals are involved in the relaxation super
+operator(cid:8) ˆ ˆ . equationdonotreproducesuchaneffectinmanycases.
+Figure 2(a) shows the simulated field-dependent kinet-
+Theinitialdensitymatrixρˆ(0)forsinglet-andtriplet-
+icsforalong-livedsinglet-bornradicalpairwithasingle
+bornradicalpairsarerespectivelydescribedas
+proton(a/2π = 100MHz)thatrecombinesfromthesin-
+(cid:2)Z gletmanifoldwitharateconstantofk recS = 4×107s −1
+1
+ρˆ(0) = |Sχ(n)(cid:4)(cid:5)Sχ(n)| (7) and escapes from a chemical cage with a rate constant
+singlet-born Z n=1 ofk esc = 1×106s −1.Here,allthespinrelaxationswere
+ignored,andthelifetimeoftheescapedfreeradicalwas
+and
+assumed to be infinite. The recombination dynamics at
+(cid:2)Z (cid:2) |T χ(n)(cid:4)(cid:5)T χ(n)| 0.4 mT (ω 0 /2π = 11MHz) exhibits slower decay than
+ρˆ(0) = Ms Ms , thatat0mT.Thistrendisoppositetothatexpectedfrom
+triplet-born
+n=1Ms=−1,0,+1 3Z the conventional HF mechanism. The blue solid line in
+(8) Figure2(b)showsthemagneticfielddependenceofthe
+whereχ(n)denotesnuclearspinstates(αorβ,Z = 2for observed decay rate k obtained by monoexponential
+obs
+thesingleprotonmodel). fittingofthesimulatedkinetics.k steeplydropsfrom0
+obs
+
+--- Page 5 ---
+
+4 T.MIURA
+−1/2zero-fieldeigenstatesenergeticallydegenerateas
+(cid:6) ⎫
+|2(cid:4)= √1 2 (|T 0 α(cid:4)+|Sα(cid:4)) ω =a/4 ⎪ ⎪ ⎬
+|3(cid:4)= 1
+2
+(|T
+0
+α(cid:4)−|Sα(cid:4))+ √1
+2
+|T+1 β
+(cid:7)
+(cid:4)
+⎪ ⎪
+|4(cid:4)= 1
+2
+(|T
+0
+α(cid:4)−|Sα(cid:4))− √1
+2
+|T+1 β(cid:4) ω =−3a/4 ⎭
+F =+1
+2 (cid:7) ⎫
+|5(cid:4)= 1
+2
+(|T
+0
+β(cid:4)+|Sβ(cid:4))− √1
+2
+|T−1 α(cid:4)
+(cid:6)
+ω =−3a/4 ⎪ ⎪
+⎬
+|6(cid:4)= 1
+2
+(|T
+0
+β(cid:4)+|Sβ(cid:4))+ √1
+2
+|T−1 α(cid:4)
+ω =a/4 ⎪ ⎪ ⎭
+|7(cid:4)= √1 (|T β(cid:4)−|Sβ(cid:4))
+0
+2
+F =−1
+2
+(11)
+where α or β denotes the nuclear spin state. Note that
+|1(cid:4)=|T+1 α(cid:4)and|8(cid:4)=|T−1 β(cid:4)donotcontributetothe
+statemixingatanymagneticfields.Theapplicationofa
+magnetic field smaller than a shifts the energy levels of
+eigenstateshavingaT+1 orT−1 character,whichresults
+inbreakdownofthezero-fielddegeneracies(for|2(cid:4)−|3(cid:4)
+and |6(cid:4)−|7(cid:4) states in the single proton model). This
+causesunlockingofcoherentoscillationsoftheS−Tmix-
+ingthataredisabledatzeromagneticfield.Thisfeatureis
+understoodbytimeevolutionofaspinstatepopulations
+forasinglet-bornradicalpairdescribedbyeigenstatesof
+theHamiltonianatafinitefield(|n(cid:4)and|m(cid:4))
+Figure2.Simulations for a singlet born radical pair with (cid:2)
+a k s = ing 1 le ×1 p 0 r 6 o s t − on 1 2J (a = /2π 0. = Th 1 e 00 su M m Hz) o . f p k o re p cS ul = atio 4 n × s 1 f 0 o 7 r s t − h 1 e , Pψ (t)= Z 1 (cid:5)n|P ˆ S |m(cid:4)(cid:5)m|P ˆ ψ |n(cid:4)eiω m−nt(ψ
+esc
+m,n
+radical pair and the free radical is presented. (a) Kinetic traces
+calculated at shown magnetic fields without dephasing terms. =S,T ,T ,T ) (12)
++1 0 -1
+(b)Magneticfielddependenceofk obtainedwith(reddashed
+obs
+line)andwithout(bluesolidline)dephasingterms. whereω m−n = ω m −ω n ,andω m andω n denoteeigenen-
+ergies for |m(cid:4) and |n(cid:4). Lewiset al. [52] point out on
+the basis of this formalism that breakdown of the zero-
+fielddegeneracycausesenhancementofonlyS−T mix-
+0
+to0.4mT,thenrisesathigherfields,andsaturatesathigh ing, and S−T±1 mixing is unaffected by the unlocked
+magneticfields. degeneracies.
+The opposite MFE at very low magnetic fields of It had been empirically known that LFE tends to be
+ω < a, although it had been theoretically known for larger for radical pairs with large HF constants for only
+0
+several decades [48], recently drew attention as ‘LFE’ oneradicalandsmall(orno)HFconstantsfortheother
+in the context of biophysics. The anisotropic LFE has one[53].Thisrule-of-thumbwasexperimentallydemon-
+beenregardedasthemostpossiblemechanismbywhich strated by Rodgers et al. [39,54] for the pyrene (Py) −
+a migrating bird detect the orientation of small earth’s dimethyl aniline (DMA) singlet-born short-lived (less
+magneticfields(afewtensofmicrotesla)[49–51]. thanafewnanosecond)radicalionpairinpolarsolvents
+byfullydeuteratingoneorbothoftheradicals.Therela-
+tiveLFEamplitude(LFE/high-fieldMFE)correlateswell
+•+ •−
+with the ratio a (DMA )/a (Py ). They also point
+QuantummechanicalinterpretationofLFE eff eff
+out from the theoretical calculation that radical pairs
+Basic concepts of the LFE are overviewed in the review with any HF structure should show a significant LFE if
+articlebyTimmeletal.[42].Atzeromagneticfield,only theirlifetimeislongerenoughthanthemixingtimescale.
+HF interactions are active, and some of the zero-field Theirconclusionindicatesthatthe‘risetime’oftheLFE
+eigenstatesdegenerate.Inthecaseofaradicalpairwith is shorter for radical pairs with more unbalanced HF
+asingleproton,forexample,someoftheF = +1/2and structure.
+
+--- Page 6 ---
+
+MOLECULARPHYSICS 5
+In this article, the author proves this hypothesis for
+radical pairs with two proton spins I and I , each of
+1 2
+which is coupling with the electron spins S and S by
+1 2
+thecouplingconstantsa anda ,respectively(fordetails,
+1 2
+see the supplementary file 1). It has been reported by
+Lewisetal.[52]thatbreakdownofthezero-fielddegen-
+eracy occurs for four pairs among the 16 eigenstates. If
+we assume that the total coupling a = a +a is con-
+1 2
+stant (a > a > 0) and r = a /a , the mixing angular
+1 2 2 1
+frequencies for the four pairs of the eigenstates can be
+calculatedbyEquation(12)as
+(cid:12) (cid:5)
+a 1
+ω
+2−4
+=ω
+12−14
+=
+2
+− R2+
+(1+r)2
+(cid:5) (cid:13)
+r2 1−r
++ R2+ + ≥0
+(1+r)2 1+r
+(cid:12)(cid:5)
+a 1
+−ω
+6−7
+=ω
+7−11
+=
+2
+R2+
+(1+r)2
+(cid:5) (cid:13)
+r2
++ R2+ −1 ≥0, (13)
+(1+r)2
+whereR = ω /a.Itisclearthatallthemixingangularfre-
+0
+quencies linearly increase with a at very low magnetic
+fields of ω ≤ a (R ∼ 0). More importantly, differen-
+0
+tial calculations indicate that these angular frequencies
+Figure3.Purequantummechanicalsimulationsforaradicalpair
+monotonicallydecreasewithincreasingr from0to1at
+with two protons, each of which is coupling with one electron
+anyR,whichconfirmsthattheappearancetimeforLFE by HF couplings a /2π = 90MHz, a /2π = 10MHz (red) and
+1 2
+is longer for more balanced HF couplings for the two a /2π = 60MHz,a /2π = 40MHz(blue).(a)Fielddependence
+1 2
+radicals. oftime-averagedsingletyield(cid:13) .(b)Kinetictracesforthesub-
+S
+Numerical calculations have also been carried out tractedsingletyield(cid:2)(cid:13) S = (cid:13) S (B 0 )−(cid:13) S (0)atshownmagnetic
+for a singlet-born radical pairs with a /2π = 60MHz, fields.
+1
+a /2π = 40MHz(r = 0.67)anda /2π = 90MHz,a /2π
+= 2 10MHz(r = 0.11).P (t)values 1 werecalculatedw 2 ith- atB 0 = 0.6mT(∼peakfieldforLFE)risesmuchfaster
+S fortheunbalancedHFstructure(r = 0.11)thanthatfor
+outanychemicalreactionsorspinrelaxations,andtheir
+time-averagedyields(cid:13) (t)wereevaluatedas thebalancedHFstructure(r = 0.67).Ontheotherhand,
+S (cid:2)(cid:13) risesquicklyforthetwoHFstructuresatahighfield
+(cid:14) S
+(cid:13) S (t)= 1 t P S (t (cid:11))dt (cid:11) . (14) o th f e 19 ri m se T t . i F m ro e m of th L e F s E ec is al s c l u o l w at e i r on th s a , n iti h s i d g e h m -fi o e n ld str M at F e E dt a h n a d t
+t
+0
+particularly slower for similar HF couplings in the two
+The (cid:13) (t) value monitors the ‘steady-state’ population radicals.
+S
+at each time, which is convenient for long-lived radical
+pairswheremegahertz-orderoscillationsarelessimpor-
+LFEonlong-livedradicalpairs–theoriesand
+tant.ForboththeHFstructures,theamplitudesofLFE
+experiments
+and high-field MFE are not very different at a very late
+time of 2μs as shown in Figure3(a). However, one can Maeda et al. [29] studied a covalently linked donor
+see a clear difference between the time dependences of (carotenoid, C)–chromophore (porphyrin, P)–acceptor
+(cid:13) S (t)forthetwoHFstructuresasshowninFigure3(b). (C 60 fullerene, F) triad in a low temperature solution
+Thesubtracted(cid:13) (t)signalisexpressedas (113−250K) as a model system of the birds’ mag-
+S
+netoreceptor. Photoexcitation of P gives a long-lived
+(cid:2)(cid:13) (t,B )=(cid:13) (t,B )−(cid:13) (t,0mT) (15) (∼190ns) radical ion pair of C •+ (a /γ > 3mT) and
+S 0 S 0 S eff
+
+--- Page 7 ---
+
+6 T.MIURA
+F •− (a /γ ∼ 0mT), of which the transient population glet–tripletandtriplet–tripletstates(STandTTdephas-
+eff
+responds to a ultra-small magnetic field of 39μT. Fur- ings)as
+thermore, anisotropic MFEs are demonstrated for the (cid:2)
+ˆ
+first time, which are due to the anisotropic HF interac-
+(cid:8)ˆ
+dephasing
+=−k
+STD
+tionsinC •+ . Ms=−1,0,+1
+In this context, magnetic response of cryptochrome, ×{|ST (cid:4)(cid:5)ST |+|T S(cid:4)(cid:5)T S|}
+Ms Ms Ms Ms
+which is the most possible candidate for the magneto- (cid:2)
+sensing protein in the birds’ eyes, is focus of attention −k {|T T (cid:4)(cid:5)T T |
+TTD 0 Ms 0 Ms
+[49]. Maeda et al. [55] reported MFE on the photo- Ms=−1,+1
+generated radical pair in Arabidopsis thaliana (plant) +|T T (cid:4)(cid:5)T T |} (16)
+Ms 0 Ms 0
+cryptochrome.Photoexcitationoftheflavinadeninedin-
+ucleotide (FAD) cofactor gives rise to electron trans- where k STD and k TTD are the rate constants for ST and
+fer from the tryptophan (Trp) triad in the protein and TTdephasing,respectively[61,62].
+generation of the long-lived (a few microseconds) rad- It is considered that the ST and TT dephasing pro-
+ical ion pair of FAD •− (a /γ = 1.4mT) and Trp •+ cessesareinducedbydiffusionalfluctuationofexchange
+eff
+(a /γ = 1.94mT). The MARY spectra exhibit a large and dipolar interactions, respectively [61,62]. We have
+eff
+MFE over 20% at above 20mT and a not very large but been extensively studying effects of these dephasing
+clearLFEofafew%at ∼ 1mT. processes in low magnetic fields on the spin dynam-
+Numbers of previously reported radical pairs in ics of long-lived radical pairs in micelles or simi-
+micelles or similar amphiphilic cages exhibit very long lar supercages. Experimental studies using nanosecond
+radical pair lifetimes of 100ns–a few microseconds magneticfieldswitching[31–33]andsimulationsinclud-
+and large high-field MFEs (sometimes over 100%) ingdirectMonteCarlosimulationsofthediffusivefluc-
+[6,22,56–58],butthenumberofreportsontheclearLFE tuationoftheexchange/dipolarinteractions[37,38]have
+is still small [31,59]. The research group including the revealed that the fast dephasing of 108−109s −1 due to
+authorofthisarticle[31]reportedUV-photocleavageof in-cage diffusion occurs in low magnetic fields compa-
+diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide rable to HF couplings. Such a timescale is comparable
+(TMDPO)inanSDSmicelle,whichgivesaradicalpair to or shorter than the rise time for the LFE but longer
+of the phosphorous centred diphenylphosphonyl radi- than that for high-field MFE, which is the most likely
+cal (a /γ = 38.5mT) and the trimethyl benzoyl radi- the reason why the LFE is rarely observed for micellar
+eff
+cal(a /γ ∼ 0mT).Thereactionyieldofthegenerated radical pairs. The series of studies indicates that inter-
+eff
+long-lived(∼120ns)radicalpairexhibitsaclearLFEof play of the fast dephasings and HF interactions results
+6%atpeakmagneticfieldof20mTandtime-dependent in incoherent S−T±1 mixing of a few tens of nanosec-
+MFEsof20%(80ns)−60%(200ns)at500mT.Itiscon- ond, which is a cause of broadening of MARY spectra
+sideredthattheLFEinthissystemisobservedatnot-so- at magnetic fields comparable to or slightly larger than
+small magnetic fields because of the large phosphorous a eff /γ [32,33,37].Thesefeaturesareclearlydemonstrated
+HFcoupling. in Figure 2(b) with the red trace where the calculation
+Consideringthe100MHzorderHFcouplingsforreg- was carried out with dephasing terms of k STD = k TTD
+ular organic radicals, the rise time for LFE, which is (=k dep ) = 1×108s −1;theLFEisquenched,andhigh-
+HF-structure dependent, should be on the order of a fieldMFEisbroadenedbythefastdephasing.
+few hundreds of nanoseconds or shorter as has been Thus it is important for observation of large LFEs to
+demonstratedinFigure3.Ontheotherhand,lifetimesof accelerate the rise time of the LFE or to slowdown the
+mostmicellarradicalpairsareonthesameorderasthis dephasing. The dephasing rate for the CPF triad in the
+‘maximumlimit’,sothatthoselifetimesseemtobelong lowtemperaturesolution[29]seemstobesmallbecause
+enoughforobservationofLFEs.Thisparadoxhasnotfre- the diffusive reencounter of the radicals is entirely sup-
+quentlybeenmentionedinpreviousstudiesbutindicates pressedbytherigidmolecularunitsconnectingthechro-
+severeeffectofspinrelaxations.InthereportonTMDPO mophores.Intheplantcryptochrome[55],itisexpected
+in the SDS micelle [31], we tried a simulation based on that the reencounter of the FAD and Trp radicals is
+theLiouvilleequation,buttheLFEisoverestimatedeven also suppressed by the rigid polypeptide framework.
+if the microsecond-order conventional spin relaxations However, the LFE is not very large, and simulation of
+(deriving from anisotropic HF interactions) [60] were the MARY spectra requires ST dephasing of ∼107s −1.
+taken into account. It turned out that the LFE is dra- The authors attribute this dephasing to hole hopping
+matically quenched by fast spin dephasing processes of amongthethreeTrpresidues,whichwouldmodulatethe
+108−109s −1,whichdampscoherencesbetweenthesin- exchangecouplingbetweenthetworadicals.
+
+--- Page 8 ---
+
+MOLECULARPHYSICS 7
+2J-resonanceMFEandelectrontransfer couplingas
+mechanisms (cid:15)
+Inthissection,radicalpairswithacertainamplitudeof 2J = (cid:2) 1 (cid:2)|(cid:5)ψ E RP |V − R 1 P E −l | − 1ψ λ l (cid:4)|2
+RP l
+the exchange interaction will be treated. So-called 2J- l (cid:16)
+r
+[1
+es
+]
+o
+.
+nance mechanism is typical of such radical pairs
+−
+(cid:2)|(cid:5)ψ
+E RP
+|V
+− RP 3 − E m
+|3
+−
+ψ
+λ m
+(cid:4)|2
+, (19)
+RP m
+m
+BasictheoryofMFEdueto2J-resonance
+where indicated matrix elements of V RP−l and V RP−m
+couple the radical pair state (ψ ) to singlet (1ψ ) and
+RP l
+As shown in Figure 1, S state becomes energetically triplet (3ψ ) electronic states, E , 1E and 3E are
+m RP l m
+degeneratedwithT−1 orT+1 statefornegativeorpositive energies of these states, respectively, and λ denotes the
+2J,respectively,atthemagneticfieldpoint reorganisationenergyforthechargerecombinationreac-
+tion[74,75].Validityofthistheoryhasbeenensuredby
+ω 0 =2|J|. (17) discovery of the positive 2J by time-resolved EPR spec-
+troscopy [74,76,77] and observations of long-range 2J
+At this magnetic field, the efficiency of HF-induced couplingstatedinthenextparagraph,bothofwhichcan-
+mixing is maximised (irrespective of the sign of 2J), not be explained by the conventional Heitler−London
+whichresultsinpeakbehaviourofMARYspectra.When model[78].
+2|J|(cid:7)|a|, the spin dynamics of a single proton radical Weiss et al. [68] reported distance dependence of
+pairinthevicinityoftheresonancepointapproximates the 2J coupling for phenothiazine (PTZ) donor –
+to a simple two-state model (Sβ–T−1 α or Sα–T+1 β para-(n)phenylene – perylene diimide (PDI) acceptor
+states for negative or positive 2J, respectively). The cal- molecules (PTZ−Ph −PDI). In the case of PTZ−PDA
+n
+culatedsingletyield(cid:13) S (∞)asafunctionofω 0 exhibits linked molecules in toluene, charge separation occurs
+Lorentzian line shape with full width of half maximum from the excited singlet state to give the singlet radical
+(fwhm)of pair,andrecombinationoccursbothfromthetripletand
+√
+singletmanifoldsoftheradicalpair,sothat2J-resonance
+fwhm= 2a (18)
+MARY spectra are observedbothfor thelifetime of the
+radicalpairandtheyieldofthelocalexcitedtripletstate
+(see[63]forafulldescription).ThesignoftheMFE
+(3PDI*). They demonstrated that the 2J coupling expo-
+due to 2J-resonance is opposite to that for the conven-
+nentiallydecreaseswithr as
+tionalMFEduetotheHFmechanism,sothattheMARY DA
+spectra with phase inversion in the low magnetic field 2J =2J exp(−β r ) (20)
+0 J DA
+region, which are similar to those for the LFE, are fre-
+quentlyobserved.If2Jiscomparabletoa eff ,itisdifficult with a decay factor β J = 0.37Å −1. This value is signif-
+to experimentally differentiate the 2J-resonance MFE icantly smaller than those obtained from the simula-
+fromtheLFE. tionofMFEsonpolymethylene-linkedradicalionpairs
+(β ∼ 2Å −1), where the two ions are coupled by the
+J
+short-rangedirectorbitaloverlap[79].ThustheMFEon
+2J-resonanceMFEonfixeddistancerigid
+suchsystemscanbeapowerfulprobeforthelong-range
+donor-bridge-acceptormolecules
+electroniccoupling.
+In the context of artificial photosynthesis, donor− Itisnoteworthyinmanyfixeddistancedonor−bridge
+acceptor molecules that are covalently linked by rigid −acceptor systems with large 2J ((cid:7)a ) that the
+eff
+molecular ‘bridges’ such as para-phenylenes have been linewidthsofMARYspectraaremuchlargerthanthose
+synthesised in the last few decades [64–67]. In some theoretically expected from the HF interaction (see
+ofthesesystems,clear2J-resonanceMFEsareobserved Equation (18)) [68,69,72,73]. In a recent report by Fay
+[18,19,43,63,68–70]. Since such molecules have discrete etal.,thebroadMARYspectraforthePTZ−Ph −PDI
+n
+centre-to-centre donor−acceptor distances (r ), dis- molecules are simulated with extremely large k val-
+DA recT
+tance dependence of the electron transfer rate and the ues(k = 2.8×1010s −1(cid:7)k = 4.7×107s −1forn
+recT recS
+exchangecouplingcanbestudiedbychangingtherepeat- = 2). However, the broad linewidths are observed for
+ing number of the bridge units [63,68,69,71–73]. Of linked molecules where k is smaller than k , so
+recT recS
+much interest is that long-distance (>1nm) exchange that the lifetime broadening by very fast triplet recom-
+couplings mediated by aromatic bridge units are char- binationcannotbeastandardsolutionforthisproblem.
+acterised by the through-bond coherent electronic A recent report by Steiner et al. [70] points out that
+
+--- Page 9 ---
+
+8 T.MIURA
+broadMARYspectraforafixeddistancedonor–acceptor forlthsingletandmthtriplettunnellingchannels.(cid:2)E
+DB
+moleculewithamicrosecondorderlifetimecanbesim- denotesthechargeinjectionenergyfromtheDsitetothe
+ulated introducing relaxation times rigorously derived B site for the charge recombination reaction. 2J corre-
+0
+from anisotropic HF interactions. However, the broad spondstoavirtualmaximumcouplingforthetotallyflat
+linewidths seem to be ubiquitous to such fixed dis- conformation.Thetimeevolutionofthetorsionaltwist-
+tancedonor–acceptormoleculesirrespectiveoftheirlife- ing angle for a small time-step (cid:2)t is evaluated by the
+times (a few tens of nanosecond to a few microsecond) motionequationas
+[63,68,69,73],whichimpliescontributionofmuchfaster
+relaxation. (cid:2)θ =− D rot ∂U tor (θ) (cid:2)t+(cid:2)θ , (24)
+The author of this article has extensively studied the k T ∂θ diff
+B
+spindynamicsandelectrontransfermechanismsinsuch
+donor-bridge-acceptor molecules [63,69,77,80–82]. We whereD rot andU tor (θ)aretherotationaldiffusioncon-
+reportedthatthebroadMARYspectra(fwhm ∼ 20mT) stantandthepotentialenergyforthetorsionaltwisting,
+for PTZ−poly 2 -fluorene−PDI molecule (PTZ−FL 2 − meansquarevalueof(cid:2)θ diff isdefinedas
+PDI, see the red trace in Figure 4b) have been simu-
+lated with the Liouville equation introducing a fast ST (cid:5)(cid:2)θ diff 2(cid:4)=2D rot (cid:2)t (25)
+dephasingofk = 2×109s −1andastatic2Jcoupling
+STD
+of2J/γ = 28mT[63]. andthesignofitischosenrandomly[85].Usingreported
+The existence of the fast ST dephasing in such torsional DFT-potentials U for D−B, B−B and B−A
+tor
+molecules seems to be inconsistent with the fact that twisting of PTZ−FL −PDI molecule [88], trajectories
+n
+diffusive reencounter of the two radicals is totally sup- for dihedral angles are obtained, which are used to cal-
+pressedbytherigidmolecularbridges.Themostpossible culate 2J coupling at each time (see Figure S2-1 in the
+sourceoftheSTdephasingisthemodulationoftheelec- supplementalfile2).Thetimeevolutionofthespinstate
+troniccouplingbyfluctuationofdihedralanglesbetween for1000torsionaltrajectoriesarestatisticallyaveragedto
+adjacentaromaticringsconnectedbyσ bonds.Anelec- obtainthefinalresult.
+troniccouplingbetweenthetwoaromaticrings(iandj) Figure4(b)showsthecalculatedMARYspectraforthe
+isdescribedas normalised relative triplet yield of the PTZ−FL −PDI
+2
+molecule with 2J /γ = +9.06T and D = 2.0×
+V ij 2 =V ij0 2cos2θ ij , (21) 109s −1 associatedw 0 iththeexperimentalresu ro l t tinroom
+where θ is the dihedral angle between the two rings temperature toluene. The linewidth much larger than
+ij
+[83–86]. the HF constants is well-reproduced without using the
+In this article, the author demonstrates this hypoth- phenomenological dephasing/relaxation terms. Devia-
+esis by a spin dynamics simulation directly taking into tion seen in the high-field region is considered to be
+accountthetwistingmotionofthearomaticringswith- due to the lack of conventional relaxations, which are
+outusingphenomenologicalrelaxation/dephasingterms induced by anisotropic HF interactions [60]. Such con-
+(Monte Carlo method, see the supplemental file 2 for ventional relaxations induce gradual decrease in the
+details).AdoptingMcConnell’stightbindingmodel[87], triplet yield in the high magnetic field region as pre-
+Equations (19) and (21) give the 2J coupling between viously studied by the exponential Liouville equation
+donor(D)andacceptor(A)throughNequivalentbridge [63], which is consistent with so-called relaxation
+(B)sitesas mechanism[44].
+(cid:17) (cid:6)
+In order to extract parameters that can be used for
+2J =
+(cid:2) (1V
+RP0−l
+)2
+−
+(cid:2) (3V
+RP0−m
+)2
+the single-site simulation, which are k STD and a static
+l E RP −1E l −λ m E RP −3E m −λ 2J value(2J obs ),fromtheMonteCarlosimulations,time
+N(cid:18)−1
+evolutionoftheinitiallygivenS−T+1 coherence(ρ ST+1 )
+×cos2θ cos2θ cos2θi under the pure Hamiltonian of fluctuating 2J coupling
+DB BA BB wascalculated(fordetails,seethesupplementaryfile2)
+i
+[38]. Since the Hamiltonian does not have the matrix
+N(cid:18)−1
+≡2J cos2θ cos2θ cos2θi , (22)
+elements between the S and T+1 states, the coherence
+0 DB BA BB oscillates with the frequency that corresponds to the
+i
+effective energy difference between these two states (2J
+where
+(cid:3) (cid:4) in this case). It turns out that the coherence calculated
+V V V N−1 withD ∼ 109−1010 s −1,whichisarealisticrangefor
+V = DB0 BA0 BB0 (23) rot
+RP0 (cid:2)E
+DB
+(cid:2)E
+DB
+organic molecules in solutions, at 2J
+0
+/γ = +9.06T can
+
+--- Page 10 ---
+
+MOLECULARPHYSICS 9
+by the peak field for MARY spectra calculated by the
+Monte Carlo method with the same D parameters
+rot
+(for example, 2J /γ = 29 mT at D = 2.0×109s −1
+obs rot
+obtained from Figure 4c agrees with the MARY peak
+field shown in Figure 4b). Furthermore, k obtained
+STD
+withthismethodatD = 2.0×109s −1is1.1×109s −1,
+rot
+which is close to that previously obtained from the
+analysis of the MARY spectra with single-site Liouville
+equation(2×109s −1)[63].Thesefactsindicatethatthe
+spindynamicsforthepresentmoleculecanbeapproxi-
+matedtothestatic2JcouplingandSTdephasing.Further
+importantimplicationisthatthespindynamicscanbea
+powerfulprobefortheimportantmolecularmotionthat
+gates the D−A electronic coupling. The detailed stud-
+ies including parameter dependences will be on future
+publications.
+Conclusion
+AshasbeenreviewedinthisNewViewarticle,researches
+on the LFE and 2J-resonance MFE during the last two
+decades have introduced a new paradigm into the spin
+chemistry.Importanceofcoherentspindynamicsonthe
+reaction yield has been demonstrated mainly from the
+theoreticalcontributions,butithadseemedthatdiscrep-
+ancyexistedfromtherealsituationforlong-livedradical
+pairs. Detailed studies on coherent spin dynamics and
+decoherence mechanisms revealed important implica-
+tionsforbothartificialmoleculesandbiologicalsystems
+that utilise coherent spin dynamics to their functionali-
+ties.Inordertominimisethedephasingrateforthearti-
+ficial donor–acceptor molecules, for example, dihedral
+twisting motion of poly-para-phenylenes can be inhib-
+ited by addition of covalent linkage at meta-positions
+[86]. Ultimately in the future, long-lived radical pair
+Figure4.(a)MolecularstructureofPTZ−FL −PDIanddihedral
+2
+moleculeswithnegligibledephasingratecouldbedevel-
+angles taken into account for the Monte Carlo simulations. (b)
+MARY spectra for the yield of the excited triplet state gener- opedandutilisedforapplicationsuchaslightandfield-
+atedfromthesinglet-bornPTZ +•−FL 2 −PDI −• radicalpair.Blue controlled molecular devices for quantum informatics
+dashedline:MonteCarlosimulationwith2J
+0
+/γ = +9.06Tand
+andquantumbiology.
+D = 2.0×109s −1.Redsolidline:Experimentalresult.(c)Time
+rot Alternatively,thereisagreatpossibilitythatthemolec-
+evolutionofST+1 coherenceundertheHamiltonianoffluctuating
+2Jcouplingatshownrotationaldiffusionconstants.Theinitially ular dynamics can be quantitatively probed by observ-
+givencoherenceis0.5.Theblackdashedlinesindicatefittingby ing the decoherence processes of radical pairs. Such an
+dampedharmonicoscillation. approach would help understanding complicated elec-
+trontransfermechanismsinbiologicalandartificialsys-
+tems. In the future, the mechanism of avian magne-
+toreception would be clarified by studying controlling
+beanalysedbythedampedharmonicoscillationas
+mechanisms of the spin decoherence in avian cryp-
+ρ (t)=ρ (0)·cos(|2J |t)·exp(−k t) tochromewithdetailedanalysisofexperimentalMFEby
+ST+1 ST+1 obs STD
+(26) MD-assisted spin dynamics simulations. In the case of
+electron−holepairsinorganicsemiconductorthinfilms,
+asshowninFigure4(c).The2J valuesobtainedwith diffusionmodellingbasedonthemicroscopicstructures
+obs
+thismethodareingoodagreementwiththoseobtained ofthedisorderedorganicsolidsanditscombinationwith
+
+--- Page 11 ---
+
+10 T.MIURA
+spindynamicssimulationswouldclarifythemolecular- [17] W. Lersch and M. Michel-Beyerle, Chem. Phys. 78, 115
+levelmechanismsofchargeextinction(mainlyrecombi- (1983).
+[18] E.A.Weiss,M.A.Ratner,andM.R.Wasielewski,J.Phys.
+nation)fromelectricallyand/oropticallydetectedMFE.
+Chem.A107,3639(2003).
+Suchstudieswouldofferimportantfeedbacktodevelop-
+[19] U. Werner, Y. Sakaguchi, H. Hayashi, G. Nohya, R.
+mentandengineeringofthesefuturematerials. Yoneshima,S.Nakajima,andA.Osuka,J.Phys.Chem.99,
+13930(1995).
+[20] E.W. Evans, C.A. Dodson, K. Maeda, T. Biskup, C.J.
+Acknowledgements Wedge,andC.R.Timmel,Interface.Focus. 3,20130037
+(2013).
+The author thanks helpful discussions with all the co-
+[21] A.R. Jones, J.R. Woodward, and N.S. Scrutton, J. Am.
+workersandadvisorsthroughouttheresearchcareer;particular
+Chem.Soc.131,17246(2009).
+acknowledgementismadetoProf.KiminoriMaedaofSaitama
+[22] T.Miura,K.Maeda,Y.Oka,andT.Ikoma,J.Phys.Chem.
+University, Prof. Hisao Murai of Shizuoka University, Prof.
+B122,12173(2018).
+MichaelR.WasielewskiofNorthwesternUniversity,andProf.
+[23] S.D.ChoudhuryandS.Basu,J.Phys.Chem.A109,8113
+TadaakiIkomaofNiigataUniversity.
+(2005).
+[24] M.Wakasa,T.YagoandA.Hamasaki,J.Phys.Chem.B
+Disclosurestatement
+113,10559(2009).
+[25] T.Ikoma,T.Ogiwara,Y.Takahashi,K.Akiyama,S.Tero-
+Theauthorreportsnopotentialconflictofinterest. Kubota,Y.Takahashi,T.Suzuki,andY.Wakikawa,Synth.
+Met.160,285(2010).
+[26] B.Hu,L.Yan,andM.Shao,Adv.Mater.21,1500(2009).
+Funding [27] F.J.Wang,H.Bässler,andZ.ValyVardeny,Phys.Rev.Lett.
+101,236805(2008).
+ThisworkwasfinanciallysupportedinpartbyJapanSociety
+[28] M. Wakasa and H. Hayashi, J. Phys. Chem.100, 15640
+forthePromotionofScience Grant15K05384.
+(1996).
+[29] K. Maeda, K.B. Henbest, F. Cintolesi, I. Kuprov, C.T.
+Rodgers,P.A.Liddell,D.Gust,C.R.Timmel,andP.J.Hore,
+References
+Nature453,387(2008).
+[1] U.E.SteinerandT.Ulrich,Chem.Rev.89,51(1989). [30] K.Maeda,S.R.T.Neil,K.B.Henbest,S.Weber,E.Schle-
+[2] K.M. Salikhov, Y.N. Molin, R.Z. Sagdeev, and A.L. icher,P.J.Hore,S.R.Mackenzie,andC.R.Timmel,J.Am.
+Buchachenko, Spin Polarization and Magnetic Effects
+Chem.Soc.133,17807(2011).
+in Radical Reactions (Elsevier Science Ltd, Amsterdam, [31] T.Suzuki,T.Miura,K.Maeda,andT.Arai,J.Phys.Chem.
+1984).
+A109,9911(2005).
+[3] K. Schulten, H. Staerk, A. Weller, H.J. Werner, and B. [32] T.Miura,K.Maeda,andT.Arai,J.Phys.Chem.A110,
+Nickel,Z.Phys.Chem.101,371(1976). 4151(2006).
+[4] M.E.Michel-Beyerle,R.Haberkorn,W.Bube,E.Steffens, [33] T.MiuraandH.Murai,J.Phys.Chem.A112,2526(2008).
+H.Schroeder,H.J.Neusser,E.W.Schlag,andH.Seidlitz, [34] T.A. Salaoru and J.R. Woodward, Rev. Sci. Instrum. 78,
+Chem.Phys.17,139(1976). 036104/1(2007).
+[5] A. Weller, H. Staerk, and R. Treichel, Faraday Discuss. [35] L.M. Antill, J. Beardmore, and J. Woodward, Rev. Sci.
+Chem.Soc.78,271(1984). Instrum.89,023707(2018).
+[6] Y.Sakaguchi,S.Nagakura,andH.Hayashi,Chem.Phys. [36] C.A. Dodson, C.J. Wedge, M. Murakami, K. Maeda,
+Lett.72,420(1980). M.I. Wallace, and P.J. Hore, Chem. Commun. 51, 8023
+[7] W. Schlenker, T. Ulrich, and U.E. Steiner, Chem. Phys. (2015).
+Lett.103,118(1983). [37] K. Maeda, T. Miura, and T. Arai, Mol. Phys. 104, 1779
+[8] Y.Tanimoto,M.Takayama,M.Itoh,R.Nakagaki,andS. (2006).
+Nagakura,Chem.Phys.Lett.129,414(1986). [38] T.MiuraandH.Murai,J.Phys.Chem.A119,5534(2015).
+[9] N.J. Turro, I.V. Khudyakov, and K.R. Gopidas, Chem. [39] C.T.Rodgers,S.A.Norman,K.B.Henbest,C.R.Timmel,
+Phys.162,131(1992). andP.J.Hore,J.Am.Chem.Soc.129,6746(2007).
+[10] M.Wasaka,Y.Nakamura,Y.Sakaguchi,andH.Hayashi, [40] A.R.O’Dea,A.F.Curtis,N.J.B.Green,C.R.Timmel,and
+Chem.Phys.Lett.215,631(1993). P.J.Hore,J.Phys.Chem.A109,869(2005).
+[11] S.AichandS.Basu,J.Chem.Soc.,FaradayTrans.91,1593 [41] H.J.Hogben,M.Krzystyniak,G.T.P.Charnock,P.J.Hore,
+(1995).
+andI.Kuprov,J.Magn.Reson.208,179(2011).
+[12] M.B. Zimmt, C. Doubleday, Jr, and N.J. Turro, J. Am. [42] C.R.Timmel,U.Till,B.Brocklehurst,K.A.McLauchlan,
+Chem.Soc.107,6726(1985). andP.J.Hore,Mol.Phys.95,71(1998).
+[13] Y.Tanimoto,Y.Fujiwara,S.Takamatsu,A.Kita,M.Itoh, [43] A.S.Lukas,P.J.Bushard,E.A.Weiss,andM.R.Wasielewski,
+andM.Okazaki,J.Phys.Chem.96,9844(1992). J.Am.Chem.Soc.125,3921(2003).
+[14] V.Y.Shafirovich,E.E.Batova,andP.P.Levin,Chem.Phys. [44] H.HayashiandS.Nagakura,Bull.Chem.Soc.Jpn.57,322
+Lett.172,10(1990). (1984).
+[15] H.Yonemura,H.Nakamura,andT.Matsuo,Chem.Phys. [45] R.Haberkorn,Mol.Phys.32,1491(1976).
+162,69(1992). [46] K.L.Ivanov,M.V.Petrova,N.N.Lukzen,andK.Maeda,J.
+[16] A.J.Hoff,Q.Rev.Biophys.14,599(1981). Phys.Chem.A114,9447(2010).
+
+--- Page 12 ---
+
+MOLECULARPHYSICS 11
+[47] A.Weller,F.Nolting,andH.Staerk,Chem.Phy.Lett.96 [69] A.M.Scott,T.Miura,A.B.Ricks,Z.E.X.Dance,E.M.Gia-
+(1),24–27(1983). cobbe,M.T.Colvin,andM.R.Wasielewski,J.Am.Chem.
+[48] B.Brocklehurst,J.Chem.Soc.FaradayTrans.272,1869 Soc.131,17655(2009).
+(1976). [70] U.E.Steiner,J.Schäfer,N.N.Lukzen,andC.Lambert,J.
+[49] T. Ritz, S. Adem, and K. Schulten, Biophys. J. 78, 707 Phys.Chem.C122,11701(2018).
+(2000). [71] W.B.Davis,W.A.Svec,M.A.Ratner,andM.R.Wasielewski,
+[50] F. Cintolesi, T. Ritz, C.W.M. Kay, C.R. Timmel, and P.J. Nature396,60(1998).
+Hore,Chem.Phys.294,385(2003). [72] R.H.Goldsmith,L.E.Sinks,R.F.Kelley,L.J.Betzen,W.H.
+[51] W. Wiltschko and R. Wiltschko, J. Exp. Biol. 199, 29 Liu,E.A.Weiss,M.A.Ratner,andM.R.Wasielewski,Proc.
+(1996). Natl.Acad.Sci.USA.102,3540(2005).
+[52] A.M. Lewis, T.P. Fay, D.E. Manolopoulos, C. Kerpal, S. [73] A.M.Scott,A.B.Ricks,M.T.Colvin,andM.R.Wasielewski,
+Richert, and C.R. Timmel, J. Chem. Phys. 149, 034103 Angew.Chem.Int.Ed.49,2904(2010).
+(2018). [74] Y.Kobori,S.Sekiguchi,K.Akiyama,andS.Tero-Kubota,
+[53] D.V.Stass,N.N.Lukzen,B.M.Tadjikov,andY.N.Molin, J.Phys.Chem.A103,5416(1999).
+Chem.Phys.Lett.233,444(1995). [75] P.W.Anderson,Phys.Rev.115,2(1959).
+[54] C.T.Rodgers,PureAppl.Chem.81,19(2009). [76] Z.E.X. Dance, Q.X. Mi, D.W. McCamant, M.J. Ahrens,
+[55] K.Maeda,A.J.Robinson,K.B.Henbest,H.J.Hogben,T. M.A.Ratner,andM.R.Wasielewski,J.Phys.Chem.B110,
+Biskup, M. Ahmad, E. Schleicher, S. Weber, C.R. Tim- 25163(2006).
+mel,andP.J.Hore,Proc.Natl.Acad.Sci.USA.109,4774 [77] T. Miura, R. Carmieli, and M.R. Wasielewski, J. Phys.
+(2012). Chem.A114,5769(2010).
+[56] M.Horiuchi,K.Maeda,andT.Arai,Appl.Magn.Reson. [78] W.HeitlerandF.London,ZeitschrPhys44,455(1927).
+23,309(2003). [79] R. Bittl and K. Schulten, Chem. Phys. Lett. 173, 387
+[57] M.HaldarandM.Chowdhury,Chem.Phys.Lett.319,349 (1990).
+(2000). [80] M.T. Colvin, A.B. Ricks, A.M. Scott, A.L. Smeigh, R.
+[58] Y.Tanimoto,S.Takase,C.Jinda,M.Kyotani,andM.Itoh, Carmieli,T.Miura,andM.R.Wasielewski,J.Am.Chem.
+Chem.Phys.162,7(1992). Soc.133,1240(2011).
+[59] R.W. Eveson, C.R. Timmel, B. Brocklehurst, P.J. Hore, [81] T.MiuraandM.R.Wasielewski,J.Am.Chem.Soc.133,
+and K.A. McLauchlan, Int. J. Radiat. Biol. 76, 1509 2844(2011).
+(2000). [82] T. Miura, D. Fujiwara, K. Akiyama, T. Horikoshi, S.
+[60] A. Carrington and A.D. McLachlan, Introduction to Suzuki, M. Kozaki, K. Okada, and T. Ikoma, J. Phys.
+Magnetic Resonance with Applications to Chemistry Chem.Lett.8,661(2017).
+and Chemical Physics (Harper & Row, New York, [83] E.A. Weiss, M.J. Tauber, R.F. Kelley, M.J. Ahrens, M.A.
+1967). Ratner, and M.R. Wasielewski, J. Am. Chem. Soc. 127,
+[61] A.I.Shushin,Chem.Phys.Lett.181,274(1991). 11842(2005).
+[62] V.R.Gorelik,K.Maeda,H.Yashiro,andH.Murai,J.Phys. [84] R.H. Goldsmith, M.R. Wasielewski, and M.A. Ratner, J.
+Chem.A105,8011(2001). Phys.Chem.B110,20258(200).
+[63] T. Miura, A.M. Scott, and M.R. Wasielewski, J. Phys. [85] Y.A. Berlin, F.C. Grozema, L.D.A. Siebbeles, and M.A.
+Chem.C114,20370(2010). Ratner,J.Phys.Chem.C112,10988(2008).
+[64] D.Gust,T.A.Moore,andA.L.Moore,Acc.Chem.Res.26, [86] A.Mishchenko,L.A.Zotti,D.Vonlanthen,M.Bürkle,F.
+198(1993). Pauly,J.C.Cuevas,M.Mayor,andT.Wandlowski,J.Am.
+[65] H.Imahori,D.M.Guldi,K.Tamaki,Y.Yoshida,C.Luo, Chem.Soc.133,184(2011).
+Y.Sakata,andS.Fukuzumi,J.Am.Chem.Soc.123,6617 [87] H.Mcconnell,J.Chem.Phys.35,508(1961).
+(2001). [88] F.C. Grozema, Y.A. Berlin, L.D.A. Siebbeles, and M.A.
+[66] M.R.Wasielewski,J.Org.Chem.71,5051(2006). Ratner,J.Phys.Chem.C.114,14564(2010).
+[67] J.W.Verhoeven,J.Photochem.Photobiol.C7,40(2006).
+[68] E.A.Weiss,M.J.Ahrens,L.E.Sinks,A.V.Gusev,M.A.Rat-
+ner,andM.R.Wasielewski,J.Am.Chem.Soc.126,5577
+(2004).

@@ -1,0 +1,48 @@
+{
+  "paper_id": "1-s2_0-0301010489870922-main",
+  "doi": "",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "North-Holland",
+    "Amsterdam"
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "",
+  "date_added": "2025-11-05T07:47:50.002663",
+  "last_modified": "2025-11-05T07:47:50.002665",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "/Users/clarice/Desktop/Claude test/Literature/1-s2.0-0301010489870922-main.pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

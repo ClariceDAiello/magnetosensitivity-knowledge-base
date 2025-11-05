@@ -1,0 +1,49 @@
+{
+  "paper_id": "bcsj_74_773",
+  "doi": "",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "Hisaharu Hayashi",
+    "* Yoshio Sakaguchi",
+    "and Masanobu Wakasa"
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "",
+  "date_added": "2025-11-05T07:54:24.211003",
+  "last_modified": "2025-11-05T07:54:24.211006",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "/Users/clarice/Desktop/Claude test/Literature/bcsj.74.773.pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

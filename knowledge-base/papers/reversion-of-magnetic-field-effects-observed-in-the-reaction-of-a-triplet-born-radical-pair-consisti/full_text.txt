@@ -1,0 +1,532 @@
+
+
+--- Page 1 ---
+
+J. Phys. Chem. 1995, 99, 13181-13186 13181
+Reversion of Magnetic Field Effects Observed in the Reaction of a Triplet-Born Radical
+Pair Consisting of Two Equivalent Sulfur-Centered Radicals
+Masanobu Wakasa and Hisaharu Hayashi*
+MolecularPhotochemistry Laboratory, The Institute ofPhysical and Chemical Research (RIKEN),
+Wako, Saitama 351-01, Japan
+Yayoi Mikami and Taken Takada
+Department ofChemistry, Faculty ofScience, Rikkyo University, Nisiikebukuro, Toshima, Tokyo 171, Japan
+Received:April 28, 1995; In Final Form;June 26, 1995®
+Magnetic field effects (MFEs) on the triplet sensitization ofp-aminophenyl disulfide were investigated in a
+sodium dodecylsulfate (SDS) micellar solution by means ofa nanosecond laser flashphotolysis technique at
+high magnetic fields up to 10 T. The yield of the escaped (p-aminophenyl)thiyl radical increased steeply
+with increasing magnetic field strength (B) from 0 to 1 T, but decreased gradually from 1 to 10 T. At 10 T,
+theyieldofthe escapedradicalbecame similarto that at0T. TheMFEs observedatboth low (B < 1 T) and
+high (IT < B < 10 T) fields were simultaneously quenched by the addition of a paramagnetic Gd3+ ion.
+Thus, these reverted MFEs were interpreted by the relaxation mechanism through anisotropic hyperfine and
+Zeeman interactions.
+Introduction two componentradicalsinaradicalpair. Thus,thecontribution
+Magnetic field effects (MFEs) on the chemical reactions of
+ofmechanism
+1
+cannotberemovedfromthereversionsofMFEs
+radicalpairsandbiradicalsinsolutionhavebeenof greatinterest o
+M
+b
+F
+s
+E
+er
+s
+ve
+o
+d
+f
+f
+r
+o
+e
+r
+a
+s
+c
+u
+tio
+ch
+ns
+sy
+i
+s
+n
+t
+v
+e
+o
+m
+lv
+s.
+ing
+It
+t
+i
+w
+s,
+o
+th
+e
+e
+q
+re
+u
+f
+i
+o
+v
+r
+a
+e
+l
+,
+en
+im
+t
+p
+ra
+o
+d
+rt
+i
+a
+ca
+n
+l
+t
+s.
+to
+M
+stu
+o
+d
+re
+y
+during the last two decades.1-3 We have hitherto made
+extensive studies of the effects on the dynamic behavior of recently, Sakaguchi5hasstudiedMFEs on abiradicalinvolving
+radical pairs in the presence of magnetic fields below 1.5 T two equivalentketyl radicals undermagnetic fields of0—10 T
+with conventional electromagnets. Recently, Sakaguchi et al. and found a smallreversion in its MFEs above 2 T, which can
+extended the maximum magnetic field of our laser flash be explained by only mechanism 2.
+p U h s o in to g ly t s h i i s s a a p p p p a a r r a a t t u u s s, to we 10 h T av w e it f h ou a n s d up a e no rc m o a n l d o u u c s tin re g ve m r a s g io n n e s t.4 o ·5 f ph I o n toly th s e is p o r f e p v - i a ou m s ino p p ap h e e r n s, y 1 l 6· d 1 i 7 sul w fi e de c in arr a ie s d od o iu u m t d la o s d e e r cy f l l s a u s l h -
+M du F c E ti s on at o h f ig s h om fi e eld a s ro in m s a e ti v c e -c ra a l rb re o a n c y t l ion c s o . m 6- p 9 ou F nd o s r th in e p m h i o c t e o l r la e- r f o a f te th ( e SD tr S ip ) le s t o r l a u d tio ic n al a p n a d ir fo c u o n n d sis th ti a n t g th o e f d tw is o ap ( p p e - a a r m an in c o e p p h r e o n ce y s l) s -
+r s a o d lu ic ti a o l n s s, in t c h r e ea li s f e e d tim w e ith of i r n a c d re ic a a s l in p g air m s a a g n n d e t t h ic e f y ie ie ld ld ( o B f ) es a c t a l p o e w d t a h ls iy o l s r e a e d m ic s als to s b h e ow fa e v d o a r n ab a le pp f r o e r ci t a h b e le in M ve F s E t . iga T t h io is n r o e f ac th ti e on re s v y e s r t t e e m d
+fields, but decreased again with increasing B at higher fields. MFEs due to only mechanism 2, because the Ag value oftwo
+Thereverse fields ofsuchMFEs were dependentuponreaction equivalent (p-aminophenyl)thiyl radicals in the radical pair
+should be 0.
+systems. It is possible to explain such reversions ofMFEs by
+the followingtwo mechanisms:6-9 mechanism l,6·7 acombina-
+Inthispaper,we reporton thereversionoftheMFEsobserved
+tion ofthe MFEs due to the hyperfine coupling (HFC)1-3 and athigh magnetic fields upto 10Tinthereaction oftheradical
+relaxation10mechanisms atlow fields andthe MFEs due to the
+pairincludingequivalentsulfur-centeredradicalsgenerated with
+d A u g e m to e t c h h e an re is la m x 1 a - t 3 io a n t m hi e g c h h e a r n f i i s e m lds th ; ro m u e g c h ha a n n i i s s m otr 2 o ,8 p · i 9 c t h h y e p M er F fi E ne s t d h i e sul t f r i i d p e let in -se an ns S it D iz S ed m p ic h e o ll t a o r de s c o o lu m tio p n os a it t io ro n om of te p m -a p m e i r n a o tu p r h e e . n T y o l
+confirm the mechanism of the reversion, we also carried out
+and Zeeman interactions.10
+no Fr m o e m th t o h d ev t i o ew d p is o c in ri t m o in f a e t x e pe b ri e m tw en e t e s n , ho si w m e i v la e r r, M th F er E e s ha d d ue bee to n t t h h e e a p n a i r s a o m tr a o g p n ic eti g c v q a u lu e e n s ch o in f g the of (p M - F am Es ino an p d he a ny m l) e th as iy u l re ra m d e ic n a t l. of
+mechanisms 1 and2untilwe recentlynoticed1112thattheeffect Experimental Section
+of paramagnetic ions could distinguish the reversion due to
+mechanism 1 from that due to mechanism 2. A paramagnetic Materials. p-Aminophenyl disulfide (APDS) was obtained
+ion can quench the MFEs due to the HFC and relaxation commercially (Tokyokase Co.) andrecrystallizedtwice froma
+mechanisms,13 but it cannot quench the MFEs due to the Ag 3:1 (v/v) mixture of benzene andpentane. Xanthone (Xn) was
+mechanism.11 Thus,we havefirstshownthattherevertedMFEs repeatedlyrecrystallizedfromethanolandsodiumdodecylsulfate
+dueto mechanisms 1 and2can experimentallybe separatedby (SDS) from a 1:1 (v/v) mixture ofmethanol and ethanol. For
+the addition of a paramagnetic ion.11·12 the paramagnetic quenching, GdCls^HiO (99.9%, Soekawa
+Todate, thereversionsofMFEs havebeenreportedinmany Chemical Co.) was used without further purification. Water
+reactions of radical pairs8·9·12 and biradicals,14·15 but the Ag was distilled and deionized.
+valuesof generatedradicalsof suchsystemsare not completely LaserFlashPhotolysis. Laserflashphotolysisexperiments
+0. Here, Ag is the differencebetweenthe isotropic gvalues of intheabsence andpresenceofamagnetic fieldwere performed
+on an apparatuswhichwas similartothatdescribedelsewhere.4·5
+®Abstract published inAdvanceACSAbstracts, August 1, 1995. Each nitrogen-bubbled SDS solution was circulated through a
+0022-3654/95/2099-13181$09.00/0 &copy; 1995 American Chemical Society
+.)CTU(
+75:31:10
+ta
+5202
+,92
+rebotcO
+no
+YGOLONHCET
+FO
+TSNI
+STTESUHCASSAM
+aiv
+dedaolnwoD
+.selcitra
+dehsilbup
+erahs
+yletamitigel
+ot
+woh
+no
+snoitpo
+rof
+senilediuggnirahs/gro.sca.sbup//:sptth
+eeS
+
+--- Page 2 ---
+
+13182 J. Phys. Chem., Vol. 99, No. 35, 1995 Wakasa et al.
+quartz cell (1 mL/min). The third (355 nm) harmonic of a
+Quanta-Ray GCR-100 Nd:YAG laser with a pulse width of 5
+ns was usedasan excitinglightsource. Thetransientabsorption
+was recorded by a Hewlett-Packard HP54522A digitizing
+oscilloscope with a time resolution of0.5 ns. Magnetic fields
+(5) up to 10 T were provided by an Oxford 37057 supercon-
+ducting magnet. To avoid the influence ofits magnetic field,
+we setour photomultiplierfarfromthemagnet andguided our
+probinglightby aquartzopticalfiber. Weusedadouble-beam
+system for measuring the transient absorption accurately.
+Magnetic fields were measured by an F. W. Bell 9200
+Gaussmeterwithan FAR92-1815 probe. Thelowestmagnetic
+field generated by a counter current for canceling the residual
+field was less than 0.2 mT. Hereafter, the experiments under
+the lowest magnetic field are denoted as those in the absence
+ofamagneticfield. Theconcentrations ofAPDS,Xn, andSDS
+intheemployedmicellarsolutionwere 5.0 x 10~4,1.0 x 10~3,
+and 8.0 x 10~2 mol dm-3, respectively.
+ESR Spectra. ESR spectra were taken on a JEOL-RE3X
+ESR spectrometer at —160 °C. Microcrystalline APDS was
+sealed in aquartztube ( 4 mm) underargon atmosphere. The
+irradiation of the sample was carried out using a Xe lamp
+(USHIO Electric Co., Type UXL-500D). The g values were
+determined with the Mn2+/MgO signals observed simulta-
+neously.
+Results and Discussion
+Inthetripletsensitizationreactionofp-aminophenyldisulfide
+(APDS) with xanthone (Xn) in an SDS micellar solution, the
+following reactions are believed to occur:16·17
+Xn— 'Xn* — 3Xn* (1)
+3Xn* + APDS —3APDS* + Xn (2)
+3APDS* — 3(NH2PhS"SPhNH2) (3)
+Figure 1. Transientabsorption spectraobservedatroom temperature
+3(NH2PhS”SPhNH2) — ‘(NH2PhS“SPhNH2) (4) at a delay time of 100 ns after laser excitation of the SDS micellar
+solutionscontaining(a)p-aminophenyldisulfideandxanthone,(b)only
+p-aminophenyl disulfide, and (c) only xanthone.
+1,3(NH2PhS"SPhNH2)— 2NH2PhS* (5)
+Laser flash photolysis was performed at room temperature
+on the SDS micellar solutioncontaining APDS andXn. Time
+1(NH2PhS”SPhNH2)— cageproducts (6)
+profiles ofthe transientabsorption (A(f)) were measuredin the
+wavelengthrange 370—700 nm upon irradiation withthe third
+NH2PhS‘— ^ - EP escapeproducts (7) harmonic (355 nm) of the Nd:YAG laser. The transient
+absorption spectrum obtained at a delay time of 100 ns after
+Here, 'Xn* and 3Xn* represent the singlet and triplet excited laser excitation is shown in Figure la. For comparison with
+states of xanthone, respectively. 1(NH2PhS”SPhNH2) and this spectrum, the spectra observed for the SDS solutions
+3(NH2PhS”SPhNH2) denote the singlet and triplet radical containing only (b) APDS and (c) Xn, respectively, are also
+pairscomposed oftwo equivalent(p-aminophenyl)thiylradicals shown in Figure 1. We can see from Figure lb,c that NH2-
+(NHaPhS-), respectively, fe, kcp, and kep denote the rate PhS’ and3Xn* havetransientabsorptionbands around 360 and
+constants for the escape of radicals from the radical pair, for 580nm (forNH2PhS’)16and600nm (for3Xn*),'9respectively.
+the reaction from the singlet radical pair, and for the reaction Because 3Xn* hasno clearabsorptionbandaround360nm and
+from escaped radicals, respectively. Since the exciting light because thetransientabsorptionband observedaround600nm
+was mainly absorbed by Xn, 3Xn* should immediately be inFigure 1a is too strongto assign as only NH2PhS*, NH2PhS*
+generated after laser excitation. The triplet—triplet (T—T) and 3Xn* should be observed in Figure la.
+energy transferoccurs from 3Xn* to APDS. Sincethe concen- NH2PhS*hastwo transientabsorptionbands around360and
+trationofmicelleswas 1.2 x 10-3M,nearlyhalfofthemicelles 580 nm, but the magnetic fielddependence on A(f) curves was
+whichwere occupiedbyXn didnot containAPDS. Therefore, measured at 380 nm in the magnetic field range 0T < B < 10
+bothintramicellarandintermicellarT—Tenergytransfersshould T, because the A(t) curves observed at the longer wavelength
+occur inthepresentcase. The succeedingdecompositiongiving region contain a large contribution from 3Xn*. Some typical
+thetripletradicalpairofthe(p-aminophenyl)thiylradicalsoccurs results obtained for the solution containing APDS and Xn at
+through3APDS*. This decompositionprocess was reportedto 380nm are shownbycurves a—c inFigure2. Thecontribution
+be completed in less than 1 ps.18 of3Xn* at 380 nm is also shownbycurve d inFigure2, which
+
+--- Page 3 ---
+
+Reversion ofMagnetic Field Effects J. Phys. Chem., Vol. 99, No. 35, 1995 13183
+was calculated from the following methods: (1) The decay
+profile of 3Xn* at 380 nm was taken to be the same as that
+observed for the SDS micellar solution containing APDS and
+Xnat660nm, wherethe signalintensityof3Xn* ismuchlarger
+than that ofp-NHiPhS*. (2) The initial intensity of 3Xn* at
+380nm was estimatedtobe0.56timesas smallasthatobserved
+at 660 nm from the observed spectrum of 3Xn* (Figure lc).
+As shown in Figure 2, the A(t) curves of NF^PhS* were
+appreciably changed by magnetic fields. The decay of NH2-
+PhS* was decelerated with increasing B from 0 to 1.0 T, but
+was accelerated with increasing B from 1.0 to 10 T. At 10 T,
+the decay became similar to that at 0 T. Although we also
+measuredA(t) curves ofthe SDS micellar solution containing Time / µ$
+only Xn, no MEF was observed at 380 and 600 nm under Figure 2. A(r) curves observed at room temperature at 380 nm by
+magneticfieldsof0—10T. Thedisappearanceprocess ofNH2- triplet sensitization of the SDS micellar solution containing p-
+PhS’ generated with direct excitation gave no MFE,16 and the aminophenyl disulfide (a) in the absence and in the presence of a
+decay of 3Xn* did not show any changes by the fields. m T— ag T ne a t b ic so fi r e p l t d io : n (b o ) f 1 xa .0 n T tho a n n e d( in c) t 1 h 0 is T. so (d lu ) ti A o ( n f) a c t ur 3 v 8 e 0 c n a m l . culatedforthe
+Therefore, MFEs observed in the reaction of NF^PhS* are
+attributable to the triplet radical pair involving two NH2PI1S'. attributable to the contributions of (1) the T—T absorption of
+In the case of a triplet radical pair, its A(f) curves observed xanthone,(2)thetransientabsorption ofNH2PI1S·generatedwith
+ina micellarsolutionusuallyhavetwo decay components.The direct excitation ofAPDS, and (3) the slow formation ofNH2-
+first component corresponds to the radical pair decay (RP(0) PhS* by the intermicellarT—T energy transfer. In the present
+i o o n f f t A t h h e ( e t) m e c s ic u c r e a v l e p la s e r d c c r a a a g n d e i ; c b t a e h l e d fr e s o e s m c co ri n b th d e e d on m b e y ic to e th ll t e e he . fo d T l i l s o h a e w p r p i e n e f g o a r r e a e n , q c u t e h a e t p io r d o n e c : c 1 e a s -3 y s r v e a a lu c e ti s o . n, O t n he th r e ef o o t r h e e , r w h e and c , o t u h l e d M n F ot Es ob on tai t n he e y x i a e c ld t o ko f , th k e f, es a c n a d pe k d s
+radical (7e) can be obtained without complicated analysis.
+A(t) = RP(i) + /E exp(—kEPf) (8) The lifetime of the T—T absorption of Xn observed at 600
+nm was about 1.5 /zs (reaction 2), and the S—S bond was
+According to the relaxation mechanism,10 RP(r) of eq 8 can decomposedwithin 1 ps18 (reaction3). Therefore,theformation
+be represented as follows: of the (p-aminophenyl)thiyl radical seems to be certainly
+completedat 10/zs afterlaserexcitation, butas seen fromcurve
+at 5 = 0T d in Figure 2, a small amount ofthe contribution of3Xn* still
+remains in A(10 /zs). Then, the contribution of 3Xn* at 380
+RP(i) = I0exp(~k0t) (9) nm was subtracted from the A(t) curves as follows:
+at fi»0T A'(i, 380nm) = A(f, 380nm) — 0.56A(f, 660nm) (14)
+RP(r) = Ifexp(-kfí) + exp(-ksi) (10)
+7S Here, A(t, 380 nm) andA(f, 660 nm) represent the transient
+absorption observed at 380 and 660 nm, respectively, for the
+where ko, kf, and k, are given as follows: SDS micellarsolutioncontainingAPDS andXnatadelaytime
+k0 = (l/4)kcp + kE (11) o ob f t t ai / n zs ed af w te a r s la 0 s . e 5 r 6 e f x r c o i m tati t o h n e . in A it s ia m l i e n n te ti n o s n i e ti d es ab o o f v 3 e, Xn th * e a f t ac 3 t 8 o 0 r
+and 660 nm.
+kf= (l/2)kcp ±
+k%
+(12)
+Thus,we can safelyconsiderthattheA '(10/zs)/A'(0/zs) (=Y)
+K = kR + fcR- + kE (13) r y a l) ti t o hi r y e l pr r e a s d e ic n a ts l t a h t e t re = lat 1 iv 0 e /z y s i . eld Th o i f s th m e e e an s s cap t e h d at (p th -a e m Y in (B op )/ h Y e ( n 0 - )
+H ab e s r e e n , c k e o o is fa th m e a d g e n c e a ti y c r fi a e te ld, co an n d sta k n f t an o d f k t s he are ra t d h i e ca fa l s p t a a ir nd in sl t o h w e ( ( = p- R a ( m B i ) n ) o r p a h ti e o ny ca l) n thi g y i l v r e ad th ic e al M . F T E he on plo th ts e o y f ie R ld (B o ) f ag th a e in e st sc B ap a e re d
+ones inthepresence of magneticfields,respectively. 7q,If, and shown in Figure 3. The experimental error ofR(B) is within
+7 + S a [T re —1 th ], e [T in o i ] t , ia a l n p d o [ p T u + la i] tio + ns [T o - f t] t , rip re le s t pe s c u t b iv le e v ly e , ls, k? [T a o n ] d + kc [ ? T a + re i] i ± n 0 cr .0 ea 2 s . es A s s tee c p le ly ar w ly ith se in en cre f a ro si m ng t B he f s r e om pl 0 ot t s o , 1 th T e , a R n ( d B) the va 7 l ? u ( e 1
+the rate constants of reactions 5 and 6, respectively, k? and T) value obtained was 1.11 ± 0.02. On the other hand, the
+kc? should be independent ofB. For the present reaction, the R(B) value decreases more gradually with increasing B from 1
+áte andkc? values have previously been observedforthe direct to 10 T. Finally, the 7?(10 T) value almost recovered to the
+excitation of APDS and reported to be 5.2 x 106 and 4.8 x value at 0 T. Although the MFEs observed in the present
+106 s-1, respectively.17 Since the relaxation rates kR and kw reaction are not so large, the degree of reversion of the MIEis
+are influencedbyB, theMFEs should appearon bothkfandks. is the largest ever reported among the reactions of radical
+However, the measurement of the MFEs on kf seems to be pairs8·9·12 and biradicals 51415 due to mechanism 2. In these
+difficult, because the radical pair decay of this component is reactions, their A{t) curves observed above 10 T have not
+very fast. On the other hand, the MFEs on ks have been returned to the ones observed at 0 T.
+observed and reported in many cases. To confirm the mechanism of the reverted MFEs of the
+In eq 8, 7e and k?prepresent the yield of the escapedradical present reaction, we carried out a quenching experiment using
+and its decay rate constant, respectively. In the present study, a paramagnetic ion. Since the quenching ability ofthe MFEs
+the A(0 curves observed at 380 nm are too complicated to dueto therelaxationmechanismhadbeenfoundtobethelargest
+analyze simplyusingeq 8. Thecomplicateddecayprofiles are forGd3+ among the lanthanoid ions (La3+, Nd3+, Sm3+, Gd3+,
+
+--- Page 4 ---
+
+13184 J. Phys. Chem., Vol. 99, No. 35, 1995 Wakasa et al.
+a,, =2.039(case(b))
+Figure 4. Anisotropic ESR spectrum of the (p-aminophenyl)thiyl
+radicalobservedwithUVirradiationofmicrocrystallinep-aminophenyl
+disulfide at -160 °C. The g values were determined by the Mn2+/
+MgO signals observed simultaneously. The signal denoted by * (g =
+Figure 3. Magnetic field dependence ofthe ratio R(B) = Y(B)/Y(0) 2.001) is due to the colorcenter ofan employed dewar.
+observedat380nm bytripletsensitizationoftheSDSmicellarsolution
+containingp-aminophenyldisulfide ( ) in the absenceofGd3+and in by the signals dueto the decompositionproducts thattwo ESR
+t 1 h 0 e ~3 pr M es . en T c h e e o e f x G pe d3 ri + m : en (O ta ) l 0 e . r 5 ror x o f - R 3 ( , B ( ) ) is 1 w .0 ith x in 1 ± 0~ 0 3 . , 02 an . d( ) 2.0 x s 2 i . g 0 n 3 a 9 l . s F at r t o ri m bu t t h a e bl v e ie t w o p g o n in (= t g o : f ) e a x r p e er o im bs e e n r t v s e , d we at h g a n v = en 2 o .0 m 21 eth a o n d d
+to decide the correct value.
+D ne y t 3 ic +, q H u o e 3 n + c , h E e r r 3+ in , an th d e Lu p 3 r + e ) s ,1 e 3 nt G r d e 3 a + ct w io a n s . us A ed (t) fo c r u a rve p s aram we a r g e - 2.0 U 3 s 9 i ) n , g w t e he e s s e tim gn a v te a d lue g th n s e (c re a l s a e xa (a ti ) o g n n r = ate 2. c 0 o 2 n 1 st a a n n d ts ca (f s o e a (b n ) d g f n or = ).
+measured at 380 nm in the presence of Gd3+ under magnetic Here, fo and for correspondto the relaxation betweenT±i and
+fieldsof0—10T,andtheobtainedR(B)valueswere alsoplotted
+To states and thatbetweenT±] and S states, respectively. The
+i
+o
+n
+bs
+F
+e
+ig
+rv
+u
+e
+r
+d
+e 3
+i
+.
+n
+W
+bo
+e
+th
+can
+low
+clea
+an
+rl
+d
+y s
+h
+e
+i
+e
+gh
+fro
+f
+m
+ield
+th
+s
+is
+w
+fi
+e
+g
+re
+ure
+s
+t
+i
+h
+m
+a
+u
+t
+l
+t
+t
+h
+a
+e
+ne
+M
+o
+F
+us
+E
+l
+s
+y
+fotandforvaluescan becalculatedwithawell-knowntransition
+probability ( ( ± | )).10
+quenchedby the addition ofGd3+. In the previous papers,11·12
+we havereportedthataparamagnetic ioncan quenchtheMFEs *r = -P<t±1¡t0> (15)
+due to the relaxation mechanism but that it cannot quench the
+MFEs due to the Ag mechanism. Therefore, if the reverted *R. = PCT±ilS> (16)
+MFEsobservedinthisreactionwere ascribableto therelaxation
+andAgmechanisms (mechanism 1), theMFEs inbothlowand Here, P ( ± | ) is represented as
+high fields would not be simultaneously quenched.
+The magnetic field effects of R(B) observed for the triplet ( ±,| > = £2]V'|2r/[(/J/27r)2(l + m2r,2)] +
+sensitization of APDS can be explained by the relaxation
+mechanism through the anisotropic hyperfine and Zeeman 2|Vab|2rabórTo/[(/T/2jr)2 (1 + c2rab2)] (17)
+interactions (mechanism 2) by the following reasons: (1) the
+radical pair generated in the present study consists of two where 0 0 = 1 and <5sx„ = 0. V and U* are the off-diagonal
+equivalent (/?-aminophenyl)thiyl radicals and the Ag value is matrix elements between the T±i and states. V consists of
+completely0; (2)theMFEsobservedinbothlowandhighfields theanisotropicparts oftheZeeman (<5g')andthehyperfine ( 1)
+are simultaneously quenched by the addition of Gd3+. In the tensors. Vabis duetotheelectronspin—spindipolarinteraction
+presentreaction,therefore,thecontributionoftheAgmechanism
+betweenradicalsaandb. rabandt, are therotationalcorrelation
+was certainly removed from its reverted MFEs. times ofthe radical pair and each component radical. In this
+Themagneticallyinducedincreaseoftheescapedradicalyield
+calculation, we consider the case where
+decreased inthe high-fieldregion. Althoughthis decrease can
+b d e oub in tl t e e s r s pre p t r e in d cip b a y l t v h a e lue a s ni o so f t t r h o e pic g t Z e e n e so m r an hav in e te n r o a t ct y io e n t , be th e e n ( 2 ) = \ET - \ = |ET - £s| = (ga + gb)/3S/ ( 2 18)
+reported for the unsubstituted and substituted phenylthiyl
+radicals. For the unsubstituted phenylthiyl radical (PhS*), the ga and gb are the isotropic g values ofthe component radicals,
+anisotropic gvalues were independently reportedby Schmidt20 andß is the electric Bohr magneton. Now let us calculate fot
+andZandstra.21 Schmidtet al. gave the valuesof gx= gv (=gi) + fov numerically with the aid of eqs 17 and 18. Since many
+= 2.003 andg- (=gn) = 2.017 in solid diphenyl disulfide at77 parameters intheseequationshavenot yetbeenmeasured, they
+K,20 while Zandstra et al. reported the values ofgj. = 1.9982 are assumed adequately. The following parameters are fixed:
+and gn = 2.1246, which agreed with a quantum chemical ga = gb = 2.01,22”24 */ß = ß = 0.002T,8 Tab = 1.0 x
+calculation.21 Although the isotropic g value of the (p- 10~9 s,10 ra = rb = 1.0 x 10~n s,25 and rab = 0.6nm.8 Log(fo
+aminophenyl)thiyl radical was publishedwith an inconsistency + fot-) values obtainedforcase (a), gn = 2.021(óga = <5gb = gn
+(giso = 2.0078 by Morke et al.22 and g¡so = 2.0055 by - gi = 0.019), and case (b), gn = 2.039(<5ga = <5gb = gn - g±
+McLauchlan23), the anisotropic g values have not yet been = 0.037),were plottedagainstBinFigure5. Then,thefovalues
+reported. Thus, with irradiation of microcrystalline APDS at were calculated by using fot + fox, fo;p, and fo and are also
+— 160°C, we carriedoutESRmeasurementsofitsg anisotropy. plotted in Figure 5.
+Figure 4 shows the anisotropic ESR spectrum of the (p- As clearly seen from Figure 5, in each of cases (a) (gn =
+aminophenyl)thiyl radical. As seen from this figure, the high- 2.021) and (b) (gn = 2.039), the fo + fo· value showed a steep
+fieldfeatureisverysimpleandthe gj_(=gx= gv) valueobtained B dependence and a reversion of its MFEs was obtained. On
+is 2.002. On the other hand, the low-field part is so distorted the other hand, the fo (=fo + fo- + fo) value showed a
+
+--- Page 5 ---
+
+Reversion ofMagnetic Field Effects J. Phys. Chem., Vol. 99, No. 35, 1995 13185
+Ie(BT) (21)
+Since kEp is obtained as <104 s-1, the contribution of kEp is
+negligible and the relative yield of the escapedradical (7?'(B))
+can be approximated as follows:
+Ip(BT) A
+R'(B) = (22)
+/E(0T) 3*s
+The calculatedR'(B) values are plotted against B in Figure 6.
+Applied parameters are ga = gb = 2.01, /ß = °!ß -
+0.002 T, and rab = 0.6 nm. gn = 2.039, g± = 2.002, (a) Ta =
+Tb = 2.0 x 10~n s, Tab = 1 x 10-9 s, (b) ra = = 2.0 x
+7 10_" s, Tab = 5 x 10~10 s, (c) Ta = Tb =2.0 x 10~H s, Tab =
+2 x 10-l° s, (d) Ta = Tb = 2.0 x 10~" s, r*=l x 10-10 s,
+(e) Ta = Tb = 1.5 x 10-11 s, rab = 1 x 10-9 s, and (f) Ta = Tb
+« 6 = 5.0 x 10“" s, rab = 1 x 10~9 s. In Figure 6, these R'(B)
+curves are compared with the R(B) curve obtained experimen-
+S tally.
+5 Figure 6 shows that the reversion ofthe MFEs on R(B) can
+bereproducedfairlywellbycurves a—e andtheparametersets
+(a)—(e) are suitable for the description of the radical pair
+4 dynamics. Thus, we conclude thatthepresentreversion ofthe
+0 2 4 6 8 10 MFEson R(B)isascribabletotherelaxationmechanismthrough
+MagneticField/T the anisotropic hyperfine and Zeeman interactions. However,
+Figure5. Magnetic field dependence ofthe rateconstant ofthe spin the observed R(B) plots shown in Figure 6 cannot fully be
+relaxation (kR + kp) andthe radical pairdecay (£s (=fcR + kp + kp)): explained by curves a—e. This may be mainly due to a too
+(a) gn = 2.021, gi = 2.002 and (b)gn = 2.039,g± = 2.002. The other simple analysis of the radical pair decay by the model shown
+parameters are described in the text. in eqs 8—13. For a more quantitative analysis of the present
+g b d r e y a p k d e p u n , a d a l e n n B d t t u h d p e e o p r n e e n v g d e e r v s n a i c o l e u n , es o a . f n t d I h n e t c h M a e s F e E re ( s a v ) e a , r t s k t s i h o e i n s h m o ig a f h in i - t f s ly iel M d d e F t r e E e r g s m io i w n n a e i s d s M i o n f c F t l E u he d s, in p g o re ne s a e ll n s n t h e p o c a e u p s ld e sa r. u ry se int t e h r e ac s t t io o n ch s, as b t u ic tth L i i s ou is v b il e le yo e n q d ua th ti e on s 2 c 6 o · p 2 e 7
+not clear, as shown in Figure 5a. In case (b), ks is determined Conclusion
+bythe sum ofkp, kp', andkp, andthe reversionoftheMFEs on
+was obtained, as shown in Figure 5b. Similar results were In the present study, MFEs on the triplet sensitization of
+obtained in the following parameter sets: (i) rab = 1.0 x 10~9 p-aminophenyl disulfide are investigated in the SDS micellar
+s, 1.0 x 10-12 s < ra (= ) < 5.0 x 10~n s; (ii) Ta = 1.5 x solution at high magnetic fields up to 10 T, and the reversion
+1 10 0 - ~ 9 " s, s, Ta 1. = 0 x Tb 1 = 0~ 1 ' . ° 5 s x < 1 T 0 ab “" - s, 1. 0 0 .4 x nm 10- < s r s a ; b ( 5 iii) 0 r . a 8 b n = m. 1.0 Th x e t o h f is the is M th F e E l s ar o g n es R t (B re ) v i e s r o s b io s n er o ve f d t . he T M o F th E e s be d s u t e o t f o ou th r e kn re o l w ax le a d t g io e n ,
+other parameters are the same as written above. Since the mechanism among the reactions ofradical pairs andbiradicals
+reverted MFEs could not be reproduced using the gn value of reportedso far. Sincethegeneratedradicalpairconsistsoftwo
+case (a), we considerthatcase (b) mightbebetterthancase (a) equivalent(p-aminophenyl)thiylradicals,thecontributionofthe
+for the gn value ofthe (p-aminophenyl)thiyl radical. Ag mechanism is completely removed. Moreover, the MFEs
+Finally, we simulated the MFEs on the yield (7e) of the observed at both low and high fields are simultaneously
+escapedradicalusingtheparametersetsobtainedabove. From quenched by the addition of a paramagnetic ion. Thus, the
+eqs 8—13, Ip can be represented as follows: reverted MFEs are interpreted by the relaxation mechanism
+through the anisotropic hyperfine and Zeeman interactions.
+at B = 0T Two principal g values of the (p-aminophenyl)thiyl radical
+are measured, and the g± value (2.002) and two possible gn
+values (2.021 and 2.039) are obtained. From the calculation
+/E(0T) = /07-rr (19) of the relaxation rate (kp and kp·), the g values of the
+Kq ke p (p-aminophenyl)thiyl radical are considered to be g± = 2.002
+and gn = 2.039. Using these anisotropic g values and other
+at 5»0T parameters,therevertedMFEson R(B)can bereproducedfairly
+well. This result indicates that the mechanism of the reverted
+^T) = /frr + /srr (20) MFEs observed in the present study is ascribable to the
+Kf KEP Ks KEP relaxation mechanism through the anisotropic hyperfine and
+Zeeman interactions. Further studies of MFEs on the triplet
+sensitization of other substituted diphenyl disulfides in SDS
+If three sublevelsofthetripletradicalpairare equallypopulated, micellarsolutions undermagnetic fields of0—10T are now in
+Ifandh are describedas If= (l/3)7oand 7S = (2/3)7o. Ineq20, progress.
+kfismuchlargerthan fcEpandkp. kpl(kf— kpp)ismuchsmaller
+than kp/(ks — kEp). Thus, Ip(B T) can approximately be Acknowledgment. TheauthorsthankDr. YoshioSakaguchi
+represented as follows: ofThe Institute of Physical Chemical Research forhis helpful
+
+--- Page 6 ---
+
+13186 J. Phys. Chem., Vol. 99, No. 35, 1995 Wakasa et al.
+(5) Sakaguchi, Y. Abstracts ofPapers, 3rd International Symposium
+on MagneticFieldandSpinEffectsinChemistryandRelatedPhenomena,
+Chicago, Illinois, 1994; American Chemical Society: Washington, DC,
+1994; p 113.
+(6) Wakasa, M.; Nakamura, Y.; Sakaguchi. Y.; Hayashi, H. Chem.
+Phys. Lett. 1993, 215, 631.
+(7) Wakasa, M.; Sakaguchi, Y.; Hayashi, H. Chem. Lett. 1994, 49.
+(8) Nakamura, Y.; Igarashi, M.; Sakaguchi, Y.; Hayashi, H. Chem.
+Phys. Lett. 1994, 217, 387.
+(9) Igarashi,M.;Meng,Q.-X.: Sakaguchi,Y.;Hayashi,H.Mol. Phvs.
+1995, 84, 943.
+(10) Hayashi, H.; Nagakura, S. Bull. Chem. Soc. Jpn. 1984, 57, 322.
+(11) Wakasa,M.; Sakaguchi,Y.;Hayashi,HMol. Phys. 1994,83,613.
+(12) Wakasa,M.;Igarashi,M.; Sakaguchi,Y.;Hayashi,H. Chem. Lett.
+1994, 1941.
+(13) Sakaguchi, Y.; Hayashi, H. Chem. Phys. Lett. 1984, 106, 420.
+(14) Mukai,M.;Fujiwara,Y.;Tanimoto,Y.;Okazaki,M.J. Phvs. Chem.
+1993, 97, 12660.
+Figure6. Magnetic fielddependence ofthe calculatedR'(B) values. (15) Fujiwara, Y.; Mukai, M.; Imachi, K.; Takahira, O.; Hiruta, K.;
+The simulation parameters are described in the text. The R{B) values Nakagaki, R.; Okazaki, M.; Tanimoto, Y. Abstracts of Papers, 3rd
+observed experimentally are also shown by filled circles (·). The InternationalSymposiumon MagneticFieldandSpinEffectsinChemistry
+experimental error ofR(B) is within ±0.02. and Related Phenomena, Chicago, Illinois, 1994; American Chemical
+Society: Washington, DC, 1994; p 84.
+(16) Wakasa,M.; Sakaguchi, Y.; Hayashi,H.J. Phvs. Chem. 1993. 97,
+discussions and comments on this study. M.W. thanks the 1733.
+President Fund of The Institute of Physical and Chemical (17) Jeschke,G.;Wakasa,M.;Sakaguchi.Y.;Hayashi,HJ. Phvs. Chem.
+Research for support. H.H. thanks the MR Science Project 1994, 98, 4069.
+(ChemicalDynamics) oftheInstituteof Physical andChemical ozh ( e 1 v 8 , ) G B . o B ri . se Iz v v i . ch R , o N ss . . A A . k ; a M d. el N ’n a i u c k h , uk S , er S . . F V iz . . ; T 19 ik 9 h 2 o . m 56 iro ( v 2 , ), S 6 . 4 A . .;Tolstor-
+Research for support. T.T. thanks the Special Coordination (19) Garner, A.; Wilkinson, F. J. Chem. Soc.. Faraday Trans. 2 1976,
+Fund by Japanese Science Technology Agency on “Research 72, 1010.
+andDevelopmentforProductionofIntelligentMaterialsBased (20) Schmidt, U.; Müller, A.; Markau, K. Chem Ber. 1964, 405.
+on theCooperativeActionofAtomsandMolecules”forsupport. ( ( 2 2 1 2 ) ) Z M a o n r d k s e t , ra W , . P ; . J J e .; zi M er i s c k h i a , e A ls . e Z n, C J. he D m . . J. 19 C 7 h 9 e , m 1 . 9, Ph 1 y 4 s 7 . . 1963, 39, 933.
+(23) McLauchlan, K. A. Private communication.
+References and Notes (24) Batchelor, S. N.; Kay, C. W. M.; McLauchlan. K. A.; Yeung, M.
+T. J. Phys. Chem. 1993, 97, 4570.
+(1) Steiner, U. E.; Ulrich, T. Chem. Rev. 1989, 89, 51. (25) Baglioni. P.; Ottaniani, M. F.; Martini, G. J. Phvs. Chem. 1986,
+(2) Hayashi, H.; Sakaguchi, Y. Lasers in polymer science and 90. 5818.
+technology: applications', CRC Press: Boca Raton, FL, 1990; Vol. 2, (26) Pedersen, J. B.; Lolle, L. I. Appl. Magn. Reson. 1993, 5, 89.
+Chapter 1. (27) Pedersen,J. B.;Shushin,A. I.;Jorgensen,J. S. Chem. Phvs. 1994,
+(3) Hayashi, H. Photochemistryandphotophysics', CRC Press: Boca 189, 479.
+Raton, FL, 1990; Vol. 1, Chapter 2.
+(4) Sakaguchi, Y.; Hayashi, H. Chem. Lett. 1993, 1183. JP9512117

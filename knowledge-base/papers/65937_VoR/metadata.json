@@ -1,0 +1,49 @@
+{
+  "paper_id": "65937_VoR",
+  "doi": "10.1021/acs.jpclett.4c00656",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "CiteThis:J.Phys.Chem.Lett.2024",
+    "15",
+    "4130−4135 ReadOnline"
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "Molecular spins provide potential building units for future quantum\ninformation science and spintronic technologies. In particular, doublet (S = 1/ ) and\n2\ntriplet (S = 1) molecular spin states have the potential for excellent optical and spin\npropertiesfortheseapplicationsifusefulphoton-spinmechanismsatroomtemperature\ncan be devised. Here we explore the potential of exploiting reversible energy transfer\nbetweentripletanddoubletstatestoestablishmagnetosensitiveluminescenceandspin\npolarization. We investigate the dependence of the photon-spin mechanism on the\nmagnitude and sign of the exchange interaction between the doublet and triplet spin\ncomponents in amorphous and crystalline model systems. The design of a magnetic\nfield inclination sensor is proposed from understanding the required “structure” (spin\ninteractions) to “function” (magnetosensitivity).\nDoublet (S = 1/ ) and triplet (S = 1) spin states from In our recent work, we showed that the interplay of trip- 2\nmolecules provide p",
+  "date_added": "2025-11-05T07:49:10.739616",
+  "last_modified": "2025-11-05T07:49:10.739619",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "/Users/clarice/Desktop/Claude test/Literature/65937.VoR.pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

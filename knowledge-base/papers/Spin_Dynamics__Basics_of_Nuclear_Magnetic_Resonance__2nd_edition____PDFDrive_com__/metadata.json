@@ -1,0 +1,48 @@
+{
+  "paper_id": "Spin_Dynamics__Basics_of_Nuclear_Magnetic_Resonance__2nd_edition____PDFDrive_com__",
+  "doi": "",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "The University of Southampton",
+    "UK"
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "possibilityof(cid:15)takinghalf-integervalues1/2,3/2...,aswellastheintegervalues0,1,2...thatarisefrom\nangularmomentumphysics,asdiscussedabove.\nFor example, if (cid:15) is equal to 3/2, then Equation 7.16 shows that m may take the values m=\n+3/2,+1/2,−1/2 and −3/2. The four states |(cid:15),m(cid:8)=|3/2,+3/2(cid:8), |3/2,+1/2(cid:8), |3/2,−1/2(cid:8) and |3/2,−3/2(cid:8)\ndefine a four-dimensional ‘block’, in the sense of Equation 7.25. The same cyclic commutation relation-\nshipsapplyasbefore,andtheshiftoperatorshavematrixelementsthatconformtothestandardequation,\nEquation7.21.\nHowever,thereisacatch.Althoughhalf-integerspinisafullyconsistent‘mathematical’possibility,it\nlongappearedtohaveabsolutelynorelationshipwiththerealworld.2 The‘physical’angularmomentum\noperatorsdefinedinEquation7.12cannevergeneratehalf-integervaluesof(cid:15).\nNevertheless, there is a wealth of experimental evidence for the existence, and even the prevalence, of\nhalf-integerspinintheworldoffundamentalparticles.Theex",
+  "date_added": "2025-11-05T07:54:11.251644",
+  "last_modified": "2025-11-05T07:54:11.251647",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "/Users/clarice/Desktop/Claude test/Literature/Spin Dynamics_ Basics of Nuclear Magnetic Resonance (2nd edition) ( PDFDrive.com ).pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

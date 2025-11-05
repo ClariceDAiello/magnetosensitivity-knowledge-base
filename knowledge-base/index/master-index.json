@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "version": "1.0.0",
-  "last_updated": "2025-10-09T13:17:14.069304",
+  "last_updated": "2025-11-05T08:01:56.894052",
   "description": "Master index of all papers in the magnetosensitivity knowledge base",
   "papers": [
     {
@@ -70,7 +70,7 @@
         "thebiologicaleffectsofweakmagneticfieldsarestillregarded"
       ],
       "year": null,
-      "date_added": "2025-10-09T13:16:23.179932",
+      "date_added": "2025-11-05T07:51:11.263338",
       "file_path": "knowledge-base/papers/Magnetobiology_Underlying_Physical_Problems_by_Vladimir_N__Binhi"
     },
     {
@@ -84,6 +84,518 @@
       "year": null,
       "date_added": "2025-10-09T13:17:14.067892",
       "file_path": "knowledge-base/papers/BIOELECTROMAGNETISM"
+    },
+    {
+      "paper_id": "1-s2_0-0301010489870922-main",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "North-Holland",
+        "Amsterdam"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:47:50.002663",
+      "file_path": "knowledge-base/papers/1-s2_0-0301010489870922-main"
+    },
+    {
+      "paper_id": "26172531-biochemistry-the-chemical-reactions-of-living-cell-volumes1-and-2-david-e-metzler-220904090",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "Chapter 2. Amino Acids",
+        "Peptides",
+        "and Proteins 39"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:49:09.240808",
+      "file_path": "knowledge-base/papers/26172531-biochemistry-the-chemical-reactions-of-living-cell-volumes1-and-2-david-e-metzler-220904090"
+    },
+    {
+      "paper_id": "64",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [],
+      "year": null,
+      "date_added": "2025-11-05T07:49:10.157901",
+      "file_path": "knowledge-base/papers/64"
+    },
+    {
+      "paper_id": "65937_VoR",
+      "doi": "10.1021/acs.jpclett.4c00656",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "CiteThis:J.Phys.Chem.Lett.2024",
+        "15",
+        "4130−4135 ReadOnline"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:49:10.739616",
+      "file_path": "knowledge-base/papers/65937_VoR"
+    },
+    {
+      "paper_id": "80743f71ba3a68ea256c6d91b8ca52ba",
+      "doi": "10.1007/978-981-10-3579-1",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "Hefei",
+        "China Baltimore",
+        "USA"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:49:25.228962",
+      "file_path": "knowledge-base/papers/80743f71ba3a68ea256c6d91b8ca52ba"
+    },
+    {
+      "paper_id": "978-3-540-37062-8",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "By V.A. Goldade",
+        "L.S. Pinchuk",
+        ""
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:49:41.718205",
+      "file_path": "knowledge-base/papers/978-3-540-37062-8"
+    },
+    {
+      "paper_id": "BUCHACHENKOELSEVIER2024",
+      "doi": "10.1016/B978-0-443-29819-6.00008-0",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "538 PUBLICATIONS 8",
+        "006 CITATIONS"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:49:46.452464",
+      "file_path": "knowledge-base/papers/BUCHACHENKOELSEVIER2024"
+    },
+    {
+      "paper_id": "Bertil_Hille_-_Ion_Channels_of_Excitable_Membranes__2001__Sinauer_Associates__-_libgen_li",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "Sinauer Associates",
+        "Inc. • Publishers"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:50:26.305022",
+      "file_path": "knowledge-base/papers/Bertil_Hille_-_Ion_Channels_of_Excitable_Membranes__2001__Sinauer_Associates__-_libgen_li"
+    },
+    {
+      "paper_id": "Biological_Effects_of_Static_Magnetic_Fields",
+      "doi": "10.1007/978-981-19-8869-1",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "ChineseAcademyofSciences(CHMFL)",
+        ""
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:50:44.742044",
+      "file_path": "knowledge-base/papers/Biological_Effects_of_Static_Magnetic_Fields"
+    },
+    {
+      "paper_id": "FREE-RADICALS-IN-BIOLOGICAL-SYSTEMS",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "Chemical Pathologist",
+        "Whittington Hospital",
+        "London"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:50:45.350907",
+      "file_path": "knowledge-base/papers/FREE-RADICALS-IN-BIOLOGICAL-SYSTEMS"
+    },
+    {
+      "paper_id": "FranciscoTalk",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [],
+      "year": null,
+      "date_added": "2025-11-05T07:50:45.374049",
+      "file_path": "knowledge-base/papers/FranciscoTalk"
+    },
+    {
+      "paper_id": "Free_Radicals_in_Chemical_Biology",
+      "doi": "10.2533/chimia.2008.703",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "doi:10.2533/chimia.2008.703 CHIMIA2008",
+        "62",
+        "No.9"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:50:46.499003",
+      "file_path": "knowledge-base/papers/Free_Radicals_in_Chemical_Biology"
+    },
+    {
+      "paper_id": "Introduction_to_Magnetic_Resonance__Alan_Carrington__Andrew_D__McLachlan___z-lib_org_",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [],
+      "year": null,
+      "date_added": "2025-11-05T07:50:46.641558",
+      "file_path": "knowledge-base/papers/Introduction_to_Magnetic_Resonance__Alan_Carrington__Andrew_D__McLachlan___z-lib_org_"
+    },
+    {
+      "paper_id": "L-G-0000575529-0002359145",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "Structure",
+        "Reactivity",
+        "and Dynamics"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:50:47.259965",
+      "file_path": "knowledge-base/papers/L-G-0000575529-0002359145"
+    },
+    {
+      "paper_id": "Magnetic_Spin_Effects_in_Chemical_Reactions",
+      "doi": "10.3367/UFNr.0151.198701h.0173",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "5 authors",
+        "including:"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:50:47.291783",
+      "file_path": "knowledge-base/papers/Magnetic_Spin_Effects_in_Chemical_Reactions"
+    },
+    {
+      "paper_id": "Spin_Dynamics__Basics_of_Nuclear_Magnetic_Resonance__2nd_edition____PDFDrive_com__",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "The University of Southampton",
+        "UK"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:54:11.251644",
+      "file_path": "knowledge-base/papers/Spin_Dynamics__Basics_of_Nuclear_Magnetic_Resonance__2nd_edition____PDFDrive_com__"
+    },
+    {
+      "paper_id": "Studies_on_coherent_and_incoherent_spin_dynamics_that_control_the_magnetic_field_effect_on_photogene",
+      "doi": "10.1080/00268976.2019.1643510",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "118:6",
+        "e1643510",
+        "DOI: 10.1080/00268976.2019.1643510"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:54:12.039107",
+      "file_path": "knowledge-base/papers/Studies_on_coherent_and_incoherent_spin_dynamics_that_control_the_magnetic_field_effect_on_photogene"
+    },
+    {
+      "paper_id": "Weak_magnetic_field_effects_in_biology_are_measurable",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "Alessandro Lodesani",
+        "1",
+        "∗ Geoff Anders",
+        "1",
+        "2",
+        "† Lykourgos Bougas",
+        "3 Tobias"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:54:22.723037",
+      "file_path": "knowledge-base/papers/Weak_magnetic_field_effects_in_biology_are_measurable"
+    },
+    {
+      "paper_id": "b107250c",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "Department of Chemistry",
+        "University of Sheffield",
+        "Sheffield",
+        "UK S3 7HF."
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:54:23.515656",
+      "file_path": "knowledge-base/papers/b107250c"
+    },
+    {
+      "paper_id": "bcsj_74_773",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "Hisaharu Hayashi",
+        "* Yoshio Sakaguchi",
+        "and Masanobu Wakasa"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:54:24.211003",
+      "file_path": "knowledge-base/papers/bcsj_74_773"
+    },
+    {
+      "paper_id": "biochemistryvolume2secondeditionthechemicalreactionsoflivingcellsdavide-220802115710-f9dcc21e",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "permission from Science269",
+        "496 – 512",
+        ""
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:56:28.366057",
+      "file_path": "knowledge-base/papers/biochemistryvolume2secondeditionthechemicalreactionsoflivingcellsdavide-220802115710-f9dcc21e"
+    },
+    {
+      "paper_id": "ch01",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "Tounderstandimportantopticalmethodsusedtoinvestigatebiomolecules",
+        "such"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:56:29.155738",
+      "file_path": "knowledge-base/papers/ch01"
+    },
+    {
+      "paper_id": "ch06",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "singleisotope",
+        "theyhavebecomeanindispensabletoolinthebiosciences.Animpor-"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:56:29.548818",
+      "file_path": "knowledge-base/papers/ch06"
+    },
+    {
+      "paper_id": "ch07",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "suchassuper-resolutionmicroscopy techniques(Chapter8)",
+        "opticalsingle-mol-"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:56:29.857986",
+      "file_path": "knowledge-base/papers/ch07"
+    },
+    {
+      "paper_id": "ch09",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "reactionsstepsforallbiomoleculessimultaneously.Inaddition",
+        "notallbiomole-"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:56:31.878675",
+      "file_path": "knowledge-base/papers/ch09"
+    },
+    {
+      "paper_id": "ch11",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "ever",
+        "thehighdemandinfastandaffordablesequencingoflargeDNAsequences"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:56:32.313474",
+      "file_path": "knowledge-base/papers/ch11"
+    },
+    {
+      "paper_id": "ch13",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "Assay Development",
+        "Readers and"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:56:39.025623",
+      "file_path": "knowledge-base/papers/ch13"
+    },
+    {
+      "paper_id": "free-radicals-in-biology-and-medicine-220515093837-10384540",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "B.A.(OXON)",
+        "D.Phil.(OXON)",
+        "D.SC(LOND)"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:57:34.981490",
+      "file_path": "knowledge-base/papers/free-radicals-in-biology-and-medicine-220515093837-10384540"
+    },
+    {
+      "paper_id": "hogben_thesis",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "fluencedbythemagnitudeanddirectionofappliedmagneticfields",
+        "evenforinteractionstrengths"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:57:45.021979",
+      "file_path": "knowledge-base/papers/hogben_thesis"
+    },
+    {
+      "paper_id": "ijms-24-08218",
+      "doi": "10.3390/ijms24098218",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "JörgMatysik1",
+        "*",
+        "LucaGerhards2",
+        "TobiasTheiss3",
+        "LisaTimmermann3",
+        "PatrickKurle-Tucholski1",
+        "GuzelMusabirova1",
+        ""
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:57:46.748216",
+      "file_path": "knowledge-base/papers/ijms-24-08218"
+    },
+    {
+      "paper_id": "index",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "Abbe’slaw 170",
+        "185",
+        "212",
+        "328 autofluoroscence 54",
+        "62"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:57:46.985757",
+      "file_path": "knowledge-base/papers/index"
+    },
+    {
+      "paper_id": "lipidperoxidation-200922124146",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "damage to biomolecules",
+        "cells and tissues."
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:57:47.529688",
+      "file_path": "knowledge-base/papers/lipidperoxidation-200922124146"
+    },
+    {
+      "paper_id": "nwae244",
+      "doi": "10.1093/nsr/nwae244",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "11: nwae244",
+        "2024"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:58:28.562525",
+      "file_path": "knowledge-base/papers/nwae244"
+    },
+    {
+      "paper_id": "p375",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "CISE SpA",
+        "Segrate (Milan)",
+        "Italy"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:58:29.885410",
+      "file_path": "knowledge-base/papers/p375"
+    },
+    {
+      "paper_id": "part1",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "resolution microscopy (Chapter 8)",
+        "single-biomolecule detection (Chapter 9)",
+        ""
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:58:29.995196",
+      "file_path": "knowledge-base/papers/part1"
+    },
+    {
+      "paper_id": "part2",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "ModernBiophysicalChemistry:DetectionandAnalysisofBiomolecules",
+        "SecondEdition.PeterJomoWalla."
+      ],
+      "year": null,
+      "date_added": "2025-11-05T07:58:30.041310",
+      "file_path": "knowledge-base/papers/part2"
+    },
+    {
+      "paper_id": "powabygdtxyuasxdgab6-signature-a3d921819d20ccbd7ec0a08eaa973ea261b36c1c596c50146db916f517ed22e8-poli",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "the Biochemistry",
+        "Cell Biology",
+        "Genetics",
+        "and Developmental"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T08:00:59.871679",
+      "file_path": "knowledge-base/papers/powabygdtxyuasxdgab6-signature-a3d921819d20ccbd7ec0a08eaa973ea261b36c1c596c50146db916f517ed22e8-poli"
+    },
+    {
+      "paper_id": "reversion-of-magnetic-field-effects-observed-in-the-reaction-of-a-triplet-born-radical-pair-consisti",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "J. Phys. Chem. 1995",
+        "99",
+        "13181-13186 13181"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T08:01:00.440173",
+      "file_path": "knowledge-base/papers/reversion-of-magnetic-field-effects-observed-in-the-reaction-of-a-triplet-born-radical-pair-consisti"
+    },
+    {
+      "paper_id": "spin-catalysis-of-chemical-reactions",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "Moscow Region 142432",
+        "Russia"
+      ],
+      "year": null,
+      "date_added": "2025-11-05T08:01:02.063081",
+      "file_path": "knowledge-base/papers/spin-catalysis-of-chemical-reactions"
+    },
+    {
+      "paper_id": "srep38543",
+      "doi": "10.1038/srep38543",
+      "title": "--- Page 1 ---",
+      "authors": [],
+      "year": null,
+      "date_added": "2025-11-05T08:01:02.438307",
+      "file_path": "knowledge-base/papers/srep38543"
+    },
+    {
+      "paper_id": "wagner_thesis",
+      "doi": "",
+      "title": "--- Page 1 ---",
+      "authors": [
+        "UniversityofOxford",
+        ""
+      ],
+      "year": null,
+      "date_added": "2025-11-05T08:01:56.892619",
+      "file_path": "knowledge-base/papers/wagner_thesis"
     }
   ]
 }

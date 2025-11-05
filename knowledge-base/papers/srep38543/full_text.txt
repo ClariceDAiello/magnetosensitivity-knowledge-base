@@ -1,0 +1,313 @@
+
+
+--- Page 1 ---
+
+www.nature.com/scientificreports
+OPEN The Quantum Biology of Reactive
+Oxygen Species Partitioning
+Impacts Cellular Bioenergetics
+received: 01 August 2016 Robert J. Usselman1, Cristina Chavarriaga2, Pablo R. Castello3, Maria Procopio4,
+Accepted: 10 November 2016 Thorsten Ritz4, Edward A. Dratz1, David J. Singel1 & Carlos F. Martino2
+Published: 20 December 2016
+Quantum biology is the study of quantum effects on biochemical mechanisms and biological function.
+We show that the biological production of reactive oxygen species (ROS) in live cells can be influenced
+by coherent electron spin dynamics, providing a new example of quantum biology in cellular regulation.
+ROS partitioning appears to be mediated during the activation of molecular oxygen (O ) by reduced
+2
+flavoenzymes, forming spin-correlated radical pairs (RPs). We find that oscillating magnetic fields at
+Zeeman resonance alter relative yields of cellular superoxide (O •−) and hydrogen peroxide (H O )
+2 2 2
+ROS products, indicating coherent singlet-triplet mixing at the point of ROS formation. Furthermore,
+the orientation-dependence of magnetic stimulation, which leads to specific changes in ROS levels,
+increases either mitochondrial respiration and glycolysis rates. Our results reveal quantum effects
+in live cell cultures that bridge atomic and cellular levels by connecting ROS partitioning to cellular
+bioenergetics.
+Quantum biology may be thought of as the signatures of molecular-level quantum phenomena observed in bio-
+logical systems at functional, cellular, or organism levels1,2. For example, quantum effects in biological systems
+have been implicated in mechanisms for avian navigation3–7, olfactory sensing8,9, and photosynthesis10–12. Here,
+we present results that reveal a novel domain of quantum biology: the control of the biological production of reac-
+tive oxygen species (ROS) via coherent spin dynamics in a radical pair (RP) reaction. Our work builds on studies
+of complexes between reduced flavoenzymes and molecular oxygen13,14, within the context of quantum biology15
+and the radical pair mechanism (RPM)16,17.
+The RPM offers an attractive foundation to explain how quantum effects can influence biochemical ROS pro-
+duction. At the heart of the RPM lies a coherent singlet-triplet interconversion (Fig. 1), driven by the dynamical
+mixing of the spin eigenstates of coupled free-radicals. The RP spin dynamics are governed by internal magnetic
+interactions, usually electron-nuclear hyperfine interactions (HFIs) and applied magnetic fields. External static
+and oscillating magnetic fields can alter RP spin dynamics by Zeeman and HFI resonance effects, and thereby
+change the relative yields of reaction products that derive, alternatively, from singlet and triplet RP states18,19. The
+product yields will depend on the strength of the static field and on the frequency, amplitude, and orientation (rel-
+ative to the static field) of the applied oscillating magnetic field17. These experimental parameters can be adjusted
+to alter the relative ROS product yields in vitro. In this work, we demonstrate magnetic field-induced changes in
+ROS levels that leave a metabolic signature at the cellular level. We report the effects of the orientation of oscillat-
+ing fields on the ROS reaction yields in cell cultures and the impact of the resulting variations in the ROS products
+on the regulation of cellular bioenergetics.
+We assume that magnetically sensitive ROS formation occurs at flavoenzyme centers (Fig. 1), initialized by an
+electron transfer that activates molecular oxygen (O) in reduced flavoenyzmes20. A triplet-born, spin-correlated
+2
+RP is created between flavin semiquinone (FADH•) and superoxide (O•−)21,22. The FADH•:O•− intermediate
+2 2
+is a branch point for ROS products, where subsequent spin-selective reactions have two competing pathways.
+Either O•− is released from the triplet RP state and escapes into the medium, or a hydroperoxy-flavin transient
+2
+1Department of Chemistry and Biochemistry, Montana State University, Bozeman, MT 59717, USA. 2Department
+of Biomedical Engineering, Florida Institute of Technology, Melbourne, FL 32901, USA. 3Consejo Nacional de
+Investigaciones Científicas y Técnicas (CONICET), Universidad de Belgrano (UB), Villanueva 1324, C1426BMJ,
+Buenos Aires, Argentina. 4Department of Physics and Astronomy, University of California, Irvine, CA 92697, USA.
+Correspondence and requests for materials should be addressed to R.J.U. (email: robert.usselman@montana.edu)
+or C.F.M. (email: cmartino@fit.edu)
+Scientific RepoRts | 6:38543 | DOI: 10.1038/srep38543 1
+
+--- Page 2 ---
+
+www.nature.com/scientificreports/
+Figure 1. Flavin semiquinone (FADH•) and superoxide (O•−) spin-correlated radical pair (top). The
+2
+radical pair undergoes intersystem crossing (ISC) between singlet (S) and triplet states (T ) at rates (k )
+-1,0,1 ISC
+determined by electron-nuclear hyperfine and Zeeman interactions (middle). An applied RF oscillating
+magnetic field tuned at Zeeman resonance (1.4 MHz at 50 μ T magnetic field), modifies k (bottom), and
+ISC
+ultimately affects the relative amount of singlet (HO) and triplet (O•−) reaction products. Resonance effects
+2 2 2
+on ROS product yields are a key manifestation of quantum biology.
+is formed from the singlet RP state. A subsequent second electron transfer releases hydrogen peroxide (HO).
+2 2
+Besides kinetic requirements22, the coherent evolution between the singlet and triplet states of FADH•:O•− RP
+2
+determines the amount of the products for the two reaction channels. We hypothesize that RP spin dynamics can
+be altered by external static and oscillating magnetic fields23, which change singlet-triplet intersystem crossing
+(ISC) rates, and thus affect the outcome of cellular ROS product ratios.
+To test the RPM hypothesis for ROS-related quantum biology, we developed low-frequency, low-field instru-
+mentation for product-yield detected magnetic resonance (PYDMR)21. In the present PYDMR study, primary
+human umbilical vein endothelial cells (HUVECs) were exposed to either 50 μ T static magnetic fields (SMF) in
+control samples, or to 50 μ T SMFs combined with 1.4 MHz, 20 μ T RF magnetic fields at Zeeman resonance in
+rms
+experimental samples. The RF orientation was applied in parallel or perpendicular angles with respect to the SMF.
+Intracellular O•− and extracellular HO were measured by selective assays in HUVEC cultures. Figure 2 exhibits
+2 2 2
+the changes observed in the ROS product distributions measured for parallel and perpendicular RF orientations.
+In the perpendicular orientation, we measured a 36% ± 4 reduction of O•− (p < 0.002) and a 21% ± 5 reduction
+2
+of HO (p < 0.02). For the parallel orientation, we measured a 10% ± 2 (p < 0.002) reduction of O•− and an
+2 2 2
+8% ± 8 increase oaf HO (p < 0.02). Changes in ROS products in cell cultures between SMF ± RF are indica-
+2 2
+tive of a resonance effect on singlet-triplet intersystem crossing (or quantum coherences) at the point of ROS
+formation21.
+Singlet-triplet product yields were modeled by numerical simulations of a triplet-born one-proton radical-pair
+reaction with static and RF magnetic fields at Zeeman resonance7, Fig. 3. The numerical results predict an
+orientation-dependent increase in singlet product yield (HO) and decrease in triplet product yield (O•−) when
+2 2 2
+the resonant RF field is added to the static field. These simulations are in agreement with perpendicular experi-
+mental results (Fig. 2) and are consistent with our previous cellular results with hyperfine resonance effects21. The
+theoretical model of a one-proton RP does not account for changes in ROS yields (O•− and HO) in the parallel
+2 2 2
+orientation, which suggests either limitations of the simplified model in the complex cellular environment or
+anisotropic hyperfine resonances near the Zeeman resonance.
+To understand the potential effects of ROS signaling on cellular bioenergetics, we measured the oxygen con-
+sumption rate (OCR) and extracellular acidification rate (ECAR) with a Seahorse XF Analyzer, Fig. 4. OCR indi-
+cates the mitochondrial respiration rate and ECAR is predominately a measure of lactic acid formed during
+glycolytic energy metabolism24,25. Figure 4 illustrates experiments in HUVECs that show RF orientation depend-
+ence of OCR and ECAR bioenergetic measurements, which appear to result from changes in ROS partition-
+ing. Zeeman resonance at perpendicular excitation did not affect OCR levels (Fig. 4A) but increased ECAR by
+Scientific RepoRts | 6:38543 | DOI: 10.1038/srep38543 2
+
+--- Page 3 ---
+
+www.nature.com/scientificreports/
+Figure 2. ROS product distributions illustrating the RF magnetic field orientation dependence at Zeeman
+resonance (1.4 MHz and 50 μT magnetic field). The data is presented as a product yield ratio percentage
+with ± RF in the static field. RF magnetic fields in perpendicular orientation decreased both O•− and HO
+2 2 2
+levels by 36% ± 4% (p < 0.002) and 21% ± 5% (p < 0.02), respectively, relative to controls. In parallel orientation,
+HO levels increased by 8% ± 8% (p < 0.02), whereas O•− decreased by 10% ± 2% (p < 0.002), relative to
+2 2 2
+controls. The amount of ROS produced were normalized to protein concentrations and represent the average of
+3 independent experiments.
+Figure 3. Numerical simulations of the effects of RF magnetic fields at Zeeman resonance on triplet (ΦT,
+T
+O•−) and singlet (ΦS, HO) yields of a triplet-born radical-pair reaction. The RP model shown here is for a
+2 T 2 2
+one-proton radical-pair with one isotropic hyperfine coupling of 500 μ T and a RP lifetime of 10 μ s. The static
+magnetic field was set to B = 50 μ T and the RF magnetic field amplitude set to B = 20 μ T (RMS), with a
+o RF
+Zeeman resonance frequency of 1.4 MHz. RT (RS) is the relative change of triplet (singlet) yields produced by the
+RF, relative to the levels in the static field.
+100% ± 13 (Fig. 4C). Zeeman resonance at parallel excitation had an opposite effect, where OCR increased by
+54% ± 4 (Fig. 4B) while ECAR remained unchanged (Fig. 4D). Altered OCR and ECAR values indicate pheno-
+typic changes in HUVECs bioenergetic pathways, demonstrating spin biochemistry intervention of ROS signal-
+ing by RF magnetic fields at Zeeman resonance.
+The orientation effects that lead to specific ROS product distributions are in agreement with the simple RPM
+model for the perpendicular orientation, which predicts an increase in singlet yields with a concomitant decrease
+in triplet yields, Fig. 3. The overall reduction in measured ROS products at perpendicular excitation suggests
+a possible ROS signaling link to increased glycolytic activity26,27. The decrease in steady-state ROS levels with
+enhanced glycolytic activity might be due to scavenging of ROS by pyruvate28. The differential effect on ROS
+product yields at parallel excitation indicate a signaling channel of increased mitochondrial respiration. Our
+experiments did not explore the downstream targets of the ROS signaling pathways that lead to regulation of gly-
+colysis and respiration. We suggest that ROS signaling channels are likely to involve the activation of bioenergetic
+regulation proteins26,29,30, eliciting a type of hormesis response31 or a Warburg effect27.
+Magnetic stimulation of ROS partitioning in live cells reveals hallmarks of quantum coherence, manifested
+by changes in cellular ROS product distributions. Changes in ROS product partitioning, in turn, altered cellular
+bioenergetics by increasing either mitochondrial respiration or glycolysis. ROS formation is inextricably linked
+to bioenergetics by normal cellular metabolism, connecting persistent quantum effects in ROS oxidative signaling
+to cellular bioenergetics. Because of the importance of ROS in human health and disease32, this research is likely
+to have significance for several areas in bio-medical research. Our results provide fundamental insights into the
+role of the RPM in ROS redox biology and cellular bioenergetics, revealing a new example of quantum biology.
+Scientific RepoRts | 6:38543 | DOI: 10.1038/srep38543 3
+
+--- Page 4 ---
+
+www.nature.com/scientificreports/
+Figure 4. Bioenergetic profiles of HUVECs cultures monitored with a Seahorse XF Analyzer, comparing
+static alone ( ) and static + RF ( ) magnetic fields. Oligomycin was added at 21 min to inhibit ATP
+synthesis, the proton ionophore FCCP was added at 41 min to assess the maximum possible oxygen
+consumption, and antimycin A was added at 61 min to inhibit electron flow through complex III. The static
+magnetic field was 50 μ T and the RF was 1.4 MHz at Zeeman resonance. The RF was oriented perpendicular
+(A and C) or parallel (B and D) to the static field. Perpendicular RF excitation did not affect the oxygen
+consumption rate (OCR) (Panel A), whereas extracellular acidification rate (ECAR) was increased by 100 ± 13
+(p < 0.001, Panel C). Parallel RF excitation lead to increased OCR by 54 ± 4 (p < 0.001, Panel B), while ECAR
+remained unchanged (Panel D). These are results of 3 independent representative experiments and data were
+normalized to total cellular protein.
+Methods
+Cell Culture. Human umbilical vein endothelial cells (HUVECs) (passage 2–4) were cultured in endothe-
+lial growth medium (Promocell GmbH, Heidelberg, Germany) supplemented with 2% fetal calf serum (FCS),
+0.004 ml/ml endothelial cell growth supplement/heparin, 0.1 ng/ml epidermal growth factor (EGF), 1 ng/ml basic
+fibroblast growth factor, and 1 mg/ml hydrocortisone at 37 °C with 5% CO. The cells were cultured in a 75-cm2
+2
+flask to expand cell number. After reaching confluence, the cells were seeded in (a) 6-well culture plates at a
+density of 3.5× 103 cells/cm2 for ROS experiments; (b) and in mini plates at 3,500 cells per well for Seahorse XFp
+Analyzer (Agilent Technologies, Santa Clara, CA).
+ROS Measurements. Cellular H O production was measured with the horseradish peroxidase-linked
+2 2
+Amplex Ultra Red (HRP-AUR) fluorometric assay (Invitrogen). After cells were seeded, they were exposed to
+SMF ± RF magnetic fields for the duration of the experiment, by use of the PYDMR apparatus we previously
+described21. At day 3, medium was aspirated and cells were washed with Hank’s Buffer (HB) with 100 μ M dieth-
+ylenetriaminepentaacetic acid (DTPA) and incubated for 1 h with HB containing 10 μ M AUR and 0.2 units/
+ml HRP. Resorufin fluorescence was collected on a Gemini fluorescence microplate reader (Molecular Devices,
+Sunnyvale, CA).
+To measure intracellular production of O•−, HUVECs were incubated for 30 min at 37 °C in HB containing
+2
+50 μM dihydroethidium (DHE) at day 3. Cells were washed twice in HB with 100 μM DTPA and harvested in 300
+μ L of methanol. The samples were spun down for 15 min at 12,000 rpm at 4 °C, the supernatant was collected and
+dried for 5–6 hrs at 37 °C and stored at − 20 °C for 7–10 days before high-performance liquid chromatography
+(HPLC) analysis. An Agilent 1100 series HPLC with a G1321A fluorescence detector was used for DHE product
+Scientific RepoRts | 6:38543 | DOI: 10.1038/srep38543 4
+
+--- Page 5 ---
+
+www.nature.com/scientificreports/
+separation. Analytes were separated using a C-18 reverse-phase column (Nucleosil 250 to 4.5 mm) as previously
+described33. The total fluorescence intensity of the 2-hydroxyethidium peak were averaged for all wells and then
+averaged for three separate experiments.
+Protein content, HPLC analysis, and resorufin fluorescence were measured at the same termination points.
+HO and O•− measurements were normalized to total protein concentration (BCA, Pierce). HO calibration
+2 2 2 2 2
+curves with HRP-AUR under the same RF magnetic field strengths showed no differences compared to SMF
+controls, demonstrating that RF fields do not interact with the HO detection assay.
+2 2
+Cellular Bioenergetics. An XFp Analyzer from Seahorse Bioscience was used for the bioenergetic meas-
+urements. HUVECs were seeded at 4,000 cells per well in XFp miniplates and exposed to RF magnetic fields for
+2 days. The MitoStress Test Assay was performed as described previously24,25. The XFp Analyzer measured mito-
+chondrial respiration and glycolysis in vitro34,35 in the same samples. Mitochondrial respiration was determined
+by the oxygen consumption rate (OCR) in cell culture. Glycolysis was assessed by the extracellular acidification
+rate (ECAR). To estimate the proportion of the OCR coupled to ATP synthesis, oligomycin (1 μg /ml) was injected
+at 21 minutes into all samples to inhibit the ATP synthase. Typically, the OCR rate decreases in response to oli-
+gomycin by the extent to which the cells are using mitochondria to generate ATP. The remaining OCR can be
+ascribed to both proton leak across the mitochondrial membrane and oxygen consumption by processes other
+than reduction at cytochrome c oxidase. To determine the maximal OCR that the cells can sustain, the pro-
+ton ionophore (uncoupler) FCCP (1 μ M) was injected at 41 minutes. Lastly, antimycin A (10 μ M) is injected at
+61 minutes to inhibit electron flux through Complex III, which suppresses OCR dramatically. What remains is the
+OCR that is attributable to O consumption due to the formation of mitochondrial ROS and non-mitochondrial
+2
+sources.
+References
+1. Ball, P. Physics of life: The dawn of quantum biology. Nature 474, 272–274, doi: 10.1038/474272a (2011).
+2. Lambert, N. et al. Quantum Biology. Nature Physics 9, 10–18 (2013).
+3. Maeda, K. et al. Chemical compass model of avian magnetoreception. Nature 453, 387–U338, doi: 10.1038/nature06834 (2008).
+4. Ritz, T., Adem, S. & Schulten, K. A model for photoreceptor-based magnetoreception in birds. Biophys J 78, 707–718 (2000).
+5. Gegear, R. J., Foley, L. E., Casselman, A. & Reppert, S. M. Animal cryptochromes mediate magnetoreception by an unconventional
+photochemical mechanism. Nature 463, 804–807, doi: 10.1038/nature08719 (2010).
+6. Solov’yov, I. A. & Schulten, K. Magnetoreception through Cryptochrome May Involve Superoxide. Biophys J 96, 4804–4813, doi:
+10.1016/j.bpj.2009.03.048 (2009).
+7. Ritz, T., Thalau, P., Phillips, J. B., Wiltschko, R. & Wiltschko, W. Resonance effects indicate a radical-pair mechanism for avian
+magnetic compass. Nature 429, 177–180, doi: 10.1038/nature02534 (2004).
+8. Turin, L. A spectroscopic mechanism for primary olfactory reception. Chem Senses 21, 773–791, doi: 10.1093/chemse/21.6.773
+(1996).
+9. Turin, L., Skoulakis, E. M. C. & Horsfield, A. P. Electron spin changes during general anesthesia in Drosophila. P Natl Acad Sci USA
+111, E3524–E3533, doi: 10.1073/pnas.1404387111 (2014).
+10. Engel, G. S. et al. Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. Nature 446,
+782–786, doi: 10.1038/nature05678 (2007).
+11. Lee, H., Cheng, Y. C. & Fleming, G. R. Coherence dynamics in photosynthesis: Protein protection of excitonic coherence. Science
+316, 1462–1465, doi: 10.1126/science.1142188 (2007).
+12. Marais, A., Sinayskiy, I., Petruccione, F. & van Grondelle, R. A quantum protective mechanism in photosynthesis. Sci Rep-Uk 5, doi:
+10.1038/srep08720 (2015).
+13. Bruice, T. C. Oxygen-Flavin Chemistry. Israel Journal of Chemistry 24, 54–61, doi: 10.1002/ijch.198400008 (1984).
+14. Massey, V. Activation of Molecular-Oxygen by Flavins and Flavoproteins. J Biol Chem 269, 22459–22462 (1994).
+15. Mohseni, M. O. Y., Engel, G. S. & Plenio, M. B. Quantum Effects in Biology. (Cambridge University Press, 2014).
+16. Grissom, C. B. Magnetic-Field Effects in Biology - a Survey of Possible Mechanisms with Emphasis on Radical-Pair Recombination.
+Chemical Reviews 95, 3–24, doi: 10.1021/cr00033a001 (1995).
+17. Steiner, U. & Ulrich, T. Magnetic field effects in chemical kinetics and related pehnomena. Chemical Reviews (1989).
+18. Canfield, J. M., Belford, R. L., Debrunner, P. G. & Schulten, K. J. A Perturbation-Theory Treatment of Oscillating Magnetic-Fields in
+the Radical Pair Mechanism. Chem Phys 182, 1–18, doi: 10.1016/0301-0104(93)E0442-X (1994).
+19. Schulten, K., Staerk, H., Weller, A., Werner, H. J. & Nickel, B. Magnetic-Field Dependence of Geminate Recombination of Radical
+Ion-Pairs in Polar-Solvents. Z Phys Chem Neue Fol 101, 371–390 (1976).
+20. Imlay, J. A. The molecular mechanisms and physiological consequences of oxidative stress: lessons from a model bacterium. Nature
+reviews. Microbiology 11, 443–454, doi: 10.1038/nrmicro3032 (2013).
+21. Usselman, R., Hill, I., Singel, D. & Martino, C. Spin Biochemistry Modulates Reactive Oxygen Species (ROS) Production by Radio
+Frequency Magnetic Fields PLoS ONE 9, e93065, doi: 10.137/journal.pone.0093065 (2014).
+22. Hogben, H. J., Efimova, O., Wagner-Rundell, N., Timmel, C. R. & Hore, P. J. Possible involvement of superoxide and dioxygen with
+cryptochrome in avian magnetoreception: Origin of Zeeman resonances observed by in vivo EPR spectroscopy. Chem Phys Lett 480,
+118–122, doi: 10.1016/j.cplett.2009.08.051 (2009).
+23. Timmel, C. R., Till, U., Brocklehurst, B., McLauchlan, K. A. & Hore, P. J. Effects of weak magnetic fields on free radical recombination
+reactions. Mol Phys 95, 71–89, doi: 10.1080/00268979809483134 (1998).
+24. Dranka, B. P. et al. Assessing bioenergetic function in response to oxidative stress by metabolic profiling. Free radical biology &
+medicine 51, 1621–1635, doi: 10.1016/j.freeradbiomed.2011.08.005 (2011).
+25. Dranka, B. P., Hill, B. G. & Darley-Usmar, V. M. Mitochondrial reserve capacity in endothelial cells: the impact of nitric oxide and
+reactive oxygen species. Free radical biology & medicine 48, 905–914, doi: 10.1016/j.freeradbiomed.2010.01.015 (2010).
+26. Liemburg-Apers, D. C., Willems, P. H. G. M., Koopman, W. J. H. & Grefte, S. Interactions between mitochondrial reactive oxygen
+species and cellular glucose metabolism. Arch Toxicol 89, 1209–1226, doi: 10.1007/s00204-015-1520-y (2015).
+27. Vander Heiden, M. G., Cantley, L. C. & Thompson, C. B. Understanding the Warburg effect: the metabolic requirements of cell
+proliferation. Science 324, 1029–1033, doi: 10.1126/science.1160809 (2009).
+28. Brand, K. A. & Hermfisse, U. Aerobic glycolysis by proliferating cells: a protective strategy against reactive oxygen species. The
+FASEB Journal 11, 388–395 (1997).
+29. Mailloux, R. J. & Harper, M. E. Uncoupling proteins and the control of mitochondrial reactive oxygen species production. Free
+Radical Bio Med 51, 1106–1115, doi: 10.1016/j.freeradbiomed.2011.06.022 (2011).
+Scientific RepoRts | 6:38543 | DOI: 10.1038/srep38543 5
+
+--- Page 6 ---
+
+www.nature.com/scientificreports/
+30. Willems, P. H. G. M., Rossignol, R., Dieteren, C. E. J., Murphy, M. P. & Koopman, W. J. H. Redox Homeostasis and Mitochondrial
+Dynamics. Cell Metab 22, 207–218, doi: 10.1016/j.cmet.2015.06.006 (2015).
+31. Ji, L. L., Kang, C. & Zhang, Y. Exercise-induced hormesis and skeletal muscle health. Free Radic Biol Med, doi: 10.1016/j.
+freeradbiomed.2016.02.025 (2016).
+32. Brieger, K., Schiavone, S., Miller, F. J. & Krause, K. H. Reactive oxygen species: from health to disease. Swiss Med Wkly 142, doi:
+10.4414/smw.2012.13659 (2012).
+33. Fink, B. et al. Detection of intracellular superoxide formation in endothelial cells and intact tissues using dihydroethidium and an
+HPLC-based assay. Am J Physiol Cell Physiol 287, C895–902, doi: 10.1152/ajpcell.00028.2004 (2004).
+34. Gerencser, A. A. et al. Quantitative Microplate-Based Respirometry with Correction for Oxygen Diffusion. Analytical Chemistry 81,
+6868–6878, doi: 10.1021/ac900881z (2009).
+35. Wu, M. et al. Multiparameter metabolic analysis reveals a close link between attenuated mitochondrial bioenergetic function and
+enhanced glycolysis dependency in human tumor cells. Am J Physiol-Cell Ph 292, C125–C136, doi: 10.1152/ajpcell.00247.2006
+(2007).
+Acknowledgements
+This work was supported by American Heart Association Grant #15SDG25710461 (R.J.U.), and PIP 706 Consejo
+Nacional de Investigaciones Científicas y Técnicas (CONICET) (P.R.C).
+Author Contributions
+R.J.U., P.R.C. and C.F.M. designed the experiments, C.C, R.J.U. and C.F.M performed the experiments, M.P.,
+performed the spin dynamics simulations, M.P., T.R. and D.J.S contributed to theoretical aspects of the RPM,
+P.R.C. and E.A.D. contributed to bioenergetics. R.J.U. wrote the initial paper draft and all authors contributed to
+manuscript revisions.
+Additional Information
+Competing financial interests: The authors declare no competing financial interests.
+How to cite this article: Usselman, R. J. et al. The Quantum Biology of Reactive Oxygen Species Partitioning
+Impacts Cellular Bioenergetics. Sci. Rep. 6, 38543; doi: 10.1038/srep38543 (2016).
+Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+This work is licensed under a Creative Commons Attribution 4.0 International License. The images
+or other third party material in this article are included in the article’s Creative Commons license,
+unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license,
+users will need to obtain permission from the license holder to reproduce the material. To view a copy of this
+license, visit http://creativecommons.org/licenses/by/4.0/
+© The Author(s) 2016
+Scientific RepoRts | 6:38543 | DOI: 10.1038/srep38543 6

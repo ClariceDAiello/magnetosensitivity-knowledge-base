@@ -1,0 +1,445 @@
+
+
+--- Page 1 ---
+
+Annals of the Royal College of Surgeons of England (1g8o) vol 62
+Free-radical reaction in biological systems
+T L Dormandy MB PhD FRCSEd FRCPath
+Chemical Pathologist, Whittington Hospital, London
+Key words: FREE RADICALS; SUPEROXIDE; INFLAMMATION; PEROXIDATION;
+PROSTAGLANDINS
+Summary ments for maintaining the constancy of life.
+Free radicals are a highly reactive chemical This applies both to structure and to function.
+species which differ from all other species in Although enzymes can act in free solution,
+possessing an unpaired electron. Although free they are at their best when forming part of
+radical activity in living systems is energetic organised structures. Conversely, the main
+tenance of living structures depends on the
+ally improbablf, recent work suggests that a
+ceaseless activity of enzymes. Functionally
+number of important biological processes de
+enzymic pathways maintain a balance between
+pend on it. In contrast to enzymic metabolism
+energy-consuming and energy-producing path
+these free-radical processes tend to be non
+ways. Energy generated enzymically can be
+cyclic, irreversible, non-homoeostatic, and
+stored as chemical fuel : energy consumed
+energetically wasteful. For the organism as a
+enzymically can be used to accomplish bio
+whole they may nevertheless have considerable
+logical work. It is a perfect homoeostatic sys
+survival value. Free radicals are too short-lived
+tem, most tellingly represented by interlocking
+to be demonstrable in tissues; but methodo
+cycles. The cycles have no beginning and no
+logical advances are leading to the detection
+end just as enzymic charts have no top and no
+and measurement of characteristic free-radical
+bottom. But if life as portrayed by enzymic
+reaction products. The findings suggest that
+biochemistry goes on smoothly and indefinitely
+free-radical activity is not only a potential
+life in reality does not.
+cause but also a common, perhaps invariable,
+All living individuals decay and die; and
+consequence of cell damage. It is possible that
+even their relative longevity depends on the
+some of the secondary products of free-radical
+continuous decay and death of the units of
+reactions may help to regulate the body's local
+which they are composed. There are, more
+and systemic response to injury.
+over, countless biological processes which are
+essential for the survival of complex organ
+Introduction
+isms but which are yet non-homoeostatic, non
+For a hundred years biochemistry and chemi
+cyclic, irreversible, and wasteful in terms of
+cal pathology have been firmly rooted in
+energy. These processes could be - indeed
+enzymology. Perhaps too firmly. Sir Frederick
+they undoubtedly are-influenced by enzymes;
+Gowland Hopkins epitomised the catalytic
+but, like death itself, they do not fit into the
+~ature of. enzy~es by stating that 'an enzyme general pattern of enzymic biochemistry. To
+IS where It acts. To prove their presence, in
+understand them we need to recognise a dif
+other words, we need only demonstrate their
+ferent kind of biochemical reaction, and more
+accelerating action on a specific biochemical
+and more evidence suggests that these depend
+change. The aphorism is true; but like most
+on the generation and activity of free radicals.
+aphorisms it is open to distortion. It is not true
+that in biological systems where there is action The concept of free radicals
+there must be an enzyme; yet it is this dis Before considering free radicals in a biological
+torted doctrine that has become tacitly ac context it may be useful to recall some facts
+cepted. of physical chemistry. All conventional chem
+By and large enzymes are Nature's instru- ical species have one characteristic in com-
+From an Arris and Gale Lecture delivered on 8th February I979
+
+--- Page 2 ---
+
+Free-radical reaction in biological systems 1 8g
+mon : they have a paired electron comple In the previous paragraph 'theoretically'
+ment. Electrons can be conceived as negative and 'if' are italicised because for many years
+charges circling around a positive nucleus. The it was axiomatic that, apart from the gas state
+reason why they need to be paired is that, in and a few freak instances, homolytic fission
+addition to orbiting around the centre, they could never happen. The twin foundations of
+also spin around their own axis; and to main modern chemistry, the concepts of valency
+tain stability every electron that spins to the and of molecular weight, seemed to forbid it.
+right must be balanced by an electron that Not until the 1930s was this article of faith
+spins to the left. An ordinary chemical bond, disproved. Workers in the oil industry then
+therefore, represents two electrons, each side showed that, even though free radicals might
+contributing one; and when the bond splits it have an independent lifespan of only a few
+splits in such a way that one fragment retains microseconds, free-radical activity accounted
+both electrons and the other retains neither. for some of the most important and most
+Water, for example, can be represented by spectacular chemical transformations known.
+the simplified electronic structure : The rancidification of fats and oils in particu
+lar was shown to be a free-radical chain re
+action in which each step is activated by the
+•• uptake of an oxygen molecule. This was a
+liberating discovery. Within a few years plas
+where the dots are the electrons derived from
+tics and polymers of every shape and kind, all
+the oxygen atom and the crosses are the elec
+based on free-radical technology, were trans
+trons derived from the two hydrogen atoms.
+forming everyday life. Only on biological
+When the molecule ionises one fragment keeps
+thinking did the new species make little im
+two bonding electrons and thereby acquires a
+pact. There were probably two reasons for
+formal negative charge (OH-); the other frag
+this.
+ment keeps none and thereby acquires a for
+I
+mal positive charge (H+) : Because all chemical systems tend toward
+stability and because stability demands the
++ -
+pairing of electrons a large single dose of
+H: ?.~ H~ [H }[??.~ ~ energy is generally required to generate a re
+active free radical. The purpose of inter
+mediate metabolism on the other hand-in so
+far as biological transactions can be said to
+But it is theoretically possible for a bond to have a purpose-and the idee fixe of classical
+split in such a way that the two fragments biochemistry is the parcelling up of large
+retain one bonding electron each-that is, by lumps of energy into minute doses. It could be
+'homolytic' fission. If that happened and if argued, in other words, that free-radica,L gen
+one of the resulting fragments maintained a eration along normal metabolic pathways is
+separate existence for long enough to react intrinsically improbable. Not that such rational
+independently with another molecule or ion, (if misguided) arguments were ever advanced.
+then the fragments would qualify as 'free Free-radical activity was not seriously con
+radicals' and the reaction would be 'free sidered in a biological context because of the
+radical reaction'. In the case of water this forbidding image of free-radical processes in
+type of fission would generate a hydrogen non-biological systems. These processes, it
+atom (as distinct from a hydrogen ion) and a seemed, could be delayed or prevented, but
+hydroxy free radical : once they had been triggered off they were
+unstoppable, uncontrollable, and irreversible.
+Many were highly destructive. Some were
+literally explosive. To biochemists, conditioned
+for half a century to the subtle interplay and
+self-regulating equilibria of enzymic cycles,
+(The conventional notation for a free radical the pattern seemed profoundly irrelevant to
+is a single dot. The hydroxy radical is there life, positively unbiological. Exceptions were
+fore OH".) of course recognised - the biological conse-
+
+--- Page 3 ---
+
+I qo T [, Dormandy
+quences of high-energy irradiation was one fibroplasia to pulmonary fibrosis, as well as
+but not until the past decade did free-radical for the modulating influence of oxygen ten
+activity emerge as a biological phenomenon sion on the effects of high-energy irradiation.
+perhaps as important and as ubiquitous as But, less obviously, there can be little doubt
+enzymic catalysis. that these free radicals also play a role in
+phagocytosis, in prostaglandin generation, and
+The chemical pathology of free radicals perhaps in immune-complex formation (I).
+Such a new subject cannot, of course, be re 2) Transitional-metal ions-ions which can
+viewed in a historical perspective; and indeed lose or gain a single electron as they change
+advances are now so fast and in so many di from one valency state to another-have long
+rections that any kind of perspective is bound been recognised as powerful initiators of free
+to prove illusory. (Carcinogenesis and throm radical oxidations in industrial chemistry and
+bosis are among the fields which are being they are no less powerful in biological mix
+invaded by free-radical concepts and which tures. The rate of free-radical oxidation in
+can barely be mentioned in the present review. many tissue homogenates is largely determined
+No doubt there are others.) Nevertheless, it by their free iron content ( 2), and tissue
+may be helpful to group current develop damage due to iron overload in vivo probably
+ments around three complex questions. First, depends on free-radical reactions catalysed by
+what are the physical and chemical factors the metal ( 3,4).
+which promote free-radical generation in liv 3) Organic solvents such as carbon tetra
+ing organisms? Second, how do living organ chloride are acute liver poisons, and Slater
+isms protect themselves against free-radical laid the foundations of free-radical bio
+damage? And third, what are the biological chemistry in Britain by demonstrating the
+consequences of free-radical activity? free-radical nature of the damage ( 5). The
+wide implications of his findings - for ex
+FACTORS WHICH PROMOTE FREE-RADICAL ample, in relation to alcohol and drug toxicity
+ACTIVITY in man-still need to be fully explored.
+Free-radical activity may still appear un 4) The degree of unsaturation of the ma
+controllable in comparison with metabolic terial is an important variable, susceptibility
+regulation; but we now recognise a diversity to free-radical attack in homologous series in
+of physical and chemical variables which pro creasing with the number of double bonds in
+mote or inhibit it. the molecule. This means that in cells the
+1) Molecular oxygen is a critical ingredient most 'essential' polyunsaturated lipids are also
+of most biological free-radical processes, so the most vulnerable. It may also account for
+critical that we tend to use the terms 'free the central role of arachidonic acid in so much
+radical' and 'oxygen free radical' almost inter current physiological, pharmacological, and
+changeably. (Similarly we tend to equate pathological research.
+'antioxidants' with 'free-radical scavengers'.) 5) High-energy irradiation, both with X
+There are several reasons for this, all of them rays and with ultraviolet light, undoubtedly
+related to the unique properties of the oxygen generates free radicals; its therapeutic and de
+molecule. Because in some respects the mole structive effects largely depend on this.
+cule behaves not like a molecule but like two 6) Structural disintegration is still the least
+unstable free radicals strung together it will recognised and may yet prove to be the most
+avidly latch on to other unstable molecular important cause of biological free-radical ac
+sites. This may bring about complete homo tivity. None of the factors mentioned so far
+lytic bond disruption. Under certain con dents the argument that free-radical generation
+ditions, moreover, the molecule itself can in biological systems is intrinsically improbable
+undergo step-wise (single-electron) reduction, on energetic grounds. What does dent it is the
+generating in the process a number of intensely fact that it is based almost entirely on know
+reactive free-radical intermediates. It must be ledge gained from studying only two types of
+assumed that it is these free-radical inter biological material-intact structures (tissues,
+mediates which are responsible for clinical cells, microsomes) or structureless solutions
+'oxygen damage' of all kinds, from retrolental and homogenates. It ignores the crucial event
+
+--- Page 4 ---
+
+Free-radical reaction in biological systems I 9 I
+that separates these two stable states, struc THE CONSEQUENCES OF FREE-RADICAL
+tural breakdown itself. It is true that we know ACTIVITY
+extraordinarily little about the chemical re For some years free-radical pathology faith
+actions peculiar to this transition; but we can fully reflected its origins in industrial chemistry.
+nevertheless make a few generalisations. The What concerned food chemists was loss of
+build-up of organised biological structures is food by rancidification. What concerned
+highly energy-consuming and much of the biochemists was loss of cell lipids by peroxida
+energy consumed probably remains latent in tion. It had of course been known for many
+structural organisation itself. This means that years that lipids disrupted by free radicals
+structural breakdown is, potentially at least, undergo tortuous secondary fragmentation;
+an immensely exergonic happening. Of course but the possibility that free radicals
+some of the energy released may be dissipated. might not only destroy but also generate
+But the picture of stricken cells simply dis biologically active metabolites was barely en
+integrating is almost certainly false. Their visaged until the 1 96os. A group of Austrian
+demise probably more closely resembles a sub workers then showed that many free-radical
+microscopic explosion. The force of such an products were cytotoxic, especially to certain
+explosion could disrupt stable electron pairs, strains of neoplastic cells, and that some of
+and perhaps it almost invariably does. the active fragments could be separated and
+partially characterised chromatographically
+PROTECTION AGAINST FREE RADICALS ( 12). Since then watery extracts and water
+Turning from promotion to protection, food soluble free-radical products of increasing
+chemists have shown that, however hard we purity have been prepared from autoxidising
+try to preserve unsaturated lipids exposed to lipids and they have proved to be extra
+air, light, moisture, and trace-metal catalysts, ordinarily potent in an astonishing range of
+they will sooner or later rancidify. This en in-vitro systems. The mixture includes anti
+capsulates a biological as well as an industrial bacterial agents ( 13), compounds which affect
+problem ( 6). Living cells are shot through platelet aggregation, intermediates which in
+with unsaturated lipids. (We would instantly fluence the intrinsic and extrinsic clotting
+set solid if they became saturated-as we do mechanism (14), and many, perhaps most,
+in rigor mortis.) They contain numerous tran of the prolific kinship of the prostaglandins.
+sitional-metal complexes. They are drenched
+in oxygen. We incubate ourselves at 37°C and METHODOLOGY
+we are in continuous if not always purposeful At this point we must pause to make the
+motion. Why then do we not go rancid? The somewhat trite reservation that in-vitro po
+answer is far from clear. Circulating anti tency is no proof of an in-vivo role. Free
+oxidants such as vitamin E are essential safe radicals have a lifespan of the order of micro~
+guards in many animal species; but, except seconds and except in special cases, using
+perhaps in the perinatal period, they do not special instrumentation, their presence in tis
+seem to be indispensable in man (7,8). A sues cannot be detected. Evidence, therefore,
+whole family of enzymes - catalase, various of biological free-radical activity has always
+peroxidases, the superoxide dismutases-can rested on more remote effects; and for 20
+forestall or extinguish oxygen free radicals, years it has rested on a single chemical re
+but they are probably only second-line, emer action.
+gency mechanisms (6,9). The copper-protein In I 944 Kohn anq Liversedge described a
+new 'aerobic metabolite' which appeared in
+caeruloplasmin is a powerful antioxidant, but
+brain homogenate exposed to air and which,
+it is an extracellular protein ( 10,11). Probably
+on heating in acid, formed a coloured com
+the most important single factor which prOo
+plex with thiobarbituric acid (TBA) ( 16). It
+tects organised structures from free-radical in
+was subsequently shown that the metabolite,
+jury is structural organisation itself; so long
+malonyldialdehyde (MDA), is a distant off~
+as this is preserved the ingredients of free shoot, or rather a mixture of distant offshoots,
+radical oxidation remain insulated from each of the free-radical peroxidation of poly
+other (9). unsaturated lipids ( 17,18). Methods based on
+
+--- Page 5 ---
+
+192 T L Dormandy
+the reaction were rapidly and widely adopted radical fragmentation. These - tor example,
+in the food industry and, further refined, they ethane and pentane-are eliminated by living
+helped to establish the ground-rules of free organisms in expired air; and, although they
+radical biology. They could even be applied are present only in picomolar concentration
+to clinical diagnosis. Human red blood cells and should perhaps be expressed in 'micro
+generate MDA when exposed in vitro to oxi soupC<ons', they can be identified and mea
+dant stress ( 19) and their susceptibility to free sured by gas-liquid chromatography ( 26-28).
+radical oxidation correlates with their suscep At a different experimental level subtle struc
+tibility to haemolysis ( 20,2 I). (Currently the tural changes which may follow free-radical
+MDA assay enjoys an Indian summer as a attack on cells and subcellular organelles can
+quick measure of prostaglandin synthesis, be monitored by chemilluminescence, polar
+though the implications of MDA generation isation, and deformability ( 29-33).
+are often ignored.) But although the MDA/
+TBA reaction provided ample proof that SUPEROXIDE AND INFLAMMATION
+human tissues are vulnerable to free-radical Paradoxically perhaps further and persuasive
+attack and even suggested that vulnerability proof of in-vivo free-radical activity has come
+may be related to disease, it never provided from a new family of enzymes, the super
+proof that such an attack ever occurs in vivo. oxide dismutases ( 34). Unlike other protective
+Red blood cells, for example, can be induced enzymes (for example, catalase, glutathione
+to autoxidise under stress, but even in severe peroxidase), the dismutases are true free
+haemolytic states fresh cells contain no sig radical scavengers-that is, their specific sub
+nificant amounts of MDA. The probable ex strate is not a stable or relatively stable mole
+planation crystallised only during the past cule but the superoxide-ion free radical (O-").
+few years as a result of the work of Tappe! This probably accounts for the lateness of
+and his group. They showed that MDA and their discovery. One cannot prepare a solution
+related compounds readily interact with pro of free radicals as one can prepare a solution
+teins and other molecules which possess re of starch or lactic acid; the free-radical sub
+active amino groups. The Schiff-base-type strate has to be continuously generated as a
+complexes formed in this way no longer give transient intermediate in the course of another
+a positive TBA reaction, but they have dis enzymic reaction. By capturing the inter
+tinctive fluorescent spectra (22,23). The latter mediate the dismutase aborts the first reaction,
+finding suggested a new methodological ap and it is this inhibition which is measured.
+proach.
+The superoxide dismutases are widely dis
+Potentially, fluorescence spectroscopy is a tributed and it has been suggested that the
+highly sensitive tool whose value in biological presence of powerful free-radical scavengers
+research depends on the relative specificity and in most cells hints at widespread in-vivo free
+definition of the fluorescent properties of the radical activity. Whether or not this is a re
+compounds studied. On the face of it free spectable argument, the enzymes have pro
+radical products, a large, unstable, and in vided a much-needed tool for identifying free
+cestuous tribe, hardly qualify. Yet for once radical steps in complex biological processes.
+the difficulties are proving less debilitating than Inflammation is an immediate challenge. It is
+anticipated, and characteristic complexes both a basic biological response whose local and
+of lipid and of non-lipid origin are now being systemic components have been described in
+identified and measured in fresh tissues and minute detail but whose underlying trigger and
+tissue fluids (24). regulating mechanisms have remained elusive.
+But fluorescence spectroscopy has not been We can, of course, indulge in name-dropping,
+the only recent methodological advance. Ultra talk of 'amines', 'kinines', 'prostaglandins', and
+violet spectroscopy can be used to measure this, that, and the other 'factor'; but names
+'diene conjugation', a characteristic double provide no answers to a long series of rhetorical
+bond pattern of damaged fatty-acid chains questions. What triggers off the capillary di
+( 24,25). An entirely different 'non-invasive' latation? What regulates the astonishingly
+technique depends on the formation of highly precise and concerted migration of phago
+volatile hydrocarbons as a result of free- cytes, the stepping-up of leukopoiesis in dis-
+
+--- Page 6 ---
+
+Free-radical rraction 1n biological systems
+l~-)1
+tant sites, the rise m body temperature, the References
+immune response? The specific inhibition of
+I Ciba Foundation . symposium. (new ser., No 65).
+some of these events by superoxide dismutase Oxygen free rad1cals and t1ssue damage. Am
+points to the generation of oxygen free radicals sterdam: Excerpta Medica, I 979·
+as a key event. It also suggests that some of the 2 ~ills _ED. ~echanism of lipid peroxide formation
+products of free-radical activity play a role as m am mal t1ssues. Biochem J I 966;99: 667-76.
+essential messengers and mediators ( 35-41). 3 Seymour CA, Peters TJ. Organelle pathology in
+pnmary and secondary haemochromatosis with
+special reference to lysosomal changes. Br J
+Changing concepts Haematol I978;4o: 239-53.
+Experimental advances are turning long-held 4 Torielli MV, Gabriel L, Dianzani MU. Ethanol
+induced hepatotoxicity; experimental observations
+concepts upside down. Fifteen years ago bio
+on the role of lipid peroxidation. J Pathol I979;
+logical free-radical reactions were envisaged
+I26:II-25.
+in so far as they were envisaged at all-as a 5 Slater TF. Free radical mechanisms in tissue in
+rare potential cause of cell death. It now ap jury. London: Pion, I972.
+pears that free-radical activity may be the 6 Dormandy TL. Biological rancidification. Lancet
+I96g;2: 684-8.
+sequel of most forms of structural damage.
+7 Dormandy TL. Vitamin E and antioxidant ac
+For centuries rancid fat was regarded as a tivity. Proc R Soc Med I977;7:9I-3.
+source of lethal toxins. It now appears that 8 Tappe! AL. Protection against free radical lipid
+some products of rancidification may play a p~roxidation reactions. In: Roberts J, Adelman
+RC, Cristofalo VJ, eds. Advances in experimental
+role in protecting the organism as a whole
+biology and medicine. New York: Plenum Press,
+against the effect of local tissue destruction.
+1978:111-3!.
+But many conceptual difficulties remain, and 9 Dormandy TL. Free radical antioxidants. Lancet
+one in particular could become a stumbling I978;r: 247-50.
+block. IO Al-Timimi DJ, Dormandy TL. Inhibition of lipid
+autoxidation by human caeruloplasmin. Biochem
+It is possible to draw too sharp a distinction
+j I977; I 68: 283-8.
+between enzymic and free-radical processes : 11 Cranfield LM, Al-Timimi DJ, Gollan JL, White
+in living systems the two are inextricably AG, Dormandy TL. Serum antioxidant activitv
+linked. (On the one hand enzymes can both in normal and abnormal subjects. Ann Clin Bio'
+chem (in press).
+beget and extinguish free radicals; on the
+12 Schauenstein E. Autoxidation of polyunsaturated
+other free radicals can both stimulate and de esters in water. .J Lipid Res 1967;8: 417-28.
+stroy enzymes.) The distinction is nevertheless 13 Gutteridge JMC, Lamport P, Dormandy TL.
+valid. Enzymes have become familiar because The antibacterial effect of water-soluble com
+enzymic activity means a succession of replicate pounds from autoxidising linoleic acid. J Med
+Microbial 1976;9: ro_')-I o.
+moves which extend over a long period of
+14 Barrowcliffe TW, Gutteridge JMC, Dormandy
+time. Free-radical reactions cannot be paraded TL. The effect of fatty-acid autoxidation pro
+in this way. A single free radical may be the ducts on blood coagulation. Thromb Diath
+trigger which sets in motion an extended Haemorrh 1<}75;33: 271-6.
+I5 Gutteridge JMC. The consequences of lipid au
+sequence of events, but the initiating species
+toxidation in biological material. PhD thesis,
+may exist only for a split second. Some free
+University of London, I974·
+radical products may be characteristic, but 16 Kohn HI, Liversedge M. A new aerobic meta
+others are not. When reaction products can be bolite whose production by brain is inhibited by
+apomorphone, atropine, ergotamine and mena
+generated either by a free-radical or by an
+dione. J Pharmacal I944;82: 92-roo.
+enzymic route (for example, many of the pro
+17 Barber AA, Bernheim F. Lipid pcroxidation: its
+staglandins) the unquestioning tendency at measurement and significance in animal tissue.
+present is to assume the enzymic alternative. Adv Gerontal Res 1967;2: 355·
+Not only are enzymes familiar and ubiquitous, 18 Dahle LK, Hill EG, Hollmann RT. The thio
+barbituric acid reaction and the autoxidation of
+but their action can also be replayed experi
+polyunsaturated fatty acid methyl esters. Arch
+mentally without an 'unrealistic' input of
+Biochem Biophys I 962 ;98: 253-6 r.
+energy. Yet the assumption may be wrong. 19 Dormandy TL. The autoxidation of red cells. Br
+Enzymic activity is the foundation of every .T Haematol I971;2o:457-6r.
+biological system; but when systems them 20 Stocks J, Offerman EL, Modell CB, Dormandy
+TL. The susceptibility to autoxidation of human
+selves change the underlying mechanism is
+red-cell lipids in health and disease. Br J Hae
+more likely to be an act of free radicals. matol 1972;23: 7I3-24.
+
+--- Page 7 ---
+
+194 T L Dormandy
+2 r Goldstein BD, McDonagh EM. Spectrofluorescent .JI Oyanagui Y. Participation of superoxide anions
+detection of in vivo red cell lipid peroxidation. at the prostaglandin phase of carrageenan foot
+] Clin Invest 1976;57: 1302-7. oedema. Biochem Pharmacal 1976;25: 1465-
+22 Chio KS, Tappe! AL. Synthesis and character 72.
+isation of the fluorescent products derived from 32 Johnson RB, Lehmeyer JE. Elaboration of toxic
+malonyldialdehyde and amino acids. Biochemistry oxygen products by neutrophils in a model of
+196g;8: 2827-32. immune complex disease. J Clin Invest 1976;
+23 Tappe! AL. Lipid peroxidation and fluorescent 57:836-41.
+molecular damage. In: Trump BF, Arstila A, 33 Slater TF. Free radical mechanisms in tissue
+eds. Pathobiology of cell membranes. New York: injury. London: Pion, 1972.
+Academic Press, 1975: 144-72. 34 Fridovitch I. Superoxide dismutases. Adv Enzy
+24 Lunec J, Dormandy TL. Fluorescent lipid mol 1974;41 =35-97·
+peroxidation products in synovial fluid. Clin Sci 35 Babior BM, Kipnes RS, Carnutte JT. Biological
+Mol Med 1979;56:53-9· defence mechanisms: the production by leuko
+25 Di Luzio NR. Protective effect of vitamin E on cytes of superoxide. J Clin Invest 1973;52: 741-
+plasma dienes in man. J Agric Food Chern 1972; 4·
+20: 486-g1. 36 Shohet SB, Pitt ], Baehner RL, Poplack DJ.
+26 Horvat RJ, Lane WG, Ng H, Shepherd AD. Lipid peroxidation in the killing of phagocytosed
+Saturated hydrocarbons from autoxidising methyl pneumococci. Infect Immun 1974;10: 1321-8.
+lin oleate. Nature 1964;203: 523-4. 37 Yost FJ, Fridovitch I. Superoxide radicals and
+27 Dillar CJ, Litov RE, Savin WM, Dumelin EE, phagocytosis. Arch Biochem Biophys 1974;161:
+Tappe! AL. Effects of exercise, vitamin E and 395-401.
+ozone on pulmonary function and lipid peroxi 38 Salin ML, McCord JM. Free radicals and in
+dation. J Appl Physiol 1978;45: 927-32. flammation. ] Clin Invest 1975;56: 1319-23.
+28 Cohen G, Riely C, Lieberman M. Ethane for 39 McCord JM. Free radicals and inflammation. Sci
+mation from lipid peroxides in mammalian cells. ence 1974;185:529-31.
+Fed Proc 1968;27:648. 40 Puig-Parellada P, Planas JM. Synovial fluid de
+29 Mamedov TG, Konev VV, Popov GA. Chemil gradation induced by free radicals. Biochem
+luminescence in the reactions of lipoxidase and Pharmacal 1977;27: 535-8.
+haemoprotein oxidation of unsaturated fatty 41 Muus P, Bonta IL, Oudsten SA den. Plasma
+acids. Biofizika 1973;18:643-8. levels of malonaldehyde, a product of cyclo
+30 Stossel TP, Mason RJ, Smith AL. Lipid peroxi oxidase dependent and independent lipid permo
+dation by human blood phagocytes. J Clin Invest dation in rheumatoid arthritis. Prostaglandins
+1974;54=638-45· 1979;2: 63-5·

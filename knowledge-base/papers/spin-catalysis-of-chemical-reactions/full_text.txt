@@ -1,0 +1,679 @@
+
+
+--- Page 1 ---
+
++ +
+18292 J. Phys. Chem. 1996, 100, 18292-18299
+FEATURE ARTICLE
+Spin Catalysis of Chemical Reactions
+A. L. Buchachenko*,† and V. L. Berdinsky‡
+Institute of Chemical Physics, Moscow 117334, Russia, and Institute of Chemical Physics in ChernogoloVka,
+Moscow Region 142432, Russia
+ReceiVed:April 3, 1996; In Final Form:August 22, 1996X
+Thespincatalysisofchemicalreactionsisaphysicalphenomenonofspintransformationofchemicallyreactive
+speciesinducedbytheexchangeinteractionofthesespecieswithexternalspincarriers. Itmanifestsitselfin
+the radical pair recombination, cis-trans isomerization of molecules with double bonds, recombination of
+spin-polarizedandspin-alignedhydrogenatomsatcryogenictemperatures,etc. Thetheoryandquantitative
+kineticsofspincatalysisinthree-andfour-spinsystemsareconsidered. Quantitativehierarchyofspincarriers
+with respect to their spin catalytic efficiency is discussed.
+Introduction SCHEME 1: Spin Chemistry. General Scheme
+Spin chemistry as a new field of modern chemistry is
+concerned with electron and nuclear spins and with their
+behaviorinchemicalreactions. Itisbasedonthefundamental
+principle: chemical reactions are allowed only for such spin
+statesoftheproductswhosetotalelectronspinisidenticalwith
+thatofthereagentsandareforbiddeniftheyrequireachange
+of spin.1-3 The conservation of the total spin in chemical
+reactions results in electron and nuclear spin selectivity and
+differentiationofthechemicalreactivityofreagentspinstates.
+Allphenomenainspinchemistrymaybeexemplifiedbythe Spin Catalysis: Experimental Evidence
+radicalpair,whichplaysinspinchemistryakeyrolesimilarto
+Thefirstdirectexperimentaldemonstrationofspincatalysis
+thatofthehydrogenmoleculeinquantumchemistry. Interac-
+by radicals has been obtained in the photolysis of d,l-2,4-
+tions of three types are able to change the electron spin and
+diphenylpentan-3-one (DPP) in the presence of the stable
+transform the spin forbidden, nonreactive triplet spin states of
+nitroxideradicalTEMPO,whichisknowntobeaverypowerful
+theradicalpairintothespin-allowed,chemicallyreactivesinglet
+scavenger of carbon-centered radicals.11
+state or Vice Versa (Scheme 1). Magnetic interactions of the
+Therecombinationprobability,P,ofthetripletsec-phenethyl/
+r
+electronspinwithnuclearspinsandwiththtexternalmagnetic
+sec-phenethylacylradicalpairgeneratedinthephotolysisofDPP
+field, Fermi and Zeeman interactions, are the sources of the byNorrishR-cleavageinbenzenewasunexpectedlyshownto
+magnetic effects of the first generation: MFE, magnetic field increase3-foldastheconcentrationofTEMPOincreasesfrom
+effect;4 MIE, magnetic isotope effect;5 CIDNP, chemically
+0 to 0.15 M. The dependence of P on the concentration of
+r
+induced dynamic nuclear polarization;6 CIDEP, chemically TEMPO is shown in Figure 1.
+induced electron spin polarization.7 Resonant microwaves Theseresultscontrastwiththeobservationthattheaddition
+produce the spin conversion of the radical pair and stimulate of diamagnetic scavengers, such as dodecanethiol, decreases
+the magnetic effects of the second generation: RYDMR, the recombination probability P and demonstrate that a
+r
+reaction yield detected magnetic resonance;8 RIMIE, radio- paramagnetic scaVenger catalyzes the radical recombination
+induced magnetic isotope effect;9 SNP, stimulated nuclear exhibitinganontraditionalspincatalyticeffect. Whatiseven
+polarization.10 Lastly,exchangeinteractionoftheradicalpair moreimpressiveisthatthecatalyticeffectdominatesoverthe
+electron spins with the electron spin of a foreign spin carrier traditionalscavengingfunctionofnitroxides. Thisisthereason
+(radical,ion,paramagneticmolecule,etc.)provokesthemagnetic thatthisnewphenomenonwasatfirstdefinedasanantiscaV-
+effect of the third generation: SC, spin catalysis (see Scheme enging effect.11
+1). The remarkable feature of this magnetic phenomenon is This amazing inversion, transformation of the radical scav-
+that the spin transformation of the radical pair is induced by engerintotheradicalcatalyzer,istheresultofthecompetition
+nonmagneticexchangeinteraction. Thepurposeofthepresent oftwoprocesses: thechemicalscavengingofgeminateradicals,
+paperistopresentanoverviewofthechemicalmanifestations partners of the triplet radical pair, by nitroxide and the spin
+and physics of this new phenomenon in spin chemistry. exchangebetweengeminateradicalsandnitroxide. Theformer
+is expected to decrease P; the latter stimulates triplet-singlet
+r
+conversion of the radical pair and, consequently, increases P.
+†InstituteofChemicalPhysics. r
+Bothprocessesoccurinaradicaltriadconsistingofaradical
+‡InstituteofChemicalPhysicsinChernogolovka.
+XAbstractpublishedinAdVanceACSAbstracts,October1,1996. pair and a third radical. The average exchange distance was
+S0022-3654(96)01008-8 CCC: $12.00 © 1996 American Chemical Society
++ +
+.)CTU(
+65:81:10
+ta
+5202
+,92
+rebotcO
+no
+YGOLONHCET
+FO
+TSNI
+STTESUHCASSAM
+aiv
+dedaolnwoD
+.selcitra
+dehsilbup
+erahs
+yletamitigel
+ot
+woh
+no
+snoitpo
+rof
+senilediuggnirahs/gro.sca.sbup//:sptth
+eeS
+
+--- Page 2 ---
+
++ +
+Feature Article J. Phys. Chem., Vol. 100, No. 47, 1996 18293
+SCHEME 2: Nitroxide Biradicals with Spin Catalytic
+Function
+Figure 1. of the recombination probability P of the triplet sec-
+phenethylacylradicalpairgeneratedbyphotolysisofd,l-DPPinbenzene
+asafunctionof2,2,6,6-tetramethylpiperidine-1-oxyl(TEMPO)radical
+concentration.11
+experimentally found to be 2-3 times larger than the hard-
+TABLE1: Valuesofk /k fortheReactionofBiradicals
+sphere encounter distance so that the exchange interaction in B M
+withtheCyanoisopropylRadicalCH(CH)CNat60(cid:176) Cand
+thetriadmakesspinconversionintheradicalpairatdistances thesec-PhenethylRadicalCH(CH)Phat 3 8 2 0(cid:176) C
+3
+much larger than that of hard-sphere chemically reactive
+CH(CH)CN CH(CH)Ph
+encounters.12 Thisiswhythespincatalyticfunctionofthethird 32 3
+radical in a triad dominates over the chemical scavenging. biradical dioxane ethylbenzene dioxane ethylbenzene
+The kinetic evidence of the spin catalytic effect in the I 1.1 1.2
+recombination of carbon-centered radicals with nitroxide bi- II 1.5 1.5
+radicals was reported by Buchachenko et al.13 The reaction III 1.1
+IV 1.3 1.4 1.3
+schemeofscavengingalkylradicalsbythenitroxidebiradical
+V 1.2 1.3
+includes two subsequent reactions
+VI 1.3 1.0
+B+R9 2k B8 M only25%oftheencounterpairsarespinallowedtorecombine.
+However, the exchange interaction of the second biradical
+k terminus with radical partners in the reactive encounter pair
+M+R9M8stableproduct
+induces triplet-singlet conversion in the pair and opens an
+additionalrecombinationchannelthatisabsentinthereaction
+whichimpliesthefirstadditionofalkylradicalRtooneofthe
+of a nitroxide monoradical with an alkyl radical.
+biradical termini, which transforms biradical B into a mono-
+Spincatalysisbyparamagneticlanthanideionswasreported
+radicalM. Thefollowingadditionofalkylradicaltonitroxide by Turro et al.14a in the photolysis of p-methyl-substituted
+monoradicalMresultsultimatelyinadiamagneticproduct.This
+dibenzyl ketone in SDS micelles:
+reactionsequencewasconfirmedexperimentallybyESR: the
+decay of biradicals was followed by the appearance of mono-
+radicals,whichmanifestsitselfinthetransformationoftheESR
+spectra of biradical to monoradical.
+The rate constant k refers to one monoradical fragment of
+B where A ) PhCH and B ) p-CH PhCH . The yield of the
+thebiradicalsothatinordertocomparethechemicalreactivity 2 3 2
+cage product AB, identified as a cage effect, was shown to
+ofnitroxidemoietiesinbiradicalsandmonoradicals,weshould
+increaseastheconcentrationoflanthanideionsincreases(Figure
+appealtotherateconstantratiok /k ,whichcanbemeasured
+B M
+2). Thecageeffectreferstotherecombinationofthesecondary
+experimentally.
+radical pair of alkyl radicals A and B originating from the
+These ratios for biradicals of varying chemical structure
+primary radical pair by decarbonylation and is identical with
+(Scheme 2) are summarized in Table 1.13
+therecombinationprobabilityPofthispair. Aswillbeshown
+Intuitively,theratiok /k isexpectedtobeequalto1,taking
+B M
+later,itistheSCeffectthatisresponsiblefortheincreasingP
+into account only the chemical consideration. However, as is
+seen from Table 1, in all cases k /k > 1, i.e., the chemical inthepresenceoflanthanideions(Figure2). Thesimilareffects
+B M
+oftheinfluenceoflanthanideionsontheradicalrecombination
+reactivityofthenitroxideradicaltowardscavengingofthealkyl
+were also recorded by other authors.14b-e
+radical appears to depend on the presence of the second spin
+withinthebiradicalmolecule. Thepresenceofthesecondspin
+Three-Spin Model
+accelerates the first recombination of a nitroxide fragment in
+the biradical with an alkyl radical by 10-50% vs second Certainly, in radical triads all three radicals are participants
+recombination. Therefore, the second radical terminus in the ofthechemicalevent,andthechemicalbehaviorofthetriadis
+biradical cannot be considered as a passive spectator; it controlled by spin dynamics induced by pairwise exchange
+stimulates the recombination reaction of the first radical interactions in a three-spin system.
+terminus. As a model for testing three-spin dynamics, we consider a
+Analysis of different plausible reasons (mechanistic, steric, radical triad (R , R , R ) in which one of the radical, R , is
+1 2 3 3
+chemical factors, spin statistics, etc.) for this effect leaves the supposedtobeaspincatalyzer,buttwoothers,R andR ,are
+1 2
+spin catalysis as the most probable concept. In the encounter treated as a radical pair born initially in the singlet or triplet
+pair of the alkyl radical with one of the biradical termini the spinstate. TheradicalR isintheneighborhoodoftheradical
+3
+ratioofpopulationsofsingletandtripletspinstatesis1:3,i.e., pair(R ,R )andcoupleswithbothpartnersR andR physically
+1 2 1 2
++ +
+
+--- Page 3 ---
+
++ +
+18294 J. Phys. Chem., Vol. 100, No. 47, 1996 Buchachenko and Berdinsky
+Figure3. Spinstatesoftheradicaltriad(R,R,R).Dottedarrows
+1 2 3
+indicate the oscillations between doublet spin states induced by the
+difference of the exchange energies ∆J ) J - J . They produce
+13 23
+triplet-singlet oscillatory time evolution of the selected radical pair
+(R,R).
+1 2
+R) is the noncoherent mixture of triplet states exclusively.
+j
+Therefore, neither the geminate reaction R + R nor the
+1 2
+scavengingreactionsR +R andR +R occur. Thesequartet
+1 3 2 3
+triadsmaydisappearbydestructiononly,andtheyarenotthe
+subject of spin catalysis. Only doublet states are exposed to
+spin catalysis: the doublet-doublet spin evolution, which
+conservesS )+1/2andS )-1/2,istheonlyfeasibledynamic
+z z
+spin process in the radical triad. The initial spin state of the
+radical triad (R , R , R ) composed of the correlated radical
+1 2 3
+Figure 2. Dependence of the cage effect (CE) and recombination pair(R ,R )inSorTstatesandnonpolarizedradicalcatalyzer
+1 2
+probability P on the concentration of lanthanide ions.14 C is the ion
+i R is not the eigenvector of the spin Hamiltonian (1); it is the
+concentrationinmicellarsolution,C isthatinmicellarphase,and 3
+mph coherent mixture of these eigenvectors. Therefore, this state
+n istheaveragenumberofionsattachedtoanindividualmicelle.For
+th i eEu3+,La3+,andLu3+ionsthesmalldependeneofCEandPonthe has to evolve obeying the Schro¨dinger’s equation. This spin
+concentrationofionsisduetotheion-inducedchangeofthesizeand evolution is determined by the spin Hamiltonian (1) and is
+structureofthemicelleratherthantothespincatalysis. governed by intratriad exchange interactions. The doublet-
+doublet spin evolution of the radical triad (R , R , R ) is
+1 2 3
+orchemically. ThereactionproductR 1 R 2 ispresumablyformed inevitablyaccompaniedbyS-Tconversionoftheradicalpair
+fromthepair(R ,R )inthesingletstate. Thisclaimhasbeen
+1 2 (R , R ).
+confirmed experimentally many times1-3 and is valid for any 1 2
+The recombination rate of the radical pair (R , R ) is
+1 2
+radicalpair(R 1 ,R 2 ),(R 1 ,R 3 ),and(R 2 ,R 3 ). However,wewill proportional to the probability FT (t) of finding the pair in the
+focusonthegenerationprobabilityofaselectedmoleculeR R SS
+1 2 singletstate. FortheinitialtripletradicalpairFT (t)takesthe
+in the triad (R , R , R ). SS
+1 2 3 form15
+When hyperfine and Zeeman energies are ignored, an
+approximationthatisvalidforradicalswithoutmagneticnuclei
+FT (t))(∆J/(2Ω))2sin2Ωt (3)
+at zero magnetic field, the spin Hamiltonian H of the radical SS
+triad can be written as
+This is a fundamental equation that demonstrates that the
+pH)-pJ (1/2+2S S )-pJ (1/2+2S S )- doublet-doublet evolution in the radical triad (R , R , R ) is
+12 1 2 13 1 3 1 2 3
+pJ (1/2+2S S ) (1) accompaniedbytheoscillatingS-Tconversionintheselected
+23 2 3 radicalpair(R ,R ). Bothconjugatedprocesses,thedoublet-
+1 2
+where J are the pairwise exchange energies for the pairs of doublet evolution of the radical triad and the triplet-singlet
+ij
+radicals R and R (i * j) and S are the spin operators for the conversionoftheselectedradicalpair,keepthespinprojection
+i j i
+unpaired electrons of these radicals (i ) 1, 2, 3). S z ) +1/2 and S z ) -1/2 of the radical triad unchanged.
+Theradicaltriadasathreeone-halfspinsystemischaracter- Therefore, the spin evolution in the radical triad, which
+izedbyasetofeightspinfunctionsthatshouldbeeigenvectors conservesSandS z ,isequivalenttotheoscillatingmigrationor
+ofthetotalspinoperatorS,whichisequaltoS)3/2(quartet “flowing”ofthepairspinstates(S,T,ortheirmixture)between
+state) or S ) 1/2 (doublet states), and the spin projection the radical pairs, the components of the triad. The S-T
+operatorS. ThequartetstatesS )(3/2,(1/2aredegenerate, evolution frequency Ω is determined by the combination of
+z z
+and their energy is -p(J + J + J ). The remaining four differences between the exchange energies of radical partners
+12 13 23
+states with the total spin S ) 1/2 are split into two groups of (eq 2), and the amplitude of oscillations is a function of the
+doublets: twostateswithS z )+1/2andtwostateswithS z ) exchangeenergydifference∆J)J 13 -J 23 betweentheradical
+-1/2(Figure3). TheirenergiesareindicatedinFigure3where catalyzerR 3 andradicalpartnersR 1 andR 2 oftheradicalpair.
+Neitherdoublet-doubletevolutionofthetriadnorthesinglet-
+Ω){(1/2)[(J -J )2+(J -J )2+(J -J )2]}1/2 (2) tripletconversionoftheselectedradicalpairareconceivableif
+12 13 12 23 13 23
+J ) J ; this is the case of the locked spin system.
+13 23
+Forthequartetstates,aswellasforanycompletelysymmetric Anasymmetricspinexchange(∆J*0)betweentheradical
+state of highest multiplicity in multispin systems, any pair pair partners and the radical R can be similarly proved to
+3
+recombination is spin forbidden if it results in a diamagnetic determinethespinevolutionoftheinitiallysingletradicalpair
+molecule. Forsuchradicaltriadsthespinstateofanypair(R, (R , R ). The probability for the pair to survive in a singlet
+i 1 2
++ +
+
+--- Page 4 ---
+
++ +
+Feature Article J. Phys. Chem., Vol. 100, No. 47, 1996 18295
+carbene, or metal ion, in principle is similar to that of three-
+spin triads.
+Sixteen spin states of the triad are split into three groups:
+five states with total spin S ) 2, nine states with S ) 1, and
+twostateswithS)0. Onlytripletstatesaresubjectedtospin
+catalysis, i.e., their spin evolution is induced by the exchange
+interaction. These nine states |S,Sæ are constructed of linear
+z
+combinationsoftheindividualspinfunctions|Srpæ ,|Trp æ ,|Scæ
+0,(
+and |Tc æ , where |Srpæ and |Trp æ describe singlet and triplet
+0,( 0,(
+statesoftheradicalpair,and|Scæ and|Tc æ refertosingletand
+0,(
+triplet states of the catalyzer C. Spin orientations in the triad
+Figure4. Vectormodeldemonstratesthetriplet-singletconversion canbeeasilyimaginedfromthepresentationofspinvectorsof
+oftheselectedradicalpair(R 1 ,R 2 ),inducedbyexchangeinteraction these nine states |S,S z æ : }
+J intheradicaltriad(R,R,R).
+23 1 2 3
+|1,1æ )|SrpTcæ, |1,1æ )2-1/2|TrpTc -TrpTcæ, |1,1æ )|TrpScæ
+spin state obeys the equation15 1 + 2 0 + + 0 3 +
+|1,0æ )|SrpTcæ, |1,0æ )2-1/2|TrpTc -TrpTcæ, |1,0æ )|TrpScæ (5)
+1 0 2 - + + - 3 0
+FT (t))1-3(∆J/(2Ω))2sin2Ωt (4)
+SS |1,-1æ )|SrpTcæ,|1,-1æ )2-1/2|TrpTc -TrpTcæ,|1,-1æ )|TrpScæ
+1 - 2 0 - - 0 3 -
+whichindicatesthattheinitialsingletpair(R ,R )intheradical
+1 2
+triad (R , R , R ) oscillates between singlet and triplet states Zero field splitting in C as well as dipolar, hyperfine, and
+1 2 3
+withthefrequencyΩ. Again,suchaspinconversiontakesplace Zeemaninteractionsstronglycomplicatethespindynamicsin
+onlyifJ *J . Sincetheaveragevaluesin2Ωt)1/2,then the triad. However, being interested in spin catalytic effects
+13 23
+somepartoftheradicalpairsnj )1-(3/8)∆J2/Ω2isthetriplet only, we can ignore all magnetic couplings except exchange
+T
+state and another part nj ) 1 - (3/8)∆J2/Ω2 remains in the interactions. Inthisapproximationsomeofthetriadspinstates
+S
+singletstate. Thus,theexchangeinteractionbetweentheradical (eq5)areinvolvedinthespinevolution,whichtransformsthe
+R andthepartnersofthepair(R ,R )decreasesthepopulation states with the singlet radical pair |Srpæ into those with triplet
+3 1 2
+of the initial singlet pairs in the triad, transforming them into states |Trp (or Vice Versa). The change of spin in the radical
+0,(
+thetripletones. Thus,radicalR 3 ,beingthespincatalyzerfor pairiscompensatedbythechangeofthespinprojectionS z Cof
+thetripletradicalpairs,appearstobetheinhibitorfortheinitial the catalyzer C so that such a spin evolution changes neither
+singlet pairs, retarding the rate of the geminate recombination thetotalspinSnoritsprojectionS of(R ,R ,C). Itisworthy
+z 1 2
+and decreasing the yield of the reaction product. tonotethatanyinteractionsoftwoequiValentelectronspinsof
+Spinexchangecanbevisuallyrepresentedastheprecession the spin catalyzer C with partners of the radical pair (R , R )
+1 2
+oftwospinvectorsS 1 andS 2 aroundthedirectionofthetotal arenotabletochangespinmultiplicitiesofC. Therefore,the
+vectorS 1 +S 2 .16 Inaccordancewithsuchavectorrepresenta- exchange interaction within C may be ignored.
+tionthespinexchangeintheradicaltriad(R 1 ,R 2 ,R 3 )andthe Physically, spin dynamics in four-spin triads resembles the
+spinoscillationintheradicalpair(R 1 ,R 2 )canbeimaginedas spin evolution in the three-spin model. The probability of
+follows. Supposethattheinitialspinstateoftheradicaltriad findingtheinitialtripletradicalpairinthesingletstateFT was
+SS
+is such as shown in Figure 4a. The selected radical pair (R 1 , shown17 to obey the equation
+R
+2
+) is in the state |T+ æ ) |R
+1
+R
+2
+æ , and both spins are oriented
+up,whilethespinoftheradicalR 3 isdirecteddown. Assume F S T S (t))(4/3)(∆J/(2Ω))2sin2Ωt (6)
+now that the exchange interaction J , which relates electron
+23
+spinsofradicalsR 1 andR 3 andinducesprecessionofspinsS 2 whichissimilartoeq3forthethree-spinsystem. Here,2Ωis
+and S 3 around the total spin S 2 + S 3 , is switched on (Figure theenergysplittingbetweentheeigenvaluesoftheHamiltonian
+4b). TheinterchangebetweentheorientationsofspinsS 2 and of the four-spin triad (R 1 , R 2 , C) corresponding to oscillating
+S 3 after a time τ, such as J 23 τ ) π, transforms the pair spin tripletstatesinwhicharadicalpairisinthesingletandtriplet
+state in such a way that the triad is now in a modified spin states,
+statewhentheradicalpair(R ,R )isfixedinthesingletstate.
+1 2
+The change of the radical pair spin is compensated by the 2Ω){[J -J ]2+2(∆J)2}1/2 (7)
+12 Σ
+reorientation of the spin of the radical R (Figure 4c).
+3
+Thus,thespinexchangebetweenradicalpartnersinthetriad whereJ istheexchangepotentialbetweenthepartnersofthe
+12
+canbedescribedbythevectormodelasthedephasingofradical radicalpair,J )(J +J )/2,andJ andJ aretheexchange
+Σ 1C 2C 1C 2C
+spin precessions. It is absolutely clear that if both radicals in potentialsbetweenthespincatalyzerCandeachofthepartners
+thepair(R 1 ,R 2 )areinfluencedbytheexchangeinteractionwith of the radical pair. It follows from eq 7 that the frequency of
+R 3 ,thentherateofdephasingisgovernedbythecombination spin oscillation is determined by the combination of pairwise
+ofexchangeenergydifferencesΩaccordingtoeqs3and4.It exchange potentials in the triad, while the amplitude of the
+isremarkablethatthispictureresemblesthetriplet-singletspin oscillationiscontrolledbythedifference∆J)J -J .Again,
+1C 2C
+conversioninanisolatedradicalpair;theonlydifferenceisthat we conclude that the driving force of the spin catalysis in the
+the latter is induced by the difference of Fermi and Zeeman four-spin system is the difference of the exchange energies
+interactions.1 betweenthecatalyzerCandeachoftworadicalsoftheradical
+pair.
+Four-Spin Model
+Chemical Dynamics of Spin Triads
+Spindynamicsinfour-spintriads(R ,R ,C)composedofa
+1 2
+radical pair (R , R ) and a third partner C, which is supposed Spin oscillations in the selected radical pair modulate the
+1 2
+tobeabiradicaltripletmolecule(oxygen,forinstance),triplet chemical reactivity of the pair and consequently influence the
++ +
+
+--- Page 5 ---
+
++ +
+18296 J. Phys. Chem., Vol. 100, No. 47, 1996 Buchachenko and Berdinsky
+SCHEME 3: Two Competitive Pathways of the Radical
+Triad Transformation
+chemical dynamics of triads. To elucidate what new kinetic
+effects are expected to follow from the spin catalysis, we
+considerthekineticbehavioroftheinstantlypreparedensemble
+of radical triads (R , R , R ) (Scheme 3).
+1 2 3
+Thetriadissupposedtoundergospincatalyticrecombination,
+Figure5. Kineticsoftheaccumulationofthegeminaterecombination
+generating the molecule R R with the rate constant w. This
+1 2 product RR in the presence of spin catalyzer R at w , k and
+spin dependent process is expected to compete with the spin 1 2 3
+parameters(k/(2Ω)))0.1(1),0.5(2),1.0(3),and5.0(4).
+independent destruction (via the radical escape, for instance)
+ofthetriadwiththerateconstantk. SincethemoleculesR 1 R 2 triadandaresimilartothoseinanisolatedradicalpair.19 The
+are formed exclusively from radical pairs in singlet state, the onlydifferenceisthattheoscillationsfromanisoloatedradical
+yield Y(t) of the reaction product R 1 R 2 obeys the equation pairareinducedbyFermiandZeemaninteractions,whilethose
+of the selected pair in the triad are stimulated by exchange
+Y(t))w
+∫tF
+(t)dt (8) interactions.
+0 SS AnexampleofthesebeatsisshowninFigure5. AtΩ.k,
+whereF (t)isthesingletstaterelatedtothediagonalelement i.e., when the oscillation frequency is higher than the decay
+SS
+in the density matrix of the radical pair in the triad, i.e., the frequency,quantumbeatsareclearlyseen. Inthecaseofslow
+probabilityforthepairtobeinthesingletstate. Thelattercan oscillations, Ω e k, quantum beats are not pronounced, since
+bederivedfromthedensitymatrixoftheradicaltriadF,which the main contribution into the kinetics goes from the first
+is the solution of the evolution equation nonoscillating part of the eq 11.
+dF/dt)-i[H,F]-(w/2){P12F+FP12}-k (9) Quantitative Kinetics
+S S F
+Figure 1 demonstrates the enhancement of the radical pair
+The first term represents the spin dynamics of triads induced recombinationprobabilityinducedbythepresenceofnitroxide
+bythespinHamiltonianH,whichincludespairwiseexchange radicals. Suchbehavioroftherecombinationprobabilityimplies
+interactions. Thesecondonedescribestheleakageofthetriads thattherearetwocoexistingpathwaysoftheradicalpairspin
+duetothespindependentrecombinationofthepairs(R 1 ,R 2 ). transformation: the “native”, induced by intrapair magnetic
+P12istheprojectionoperatorselectingthesingletspinstateof interactions(hyperfine,Zeeman,dipolar,etc.)andthecatalytic,
+S
+pairs. The last term characterizes the decay of the triads via provokedbynitroxides. Scheme4summarizesthesetwospin
+spin independent processes with the total rate constant k. transformationchannelsintermsofkineticrateconstants. The
+Solutionsofeq9forthedifferentkineticregimeshavebeen directtransformationoftheradicalpair,RP,intotherecombina-
+summarized in ref 18. The most characteristic feature of the tion product N with the rate constant r is accompanied by
+solutions can be illustrated by the particular case of weakly catalyticconversion,whichincludestheenteringofthenitroxide
+recombining radicals, i.e., when w , k. With this condition radicalRintotheRPwithadiffusionalrateconstantk andthe
+0
+from eq 9 it follows that followingtransformationoftheradicaltriadintotherecombina-
+tion product N with the rate constant r*. The process of
+F (t))FT (t)exp(-kt) (10) diffusional dissociation of RP and the radical triad, which
+SS SS
+destroysbothofthem,shouldalsobeconsideredandissupposed
+Usingeq3fortheFT (t)andsubstitutingeq10intoeq8,one to be characterized by the rate constant d.
+SS
+canderivethekineticequationfortheyieldofreactionproduct Within the scope of the Scheme 4 the recombination
+R R : probability P along the first noncatalytic pathway is given
+1 2 RP
+by the expression
+Y(t))Y [1-(1+Θ2)e -kt+Θ2e -ktcos(2Ωt+
+¥ P )r/(r+d+k [R]) (13)
+(cid:230))/cos(cid:230)] (11) RP 0
+The probability P of the transformation of the RP within the
+where tr
+radical triad is
+Y )Y(tf¥ ))(w/(2k))[(∆J/(2Ω))2/(1+Θ2)],
+¥ P )k [R]/(r+d+k [R]) (14)
+Θ)k/(2Ω), (cid:230))arctanΘ, tr 0 0
+cos(cid:230))Θ/(1+Θ2)1/2 (12) and the probability for the triad to be transformed into the
+reaction product N is
+Itisevidentthattheproductyieldofthespincatalyticreaction
+dependsonrateconstantskandwcharacterizingthechemical P* )r*/(r*+d) (15)
+tr
+dynamics, as well as on parameters ∆J and Ω regulating the
+spin dynamics. Finally,thetotalradicalpairrecombinationprobabilityPobeys
+From eq 11 it follows that the kinetics of spin-catalyzed the equation
+reactionconsistsoftwoadditiveparts,andthesecondcontribu-
+tion oscillates in time according to eq 11. These oscillations, P)P +P P* (16)
+RP tr tr
+orquantumbeats,intherateandthereactionyieldarisefrom
+thetriplet-singletconversionoftheselectedradicalpairinthe By substitution of eqs 13-15 into eq 16, it is easy to derive
++ +
+
+--- Page 6 ---
+
++ +
+Feature Article J. Phys. Chem., Vol. 100, No. 47, 1996 18297
+TABLE2: Ratiosr*/rforLanthanideIons
+ion spinS r*/r ion spinS r*/r
+i i
+La3+ 0 0 Tb3+ 3 0.93
+Ce3+ 1/2 0.34 Dy3+ 5/2 0.78
+Pr3+ 1 0.28 Ho3+ 2 0.62
+Nd3+ 3/2 0.71 Er3+ 3/2 0.47
+Pm3+ 2 Tm3+ 1 0.31
+Sm3+ 5/2 0.93 Yb3+ 1/2 0.31
+Eu3+ 3 0 Lu3+ 0 0
+Gd3+ 7/2 3.4
+SCHEME 4: Kinetic Presentation of Radical Pair
+Reactions
+Figure 6. Ratios of the catalytic/noncatalytic rate constants of the
+radicalpairrecombination,r*/r,asafunctionofspinS oflanthanide
+i
+ions.Bothr*andrrefertotheradicalpairrecombinationinamagnetic
+fieldof2000G.14
+SCHEME 5: Kinetic Presentation of Recombination of
+Alkyl Radicals R with Nitroxide Mono- and Biradicals negligible. Combining the Scheme 5 with reactions
+2k
+B+R9B8M
+k
+M+R9M8stableproducts
+onecanderivefollowingexpressionsforphenomenologicalrate
+the final equation constants k and k :
+M B
+P) r + r* k 0 [R] (17) k ) k 0 r ; k ) k 0 r*t + k 0 r (19)
+r+d+k [R] r*+dr+d+k [R] M r+d B (d+t+r)(d+t) d+t+r
+0 0
+At[R])0themagnitudeofPequals0.033(seeFigure1),so Taking into account evident relations r , d, r* , d, t , d,
+the ratio r/d ) 0.033. Thus, the relation r , d reduces eq 17 one can derive from eq 19 the ratio of rate constants of spin-
+catalyzed and spin-uncatalyzed RP recombination:
+to
+r*/r)((cid:230)-1)(d/t) (20)
+P) r + r* k 0 [R] (18)
+d+k [R] r*+dd+k [R] where(cid:230)istheratiok /k . Sinceextendedmolecularconfor-
+0 0 B M
+mations of biradicals dominate, the rate constant t is expected
+Thequantitativefittingofexperimentaldatatoeq18shownin to be at least an order of magnitude lower than that for the
+Figure 1 results in the ratio r*/r ) 6.3 ( 0.1, which is not escape of the biradical terminus from the triad (B‚‚‚R). The
+sensitivetotherateconstantk ranginginreasonablediffusional latter is thought to be of the same order of magnitude as the
+0
+limits of 1010-108 M-1 s-1. dissociationrateconstantd. Fromtheseargumentstherelation
+The ratio r*/r ) 6.3 is the quantitative measure of spin t,dunambiguoslyfollows,sofromeq20onecanimmediately
+catalytic efficiency and demonstrates that the rate constant of concludethatr*/r.1. Ifweassumetheratiod/ttobewithin
+the RP recombination in the triad is almost an order of the reasonable limits of 10-20, and (cid:230) is known to be in the
+magnitude higher than that of the isolated RP. range 1.1-1.5,11 then the ratio r*/r falls into the range 1-10,
+Nowwewillanalyzequantitativelythespincatalysisinthe in general accordance with that for the radical pair generated
+reactionofthenitroxidebiradicalswithalkylradicals.11 Scheme by DPP photolysis in benzene, as has been discussed above.
+5describesthesequenceofelementarystepsinthescavenging The lack of known values t and d (or their ratio) prevents a
+of alkyl radicals R by nitroxide monoradical M and biradical more careful estimation of the r*/r ratio.
+B. ItimpliestheencounterbetweenMandR,resultinginthe Now we address the SC by paramagnetic ions. Figure 2
+pair (M‚‚‚R), which is able to recombine into the reaction demonstrates that the addition of lanthanide ions Ln3+ causes
+productXordissociatewiththerateconstantd. Thereaction an increase in the recombination probability. However, the
+betweenBandRincludestheencounterpair(M‚‚‚R)withone efficiency of different ions in accelerating the recombination
+ofthebiradicaltermini. Thepaircandissociateandrecombine processisfarfromidentical. Todifferentiatethespincatalytic
+(with rate constants d and r, respectively) or it can be efficiency of the Ln3+ ions, the kinetic scheme similar to that
+transformed into the triad (B‚‚‚R) if the other terminus of the for organic radicals has been used20 and the equation for the
+biradical enters into the radical pair (M‚‚‚R) with the rate recombination probability as a function of Ln3+ concentration
+constant t. The triad is assumed to recombine, resulting the has been derived. The equation is identical with eq 17 with
+monoradicalM,ordissociatebyescapingfromthealkylradical the ion concentration in the micellar phase instead of the
+or one of the biradical termini. Note that Scheme 5 does not concentration of radicals in a solution.
+considerthedirectformationoftriad(B‚‚‚R)viaencounterof The ratios r* for different lanthanide ions are collected in
+i
+R with B. The reason for that is that nitroxide biradicals in Table2andpresentedinFigure6asafunctionoftheionspin
+Scheme 2 are mostly in extended molecular conformations in S. The figure demonstrates the correlation between the ef-
+i
+which biradical termini are distant so that the probability of ficiency of the ion as a spin catalyser and its electron spin S.
+i
+theencounterofthealkylradicalwiththegeminateconforma- Thiscorrelationclearlyandunambiguouslyindicates,inagree-
+tion of B, when both biradical termini are drawn together, is mentwiththeory,15thattheexchangeinteractionbetweeneach
++ +
+
+--- Page 7 ---
+
++ +
+18298 J. Phys. Chem., Vol. 100, No. 47, 1996 Buchachenko and Berdinsky
+of the radical pair partners on one side and the paramagnetic triplet potential energy surface. The difference in these prob-
+ion on the other side is responsible for the spin-catalyzed RP abilities for the catalyzed and uncatalyzed reaction reaches 7
+transformation. The absence of correlation between the ef- orders of magnitudes in favor of the former.23
+ficiency of ions and their magnetic moments pointed out by Spincatalysisissupposedtobeanimportantfactorthatlimits
+Turro et al.14 provides additional support in favor of the spin or,probably,evenpreventsobservationofthemostinteresting
+catalysis concept. collectivepropertiesofspin-polarizedhydrogenatomsand,in
+A kinetic analysis of the spin catalytic effect clearly dif- particular, the observation of Bose-Einstein condensation of
+ferentiatesspincarrierswithrespecttotheirabilitytoproduce this boson gas.24-26 To detect this phenomenon, the low-
+a spin transformation of radical pairs. The most effective temperature spin-polarized atomic gas compressed to high
+carriersarefoundtobeorganicradicals,i.e.,spincarierswith density is required. However, three-body recombination, in
+anouterunpairedelectron. Forthesecarrierstheratior*/r≈ which the leading role has been shown to belong to dipolar
+10, i.e., the presence of the spin catalyzer in the radical pair andexchangecouplinginthree-spintriadsofpolarizedhydrogen
+accelerates the spin conversion of the pair by an order of atoms,resultsinthegenerationofhothydrogenmoleculesand
+magnitude. Paramagneticlantanideionsaremuchlesseffective, ultimatelyintheheatingofthegasanddecayofthehydrogen
+ratios r*/r fall into the range 0.2-1.0, i.e., the contribution of atoms, preventing Bose condensation. The theory of spin
+the spin catalytic effect in the RP spin conversion does not catalysis15 predicts that even a single nonpolarized hydrogen
+exceed 20-100% of the noncatalytic pathway. atom in the polarized gas is enough to catalyze the fast,
+Thelowefficiencyofionsasspincatalyzersmaybeattributed explosive, nonthreshold hydrogen atom recombination so that
+to the inaccessibility of the inner unpaired electrons screened it is hardly able to overcome the high-density barrier to Bose
+partlybytheouterelectrons. TheonlyexclusionisGd3+,which condensation of spin-polarized hydrogen atoms.
+appearstobeahighlyeffectivespincatalyzer(r*/r)3.5),its As a mechanism of the radical pair spin conversion, spin
+efficiency approaching that of organic radicals. The unique catalysis is competitive with the magnetically induced spin
+statusofEu3+,whichpossessessixunpairedelectronsbutshows conversionand,therefore,resultsinsuppressionofthemagnetic
+no spin catalytic effect, has been discussed by Turro et al.14 field effect in the radical pair reactions. This effect has been
+andmaybeattributedtothefactthatthisionisdiamagneticin clearly illustrated by Shkrob et al.27 in the photolysis of
+its ground electronic state because of the cancellation of spin deoxybenzoinanditsderivativesinSDSmicelles. Moreover,
+and orbital magnetic moments (for details see ref 21). theefficiencyoflanthanideionsinsuppressionofthemagnetic
+fieldeffectwasfoundtofollowtheirspincatalyticefficiency.
+Conclusion
+ItisworthytonotethatthetransitionmetalionMn2+asaspin
+catalyzer is comparable with Gd3+.
+Spin catalysis as a remarkable property of spin selective
+The quantitative hierarchy of spin carriers with respect to
+reactionsisatypeofphysicalcatalysisinwhichthecatalyzer
+theirspincatalyticefficiencyisinexcellentagreementwiththe
+acts as a spin converter, violating the spin forbiddance of
+theory, which predicts that the rate of spin conversion in the
+reactions.22 Theradicalpairrecombination,thelow-temperature
+radical pair has to be proportional to the difference ∆J of
+recombination of spin-aligned hydrogen atoms, and cis-trans
+exchange energies between the spin catalyzer and each of the
+isomerizationofmoleculeswithdoublebondsareexamplesof
+radicalpairpartners.15 Thisstatementundoubtedlyimpliesthat
+processes spin catalyzed by paramagnetics.
+spin carriers with outer unpaired electrons are much more
+Asanillustrationofthelatterprocess,weaddressthekinetics
+preferable as spin catalyzers than those with inner unpaired
+of isomerization of dimethylmaleate into its trans-form, di-
+electrons. However, although the former spin carriers are
+methylfumarate.23 The reaction was shown to be strongly
+effective spin catalyzers, they are usually also chemically
+accelerated by stable nitroxide radicals (TEMPO and its
+reactive radical scavengers, whereas the latter carriers, being
+analogues). Neitherdecayofnitroxideradicalsnortheforma-
+rather low efficient spin catalyzers, may be chemically inert.
+tionofanybyproductwasobserved,sothisisthecaseoftrue
+Thestrategyofspincatalysisisindeedacompromisebetween
+paramagneticcatalysis. Theactivationenergyofthecatalyzed
+these two functions of spin carrier, to be simultaneously spin
+reactionwasshowntobepreciselyequaltothatofanoncata-
+catalyzer and spin scavenger.
+lyzed reaction (i.e., the reaction in the absence of nitroxide
+radicals). However,thepreexponentialfactorofthecatalyzed
+Acknowledgment. Financial support of the Russian Fund
+reactionappearstobe7ordersofmagnitudeshigherthanthat
+for Fundamental Research is gratefully acknowlegded (Grant
+ofadirect,noncatalyzedreaction.23 Boththeseargumentsare
+96-03-34193).
+unambiguously in favor of “nonenergetic” physical catalysis,
+based on the violation of the spin conservation rule. References and Notes
+Cis-trans isomerization was shown to occur in the weakly
+(1) Salikhov,K.M.;Molin,Yu.N.;Sagdeev,R.Z.;Buchachenko,A.
+bound paramagnetic complex between the dimethylmaleate
+L.SpinPolarizationandMagneticEffectsinRadicalReactions;Elsevier:
+molecule and the nitroxide radical. By measurement of the Amsterdam,1984.
+NMR paramagnetic shifts and line broadening, it was shown (2) Buchachenko,A.L.;Frankevich,E.L.ChemicalGenerationand
+thatinthecomplexthetransferofthespindensityofanunpaired ReceptionofRadio-andMicrowaVes;VCHPublishers: NewYork,1994.
+(3) Steiner,U.E.;Ulrich,T.Chem.ReV.1989,89,51.
+electron from the nitroxide radical to the double bond of the
+(4) Sagdeev,R.Z.;Salikhov,K.M.;Leshina,T.V.;Kamkha,M.A.;
+ligandmoleculetakesplace.23 Thetransferredπ-electronspin Shein,S.M.;Molin,Yu.N.JETPLett.1972,16,599.
+density in the double bond is 2 × 10-3. (5) Buchachenko,A.L.;Galimov,E.M.;Ershov,V.V.;Nikiforov,
+Spin catalysis is supposed to manifest itself in the twisted G.A.;Pershin,A.D.Dokl.Acad.NaukSSSR1976,228,379.
+(6) (a)Bargon,J.;Fisher,H.;Johnson,U.Z.Naturforsch.1967,22A,
+conformationofthemolecule. Inthisconformationsingletand
+1551.(b)Ward,H.;Lawler,R.J.Am.Chem.Soc.1967,89,5518.
+triplet states of two π-electrons are energetically degenerate, (7) Fessenden,R.;Schuler,R.J.Chem.Phys.1963,39,2147.
+so the pair of these electrons in cooperation with the third (8) Frankevich,E.L.;Pristupa,A.I.;Lesin,V.I.Phys.Lett.1977,47,
+unpairedelectronoftheradicalcatalyzermaybeconsideredas 304.
+(9) (a)Tarasov,V.F.;Bagryanskaya,E.G.;Grishin,Yu.A.;Sagdeev,
+aspintriad. Spinconversioninthistriaddrasticallyincreases R.Z.;Buchachenko,A.L.MendeleeVCommun.1991,85.(b)Okazaki,M.
+theprobabilityofthenonadiabaticreactionpathwayalongthe J.Phys.Chem.1988,92,1402.
++ +
+
+--- Page 8 ---
+
++ +
+Feature Article J. Phys. Chem., Vol. 100, No. 47, 1996 18299
+(10) Sagdeev,R.Z.;Molin,Yu.N.;Salikhov,K.M.;Grishin,Yu.A.; (20) Buchachenko,A.L.;Berdinsky,V.L.;Turro,N.J.Chem.Phys.
+Dushkin,A.V.;Gogolev,A.Z.Bull.Magn.Res.1980,2,66. Lett.,submittedforpublication.
+(11) Step,E.N.;Buchachenko,A.L.;Turro,N.J.J.Am.Chem.Soc. (21) Rabek, J. F., Ed. Photochemistry and Photophysics; CRC Press:
+1994,116,5462. BocaRaton,FL,1991;Vol.IV,p1.
+(12) Bartels,D.M.;Trifunac,A.D.;Lawler,R.G.Chem.Phys.Lett.
+(22) Thetermspincatalysissometimesisusedtodefinesuchphenomena
+1988,152,109.
+as an enhancement of intensity of spin forbidden optical transitions
+(13) Buchachenko,A.L.;Step,E.N.;Ruban,V.L.;Turro,N.J.Chem.
+stimulatedbyheavyatommoleculesorparamagnetics(see,forinstance,
+Phys.Lett.1995,233,315.
+MinaevB.F.;AgrenH.Collect.Czech.Chem.Commun.1995,99,8936;
+(14) (a)Turro,N.J.;Lei,X.;Gould,I.R.;Zimmt,M.B.Chem.Phys.
+Theor.Chim.Acta1996,57,519).Ouropinionisthatsuchadefinitionis
+Lett. 1985, 120, 397. (b) Sakaguchi, Y.; Hayashi, H. Chem. Phys. Lett.
+notjustifiedbecausethetermcatalysisitselfconcernstraditionallychemical
+1984,106,420.(c)Basu,S.;Kundu,L.;Chowdhury,M.Chem.Phys.Lett.
+reactionsandhasnothingtodowithspectroscopicphenomena.
+1987, 141, 115. (d) Tanimoto, Y.; Kita, A.; Itoh, M.; Okazaky, M.;
+Nakagaki,R.;Nagakura,S.Chem.Phys.Lett.1990,165,184.(e)Sakaguchi, (23) Buchachenko,A.L.;RubanV.L.;RozantzevE.G.Kinet.Catal.
+Y.;Hayashi,H.Chem.Phys.1992,162,119. 1968,9,915.
+(15) Buchachenko,A.L.;Berdinsky,V.L.Chem.Phys.Lett.1995,242, (24) Kagan,Yu.M.;Vartanyants,I.A.;Shlyapnikov,G.V.SoV.Phys.
+43. JETP(Engl.Transl.)1982,54,590.
+(16) Molin,Yu.N.;Salikhov,K.M.;Zamaraev,K.I.SpinExchange.
+(25) Sprik,R.;Walraven,J.T.M.;Silvera,I.F.Phys.ReV.Lett.1983,
+Principles and Applications in Chemistry and Biology; Springer-Verlag:
+51,479.
+Heidelberg,1980.
+(17) Berdinsky,V.L.;Buchachenko,A.L.Kinet.Catal.,submittedfor (26) Hess,H.F.;Bell,D.A.;Kochanski,G.P.;Cline,R.W.;Kleppner,
+publication. D.;Greytak,T.J.Phys.ReV.Lett.1983,51,483.
+(18) Buchachenko,A.L.;Berdinsky,V.L.Russ.Chem.Bull.1995,44, (27) Shkrob,I.A.;Margulis,L.A.;Tarasov,V.F.Russ.J.Phys.Chem.
+1578. (Engl.Transl.)1989,63,1827.
+(19) Anisimov,O.A.;Bizyaev,V.L.;Lukzen,N.N.;Grigoryants,V.
+M.;Molin,Yu.N.Chem.Phys.Lett.1983,101,131. JP961008R
++ +

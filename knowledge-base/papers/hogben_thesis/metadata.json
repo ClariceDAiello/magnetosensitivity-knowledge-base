@@ -1,0 +1,48 @@
+{
+  "paper_id": "hogben_thesis",
+  "doi": "",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "fluencedbythemagnitudeanddirectionofappliedmagneticfields",
+    "evenforinteractionstrengths"
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "Coherent Spin Dynamics of Radical Pairs in Weak Magnetic Fields\nHannah J. Hogben\nDepartment of Chemistry\nPhysical and Theoretical Chemistry Laboratory and Oriel College\nAbstract of a thesis submitted for the degree of Doctor of Philosophy\nTrinity Term 2011\nThe outcome of chemical reactions proceeding via radical pair (RP) intermediates can be in-\nfluencedbythemagnitudeanddirectionofappliedmagneticfields,evenforinteractionstrengths\nfar smaller than the thermal energy. Sensitivity to Earth-strength magnetic fields has been sug-\ngested as a biophysical mechanism of animal magnetoreception and this thesis is concerned with\nsimulations of the effects of such weak magnetic fields on RP reaction yields.\nState-space restriction techniques previously used in the simulation of NMR spectra are\nhere applied to RPs. Methods for improving the efficiency of Liouville-space spin dynamics\ncalculations are presented along with a procedure to form operators directly into a reduced\nstate-space. These are ",
+  "date_added": "2025-11-05T07:57:45.021979",
+  "last_modified": "2025-11-05T07:57:45.021981",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "/Users/clarice/Desktop/Claude test/Literature/hogben_thesis.pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

@@ -1,0 +1,572 @@
+
+
+--- Page 1 ---
+
+285
+11
+DNA Sequencing and Next-Generation Sequencing Methods
+Many important and major advances in the biosciences are based on modern
+methodologies for DNA sequencing. It was not long ago when the traditional
+fluorescence-based Sanger method was one of the dominating methods. How-
+ever,thehighdemandinfastandaffordablesequencingoflargeDNAsequences
+andentiregenomeshasresultedinthedevelopmentofnewsequencingmethods
+with significantly increasing pace. It has been just a decade since an entire
+human genome was sequenced for the first time in a joint effort of many
+research groups around the world (and later also of a private company) taking
+several years. However, nowadays the development of so-called next-generation
+sequencing methods allows the same task to be performed in one laboratory
+evenwithinonlyafewdays.Thisdevelopmentenables,forexample,alsoathor-
+ough analysis of the genome of ancient DNA such as from the 5300 year old
+mummyofÖtziinacomparativelyshorttime.Fascinatingdetailsbecameavaila-
+ble such that he likely had brown eyes, is genetically related to modern day
+Sardinians and Corsican (which doesn’t exclude that this genetic relation was
+verycommonwhenÖtzilived)hadalactoseintolerance(likemostofthepeople
+inthesedays)andsomeDNAsequencesindicatedthathehadaLymedisease.
+In this chapter, we give first a brief insight into how the traditional fluores-
+cence-basedSangermethodworks.Then,themostimportantprinciplesofmod-
+ern next-generation sequencing methods will be described that all enable much
+faster sequencing by highly parallelized sequencing. These methods are quite
+diverse and technically sophisticated while still being interconnected by several
+important steps. To facilitate keeping track of the different methods a flow dia-
+gram (Figure 11.2) is provided that visualizes common and different procedures
+andcontainsreferencestoallfiguresandsectionsthatexplainthecorresponding
+stepsindetail.
+11.1
+SangerMethod
+Figure 11.1 shows the principle of the traditional fluorescence-based Sanger
+DNA-sequencing method. In a first step, the DNA sequence of interest is
+ModernBiophysicalChemistry:DetectionandAnalysisofBiomolecules,SecondEdition.PeterJomoWalla.
+2014Wiley-VCHVerlagGmbH&Co.KGaA.Published2014byWiley-VCHVerlagGmbH&Co.KGaA.
+
+--- Page 2 ---
+
+286 11 DNASequencingandNext-GenerationSequencingMethods
+Figure11.1 DNAsequencingcanbecarried fragmentswithafluorescencedyeatthe3´-
+outbypolymerasechain-reactionamplifica- endencodingthecorrespondingDNAbase.
+tionoftheDNAofinterestinthepresenceof Incapillarygelelectrophoresisthedifferently
+asmallfractionofnucleotidescarryingdiffer- sizedfragmentsexitthecapillaryoneafterthe
+entlyfluorescence-labellednucleotidesand other.ThesequenceoftheDNAcanthenbe
+lackingthehydroxylgroupatthe3´end.Asa determinedfromtheobservedsequenceof
+result,PCRgeneratesdifferentlysizedDNA fluorescencecolours.
+replicated by the enzyme DNA-polymerase in a process called the polymerase
+chain reaction (PCR). For the Sanger method the standard PCR process is
+slightly modified. As in normal PCR, the exact starting point for the replication
+isdeterminedbyaDNAprimer,whichisashortsequenceofDNAcomplemen-
+tary to the DNA sequence at the desired starting point. Once DNA-polymerase
+hasstartedthereplicationitcontinuesaddingcomplementaryDNAinthedirec-
+tion5´-endto3´-endofasingle-strandedDNAuntilacertainstopsignalispres-
+ent. (The ends of DNA are named after the 5´- and 3´-hydroxyl groups of the
+deoxyribose sugars of the DNA backbone.) In normal PCR this replication
+
+--- Page 3 ---
+
+11.2 Next-GenerationSequencingMethods 287
+processisreiteratedmanytimesbyrepeatedlyseparatingthefreshlysynthesized
+doubleDNAstrandsintosinglestrands.Thisseparationcanbeachievedsimply
+by heating the double-stranded DNA over 80°C (cf. the DNA hypochromism
+curveinFigure2.8).Obviously,forDNAreplicationthepresenceoftheindivid-
+ual nucleotides, guanine, adenine, cytosine and thymine (G, A, C and T) is nec-
+essary. In contrast to normal PCR, for the DNA sequencing a small fraction of
+the natural nucleotides is substituted bynucleotides labelled with different fluo-
+rescencemarkers.Inaddition,thesenucleotidesaremodifiedinsuchawaythat
+the deoxyribose is lacking the hydroxyl group at the 3´- end. As a consequence,
+DNA replication of an individual strand stops as soon as such a fluorescently
+markednucleotidehasbeenbuiltintothenewlysynthesizedDNA.Overall,PCR
+generates under these circumstances various sized DNA fragments that all start
+with the same primer sequence but end at different lengths with a fluorescence
+dye at the 3´-end, which encodes the corresponding base by its specific fluores-
+cencecolour.ThismixtureoffluorescentlylabelledDNAfragmentsisnowsepa-
+ratedusingcapillarygelelectrophoresis(CGE).CGEcanseparateeachfragment
+size one after the other. At the end of the capillary the smallest fragments will
+rise first, followed by fragments with increasing numbers of nucleotides. Since
+only the nucleotides at the 3´-end of the fragments are labelled the sequence of
+detectable fluorescence corresponds exactly to the complementary sequence of
+the original DNA. Modern DNA sequencers based on this technology can
+sequenceDNAstrandsofupto1000basesinafewhours.
+11.2
+Next-GenerationSequencingMethods
+As of today it seems not to be clear yet which of the currently available next-
+generation sequencing methods will be the golden standard in the future and
+evennewerapproachesemergeatthehorizon.Nevertheless,becauseofthevery
+high relevance of these methods for modern biophysical chemistry we will dis-
+cuss here exemplarily five methods. As discussed already in the introduction to
+this book also this selection shall not indicate that these methods are the most
+important ones but they cover a large part of the different concepts that have
+allowed the development of these high-throughput sequencing methods. One
+conceptualprincipleiscommoninallofthesemethods–namelythevastparal-
+lelization of sequencing. However, important details such as preparation steps
+andread-outtechnologiesdiffersignificantly.
+All methods can be divided into three steps: 1. Random fragmentation of the
+DNAintoafragmentlibrary.2.Immobilizationofthefragmentsatdifferentsur-
+faces and 3. Sequencing. Because of the high diversity of different sequencing
+approaches albeit still being interconnected by some elementary steps we will
+discuss them based on the flow diagram shown in Figure 11.2. As mentioned
+above,Figure11.2alsocontainsreferencestothecorrespondingfiguresandsec-
+tions in which the individual steps are explained in detail. The fragmentation
+
+--- Page 4 ---
+
+288 11 DNASequencingandNext-GenerationSequencingMethods
+1. Random 2. Fragment Immobilization 3. Fragment Sequencing
+Fragmentation Cluster Generation Computation of Entire DNA Sequence
+I. Dye Sequencing by stepwise adding
+Immobilization at the surface of a fluorescently labelled nucleotides. (Fig.
+flow cell. Cluster generation by 11.5)
+surface bridged PCR. (Fig. 11.4)
+II. Sequencing by ligating systematically
+specific fluoresently labelled oligomers in
+several rounds. (Fig. 11.8)
+Fragmentation of DNA Imm in o b w ili a z t a e t r io d n r a o t p i l n e d ts iv i i n d u a a n l b o e il ads III. Pyrosequencing by detecting Rec e o n n ti s re tru D c N ti A on - of
+(Nebu ( l F iz ig e . r , 1 S 1 o .3 n ) i cator) emulsion. Cluster generationby phosp n h u a c t le e o r t e id le e a s s . e (F d ig a . f t 1 e 1 r . a 9 d ) ding fra se g q m u e e n n t c -s e eq fr u o e m nces.
+emulsion PCR. (Fig. 11.7) (Fig. 11.6)
+IV. Ion semiconductorsequencing by
+detecting hydrogen ionsreleased after
+adding nucleotides. (Fig. 11.10)
+Immobilization of single DNA-
+fragments in subwavelength
+sized wells in a siliconwafer. No V. Single-molecule real-time sequencing
+Cluster generation. (Fig. 11.11) by detecting single fluorescently labelled
+nucleotides at DNA templates. (Fig. 11.11)
+Figure11.2 Flowdiagramillustratingthemostimportantstepsinfivedifferentnext-generation
+sequencingapproaches.
+step1iscrucialforsequencingmanyfragmentsinparallel,whichisakeyprinci-
+plefor fastsequencing.Inallapproaches thefragments arethen immobilizedat
+differentsurfaces(step2),whichisalsocrucialforsequencingeachfragmentata
+different location in parallel. In most approaches the fragments are additionally
+locally amplified by different PCR approaches to generate clusters of identical
+DNA before sequencing. The sum signal from many identical DNA fragments
+provide high signal-to-noise ratios in the sequencing steps of the various tech-
+nologies. Three of the five methods share the same cluster-generation technol-
+ogy (PCR at bead surfaces in an oil/water emulsion), while one method is based
+on PCR at different localized points on a flow-cell surface. One method uses a
+sequencing technology that is sensitive enough to directly sequence single frag-
+ments without any cluster generation. Since all five approaches differ substan-
+tially in step 3, their sequencing method, we will use this step to assign and
+distinguish them: The sequencing of the five methods is based on I. fluorescent
+dye sequencing (sharing similarities with the Sanger method), II. sequencing by
+ligating systematically different short complementary and fluorescently labelled
+oligomers (for details see below), III. pyrosequencing that senses the pyro-
+phosphate release upon nucleotide incorporation, IV. ion semiconductor
+sequencing that senses hydrogen ion release upon nucleotide incorporation and
+V.single-moleculereal-timesequencing.
+Attheend,inallapproachesthesequenceinformationofallfragmentsisused
+toreconstructthesequenceoftheentireoriginalDNAbymatchingoverlapping
+sequence information of different fragments. In the following we will first
+describeapproach I.inwhich DNAclusters aregeneratedon aflow-cell surface
+andthensequencedusingnucleotideslabelledbyfluorescencedyes.
+
+--- Page 5 ---
+
+11.2 Next-GenerationSequencingMethods 289
+Figure11.3 Allnext-generationsequencingmethodsfirststartwiththefragmentationofthe
+originalDNAandligationofadaptorsequences.
+11.2.1
+DyeSequencing(ApproachI)
+Like in all other next-generation sequencing approaches the DNA is first frag-
+mented(Figure 11.3).Thiscanbedone, forexample, byaso-callednebulizerin
+which the DNA isforced through a small holebut also other mechanical shear-
+ingapproachesarepossible.Analternativefragmentationapproachis,forexam-
+ple,usingasonicatorinwhichsoundenergyofultrasonicfrequenciesisapplied.
+The resulting mixture of fragments is called a fragment library or sequencing
+library.Then,syntheticDNAs–calledadaptors(redandgreeninFigure11.3)–
+are added covalently to each fragment using DNA ligase. These adaptors have
+specific sequences that are complementary to adaptors covalently linked to a
+surface. In the case of the dye sequencing (I) procedure this is the surface of a
+flow cell (Figure 11.4). In the initial replication cycle the DNA-template frag-
+ment is replicated starting at such surface-linked adaptors (green) that are also
+the primers for PCR amplification (initial extension). Due to the following tem-
+perature increase the original, not covalently linked mobile DNA fragment is
+thenremoved(denaturation)andwashedaway.Acovalentlylinkedcomplemen-
+tary strand remains. A speciality in the dye sequencing (I) approach is that the
+DNAisthenbridgedtootheradaptorsatthesurfacethatarecomplementaryto
+theadaptorsattheotherend(red,Figure11.4).Thisisnecessarytokeepfurther
+replications at local positions. Then, PCR can be applied to generate the next
+complementarystrandsthatareagaincovalentlylinkedtothesurface.Thiscom-
+plimentary copy is now identical to the sequence of the original mobile DNA
+fragment. Now the two anti-parallel strands can be denaturated again yielding
+two strands that are both covalently attached to the surface. These can now
+serve for the next extension round. Obviously, with each PCR cycle new DNA
+eithercomplementaryoridenticalinsequencetotheoriginalmobileDNAtem-
+plateisgenerated,allcovalentlylinkedtotheflow-cellsurfaceinaverylocalized
+region.Asaresult,afterseveralbackandforthPCRcycles,eachclusterconsists
+
+--- Page 6 ---
+
+290 11 DNASequencingandNext-GenerationSequencingMethods
+Figure11.4 Inthedyesequencing(I) ratiointhedifferentparallelsequencing
+approachclustersofidenticalDNAfragments procedures.Sinceinaflowcelltheoriginal
+aregeneratedatdifferentlocationsonaflow- DNAtemplateneedstobewashedawayafter
+cellsurface.Inmostnext-generationsequenc- theinitialreplicationround,bridgedPCRis
+ingmethodsthegenerationofsuchclustersis necessarytokeepfurtherreplicationsatlocal
+necessarytogetasufficientsignal-to-noise positions.Fordetailsseethetext.
+of about 1000 copies of sequences identical or complementary to a single original
+mobilelibraryfragment.ThebridgingandalternatingDNAgeneratingcyclemight
+seem inconvenient at first glance but is necessary because the original, mobile
+DNAfragmentfromthelibrarycanbeusedonlyonceforinitiatingclustergenera-
+tion at a distinct spot. Since in PCR the double strands are always separated in
+each cycle by the temperature increase the released mobile library fragment needs
+to be washed away. Otherwise more and more clusters would be initiated by this
+fragment at various different spots of the cell surface in an uncontrolled manner
+and the generated clusters could no longer be locally distinguished because they
+would become overcrowded. Therefore only the remaining covalently linked
+DNA-copy can be used for further PCR. If the next copy shall also be covalently
+linked to the same local region a bridging to another covalently linked primer for
+PCRisunavoidableaswellasalternatingreplicationdirections.
+After cluster generation, all DNA bound to the cell surface with one of the two
+adaptor types (for example the green ones) are cleaved so that only one sequence
+
+--- Page 7 ---
+
+11.2 Next-GenerationSequencingMethods 291
+Figure11.5 Inthedyesequencing(I) andthecurrentbaseaddedtoeachclusteris
+approachlabellednucleotidesthatare indicatedbythefluorescencemarkercolour
+blockedatthe3´-OHareaddedtogetherwith specificforthebase.Inthenextstep,the
+DNA-polymerase.Asaresultonlyasingle fluorescencedyesarecleavedandthe3´-OH
+nucleotideisaddedtoeachstrand.The areregeneratedsothatthenextbasecanbe
+residualnucleotidesarethenwashedaway sequenced.
+direction remains at this local cluster. The next step in the dye sequencing (I)
+approachisanalysingthissequenceforallclusterssimultaneouslyusinganimage-
+based fluorescence approach. First, specifically labelled nucleotides are added
+together with DNA-polymerase and an appropriate primer (Figure 11.5a). The
+nucleotidesareblockedatthe3´-OHgroupandthereforeonlyonenucleotidecan
+be added to each DNA fragment. The residual labelled nucleotides are then
+washedaway(Figure11.5b).Thenucleotidesineachclustercannowbeidentified
+
+--- Page 8 ---
+
+292 11 DNASequencingandNext-GenerationSequencingMethods
+Figure11.6 Inthefinalstep,thesequenceofallfragmentsarealignedinordertoreconstruct
+theentireoriginalgenome.
+by a standard wide-fieldmicroscope (Figure7.6), capable of differentiating the dif-
+ferent clusters spatially and the colours of the actually added nucleotides in the
+different clusters by spectral filters. Here, the advantage of the cluster generation
+becomes obvious: the thousands of identical fluorescence dyes in a cluster give a
+very robust, intensive fluorescence signal that can be used to identify the nucleo-
+tidethathascurrentlybeenaddedinthisspecificcluster.Afterread-out,acleavage
+step removes the fluorescence dye and regenerates the 3´-OH group of the added
+nucleotide (Figure 11.5c). Then, the cycle can be repeated and the next added
+nucleotidesineachclustercanbeidentified(Figure11.5d-f).InFigure11.5gexem-
+plarilytwoclusters(inthetopleftandbottomright)arehighlightedbyacircle.In
+eachcyclethefluorescencespotoriginatingfromtheclusteratthispositionhasan
+emissionwavelength that correspondstothe newly added complementary nucleo-
+tide.InthisparticularcasethesequencededucedforthetopleftspotisTGCCAG,
+whereasthesequencededucedforthebottomrightspotisGAAGTC.
+After analysis the sequence for a multitude of fragments is available. In the
+final step, the sequences obtained from all individual fragments have to be
+aligned in such a way that the entire original genome is reconstructed (Fig-
+ure11.6).Itisobviousthatitisadvantageoustohaveseveraldifferentfragments
+of the same DNA in order to reconstruct the entire genome robustly and that
+advancedbioinformaticalanalysisismandatoryforthistask.
+11.2.2
+SequencingbyLigation,PyrosequencingandIonSemiconductorSequencing
+(ApproachesIItoIV)
+11.2.2.1EmulsionPCR
+These three approaches differ from the previous one first in the immobilization
+of the fragments and in the environment in which fragment clusters are gener-
+ated(Figure 11.7).In theseapproaches awater–oil emulsionandbeads carrying
+primersareused.Intheemulsionaqueousdropletsrepresentmanyminireactors
+within the oil phase. The beads as well as the DNA fragments are present in
+
+--- Page 9 ---
+
+11.2 Next-GenerationSequencingMethods 293
+Figure11.7 InemulsionPCR,clustersof DNAstrandscomplementarytothemobile
+identicalDNAfragmentsaregeneratedat fragmentareconnectedtothecovalently
+individualbeadsthatarecontainedinaque- linkedprimersatthebeadsandinanextstep
+ousdropletswithinanoilphase.Thesedrop- theidenticalDNAateachbeadcanbeana-
+letsrepresentminireactorsinwhichatmost lysedbeadbybeadusingvariousdifferent
+onebeadcarryingcovalentlylinkedprimers sequencingmethods.Inthesequencingby
+andatmostonemobileDNAfragmentis ligationapproach(II),forexample,theyare
+present.EachdropletalsocontainsDNA-poly- immobilizedonaglassslideandanalysed
+merase.Thus,afterseveralPCRcyclesmany withasophisticatedfluorescenceapproach.
+these water minireactors. The concentrations are adjusted in a way that one
+minireactorcontainsatthebeginningeitheroneornoDNAfragment.Also,the
+bead concentration is adjusted in such a way that only either one or none is
+presentinasingleminireactor(Figure11.7a).Then,emulsionPCRisconducted.
+In the initial cycle the mobile fragments attach to primers at the beads thereby
+allowingthegenerationofcomplementaryDNAattheprimerscovalentlylinked
+tothebeads(Figure11.7bandc).DuringthenextPCRcyclesbotharegenerated,
+DNA complementary to the original mobile fragment as well as DNA fragments
+
+--- Page 10 ---
+
+294 11 DNASequencingandNext-GenerationSequencingMethods
+identical to the original mobile fragment (Figure 11.7d-f). New mobile fragments
+are generatedat the DNAcovalently linked to the beadsand released during each
+temperature rise of a PCR cycle (Figure 11.7d). Since, in contrast to the bridged
+PCR described in the previous section, the mobile fragments stay here very local-
+izedinoneminireactortheycanbeusedmultipletimesatthesamebeadtogener-
+ate more and more complementary, covalently linked DNA copies. After several
+cyclesabeadinasingleminireactorcarriesexclusivelyalargenumberofidentical
+DNAstrandscomplementarytotheinitalfragmentsequence(Figure11.7g).
+After the generation of DNA clusters at the bead surfaces the methods of
+sequencing by ligation (II), pyrosequencing (III), and ion semiconductor
+sequencing(IV)differsignificantlyintheactualwaythesequenceisdetermined.
+Wewillstartbydescribingthesequencingbyligation(II)approach.
+11.2.2.2SequencingbyLigation(ApproachII)
+Theprincipleofthesequencingbyligationapproachisnoteasy tofollowbutis
+actually applied quite successfully as demonstrated, for example, in the case of
+theanalysisoftheÖtzisgenome.
+In the sequencing by ligation approach the beads are first chemically cross-
+linkedtoaglassslide(Figure11.7h).Sequencingisthendoneasfollows:First,a
+universal primer is added (red in Figure 11.8), that fits the adaptor sequence
+(red) of the template DNA fragment linked to the beads (in the following, we
+willcalltheDNAcovalentlylinkedtothebeadstemplateDNA.).Inanextstep,
+short special oligomers are added. The properties of the synthetic oligomers are
+unique.Eacholigonucleotidehasonly8bases.Threebasesofthemaredegener-
+ate (depicted in the Figure 11.8 by n) meaning they fit any DNA base. Also the
+three universal bases (depicted in Figure 11.8 by z) have no influence on the
+binding specificity of the oligomer. Only the two remaining bases are specific
+(depictedinFigure11.8byxandy),thatisiftheyfindtwocomplementarybases
+at the template DNA the oligomer can bind to it and can be connected to the
+primersequencebyligationthroughaDNA-ligaseenzyme.Thus,ifamixtureof
+oligomers,eachcontainingdifferentpairsofselectivebasesx,y,isaddedonlythe
+typeofoligomerthatcontainsapairofbasesthatmatchthetemplateDNAwill
+be ligated to the primer. Figure 11.8a and b illustrates exemplarily the comple-
+mentary attachment of an oligomer containing an AT sequence (marked by red
+colour) to the template DNAs TA sequence in the first ligation round. The dif-
+ferent oligomers carrying different pairs of selective bases x,y can be differenti-
+ated in a wide-field microscope by different fluorescence markers (indicated by
+theblue,greenyellowandredstars).Inanextstepthelastthreebases(marked
+previously by z) and the fluorescence dye at the 5´-end of the oligomer are
+cleaved(Figure11.8c).Then,theligationcycleisrepeatedthatallowsidentifica-
+tion of two further bases (in the present example TT, indicated by blue colour,
+Figure 11.8d) but they are located in the sequence three unknown bases further
+than the previously identified bases AT. Thus, when further repeating the
+
+--- Page 11 ---
+
+11.2 Next-GenerationSequencingMethods 295
+Figure11.8 Principleofsequencingby strippingawayDNAligatedinaprevious
+ligation(II).Inthisapproach,ineachligation round,thepositionoftheperiodically
+cycleonlytwooffiveaddednucleotidescan identifiedtwoperfivebasescanbeshifted.
+beidentifiedbyfluorescencemarkers Thus,fromseveralroundswithdifferent
+(visualizedbycolourintheligationcycles). primersofdifferentlengththeentire
+However,whenusingprimersofdifferent sequenceinformationcanbeobtained.For
+lengthindifferentprimerroundsafter detailsseethetext.
+ligation and cleavage cycles this always gives periodic information about the
+sequence of the first two out of five consecutive bases (Figure 11.8e; Cycle 3:
+CT, indicated by green colour; Cycle 4: GT, indicated by yellow colour and so
+on). To obtain the missing sequence information, the newly generated DNA is
+thenentirelystrippedfromthetemplateDNAandtheprocedureisrepeatedbut
+now with a primer that is one base shorter (Figure 11.8f). So, in the second
+primer round, again periodic information about the sequence of the first two of
+five consecutive bases is obtained but now the periodic information pattern is
+
+--- Page 12 ---
+
+296 11 DNASequencingandNext-GenerationSequencingMethods
+shifted by one base to the left. After several rounds with different primers the
+entire sequence information of the fragments is available by using computer
+algorithms.Again,theentiregenomesequencecanbereconstructedbyaligning
+the sequences obtained from all individual fragments (see Figure 11.6 above). It
+should be noted that actually only four different fluorescence markers can be
+robustly differentiated spectrally and not 16, which is the possible number of
+different oligonucleotides containing two different bases, x and y. However,
+becauseoftheredundancyinthesequencinginformationobtainedinthediffer-
+entprimerroundstheentiresequencecanstillbededucedalsofromafourcol-
+ourcodedsetofthe16oligonucleotidesusingadvancedcomputeralgorithms.
+11.2.2.3Pyrosequencing(ApproachIII)
+In contrast to the sequencing by ligation (II) approach in pyrosequencing (III) the
+beads observed from the emulsion PCR procedure are first randomly deposited
+into an array of picoliter wells of a size so small that they can only bear one bead
+(Figure 11.9). Then, a single type of nucleotide (e.g. only guanosine phosphate, as
+illustrated in Figure 11.9) is flown across the wells. If this nucleotide is comple-
+mentary to the base at the template DNA in a certain well then DNA-polymerase
+can incorporate this nucleotide to a primer (green in Figure 11.9) and pyro-
+phosphate (PP) is released. Smaller beads carrying the enzymes sulphurylase and
+i
+luciferase are also added. Sulphurylase converts the pyrophosphate into ATP in
+the presence of adenosine 5´ phosphosulfate (APS). ATP, in turn, is necessary for
+the biochemiluminescence reaction of luciferin to oxyluciferin by luciferase as
+describedinSection3.8andFigure3.33.Todetectthebiochemiluminescencesig-
+nalsfromthepicoliterwellstheyarebondedtoafibre-opticbundlethatdirectsthe
+lightcollectedfromdifferentwellstodifferentpixelsofaCCD.Inthenextcycle,a
+differentnucleotideisflownacrossthewells.Again,biochemiluminescenceisonly
+detectedinaspecificpicoliterwellifthisnucleotideiscomplementarytothebases
+at the DNAtemplate. Afterflowing allfournucleotidesacrossthewells,thebases
+of the template strands at the first position are known for each fragment and the
+procedurecanberepeatedtoanalysethenextposition.Thisprocedureisrepeated
+untilthesequencesofallfragmentsareknown.Again,theentiregenomeinforma-
+tion can be reconstructed by aligning the sequences of the individual fragments.
+The method is named pyrosequencing (III) since the biochemiluminescence is
+caused by a sequence of reactions that are initially started by the pyrophosphate
+release upon a successful incorporation of a correct, unlabelled nucleotide. It
+shouldbenotedthatineachcycleofflowingaspecificnucleotideacrossthewells
+it is possible that more than one nucleotide is incorporated when more than one
+consecutivepositioninthetemplateDNAcarriesthesame,complementarynucle-
+otide. However, this can be identified by the brightness of the biochemilumines-
+cence signal. Two or three identical bases in a row lead to the incorporation of
+two or three times more nucleotides and consequently to the release of two or
+three times more pyrophosphate. As a consequence, the brightness of the bioche-
+miluminescencedetectedfromsuchwellsisalsotwoorthreetimeshigher.
+
+--- Page 13 ---
+
+11.2 Next-GenerationSequencingMethods 297
+Figure11.9 Principleofpyrosequencing(III). incorporateitandpyrophosphateisreleased.
+Inthisapproach,onlyoneoutoffourpossible Inanenzymaticcascadethepyrophosphateis
+typesoftheunlabelled,nativenucleotidesis detectedbybiochemiluminescence.Then,the
+flownoverthebeadsthatarethemselvescon- nexttypeofnucleotideisadded.Repeating
+tainedinpicoliterwells.Ifthistypeofnucleo- thisprocedureperiodicallywithallfourtypes
+tideiscomplementarytothenextbaseinthe ofnucleotidesyieldstheDNAsequenceof
+DNA-template,DNA-polymerasewill eachindividualbead.Fordetailsseethetext.
+11.2.2.4IonSemiconductorSequencing(ApproachIV)
+Conceptually,theionsemiconductorsequencing(IV)sharessimilaritieswiththe
+pyrosequencing (III) approach. As in pyrosequencing (III) also in ion semi-
+conductor sequencing (IV) the beads covered with clusters of identical DNA
+
+--- Page 14 ---
+
+298 11 DNASequencingandNext-GenerationSequencingMethods
+fragments are loaded into various wells and single types of unlabelled nucleo-
+tides are added step by step. The main difference is the way the addition of an
+unlabelled nucleotide complementary to the template DNA is detected. In ion
+semiconductor sequencing (IV) the detection of biochemiluminescence in pyro-
+sequencing (III) is replaced by the detection of a pH change caused in each
+reaction step by the release of hydrogen ions that occurs when nucleotides are
+incorporated. This pH change is actually sensed by a specialized silicon chip
+(Figure 11.10). As with the pyrosequencing (III) no labelled nucleotides are
+neededbutinadditionnospecialenzymessuchassulphurylaseorluciferaseare
+required. The analysis of the obtained fragment sequences is the same as with
+thepreviousapproaches.
+Figure11.10 Principleofionsemiconductor incorporateitandhydrogenionsarereleased.
+sequencing(IV).Again,onlyasingletypeout ThefollowingpH-changeisthensensedbya
+offourpossibleunlabellednucleotidesis specializedsiliconchip.Afterwards,thenext
+flownoverthebeadsthatarethemselvescon- typeofnucleotideisadded.Repeatingthis
+tainedinpicoliterwells.Ifthistypeofnucleo- procedureperiodicallywithallfourtypesof
+tideiscomplementarytothenextbaseinthe nucleotidesyieldstheDNAsequenceofeach
+DNAtemplate,DNA-polymerasewill individualbead.Fordetailsseethetext.
+
+--- Page 15 ---
+
+11.2 Next-GenerationSequencingMethods 299
+11.2.3Single-MoleculeReal-TimeSequencing(ApproachV)
+As indicated by its name single-molecule real-time sequencing does not require
+the generationof clusters of identical fragments as itis basedon highly sensitive
+single-molecule detection techniques such as described in Sections 9.2 and 9.3.
+This approach has very high read lengths of consecutive bases but limitations
+exist of course in the sensitivity of single-molecule detection techniques. In Fig-
+ure 11.11 the principle of single-molecule real-time sequencing (V) is visualized.
+A nanostructure is generated in which a silicon wafer surface contains a regular
+array of thousands of wells that are smaller than the wavelength of light (Fig-
+ure 11.11). At the bottom of these wells DNA-polymerase with the DNA
+fragments are deposited. The DNA-polymerases are specially engineered. They
+have a decreased rate of polymerization and the ability to incorporate fluores-
+cently modified nucleotides. Then, four types of fluorescently phospholinked
+hexaphosphate nucleotides are added and the DNA-polymerases in each well
+start introducing the differently labelled nucleotides after each other. Simulta-
+neously, the wells are illuminated from below. Since the dimensions of the wells
+Figure11.11 Principleofsingle-moleculereal-timesequencing(V).Fordetailsseethetext.
+
+--- Page 16 ---
+
+300 11 DNASequencingandNext-GenerationSequencingMethods
+are smaller than the diffraction-limited resolution of light only an evanescent
+excitationlightfieldofsignificantlylessthan200nmprotrudesintothewellwith
+the polymerase (schematically indicated in Figure 11.11 by blue cylinder). When
+lightisguidedintoavolumethatissmallerthanthewavelengthoftheusedlight
+this is called a zero-mode waveguide. The limited excitation volume in the zero-
+mode waveguide is based on very similar principles to the evanescent field in
+TIRF-microscopy (see Chapter 7) and thus has similar advantages that allow for
+robust single-moleculedetection.Inparticular,asinTIRF-microscopy, the back-
+ground signal is significantly reduced because much less solvent is excited per
+fluorescence single molecule, enabling superior single molecule signal-to-noise
+ratios.Thus,thepolymerasecanactuallybeobserved“atwork”sinceeachnucle-
+otide introduced gives rise to a fluorescence burst detectable with a microscope
+set-up similar as in TIRF microscopy (Figure 7.8). The wavelengths of these
+burstsarespecificforoneofthefourbasesinthenucleotidesandthechronolog-
+ical colour order of these bursts correspond directly to the DNA sequence. The
+limited excitation volume in the zero-mode waveguide is also very important to
+ensure that really only one nucleotide is observed at a time. For the polymerase
+micromolar nucleotide concentrations are necessary that are far too high for sin-
+gle-moleculeobservationsindiffraction-limiteddetectionvolumesofstandardflu-
+orescence set-ups. As outlined in Section 9.3, optical single-molecule detection,
+the concentration of labelled particles would have to be on the order of nano-
+moles to be detected individually in such a set-up which is by fartoo lowfor the
+polymerase to work properly. However, by using the very limited volume excited
+inthezero-modewaveguidessingle-moleculedetectionofnucleotideatmicromo-
+larconcentrationsisnotaproblem.
+Problems
+11.1 Assume that the probability of a false read-out in DNA sequencing is
+1/10 000 for a single base. What is the probability that none, exactly one
+or more than one base is incorrectly assigned when sequencing a DNA
+strandof1000bases?
+11.2 What would be the major problems if those components in bridged PCR
+areremovedthatallowforPCRamplificationnotonlyintheforwardbut
+alsothebackwarddirection?
+11.3 Discusswhatnext-generationsequencingapproachmighthaveacompar-
+ativelylowandwhatacomparativelyhigherrorrate.
+11.4 Assume you have 30 fragments of 300 basepairs in size from statistically
+differentpositionsofanoriginalcircularDNA-plasmidof3000basepairs
+insize.Howlargeistheprobabilitythatyoucannotreconstructtheorigi-
+nal DNA because one specific base pair is not represented in the
+fragments?
+
+--- Page 17 ---
+
+Bibliography 301
+11.5 How high is the probability that a droplet contains no DNA fragment in
+emulsion PCR if the probability for having two different fragments is 1%
+or0.1%?Whatpercentageofproductivedropletswouldexistiftheproba-
+bilitytohaveexactlyonebeadinthedropletisthesameasinitiallyhaving
+exactlyoneDNAfragment?
+11.6 How many detected photons are necessary per inserted nucleotide in the
+pyrosequencing approach to ensure the ability to differentiate one, two
+andthreenucleotidesofthesametypeinarowwithanerrorrateofbet-
+terthanonly1falseread-outsper1.000.000?
+11.7 What is the drop in pH when 10000 protons are released in ion
+semiconductor sequencing into a neutral solution contained in a volume
+of1pL?
+11.8 In Section 9.3.3 we defined the effective focal detection volume of a nor-
+mal diffraction-limited confocal microscope set-up to be V π3=2r2z .
+eff 0 0
+Calculate the average number of nucleotides that are present in such a
+detection volume when assuming a concentration of one micromole and
+values for r and z of 250nm and 1000nm, respectively. How much
+0 0
+smallerdoesthesizeofthedetectionvolumeinsingle-moleculereal-time
+sequencingneedtobetoensurethatitcontainsonaverageonly1nucle-
+otidewhenassumingthesameconcentration?
+Bibliography
+SangerMethod
+sequencingtechnology.TrendsGenet.,24
+(3),142–149.
+Sanger,F.(1988)Sequences,sequences,and Shendure,J.andJi,H.(2008)Next-generation
+sequences.Annu.Rev.Biochem.,57,1–28. DNAsequencing.NatureBiotechnol.,26,
+Sanger,F.etal.(1977)Nucleotidesequenceof 1135–1145.
+bacteriophagephiX174DNA.Nature,
+265,687–695.
+SpecificNext-GenerationSequencing
+Methods
+GeneralNext-GenerationSequencing
+Methods Bentley,D.R.(2006)Whole-genomere-
+sequencing.Curr.Opin.Genet.Dev.,16,
+Mardis,E.R.(2013)Next-Generation 545–552.
+SequencingPlatforms.Annu.Rev.Anal. Dressman,D.,Yan,H.,Traverso,G.,Kinzler,
+Chem.,6,287–303. K.W.andVogelstein,B.(2003)
+Mardis,E.R.(2008)Theimpactofnext- TransformingsingleDNAmoleculesinto
+generationsequencingtechnology fluorescentmagneticparticlesfor
+ongenetics.TrendsGenet.,24(3), detectionandenumerationofgenetic
+133–141. variations.Proc.Natl.Acad.Sci.USA,100,
+Metzker,M.L.(2010)Sequencing 8817–8822.
+technologies–thenextgeneration.Nature Eid,J.,Fehr,A.,Gray,J.,Luong,K.,Lyle,J.
+Rev.Genet.,11,31–46. etal.(2009)Real-timeDNAsequencing
+Pop,M.andSalzberg,S.L.(2008) fromsinglepolymerasemolecules.Science,
+Bioinformaticschallengesofnew 323,133–138.
+
+--- Page 18 ---
+
+302 11 DNASequencingandNext-GenerationSequencingMethods
+Fedurco,M.,Romieu,A.,Williams,S., DNAsequencingusingdetectionof
+Lawrence,I.andTurcatti,G.(2006)BTA, pyrophosphaterelease.Anal.Biochem.,
+anovelreagentforDNAattachmenton 242,84–89.
+glassandefficientgenerationofsolid- Rothberg,J.M.,Hinz,W.,Rearick,T.M.,
+phaseamplifiedDNAcolonies.Nucleic Schultz,J.,Mileski,W.etal.(2011)An
+AcidsRes.,34,e22. integratedsemiconductordeviceenabling
+Margulies,M.etal.(2005)Genome non-opticalgenomesequencing.Nature,
+sequencinginmicrofabricatedhigh- 475,348–352.
+densitypicolitrereactors.Nature,437, Shendure,J.etal.(2005)Accuratemultiplex
+376–380. polonysequencingofanevolvedbacterial
+Ronaghi,M.,Karamohamed,S.,Pettersson,B., genome.Science,309,1728–1732.
+Uhlen,M.andNyren,P.(1996)Real-time

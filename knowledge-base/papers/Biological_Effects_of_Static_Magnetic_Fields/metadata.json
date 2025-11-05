@@ -1,0 +1,48 @@
+{
+  "paper_id": "Biological_Effects_of_Static_Magnetic_Fields",
+  "doi": "10.1007/978-981-19-8869-1",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "ChineseAcademyofSciences(CHMFL)",
+    ""
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "With the development of magnet\ntechnology, the potential impacts of\nmagnetic fields on human health have\ncaused increasing concerns. On the other\nhand, although permanent magnets have\nbeen used in magnetotherapy a long time\nago, their effectiveness has always been\ndebated. This is partially due to the\ndiscrepancy in reported static magnetic\nfield (SMF) bioeffects, as well as an\nincomplete understanding about the\nunderlying physical and biological\nmechanisms. Fortunately, recent\nconceptual and technological advances\nhave revealed that the previously reported\ninconsistencies are mainly caused by\nexperimental setup variations, such as\nmagnetic field type, strength, distribution,\ntreatment procedure as well as magnetic\nproperties of various biological samples.\nThe purpose of this book is to review\ncurrent scientific evidence and summarize\nthe emerging topic about the effects of\nSMFs on biological samples ranging from\nsingle molecules, subcellular",
+  "date_added": "2025-11-05T07:50:44.742044",
+  "last_modified": "2025-11-05T07:50:44.742046",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "/Users/clarice/Desktop/Claude test/Literature/Biological Effects of Static Magnetic Fields.pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

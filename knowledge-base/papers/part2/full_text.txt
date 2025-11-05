@@ -1,0 +1,52 @@
+
+
+--- Page 1 ---
+
+167
+Part Two
+Advanced Methods in Biophysical Chemistry
+The techniques discussed in Part 1 of this book are essential and broadly appli-
+cable tools for the characterization and investigation of biomolecules. However,
+many important biomolecular questions have been answered in recent years by
+morespecializedtechniques.Someofthemarealreadyverywidespreadinmany
+laboratories. The intention of this part is to give an insight into the possibilities
+and advantages of such techniques along with selected application examples.
+The application examples are often primarily chosen to illustrate the technical
+capabilities of the modern techniques and which parameters can be observed
+usingthem.Ofcoursetherearemanymoreveryimportantapplicationexamples
+thatcannotbeshownwithinthescopeofthisbook.
+The first chapter, Chapter 7, describes important aspects of modern fluores-
+cence microscopy techniques. Chapter 8 provides a thorough overview into
+subdiffraction limited fluorescence microscopy and general aspects such as
+imaging in living cells and multicolour images. Inaddition to giving an insight
+into modern methods of fluorescence microscopy in general Chapters 7 and 8
+also provide the basis for some of the techniques described in subsequent
+chapters. Chapter 9 describes several techniques that each observe the behav-
+iour of single biomolecules. The elucidation of many important biomolecular
+mechanisms is only possible by these methods, which allow us to observe the
+movements of, forces exerted by, or ion currents flowing through single bio-
+molecules. Chapter 10 discusses methods based on the use of ultrafast lasers.
+This chapter covers the advantages of important nonlinear optical methods in
+the biosciences, such as two-photon excitation, including a brief insight into
+thephysicalbasisofmethodssuchassecond-harmonicgenerationorcoherent
+anti-Stokes Raman microscopy. Also, the observation of the fastest processes
+in nature, such as the ultrafast energy conversion in photosynthesis, using
+ultrafast lasers is discussed. Chapter11givesanoverviewof traditional as well
+as modern next-generation DNA sequencing methods that have had a signifi-
+cant impact in many fields of recent research. Chapter 12 presents some spe-
+cial techniques that are optimized for very distinct biological questions.
+Important examples are flow cytometry, DNA chips and DNA origami. This
+ModernBiophysicalChemistry:DetectionandAnalysisofBiomolecules,SecondEdition.PeterJomoWalla.
+2014Wiley-VCHVerlagGmbH&Co.KGaA.Published2014byWiley-VCHVerlagGmbH&Co.KGaA.
+
+--- Page 2 ---
+
+168 AdvancedMethodsinBiophysicalChemistry
+chapteralsodiscussessome generalspecialtechniquesliketheuseoffluoresc-
+ing nanoparticles or microspheres or surface plasmon resonance detection.
+Finally,inthelast chapter,Chapter13,importantgeneralaspectsofthedevel-
+opment of assays to monitor certain biomolecular processes are discussed.
+This chapter also presents typical plate formats and plate reader technologies
+for the measurement of larger series of samples. The chapter ends with an
+application example illustrating how assays for high-throughput screening
+helpintheinitialphaseofindustrialdrugdevelopment.

@@ -1,0 +1,309 @@
+
+
+--- Page 1 ---
+
+339
+Index
+a –mathematicalbackground 220ff
+Abbe’slaw 170,185,212,328 autofluoroscence 54,62
+absorbance 43 avalanchephotodiode(APD) 174,
+absorption 28,306 175,205
+absorptioncoefficient 42,220f avidin-biotintechniques 65f
+absorptionspectrometer 42
+absorptionspectroscopy 5,41ff b
+absorptionspectrum 24ff,41 basicsinmolecularphotophysics 13ff
+–experimentaldetermination 41ff Beer-Lambertlaw 47,108
+absorptionspectrumofhaemoglobin bindingaffinity 309
+50 biochemiluminescence 6,99ff,296
+acceptor 86ff,93ff,95,96,270f biomolecularmotor 209
+actin 210,211 biomolecule
+activator 83 –opticalproperties 41ff
+activetransport 222 biophysicalchemistry 1
+adaptor 289 –advancedmethods 11,167
+adenosinetriphosphate(ATP) 206ff,210f –definition 1
+aminoacids 45 biotin 66,209,237
+analyser 152,156ff blueshift 47
+anisotropy 75ff,80,253 Bohrmagneton 142
+anthracene 20 bridgedPCR 289ff
+antioxidativereagents 56 butadiene 19
+applicationsfields 5ff
+aromaticaminoacids c
+–absorptionspectra 46 cantilevertip 241,242ff
+–fluorescencespectra 47 β-carotene 56,265,278f
+assaydevelopment 323ff –absorptionspectrum 57
+assayquality 323ff carotenoids 56ff,278ff
+atomicforcemicroscopy(AFM) 9,240ff cell-attachedpatch(CAP) 247
+–applicationexamples 242ff chargedcoupleddevice(CCD) 175,177,
+–principle 241 205,330
+atomicorbital 18 chemicalshifts 125,134,138
+ATPase 206ff chiropticalmethods 105ff
+–rotation 206ff chlorophyll 54f,276ff
+–subunits 208 –absorptionandfluorescencespectra 55
+ATPhydrolysis 207 chromophore 62
+ATPsynthaseSeeATPase 207 circulardichroism(CD) 6,105ff
+autocorrelationanalysis 214ff circulardichroismspectroscopy 105
+–importantparameters 221 coelenterazine 100
+ModernBiophysicalChemistry:DetectionandAnalysisofBiomolecules,SecondEdition.PeterJomoWalla.
+2014Wiley-VCHVerlagGmbH&Co.KGaA.Published2014byWiley-VCHVerlagGmbH&Co.KGaA.
+
+--- Page 2 ---
+
+340 Index
+cofactors 49ff e
+–opticalproperties 49 electromagneticradiation 13,14,122
+coherentanti-stokesRamanscattering electronicstructure 15ff,20f,29
+(CARS) 258,268f electronicwavefunction 15
+competitivebindingassay 3 electronmultiplier 154
+competitiveinhibition 83 electronparamagneticresonance(EPR) 7,141ff
+complementaryDNA(cDNA) 315 electrosprayionization(ESI) 149,156
+conductionbandminimum(CBM) electrosprayionization-massspectrometry
+305f (ESI-MS) 156ff
+confocalfluorescence 170 ellipticity 106,108
+confocalfluorescencemicroscopy
+emulsionPCR292ff
+169ff energygaplaw 29,95
+continuouswave(CW) 263 energylevel 19
+conversiondynode 153 enzyme 80ff
+cooperativity 51 enzymeactivation 83f
+correlatedspectroscopy(COSY) 130ff enzymefunction 80
+correlationamplitude 214 enzymeinhibition 81
+correlationeffects 224ff enzymekinetics 80
+cross-correlation 228f enzymeregulation 83f
+cylindricallens 179,191 enzyme-substratecomplex 81
+evanescentfield 177
+d
+excitation 21,96f
+detectionanode 154 excitationenergy 15
+delayedextraction 154 excitationintensityfunction 220
+detector 153,330 excitedstate 36
+dielectricpolarization 267 exon 314
+diffusiontime 221 externalmagneticfield 31
+digoxigenin 237
+dipolemoment 142 f
+dissociationconstant 78 flavin 53
+DNA 45ff flavinmononucleotide(FMN) 53
+–hybridization 48 –absorptionandfluorescencespectra 54
+–opticalproperties 45 flowcytometry 10,317f
+DNAclustergeneration288ff fluorescein 62f
+DNAfragmentation289 fluorescence 27ff,33,35,44,220,306
+DNAfragmentalignment fluorescenceanisotropy 71f,324f,
+292 331,334
+DNA-hairpins,unfolding 243 fluorescenceassay 326
+DNAhypochromism 48 fluorescence-assistedcellsorter(FACS)
+DNAmicroarrays 314f 317f
+DNAorigami310ff fluorescencecorrelationspectroscopy(FCS) 8,
+DNA-polymerase 296,297 214ff
+DNAprimer 286 fluorescencecross-correlationalspectroscopy
+DNAreplication 287 (FCCS) 226f
+DNAsequencing 9,287 fluorescencefluctuation 214ff
+donor 86ff,95,270f fluorescenceinsituhybridization(FISH) 10
+donor-acceptordistance 92 fluorescencekinetics 6,93ff
+drugdevelopment 333 fluorescencelabelling 5,61ff
+drugdiscovery 332ff fluorescencelifetime 37,61,94
+drugscreening 1,332f fluorescencelifetimeimaging(FLIM) 94
+dyesequencing289ff fluorescencelinking 61f
+dynamiclightscattering 115 fluorescencemarker 61,86,94,186,204,212,
+dynode153 220,222,303
+
+--- Page 3 ---
+
+Index 341
+fluorescencemicroscopy 7,169ff,259f i
+–conventionalfluorescencemicroscopy
+immunolabelling 64
+169ff infraredspectroscopy 116
+fluorescencepolarization 71,97 inhibitor83
+fluorescencepolarizationanisotropy(FPA) 5, insideoutpatch(IOP) 248f
+70ff,253 internalconversion 30f
+–principles 70,70ff intersystemcrossing 32,89
+fluorescencepolarizationassay 265 intrinsicabsorption 45ff
+fluorescencequantumyield 34,62,219f intrinsicfluorescencespectroscopy 5
+fluorescencereader 326ff ionchannel 245f
+fluorescencerecoveryafterphotobleaching –classes 245f
+(FRAP) 98 iondetection 158ff
+fluorescencespectrometer 43,44ff ionization 156ff
+fluorescencespectrum 28,43ff,44 ionsemiconductorsequencing297ff
+fluorescencetechniques 61ff iontrap 161
+fluorescencetransitiondipolemoment 72 iPALM191
+fluorescentprotein(FP) 67,188 isoSTED191
+fluorescingnanoparticle 9,303,320 isosurface 17
+fluorescingparticle 222
+Fouriertransformation 128f,133 j
+fragmentlibrary289 Jablonskidiagram 33
+Frank-Condonintegral 27f,42
+Frank-Condonprinciple 24ff k
+freeinductiondecay(FID) 129 Karplusrelation126
+Försterdistance 89 Kasha’srule 30
+Försterresonanceenergytransfer(FRET) 6, kinesin 210
+22,65,69,85ff,226,229 Kramers-Kronigtransformation 109
+–applicationexamples 90ff
+–energydiagram 85 l
+–principles 84ff laboratoryframe 127
+–theoreticalbackground 84ff Laporte’srule 24
+Larmorfrequency 124f
+g
+laserscanningmicroscopy 174
+geneexpression 316 leadstructure 333
+Giga-seal246ff light 14
+goldsurface 67 –interactionwithmolecules 20
+greenfluorescentprotein(GFP) 204,317 light-harvestingcomplex(LHC) 277
+–structure 68 lightintensity 111,119,170,172,271
+groundstatebleaching270f lightscattering 7,109ff
+light-sheetmicrscopy178ff
+h
+Lineweaver-Burkplot 82ff
+haemoglobin 50ff lowestunoccupiedmolecularorbital
+–oxygenbinding 51 (LUMO) 19,304
+haeme 49ff luciferase 99,296
+highestoccupiedmolecularorbital luciferin 99
+(HOMO) 19,30f,304f luminescence 33
+high-resolutionfluorescence
+microscopy 13,184 m
+high-throughputscreening(HTS) 2,4,249, macroscopicmagnetization 124,127f
+323,327,329,332ff magneticdipolemoment 123
+His-Tag 66 magneticmoment 31
+Hooke’slaw 235,241 magneticresonancetechniques 121ff
+hypermass163 magnetogyricratio 123
+
+--- Page 4 ---
+
+342 Index
+MALDIspectra 156 –primaryinformationdeducedfromNMR
+MALDI-TOFmassspectrum 156 spectra 125
+massspectrometer 149,153,156,160 –principles 121
+massspectrometry 7,149ff nuclearOverhausereffect(NOE) 135f
+Mathieuequation 160 nuclearOverhausereffectspectroscopy
+matrix-assistedlaserdesorptionionization (NOESY) 135
+(MALDI) 149,157 nucleotides 47
+matrix-assistedlaserdesorptionionization –absorptionspectra 47
+time-of-flightdetection(MALDI- numericalaperture 171
+TOF) 149ff
+matrixcompound 151 o
+maximumtolerateddose(MTD) 335 one-dimensional(1D)NMRspectra 131
+messengerRNA(mRNA) 315 one-photonexcitation(OPE) 258,260
+Michaelis–Mentenconstant 82 one-photonmicroscopy 259
+micro-ESI158 opticaldensity(OD) 43
+microscope 171 opticalrotatorydispersion 108
+microscopeobjective 169,232f opticalsingle-moleculedetection 203ff
+microspheres 303,320f opticaltrap 231,235
+microtitreplate 326ff opticaltweezer 230ff
+microtitreplateformats 327 –applicationexamples 236ff
+minimumeffectivedose(MED) 335 –theoreticalbackground 230ff
+molarcircularbirefringence 108 orbital 15ff,24
+molarextinctioncoefficient 43 oscillatingdipole 110f
+molecularorbital 17f outsideoutpatch(OOP) 249
+molecularweight 149
+–estimation 79 p
+momentum 230ff patchclampconfigurations 245
+MS-MStechniques163 patchclamping 9,245ff
+multifocaldetectionreader 332 patchpipette 247ff
+multiphotonexcitation 9,258f Pauli’srule 31
+musclefunction 210 peptide 45f
+myoglobin 51f peptideladdersequencing164
+myosin 209f,213,251 phase-matchingcondition267
+phenylisocyanate(PIC) 164
+n phenylisothiocyanate(PITC) 164
+nano-ESI158 phosphorescence 33,35
+nanoparticle 306 photoactivatedlocalizationmicroscopy
+nearinfrared(NIR)region 14 (PALM) 187ff
+negativeionizationmode 151,157 photoactivatablefluorescentproteins187
+nextgenerationsequencing 287ff photoactivation187
+nicotinamideadeninedinucleotide 52ff photoconversion187
+–absorptionspectrum 53 photomultipliertube(PMT) 174,205
+–fluorescencespectrum 53 photon 13,230ff,252
+NMR-basedstructuralanalysis 138ff photoselection 71
+noncompetitiveinhibition83 photoswitching187
+nonlinearmicroscopy 258ff photosynthesis 54,56,274ff,280
+nonlinearopticalsignal 262 photosyntheticenergyconversion 274ff
+nonlinearopticaltechniques 266ff photosyntheticenergyflow 276ff
+nonlinearspectroscopy 257ff photosyntheticenergyfunnel 274
+nonradiativerelaxation 30 photosystem 275
+nonradiativetransition 27ff pigment-proteincomplex 279
+nuclearmagneticresonance(NMR) pinhole 173,220
+7,121ff polarizability 95,111
+
+--- Page 5 ---
+
+Index 343
+polarization 2,14,21,220 s
+polarizationfilter 3,70 sangersequencing285ff
+polarizationratio 265 scalarcoupling 125,126
+polarizationvector 14,21,23,281 scatteringmethods 105ff
+polymerasechainreaction(PCR) second-harmonicgeneration(SHG) 258,
+286 266,267
+positiveionizationmode 151,157 sequencinglibrary289
+primaryaminogroupreactivelabel 63f sequencingbyligation294ff
+probabilitydensity 15 single-biomoleculetechniques 203ff
+protein 41ff single-moleculereal-timesequencing 299ff
+–isotopedistribution 157 singletoxygen 56
+–opticalproperties 45 Snell´slaw 176,233
+–relationshipbetweenvolumeandmolecular
+spinangularmomentum 123
+mass 222f spinlabelling 145
+proteinsequenceanalysis 163 spinorbitcoupling 32
+proteinunfolding 244 spinquantumnumber 123
+pulsedNMRspectroscopy 126 spinstate 124
+pumpbeam 270 stimulatedemissiondepletionmicroscopy
+pump-probespectroscopy 270ff,276f (STED) 183,184ff
+pyrosequencing296ff –principle 185
+StochasticOpticalReconstructionMicroscopy
+q
+(STORM)187ff
+quadrupolemassanalyser 159 Stokes-Einsteinequation 222
+quadrupolemassspectrometer 159 Stokesshift 29
+quantumconfinement 304 streptavidin 65,238
+quantumdots 304,305 structuralanalysis 138
+quantumefficiency 34 structuredilluminationmicroscopy
+quantumyield 34,35,204 (SIM) 195ff
+quencher 95 suctionpulse 249f
+sulphurylase296
+r super-resolutionopticalfluctuationimaging
+radiativetransitions 27f (SOFI)197ff
+radiowavepulse 127f surfaceplasmonresonance(SPR) 308f
+radiusofgyration 113 susceptibility267
+Ramanspectroscopy 116
+rateconstant 34 t
+ratiometricmethods 69 tandemmassspectrometer163
+Rayleighratio 112 2,2,6,6-tetramethylpiperidin-1-oxyl
+reactioncentre 277 (TEMPO) 142f
+reactivelabel 61 thiolgroupreactivelabels 64f
+receptor-ligandbindingforces 244 thiolinker 67
+receptor-ligandcomplex 216 third-harmonicgeneration(THG) 668f
+receptor-ligandinteractions 78f,90 threedimensional(3D)super-resolution
+redshift 47 fluorescencemicroscopy190f
+retinal 56 time-of-flight(TOF) 149
+RNA 41 titin 244f
+RNAhairpins,unfolding 238 TOFanalyser 149
+RNApolymerase 238f TOFreflectron 154
+rotatingframe 127 totalinternalreflectionfluorescence(TIRF)
+rotationalcorrelationtime 73,76, microscopy 176ff,188,204,206,211,213
+145 transientabsorption 273
+rotationalfluctuation 70 transition 15
+Russell–Saunderscoupling 142 transitiondensity 20
+
+--- Page 6 ---
+
+344 Index
+transitiondipolemoment 20ff,23,35,73 v
+transmission 41 valencebandmaximum(VBM) 304ff
+trapstiffness 235 vector 1
+tripletstate 27f,32 vibrationalenergy 27
+triplet-statedynamics 224 vibrationalrelaxation 27
+two-dimensionaldiffusion 222 vibrationalspectroscopy 7
+two-dimensional(2D)NMRspectroscopy 130 vibrationalspectrum 115ff
+–principle 134 vibrationaltransition 117,118
+two-photonexcitation(TPE) 258,260, vibronictransition 26,42
+264,279
+–advantages 259ff,263ff w
+–disadvantages 259ff wavefunction 15
+–properties 263ff wavelength 14
+two-photonmicroscopy 259 wavemixing 266ff
+wavevector 231,268
+u
+wholecell(WC) 249f
+ultrafastlasersystem 262 wide-fieldfluorescencemicroscopy 174
+ultrafastlight-harvesting 274ff
+ultrafastspectroscopy 9,257ff,270ff z
+ultrahigh-throughputscreening(uHTS) 327 zeromodewaveguide300
+ultraviolet(UV) 14 Z´-factor 114
+uncompetitiveinhibition83 Zimmplots 326f,331

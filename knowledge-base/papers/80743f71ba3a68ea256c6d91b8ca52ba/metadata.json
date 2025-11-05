@@ -1,0 +1,49 @@
+{
+  "paper_id": "80743f71ba3a68ea256c6d91b8ca52ba",
+  "doi": "10.1007/978-981-10-3579-1",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "Hefei",
+    "China Baltimore",
+    "USA"
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "With the development and growing popularity of modern appliances, including\nMRI in the hospitals, the potential impact of magnetic fields on human health is\ninvoking increasing concerns. At the same time, static magnetic field (SMF) has\nbeen used in the clinical treatment of tumors and other diseases since decades ago.\nHowever, there are still some reservations and uncertainties about the exact effects\nof magnetic fields on human bodies, which are largely due to the differential bio-\nlogical effects reported in the literature. These experimental inconsistencies are\nmainly caused by variations such as different magnetic field types, intensities, treat-\nment time, as well as biological samples examined. The purpose of this book is to\nreview scientific evidences and summarize the emerging topic about the effects of\nSMF on biological samples ranging from single molecules, subcellular compart-\nments, and cells to whole organisms, as well as the potential application of SMF in\nclinical treat",
+  "date_added": "2025-11-05T07:49:25.228962",
+  "last_modified": "2025-11-05T07:49:25.228964",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "/Users/clarice/Desktop/Claude test/Literature/80743f71ba3a68ea256c6d91b8ca52ba.pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

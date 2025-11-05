@@ -1,0 +1,48 @@
+{
+  "paper_id": "wagner_thesis",
+  "doi": "",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "UniversityofOxford",
+    ""
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "Thisthesispresentsforthefirsttimearigorousandsystematicstudyofrelaxationeffectson\nradicalrecombinationreactionsinweakstaticmagneticfields. Themodulationoftheanisotropic\nhyperfine interaction by rotational motion of the constituent radicals is identified as the most\nsignificant relaxation mechanism; this is the mechanism investigated here in a range of systems\nwithin two complementary theoretical approaches, Redfield theory and a theory based on the\nstochasticLiouvilleequation(SLE).\nThethesiscommenceswithanintroductiontospinchemistryandradicalpairreactions. The\nquantum mechanical formalism required for the treatment of relaxation is set out. A unified\nrelaxation theory is then presented; care is taken throughout to demonstrate its validity under\nD\npreviously not considered low-field conditions. A compact formulation in terms of Wigner -\nfunctionsandsphericaltensoroperatorsisdevelopedforthetime-dependentHamiltonian. This\nis crucial for the evaluation of the correlation functions required",
+  "date_added": "2025-11-05T08:01:56.892619",
+  "last_modified": "2025-11-05T08:01:56.892622",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "/Users/clarice/Desktop/Claude test/Literature/wagner_thesis.pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

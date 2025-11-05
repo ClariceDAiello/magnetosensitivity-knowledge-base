@@ -1,0 +1,926 @@
+
+
+--- Page 1 ---
+
+CARBON-CENTERED
+FREE RADICALS AND
+RADICAL CATIONS
+Structure, Reactivity, and Dynamics
+Edited by
+MALCOLM D. E. FORBES
+
+--- Page 2 ---
+
+
+
+--- Page 3 ---
+
+CARBON-CENTERED
+FREE RADICALS AND
+RADICAL CATIONS
+
+--- Page 4 ---
+
+
+
+--- Page 5 ---
+
+CARBON-CENTERED
+FREE RADICALS AND
+RADICAL CATIONS
+Structure, Reactivity, and Dynamics
+Edited by
+MALCOLM D. E. FORBES
+
+--- Page 6 ---
+
+Copyright(cid:2)2010byJohnWiley&Sons,Inc.Allrightsreserved
+PublishedbyJohnWiley&Sons,Inc.,Hoboken,NewJersey
+PublishedsimultaneouslyinCanada
+Nopartofthispublicationmaybereproduced,storedinaretrievalsystem,ortransmittedinanyformorby
+anymeans,electronic,mechanical,photocopying,recording,scanning,orotherwise,exceptaspermitted
+underSection107or108ofthe1976UnitedStatesCopyrightAct,withouteitherthepriorwritten
+permissionofthePublisher,orauthorizationthroughpaymentoftheappropriateper-copyfeetothe
+CopyrightClearanceCenter,Inc.,222RosewoodDrive,Danvers,MA01923,(978)750-8400,fax(978)
+750-4470,oronthewebatwww.copyright.com.RequeststothePublisherforpermissionshouldbe
+addressedtothePermissionsDepartment,JohnWiley&Sons,Inc.,111RiverStreet,Hoboken,NJ07030,
+(201)748-6008,fax(201)748-6008,oronlineathttp://www.wiley.com/go/permission.
+LimitofLiability/DisclaimerofWarranty:Whilethepublisherandauthorhaveusedtheirbestefforts
+inpreparingthisbook,theymakenorepresentationsorwarrantieswithrespecttotheaccuracyor
+completenessofthecontentsofthisbookandspecificallydisclaimanyimpliedwarrantiesof
+merchantabilityorfitnessforaparticularpurpose.Nowarrantymaybecreatedorextendedbysales
+representativesorwrittensalesmaterials.Theadviceandstrategiescontainedhereinmaynotbesuitablefor
+yoursituation.Youshouldconsultwithaprofessionalwhereappropriate.Neitherthepublishernorauthor
+shallbeliableforanylossofprofitoranyothercommercialdamages,includingbutnotlimitedtospecial,
+incidental,consequential,orotherdamages.
+Forgeneralinformationonourotherproductsandservicesorfortechnicalsupport,pleasecontactour
+CustomerCareDepartmentwithintheUnitedStatesat(800)762-2974,outsidetheUnitedStatesat
+(317)572-3993orfax(317)572-4002.
+Wileyalsopublishesitsbooksinavarietyofelectronicformats.Somecontentthatappearsinprint
+maynotbeavailableinelectronicformats.FormoreinformationaboutWileyproducts,visitour
+websiteatwww.wiley.com.
+LibraryofCongressCataloging-in-PublicationData:
+LibraryofCongressCataloging-in-PublicationData
+Carbon-centeredfreeradicalsandradicalcations/editedbyMalcolmD.E.
+Forbes.
+p.cm.
+Includesindex.
+ISBN978–0–470–39009–2(cloth)
+1. Freeradicals(Chemistry)2. Carbon,Activated.3. Reactivity
+(Chemistry)4. Cations. I.Forbes,MalcolmD.E.,1960–
+QD471.C3372010
+547’.1224–dc22
+2009031417
+PrintedintheUnitedStatesofAmerica
+10987654321
+
+--- Page 7 ---
+
+CONTENTS
+About theVolume Editor xiii
+Preface toSeries xv
+Introduction xvii
+Contributors xxi
+1. ABrief Historyof Carbon Radicals 1
+MalcolmD.E.Forbes
+2. Intermolecular Radical Additionsto Alkynes: Cascade-Type
+Radical Cyclizations 9
+UtaWille
+2.1 Introduction 9
+2.2 Cascade Reactions InvolvingRadicals ofSecond RowElements 11
+2.2.1 CascadeReactions Initiated by AdditionofC-Centered
+Radicals to Alkynes 11
+2.2.2 CascadeReactions Initiated by AdditionofO-Centered
+Radicals to Alkynes(Self-Terminating Radical Oxygenations) 16
+2.2.3 CascadeReactions Initiated by AdditionofN-Centered
+Radicals to Alkynes 24
+2.3 Cascade Reactions Initiated by Addition ofHigher Main
+Group (VI)-Centered Radicals toAlkynes 27
+2.3.1 CascadeReactions Initiated by AdditionofSn-Centered
+Radicals to Alkynes 27
+v
+
+--- Page 8 ---
+
+vi CONTENTS
+2.4 CascadeReactions Initiatedby AdditionofHigher Main
+Group (VI)-Centered Radicals toAlkynes 30
+2.4.1 CascadeReactions Initiatedby AdditionofS-Centered
+Radicals toAlkynes 30
+2.4.2 CascadeReactions Initiatedby AdditionofSe-Centered
+Radicals toAlkynes 36
+2.5 CascadeReactions Initiatedby AdditionofHigher Main
+Group (V)-Centered Radicals toAlkynes 37
+2.5.1 CascadeReactions Initiatedby AdditionofP-Centered
+Radicals toAlkynes 37
+3. Radical CationFragmentation Reactionsin Organic Synthesis 43
+AlexanderJ.PoniatowskiandPaulE.Floreancig
+3.1 Introduction 43
+3.1.1 OxidativeCarbon–Carbon Bond Cleavage 44
+3.1.2 Thermodynamic and Kinetic Considerations 46
+3.1.3 ReactiveIntermediate Lifetime 49
+3.2 ElectronTransfer-Initiated Cyclization Reactions 49
+3.2.1 Rate EnhancementandMechanistic Studies 50
+3.2.2 Developmentofa Catalytic Aerobic Protocol 50
+3.2.3 OxidativeCascadeReactions 52
+3.3 OxidativeAcyliminium IonFormation 52
+3.4 Carbon–Carbon Bond Formation 54
+3.4.1 Chemoselectivity and Reactivity 54
+3.4.2 Reaction Scope 55
+3.5 Summaryand Outlook 58
+4. Selectivityin Radical Cation Cycloadditions 61
+ChristoS.SevovandOlafWiest
+4.1 Introduction 61
+4.2 Mechanism and the Origin ofthe Rate Acceleration 62
+4.3 Selectivityin Radical CationCycloadditions 63
+4.4 Chemoselectivity 64
+4.4.1 Effect ofDienophile Substituents onChemoselectivity 64
+4.4.2 Effect ofSensitizers andSolvents on Chemoselectivity 66
+4.4.3 Effect ofConcentrationson Chemoselectivity 67
+4.4.4 Effect ofElectron-RichDienophiles onChemoselectivity 67
+4.5 Regioselectivity 68
+4.6 Periselectivity 69
+4.6.1 Effects ofSolventand Concentration on Periselectivity 70
+4.6.2 Effect ofDiene/DienophileRedoxPotentials on Periselectivity 71
+4.6.3 Substituent andSteric Effects onPeriselectivity 72
+4.6.4 QuantifyingPeriselectivity Through IonPairAssociation 74
+
+--- Page 9 ---
+
+CONTENTS vii
+4.7 Endo/Exo Selectivity 75
+4.7.1 Effects of SecondaryOrbital Interaction and Solvents
+onEndo/Exo Selectivity 75
+4.7.2 Effect ofSensitizer onEndo/Exo Selectivity 76
+4.7.3 IonPairsand Endo/Exo Selectivities 77
+4.8 Conclusions 79
+5. The Stability ofCarbon-Centered Radicals 83
+MichelleL.Coote,ChingYehLin,andHendrikZipse
+5.1 Introduction 83
+5.1.1 The Consequences ofDifferent StabilityDefinitions:
+HowStable AreEthyl and Fluoromethyl Radicals? 85
+5.2 Theoretical Methods 86
+5.2.1 Testing the Performance ofDifferent Theoretical
+Approaches: HowStable AreAllyland Benzyl Radicals? 87
+5.2.2 The Application ofIMOMO Schemes: HowStable
+Are Benzyl and Diphenylmethyl Radicals? 89
+5.3 RSE Valuesfor Carbon-Centered Radicals 91
+5.4 Use ofRSE Values inPractical Applications 91
+5.4.1 Susceptibilityto Hydrogen Atom Abstraction 91
+5.4.2 Assessmentof Radical Stability inOther Types
+ofReactions 100
+5.5 Conclusions 102
+6. Interplay ofStereoelectronic Vibrational and Environmental
+Effects in Tuning PhysicochemicalProperties of
+Carbon-Centered Radicals 105
+VincenzoBarone,MalgorzataBiczysko,andPaolaCimino
+6.1 Introduction 105
+6.2 EPR Spectroscopy 107
+6.2.1 Theoretical Background 107
+6.2.2 EnvironmentalEffects 108
+6.2.3 VibrationalEffects 108
+6.2.4 DynamicalEffects 109
+6.3 Calculation ofEPR Parameters 110
+6.3.1 Geometric Parameters 112
+6.3.2 EPR Parameters 113
+6.3.3 Case Studies: Glycine andGlycylRadicals 117
+6.3.3.1 Glycine Radical 117
+6.3.3.2 GlycylRadical 119
+6.3.4 Case Studies: Vibrationally Averaged Properties
+ofVinyland Methyl Radicals 120
+6.4 VibrationalProperties Beyondthe Harmonic Approximation 122
+
+--- Page 10 ---
+
+viii CONTENTS
+6.4.1 Case Studies: Anharmonic Frequenciesof Phenyl
+and NaphthylCation Radicals 122
+6.4.2 Case Studies: Gas andMatrix Isolated IR Spectra of the
+VinylRadical 125
+6.5 Electronic Properties:Vertical Excitation Energies,Structure,
+andFrequencies inExcited Electronic States 126
+6.5.1 Theoretical Background 126
+6.5.2 Case Studies: Vertical ExcitationEnergies of the
+VinylRadical 126
+6.5.3 Case Studies: Structures andFrequencies ofthe Vinyl
+Radical inFirst Three Doublet Excited Electronic States 129
+6.6 Vibronic Spectra 129
+6.6.1 Theoretical Background 132
+6.6.2 Computational Strategy 134
+6.6.3 Case Studies: Electronic Absorption Spectrum
+ofPhenylRadical 134
+6.7 Concluding Remarks 137
+7. UnusualStructures of Radical Ions inCarbon Skeletons:
+NonstandardChemicalBonding by RestrictingGeometries 141
+GeorgGescheidt
+7.1 Introduction 141
+7.2 The Tools 142
+7.2.1 Cyclovoltammetry 143
+7.2.2 EPR Parameters: Experimental and Calculated 143
+7.3 Pagodane andIts Derivatives 144
+7.4 Different Stagesof Cycloaddition/CycloreversionReactions
+Within Confined Environments 151
+7.5 Extendingthe ‘‘Cage Concept’’ 152
+7.6 Summary 154
+8. Magnetic Field Effects on Radical Pairs inHomogeneous Solution 157
+Jonathan.R.Woodward
+8.1 Introduction 157
+8.2 The Spin-Correlated Radical Pair 158
+8.2.1 Radical Pair Interactions 159
+8.2.2 Intraradical Interactions 159
+8.2.3 Interradical Interactions 160
+8.3 Applicationofa MagneticField 162
+8.3.1 The Zeeman Effect 162
+8.4 Spin-State Mixing 163
+8.4.1 CoherentSpin-State Mixing 163
+8.4.2 The Life Cycle of aRadical Pair 165
+8.4.3 Incoherent Spin-State Mixing 167
+
+--- Page 11 ---
+
+CONTENTS ix
+8.5 TheMagnetic Field Dependenceof Radical Pair
+Reactions 167
+8.5.1 ‘‘Normal’’MagneticFields 167
+8.5.2 Weak Magnetic Fields 169
+8.5.3 Strong MagneticFields 171
+8.6 Theoretical Approaches 172
+8.6.1 GeneralApproaches 172
+8.6.2 ModelingDiffusion 173
+8.6.3 The Semiclassical Approach 173
+8.6.4 The Stochastic Liouville Equation 174
+8.6.5 Monte Carlo Approaches 174
+8.7 Experimental Approaches 174
+8.7.1 Fluorescence Detection 175
+8.7.2 Optical Absorption Detection 176
+8.7.3 Rapid Field Switching 176
+8.8 TheLife Cycle ofRadical Pairs inHomogeneous Solution 176
+8.8.1 Differentiating G-Pairsand F-Pairs 177
+8.9 Summary 180
+9. Chemical TransformationsWithinthe Paramagnetic World
+Investigated by Photo-CIDNP 185
+MartinGoez
+9.1 Introduction 185
+9.2 CIDNP Theory 186
+9.3 Experimental Methods 190
+9.4 Radical—Radical TransformationsDuring Diffusive
+Excursions 191
+9.5 Radical—Radical Transformationsat Reencounters 196
+9.6 InterconversionsofBiradicals 199
+9.7 Conclusions 203
+10. SpinRelaxation inRu-Chromophore-Linked Azine/Diquat
+Radical Pairs 205
+MatthewT.Rawls,IlyaKuprov,C.MichaelElliott,andUlrichE.Steiner
+10.1 Introduction 205
+10.2 EPR for the Isolated Ions 209
+10.3 Calculation Methods for EPR of the Isolated Ions 211
+10.3.1 Calculation ofg Tensor Components 212
+10.3.2 Calculation ofHyperfine CouplingConstants 213
+10.3.2.1 Ab Initio Hyperfine Coupling Constants:
+GeneralNotes 213
+10.3.2.2 TheoreticalValues ofIsotropic and Anisotropic
+Hyperfine Coupling Constants 214
+10.4 Implicationsfor Spin-Relaxation in Linked Radical Pairs 216
+
+--- Page 12 ---
+
+x CONTENTS
+11. Reaction Dynamics ofCarbon-Centered Radicals inExtreme
+Environments Studied by theCrossed Molecular Beam Technique 221
+RalfI.Kaiser
+11.1 Introduction 221
+11.2 The Crossed Molecular Beam Method 223
+11.3 Experimental Setup 224
+11.3.1 The Crossed Beam Machine 224
+11.3.2 Supersonic Beam Sources 227
+11.3.2.1 Ablation Source 227
+11.3.2.2 PyrolyticSource 228
+11.3.2.3 Photolytic Source 228
+11.4 CrossedBeam Studies 229
+11.4.1 Reactions ofPhenylRadicals 229
+11.4.2 Reactions ofCN andC HRadicals 236
+2
+11.4.3 Reactions ofCarbon Atoms, DicarbonMolecules, and
+Tricarbon Molecules 237
+11.5 Conclusions 240
+12. Laser Flash Photolysis ofPhotoinitiators: ESR, Optical, and IR
+Spectroscopy Detectionof Transients 249
+IgorV.KhudyakovandNicholasJ.Turro
+12.1 Introduction 249
+12.2 Photodissociation of Initiators 250
+12.2.1 Quantum Yields of Free Radicals inNonviscous Solutions 250
+12.2.2 Cage Effect Under Photodissociation 252
+12.2.3 The Magnetic Field Effect on Photodissociation 253
+12.3 TR ESR Detection of Transients 254
+12.3.1 CIDEP Under Photodissociation ofInitiators 254
+12.3.2 AdditionofFree Radicals to the Double Bonds of
+Monomers 260
+12.3.3 ElectronSpinPolarizationTransfer from Radicals of
+Photoinitiators toStable Nitroxyl Polyradicals 268
+12.4 Optical Detection ofTransients 270
+12.4.1 UV-visSpectra of RepresentativeRadicals 270
+12.4.2 RepresentativeKinetic Data on Reactions ofPhotoinitiator
+Free Radicals 270
+12.5 IR Detection of Free Radicals andMonitoring Their Reactions 274
+12.6 Concluding Remarks 274
+13. Dynamicsof Radical Pair Processes inBulk Polymers 281
+CarlosA.ChestaandRichardG.Weiss
+13.1 Introduction 281
+13.1.1 GeneralConsiderations 281
+
+--- Page 13 ---
+
+CONTENTS xi
+13.1.2 Escape Probability ofan Isolated, IntimateRadical Pair
+inLiquids and BulkPolymers 283
+13.2 Singlet-State Radical Pairs fromIrradiationof Aryl Esters
+andAlkylAryl Ethers 286
+13.2.1 GeneralMechanistic ConsiderationsFrom Solution
+andGas-Phase Studies 286
+13.2.1.1 Photo-FriesReactions ofArylEsters 287
+13.2.1.2 Photo-Claisen Reactions ofAlkylAryl Ethers 289
+13.3 Photo-Reactions ofArylEsters inPolymer Matrices. Kinetic
+Informationfrom Constant Intensity Irradiations 289
+13.3.1 RelativeRate Informationfrom Irradiationof Aryl Esters
+inWhich AcylRadicals DoNot Decarbonylate Rapidly 290
+13.3.2 Absolute and RelativeRate Informationfrom Constant
+Intensity Irradiationof Aryl EstersinWhichAcyl
+Radicals Do Decarbonylate Rapidly 293
+13.4 Rate Informationfrom Constant IntensityIrradiationofAlkyl
+Aryl Ethers 297
+13.4.1 Rate Information from an OpticallyActiveEther 299
+13.4.1.1 Results fromIrradiationin n-Alkane Solutions 299
+13.4.1.2 Results fromIrradiationin Polyethylene Films 304
+13.5 Comparisonof Calculated Rates toOther Methods for
+Polyethylene Films 306
+13.6 Triplet-State Radical Pairs 308
+13.6.1 Triplet-State Radical Pairs fromthe Photoreduction of
+Benzophenone byHydrogenDonors 308
+13.6.2 Triplet-State Radical Pairs fromNorrish Type IProcesses 311
+13.7 Concluding Remarks 318
+14. AcrylicPolymerRadicals:StructuralCharacterizationandDynamics 325
+MalcolmD.E.ForbesandNataliaV.Lebedeva
+14.1 Introduction 325
+14.2 ThePhotodegradation Mechanism 326
+14.3 Polymer Structures 327
+14.4 TheTime-ResolvedEPR Experiment 329
+14.5 Tacticityand Temperature Dependence ofAcrylate Radicals 332
+14.6 StructuralDependence 334
+14.6.1 d -Poly(methylmethacrylate), d -PMMA 335
+3 3
+14.6.2 Poly(ethylmethacrylate), PEMA 337
+14.6.3 Poly(ethylcyanoacrylate), PECA 337
+14.6.4 Poly(ethylacrylate), PEA 337
+14.6.5 Poly(fluorooctylmethacrylate), PFOMA 338
+14.6.6 Polyacrylic Acid, PAA 339
+14.6.7 Polymethacrylic Acid, PMAA 340
+14.7 Oxo-AcylRadicals 340
+
+--- Page 14 ---
+
+xii CONTENTS
+14.8 SpinPolarization Mechanisms 343
+14.9 SolventEffects 344
+14.9.1 pH Effects onPoly(acid) Radicals 344
+14.9.2 General Features for Polyacrylates 345
+14.10 Dynamic Effects 347
+14.10.1 TheTwo-Site Jump Model 348
+14.10.2 Simulations andActivationParameters 350
+14.11 Conclusions 352
+Index 359
+
+--- Page 15 ---
+
+ABOUT THE VOLUME EDITOR
+Born in Belfast, Northern Ireland, and raised in western Massachusetts, Malcolm
+Forbes completed his university training at the University of Illinois at Chicago,
+receivingadoublemajorB.S.degreeinChemistryandMathematicstherein1983.
+Heundertookdoctoral studiesattheUniversityofChicago,whereheworkedwith
+the late Gerhard Closs on the study of unstable spin-polarized biradicals using
+time-resolved electron paramagnetic resonance spectroscopy. In 1988, his accom-
+plishmentsinthisareawererecognizedwiththeBernardSmallerPrizeforResearch
+inMagneticResonance.Afterreceivinghisdoctoraldegree,Malcolmwasawarded
+aNationalScienceFoundationPostdoctoralResearchFellowship.From1988to1990
+heworkedattheCaliforniaInstituteofTechnologywithNathanLewisoninterfacial
+chargetransferkineticsatsilicon/liquidjunctions.
+InJuly1990,MalcolmjoinedtheDepartmentofChemistryattheUniversityof
+North Carolina at Chapel Hill and was promoted to the position of Professor of
+Chemistry in 1999. He has received a number of awards: a National Science
+Foundation Young Investigator Award (1993–1998), a Japan Society for the
+Promotion of Science Foreign Fellowship Award (1998–1999), the 2000 Sir
+Harold Thomson Award from Elsevier, and most recently a 2007–2008 J. W.
+Fulbright Fellowship from the U. S. State Department. Malcolm was co-Chair
+of the 2008 Gordon Research Conference on Electron Donor–Acceptor
+Interactions.
+Malcolm’s research interests span a wide area of physical organic chemistry.
+Hisprimaryfocusisstudyingfreeradicalstructure,dynamicsandreactivityusinga
+xiii
+
+--- Page 16 ---
+
+xiv ABOUTTHEVOLUMEEDITOR
+varietyofmagneticresonancetechniques.Currentprojectsincludethefundamentals
+of ‘‘spin chemistry,’’ proton-coupled electron transfer reactions, and the photode-
+gradationandchaindynamicsofpolymers.
+MalcolmlivesinChapelHillwithhiswifeNataliaandsonsMatt,Cameron,and
+Elliot.Togethertheyenjoyswimming,traveling,andhomeimprovementprojects.
+
+--- Page 17 ---
+
+PREFACE TO SERIES
+Moststablecompoundsandfunctionalgroupshavebenefitedfromnumerousmono-
+graphsandseriesdevotedtotheiruniquechemistry,andmostbiologicalmaterialsand
+processeshavereceivedsimilarattention.Chemicalandbiologicalmechanismshave
+also been the subject of individual reviews and compilations. When reactive inter-
+mediates are given center stage, presentations often focus on the details and
+approaches of one discipline despite their common prominence in the primary
+literature of physical, theoretical, organic, inorganic, and biological disciplines.
+The Wiley Series on Reactive Intermediates in Chemistry and Biology is designed
+tosupplyacomplementaryperspectivefromcurrentpublicationsbyfocusingeach
+volumeonaspecificreactiveintermediateandendowingitwiththebroadestpossible
+contextandoutlook.Individualvolumesmayservetosupplementanadvancedcourse,
+sustain a special topics course, and provide a ready resource for the research
+community. Readers should feel equally reassured by reviews in their speciality,
+inspiredbyhelpfulupdatesinalliedareasandintriguedbytopicsnotyetfamiliar.
+This series revelsin the diversityofits perspectivesand expertise. Where some
+books drawstrength from their focused details, this series draws strength from the
+breadth of its presentations. The goal is to illustrate the widest possible range of
+literaturethatcoversthesubjectofeachvolume.Whenappropriate,topicsmayspan
+theoreticalapproachesforpredictingreactivity,physicalmethodsofanalysis,strate-
+gies for generating intermediates, utility for chemical synthesis, applications in
+biochemistry and medicine, impact on the environmental, occurrence in biology,
+andmore.Experimentalsystemsusedtoexplorethesetopicsmaybeequallybroadand
+rangefromsimplemodelstocomplexarraysandmixturessuchasthosefoundinthe
+finalfrontiersofcells,organisms,earth,andspace.
+xv
+
+--- Page 18 ---
+
+xvi PREFACETOSERIES
+Advancesinchemistryandbiologygainfromamutualsynergy.Asnewmethods
+aredevelopedforonefield,theyareoftenrapidlyadaptedforapplicationintheother.
+Biologicaltransformationsandpathwaysofteninspireanalogousdevelopmentofnew
+procedures in chemical synthesis, and likewise, chemical characterization and
+identificationoftransientintermediatesoftenprovidethefoundationforunderstand-
+ingthebiosynthesisandreactivityofmanynewbiologicalmaterials.Whileindividual
+chaptersmaydrawfromasingleexpertise,therangeofcontributionscontainedwithin
+eachvolumeshouldcollectivelyofferreaderswithamultidisciplinaryanalysisand
+exposuretothefullrangeofactivitiesinthefield.Asthisseriesgrows,individualized
+compilationsmayalsobecreatedthroughelectronicaccesstohighlightaparticular
+approachorapplicationacrossmanyvolumesthattogethercoveravarietyofdifferent
+reactiveintermediates.
+Interestinstartingthisseriescameeasily,butthecreationofeachvolumeofthis
+series required vision, hard work, enthusiasm, and persistence. I thank all of the
+contributorsandeditorswhograciouslyacceptedandwillacceptthechallenge.
+STEVENE.ROKITA
+UniversityofMaryland
+ABOUT THE SERIES EDITOR
+STEVEN E. ROKITA, PhD, is Professor in the Department of Chemistry and
+Biochemistry at the University of Maryland. His research interests lie in sequence
+andconformationspecificreactionsofnucleicacids,enzyme-mediatedactivationof
+substratesandcoenzymes,halogenationanddehalogenationreactionsinbiology,and
+aromaticsubstitutionandquinonemethidegenerationinbioorganicchemistry.
+
+--- Page 19 ---
+
+INTRODUCTION
+Carbonradicalsandradicalcationsholdcentralplacesinmodernorganicreactivity,
+from alkene addition reactions in the synthesis of novel polymers to fundamental
+studiesofelectronicdistributionofspinandchargeinthestudyofdonor–acceptor
+interactions.Theimportanceoffreeradicalsinbiologicalreactionswasrecognized
+initially in fields such as photosynthesis, but they are now of interest in areas of
+researchasdiverseastissuedamageandtheagingprocess.Thefieldofbiologicalfree
+radicalshasgrowntotheextentthatanentirejournalisnowdevotedtothetopic:Free
+RadicalsinBiologyandMedicine.Theubiquityofradicalintermediatesinchemistry
+and biology has commanded attention from chemists, biologists, and physicists,
+across a variety of subdisciplines, who are seeking to understand the structure,
+reactivity, and dynamics of radicals in magnetic and chemical environments that
+areoftencomplex.
+To this end, high levels of theory have been developed in conjunction with a
+sophisticatedarrayofexperimentaltechniquesthatnowmakeitpossibletomeasure
+the properties of organic reactive intermediates with extraordinary precision. This
+volume,oncarbon-centeredfreeradicalsandradicalcations,highlightsseveralofthe
+mostadvancedcomputationalandexperimentalmethodscurrentlyavailableforsuch
+investigations.Thechapterswithinarewrittenbyawell-roundedgroupofexperts,
+whohavemadeastrongefforttoexplaindifficultconceptsclearlyandconcisely.The
+authorswereselectedwiththeintentionofprovidingabroadrangeofmaterial,from
+smallmoleculesynthesistopolymerdegradation,andfromcomputationalchemistry
+tohighlydetailedexperimentalworkinthesolid,liquid,andgaseousstates.
+Chapter1presentsashorthistoryofthefieldoffreeradicalchemistry.Buildingona
+fewearliersummariesinmonographsthatarenowabitdated,thischaptercoversmore
+moderndevelopmentsinradicalreactions,mechanisms,andphysicalmethodssince
+xvii
+
+--- Page 20 ---
+
+xviii INTRODUCTION
+the 1960s. Particular attention is paid to the chemically induced spin polarization
+phenomenathathaveastrongpresenceinthisvolume.Chapters2–4canbeconsidered
+tohavethecommonthemeofmechanisticchemistry,withanemphasisonsynthetic
+utility.Chemistsaresometimessurprisedtofindusefulradicalreactionsinsynthesis,
+andthesethreechapterssummarizemanynewideasfortheconstructionofinteresting
+organicstructures.InChapter2,Willedescribesrecentexperimentalandcomputa-
+tionalresultsfromherlaboratoryoncascade-typeradicaladditionstoalkynes,with
+mechanistic examples and synthetic applications. Complementary to her work on
+building carbon skeletons is Poniatowski and Floreancig’s description of radical
+cation fragmentation reactions in Chapter 3, with applications to asymmetric total
+synthesis.InChapter4,SevovandWiestdiscusschemo-,regio-,andperiselectivity
+trendsandsolventeffectsinradicalcationDiels–Alderreactions.
+Chapters5–7arefocusedonmolecularstructureandarethereforemostlyfromthe
+computationalperspective.However,theseauthorswereinvitedbecauseoftheirskills
+inconnectingcomputationtoexperiment,andtheyhaveprovidedsignificantinsightin
+manyimportantreactions.InChapter5,Coote,Lin,andZipseprovideasummaryof
+stereoelectronic effects governing the stability of carbon-centered radicals, with a
+detaileddiscussionofapplicationstoH-atomtransferandolefinadditionreactions.
+Barone,Biczysko,andCiminopresentcasestudiesofvibrationalandenvironmental
+effectsonradicalstabilitiesinChapter6,withseveralimportantbiologicalexamples.
+In Chapter 7, Gescheidt connects the electrochemistry and magnetic resonance of
+pagodane-typeradicalcationstotheirmolecularstructures.Hisexperimentalmea-
+surementsarestronglysupportedbycomputationalresults.
+Chapters 8–11 represent an effort to present the forefront of spectroscopic
+investigationsofradicalstructureandkinetics.Theseparticularchaptersalsoprovide
+excellentdemonstrationsofseveral‘‘spinchemistry’’techniquessuchasCIDNPand
+magneticfieldeffects.Inthisregard,Chapter8byWoodwardcontainsanexcellent
+introductiontothephysicsofgeminateradicalpairspinstateevolutionandmagnetic
+fieldeffects,presentingtheoreticaldetailsclearlyandgivingnumerousexperimental
+examples.Goez,inChapter9,alsoprovidesbackgroundontheradicalpairmecha-
+nismasappliedtotheCIDNPexperiment.Hisexamplesincludereactionsofradicals,
+radicalions,andbiradicals.Thischapterprovidesaveryusefuloverviewofthetheory
+and contains several worthy demonstrations of the mechanistic power of CIDNP
+spectroscopy.ThecontributorsofChapter10,Rawls,Kuprov,Elliot,andSteiner,have
+combinedtheirexperimentalandtheoreticaltalentstoanalyzethemagneticproperties
+oflinkeddonor–acceptorsystemsthataremodelsystemsforartificialphotosynthesis,
+withaparticularemphasisonspinrelaxationeffects.Novolumeofthistypewouldbe
+completewithoutadescriptionofmoderngas-phaseradicalreactions.Thecrossed
+molecular beam experiments described by Kaiser in Chapter 11 delineate the
+chemistry of phenyl radicals and other smaller carbon-containing fragments, as
+relatedtoatmosphericscience.
+Thisvolumecloseswiththreechaptersondifferentaspectsoffreeradicalchemistry
+inmacromolecules.Severalphotoinitiationreactionsthatarewidelyusedinpolymer
+synthesisarediscussedbyKhudyakovandTurroinChapter12.Thischapteralsogives
+an informative description of how CIDEP can be used to simultaneously study
+
+--- Page 21 ---
+
+INTRODUCTION xix
+structureandmechanisminphotochemicalreactions.Thereactionsofgeminalradical
+pairscreatedinbulkpolymersarepresentedbyChestaandWeissinChapter13.Ofthe
+manypossiblechemicalreactionsforsuchpairs,theyareorganizedherebypolymer
+and reaction type, and the authors provide solid rationalizations for the observed
+product yields in terms of cage versus escape processes. Chapter 14 contains a
+summaryoftheeditor’sownworkonacrylicpolymerdegradationinsolution.Forbes
+and Lebedeva show TREPR spectra and simulations for many main-chain acrylic
+polymerradicalsthatcannotbeobservedbysteady-stateEPRmethods.Adiscussion
+ofconformationaldynamicsandsolventeffectsisalsoincluded.
+Onapersonalnote,IwouldliketothanktheserieseditorStevenRokitaforthe
+invitationtogeneratethisvolume.Thiswasachallengingprojectandhewasalwaysat
+the ready with good advice during the writing process. Becky Ramos and Anita
+LekhwaniatWileywereinstrumentalingettingthisvolumeofftheground;handsoff
+enoughtoletmeshapethevolumethewayIwanted,andhandsonenoughtoavoid
+catastrophe.Iamindebtedtomyeditorialassistant(andcoauthor)NataliaLebedeva,
+without whom I would still be choosing authors and daydreaming about potential
+topics. I also acknowledge the U.S. Fulbright Scholar Program for a fellowship
+thatgavemesubstantialtimeawayfromeverydaydutiesthisyearinordertocomplete
+thisvolume.
+Finally,noprojectofthismagnitudeisevercreatedwithoutauthorswhosharetheir
+commitmentandarewillingtoproducegreatsciencewithinareasonabletimeframe.I
+thank them for their patience with me as the initial deadline slipped past, and for
+workinghardovertheholidaybreakof2008–2009togettheirmanuscriptstomefor
+thefinalpushtoproduction.Itisnotquiteenoughtolettheireffortsshineonthepages
+within,thereforeIclosethisintroductionbystatingthattheauthors’perseverance,
+diligence,andattentiontodetailaredulyrecognizedbyamostgratefultaskmaster.
+MALCOLMD.E.FORBES
+ChapelHill,NorthCarolina
+December2009
+
+--- Page 22 ---
+
+
+
+--- Page 23 ---
+
+CONTRIBUTORS
+VincenzoBarone, Scuola Normale SuperiorediPisa, Pisa, Italy
+Malgorzata Biczysko, Dipartimento di Chimica, Universit(cid:2)a Federico II, Napoli,
+Italy
+CarlosA.Chesta, DepartamentodeQu´ımica,UniversidadNacionaldeR´ıoCuarto,
+R´ıo Cuarto,Argentina
+Paola Cimino, Dipartimento di Scienze Farmaceutiche, Universit(cid:2)a di Salerno,
+Fisciano, Italy
+Michelle L. Coote, ARC Centre of Excellence for Free-Radical Chemistry and
+Biotechnology, Research School of Chemistry, Australian National University,
+Canberra Australian Capital Territory, Australia
+C. Michael Elliott, Department of Chemistry, Colorado State University, Fort
+Collins, CO, USA
+PaulE.Floreancig, DepartmentofChemistry,UniversityofPittsburgh,Pittsburgh,
+PA,USA
+Malcolm D. E. Forbes, Department of Chemistry, University of North Carolina,
+Chapel Hill, NC,USA
+GeorgGescheidt, InstituteofPhysicalandTheoreticalChemistry,GrazUniversity
+of Technology, Graz, Austria
+Martin Goez, Institut f€ur Chemie, Martin–Luther-Universit€at Halle–Wittenberg,
+Halle/Saale,Germany
+xxi
+
+--- Page 24 ---
+
+xxii CONTRIBUTORS
+RalfI.Kaiser, DepartmentofChemistry,UniversityofHawaiiatManoa,Honolulu,
+HI, USA
+Igor V. Khudyakov, Bomar Specialties, Torrington, CT, USA
+Ilya S. Kuprov, Chemistry Department, UniversityofDurham, Durham, UK
+Natalia V. Lebedeva, Department of Chemistry, University of North Carolina,
+Chapel Hill, NC, USA
+Ching Yeh Lin, ARC Centre of Excellence for Free-Radical Chemistry and
+Biotechnology, Research School of Chemistry, Australian National University,
+Canberra Australian Capital Territory,Australia
+Alexander J. Poniatowski, Department of Chemistry, University of Pittsburgh,
+Pittsburgh, PA,USA
+Matthew T. Rawls, National Renewable Energy Laboratory, Golden, CO,USA
+ChristoS.Sevov, DepartmentofChemistryandBiochemistry,UniversityofNotre
+Dame, Notre Dame, IN, USA
+UlrichE.Steiner, FachbereichChemie,Universita¨tKonstanz,Konstanz,Germany
+Nicholas J. Turro, Department of Chemistry, Columbia University, New York,
+NY,USA
+RichardG.Weiss, DepartmentofChemistry,GeorgetownUniversity,Washington,
+DC,USA
+Olaf Wiest, Department of Chemistry and Biochemistry, University of Notre
+Dame, Notre Dame, IN, USA
+UtaWille, ARCCentreofExcellenceforFreeRadicalChemistryandBiotechnology,
+SchoolofChemistryandBIO21MolecularScienceandBiotechnologyInstitute,
+TheUniversityofMelbourne,Parkville,Victoria,Australia
+Jonathan. R. Woodward, Chemical Resources Laboratory, Tokyo Institute of
+Technology, Midori-ku,Yokohama, Japan
+Hendrik Zipse, Department of Chemistry and Biochemistry, LMU Munich,
+Munich, Germany
+
+--- Page 25 ---
+
+1
+A BRIEF HISTORY OF CARBON
+RADICALS
+MALCOLM D. E. FORBES
+DepartmentofChemistry,UniversityofNorthCarolina,ChapelHill,NC,USA
+Itmayseemdifficulttobelieve,butresearchoncarbon-centeredfreeradicalsisaboutto
+closeoutitssecondcentury.In1815,Gay-Lussacreportedtheformationofcyanogen
+(the dimer of .CN)by heating mercuric cyanide.1 Numerousexperiments involving
+pyrolysis of organometallic compounds followed, most notably from Bunsen,2
+Frankland,3andWurtz4inthe1840s.Allofthesereactionssuggestedtheexistence
+of what we now know to be carbon-centered free radicals, but physical methods of
+detectionwerestillmanydecadesaway,andthefieldbecamesomewhatstagnantinthe
+latter half of the nineteenth century. From high-temperature gas-phase dissociation
+reactions, it was well accepted that inorganic compounds such as elemental iodine
+could exist in equilibrium with their atomic “radical” forms. In 1868, Fritzsche’s
+observationofcolorchangesduetoformationofchargetransfercomplexesbetween
+picricacidandbenzene,naphthalene,oranthracenerepresentedthefirstevidencefor
+theexistenceofcarbonradicalcationsinaromaticsystems.5However,theattempted
+isolationofneutralcompoundswithtrivalentcarbonwasanideathathaddefinitely
+fallenoutoffavorbythe1880s.Thislackofinterestwasamplifiedbytheflourishof
+newideassurroundingtetravalentcarbon(pushedexperimentallybythevapordensity
+methodfordeterminingmolecularweights6)andbythegeometricalinsightprovided
+byvan’tHoff’sproposaloftetrahedralcarbonin1874.7
+Because of this status quo, the field was turned completely upside down with
+Gomberg’sreportin1900ofthepreparationofthetriphenylmethylradical.8Apart
+fromtheinfluentialsupportofNef,9Gomberg’sresultwasmetwithmuchskepticism.
+Carbon-CenteredFreeRadicalsandRadicalCations, EditedbyMalcolmD.E.Forbes
+Copyright(cid:2)2010JohnWiley&Sons,Inc.
+1
+
+--- Page 26 ---
+
+2 ABRIEFHISTORYOFCARBONRADICALS
+But as is typical in the scientific endeavor, healthy criticism can provoke new
+experiments to prove or disprove a novel result, and the carbon radical skeptics
+wereslowlywonover.Theyear1900markedthebeginningofwhatwemightcallthe
+“wetchemistry”eraofresearchoncarbon-centeredfreeradicals,althoughitshouldbe
+notedthattherewerealsomanygas-phaseexperimentsthatwereusefulinestablishing
+radical reactivity patterns. For example, Goldstein’s experiments with cathode ray
+tubes provided the earliest physical method of detection of carbon-based radical
+cationsinthegasphase.10Onthetheoreticalside,strongsupportfortheexistenceof
+carbon-centered free radicals came from G. N. Lewis in 1916, whose ideas about
+valenceshellsandtheoctetrulehadjustbeguntoemerge.11Lewiswasalsothefirstto
+recognizethatmoleculeswithunpairedelectronswouldexhibitparamagnetism.12Itis
+ratherastoundingtorealizethatbothofthesehypothesespredatetheadventofthe
+quantumtheory;inregardtomolecularstructure,Lewishadanunmatchedlevelof
+insightforhistime.
+The1920ssawaflurryofactivitiesinboththermalandphotochemicalinvestiga-
+tions of gas-phase organic reactions, and chemists such as H. S. Taylor began to
+hypothesize carbon-centered radicals as reactive intermediates in certain mechan-
+isms.13In1929,PanethandHofeditzreportedtheiringenious“mirror”experiments
+involvingthermolysisofvapor-phasePb(CH ) andotherorganometalliccompounds.
+3 4
+Theirresultsclearlydemonstratedthatalkylradicalswerereasonablepostulatesas
+reactiveintermediatesinthesereactions.14Insolution-phaseorganicchemistry,free
+radicals were beginning to be proposed as intermediates whenever “forbidden”
+chemistrywasobserved.Thisincludedreactionssuchasautooxidationofcarbonyl
+compoundsandthesulfiteionstudiedbyB€ackstr€omin1927,15andinotherreactions
+byHaberandWillst€atterafewyearslater.16Therewasevenanearlysuggestionby
+Staudingerin1920thatfreeradicalswereinvolvedinthepolymerizationreactionsof
+olefins.17 Carbon-centered radical cations were the subject of many gas-phase ion
+investigations in the early part of the twentieth century, led by the instrumentation
+developmentsofThomsonandAston.18,19Theirworkduringtheseyearsbuiltdirectly
+onGoldstein’s cathode ray resultsandlay thefoundationfor the emergingfieldof
+organicmassspectrometry.
+Theyear1937wasanauspiciousoneforfreeradicalchemistry,withthepublication
+of an extensive review on solution-phase free radical mechanisms by Hey and
+Waters.20 At about the same time, Kharasch proposed the now well-accepted
+mechanism for anti-Markovnikov addition of HBr to alkenes in the presence of
+peroxides,21areactionhehadinitiallyreportedwithMayo4yearsearlier.22Alsoin
+1937cameFlory’sdefinitivepaperonthekineticsofvinylpolymerizationreactions,
+confirmingthenatureofthesereactionsasfreeradicalpropagations.23Thisworkon
+polymerseventuallyledtooneofthelargestspurtsofindustrialgrowthofthetwentieth
+century. The year 1937 was noted by Walling in his excellent monograph24 as the
+beginningofthegeneralacceptanceofcarbon-centeredfreeradicalsasviablereactive
+intermediatesinsolution-phaseorganicreactionsatordinarytemperatures.
+Intermsofphysicalmethods,by1937therehadbeenonlyafewadvancesbeyond
+themirrortechniqueofPanethortheinvokingof“forbiddenreactivity”insolutionto
+establish that a mechanism involved free radicals (or not). As noted above, mass
+
+--- Page 27 ---
+
+ABRIEFHISTORYOFCARBONRADICALS 3
+spectrometrywasonefieldwhereradicalsandradicalcationsfromorganicstructures
+werebeginningtobepostulatedandactivelystudied.25Opticalabsorption,usually
+carried out in frozen glasses with unstable radicals, was also a common early
+technique,26 and this was an important component of Gomberg’s description of
+thetriphenylmethylradical.WithLewis’recognitionofthelinkbetweenradicalsand
+paramagnetism,themagneticsusceptibilityexperimentcametobeusedinthestudyof
+stable free radicals.27 A bit later, scavenging studies were carried out to establish
+radicalmechanisms28,andtheearlydaysofflashphotolysisallowedcoarsestructural
+andkineticstudiesofradicalstobeperformedforthefirsttime.29However,priorto
+World War II (WWII), therewere no high-resolution methods available that could
+definitively establish the structural (and magnetic) properties of carbon-centered
+radicals.TheWarwouldchangethissituationquickly.
+ThethreatofairbornebombingraidsonmajorcitiesduringWWIIledtointense
+effortsfortheearlydetectionofaircraft,anditwasquicklyrecognizedthatradioand/
+ormicrowavefrequencyelectromagneticradiationcouldbeusedforthispurpose.30
+Thisresearchinradiophysicsandengineeringledtotheavailabilityofhigh-powered
+RFsourcesandsensitivedetectors,thepotentialofwhichwasimmediatelyexploited
+bychemicalphysicistsforthedetectionofmagneticresonancesduetospinangular
+momentum in atoms and molecules. Such resonances had been predicted from the
+quantumtheorytwodecadesearlier,buthadeludeddetection.31PurcellandBlochin
+the United States, and Zavoisky in Russia (then the USSR), refined these RF
+experimental techniques to demonstrate “proof of principle” magnetic resonance
+spectroscopies (Purcell and Bloch discovered and reported NMR independently in
+1946,32,33whileZavoiskyreportedthefirstEPRspectrumofaparamagneticspeciesin
+194534).WhiletheEPRexperimentismoredirectlyrelevant,bothexperimentsplayed
+keyrolesinunderstandingmechanisticorganicchemistryinvolvingcarbon-centered
+freeradicals.Theimpactofthesetechniquesonthefieldcannotbeoverestimated,and
+bothspectroscopicmethodsarewidelyusedinthestudyofradicalreactionstothe
+presentday.
+Justafewyearsafterthediscoveriesofelectronandnuclearmagneticresonance
+phenomena,commercialEPRandNMRspectrometersappeared,andtheearly1950s
+canbeconsideredthedawnofthe“spectroscopicera”ofresearchonfreeradicals.In
+the United States, the research groups of Weissman in St. Louis and Hutchison in
+Chicagoweresoonstudyingthestructuresandmoleculardynamicsofradicalsand
+tripletstates.Weissmaninparticularwasdevelopingworkablemodelsforsimulating
+solution EPR spectra.35 In 1958, Hutchison and Mangum reported the first EPR
+spectrumofanorganictripletstate,36endingyearsofspeculationandargumentabout
+thenatureofphosphorescence(muchearlier, G.N.Lewishadcorrectlypredictedthat
+thephosphorescentstateofanorganicmoleculewastheexcitedtriplet).
+Activity in magnetic resonance of free radicals has not let up, and a cursory
+literaturesearchfoundalmost80,000publicationsrelatedtoEPRspectroscopyatthe
+timethisbookwenttopress.Morethanhalfofthesepapersaredevotedtocarbon-
+centeredradicals.In1963,newphotochemicaltechniquesandadvancesinspectrom-
+etersensitivityledtothefirstdirectobservationsoffreeradicalsinliquidsolutionat
+roomtemperature.37Soonafter,itwascommonplacetoseeg-factor(chemicalshift)
+
+--- Page 28 ---
+
+4 ABRIEFHISTORYOFCARBONRADICALS
+andisotropicelectron–nuclearhyperfinecouplingconstantsfornovelradicalsbeing
+publishedonaregularbasisinwhatwenowrefertoas“high-impact”journals.
+Many sophisticated techniques for the isolation and study of free radicals and
+carbenesinthegasphaseweredevisedduringthespectroscopicera,38,39mostofthem
+inconjunctionwiththedevelopmentofhigh-intensityCWandpulsedlasers.These
+experimentswere notonly highlycomplementaryto magnetic resonance methods,
+butalsohadtheadvantageofdrivingcomputationalandtheoreticalworkbecausevery
+simple structures could be studied in the absence of solvent effects with high
+spectroscopicresolution.Anexampleisthelandmarkphotodetachmentexperiment
+of Engelking et al. that led to a precise value for the singlet–triplet energy gap in
+methylene,thesimplestcarbene.40Thisenergygaphadhistoricallybeenaproblemfor
+computational chemists due to its open-shell structure, but the photodetachment
+methodprovidedmuchguidance.Theelectronicstructureofmethyleneremainsone
+of the healthiest examples ever recorded of experiment/theory convergence in
+physical organic chemistry. The development of pulsed lasers in the 1960s also
+improvedthetimeresolutionandsensitivityoftheflashphotolysisexperiment,and
+thisallowedthekineticsofmanyradicalreactionsinsolutiontobepreciselymeasured
+inrealtime.41Itisfairtosaythatpriortothedevelopmentoftime-resolvedmagnetic
+resonancetechniquesinthe1970s,laserflashphotolysiswasthestandardmethodfor
+determiningfreeradicallifetimesinsolution.42
+Researchoncarbon-centeredradicalcationsinsolutionaccelerateddramatically
+withthedevelopmentoftime-resolvedopticalabsorptionandemissiontechniques.
+TheresearchgroupofTh.F€orsterinGermanypioneeredphotochemicalmethodsof
+productionofradicalcationsandanions,aswellasexciplexes.43WhiletheF€orster
+groupfocusedonstructureandlifetimes,thelaterworkofD.R.ArnoldinCanada,44
+andofH.D.RothintheUnitedStates,45reportedthereactivityofphotochemically
+generatedradicalcationsfromamechanisticperspective.Thesestudiesofradicalion
+chemistryevolvedintothefieldwenowknowaselectrondonor–acceptorinteractions,
+arichareaofscienceinwhichcarbon-centeredradicalcationsarestillactivelystudied.
+Anotherburstofactivityinfreeradicalresearchoccurredinthe1960sand1970s,
+afterseveralreportsofanomalousintensitiesintheEPRspectraofphotochemicallyor
+radiolyticallyproducedradicals,andintheNMRspectraoftheproductsfromfree
+radicalreactionsinsolution.46,47Theseso-calledchemicallyinducedmagneticspin
+polarization (CIDNP and CIDEP) phenomena provided a wealth of mechanistic,
+kinetic, dynamic, and structural information and were a cornerstone of carbon-
+centeredfreeradicalresearchforthebetterpartofthreedecades.48,49Theumbrella
+termforthisareaofresearchis“spinchemistry,”whichisdefinedasthechemistryof
+spin-selectiveprocesses.
+Manynewphysicalmethodsweredevelopedinresponsetoneedsofspinchemists.
+Inparticular,thetime-resolvedEPR(TREPR)50andtime-resolvedNMR(CIDNP)51
+techniques were found to be of unparalleled utility in terms of mechanistic under-
+standing of radical chemistry. Theoretical work to explain CIDNP and CIDEP
+phenomena was able to link, for the first time, the spin physics of radical pairs
+totheirdiffusion,moleculartumbling,confinement(solventcagesversussupramo-
+lecular environments52), and the effects of externally applied magnetic fields.53–56
+
+--- Page 29 ---
+
+REFERENCES 5
+Severalchaptersofthisbookshowhowmagneticfieldeffects,aswellasCIDEPand
+CIDNPspectralpatterns,canbeusedtosolvechemicalproblems.Itshouldbenoted
+thatthestudyofhowappliedmagneticfieldsperturbchemicalreactivityisatopicthat
+is highly relevant to biological processes involving radical pairs, for example,
+photosynthesis.57–59
+Twoothermajorinstrumentationdevelopmentshadamajorinfluenceonthestudy
+ofcarbonfreeradicals.Inthe1950s,GeorgeFeherdevelopedelectron–nucleardouble
+resonance (ENDOR) spectroscopy,60 which is still used to great advantage in
+determination of hyperfine coupling constants in biological systems.61 The experi-
+ment is even run in time-resolved mode in some laboratories.62 Pulsed EPR has
+emergedinrecentyearsasavaluabletechnique,63butitsutilityinthestudyoforganic
+radicalsissomewhatlimitedbythecurrentstatusofmicrowavepulsingtechnology.
+Onlyverynarrowspectralwidths((cid:2)100MHz)canbeexcitedwithuniformpowerby
+such pulses without distortions of the signals. Both electron spin-echo envelope
+modulation(ESEEM)64andFT-EPR65areusedinthestudyofbiologicalfreeradicals,
+andasthemicrowavetechnologyimprovesinthemodernera,2D66andeven3D67
+pulsedEPRexperimentshavebecomeareality.
+Itisinterestingtolookbackonthishistoricalperspectiveandnotethatinthe“wet
+chemistry” era (pre-WWII), the reactivity of radicals (B€ackstr€om) and synthetic
+applications(Kharasch)were“hot”experimentaltopics.Polymerswerejustbegin-
+ningtoberecognizedasfertileareasforresearchonfreeradicals(Flory),andgas-
+phasespectroscopywasleadingtosomeofthemostinsightfulexperimentalobserva-
+tionsofthetime(Paneth).Thisbookhonorstheeffortsofthesepioneersinthat,while
+theexperimentshavebecomemorecomplex,thefundamentalrelationshipbetween
+structureandreactivityisstilldrivingintellectualcuriosityinfreeradicalresearch.
+Thelevelofcomputationalprecisionregardingstructureandreactivityoffreeradicals
+hasgrownincrediblysince1950andnowmatchesthesophisticationofthemodern
+experimental arsenal.68,69 It is clear that the complexity of the systems that can be
+studiedwiththesecomputationalmethodswillcontinuetoincrease.
+The future of the field is bright: carbon-centered free radicals in chemistry and
+biologycontinuetobeofbroadinterestandcontinuetobestudiedexperimentallywith
+high resolution and high sensitivity. Combined with the latest computational tech-
+niques,itisnowpossibletoconsiderthecreationofa“cradletograve”understanding
+ofafreeradicalreaction,fromthecharacterizationoftheexcited-stateprecursorby
+opticaltechniquestothestructureanddynamicsoftheradicalsthemselvesbyEPR
+spectroscopy,andfinallytothekineticsofformationandstructuresoftheproductsby
+NMRspectroscopyandotheranalyticalmethods.
+REFERENCES
+1. Gay-Lussac,H.L.Ann.Chim.1815,95,172.
+2. Bunsen,R.H.JustusLiebigsAnn.Chim.1842,42,27.
+3. Frankland,E.Ann.Chem.Pharm.1849,71,213.
+4. Wurtz,C.A.Compt.Rend.1854,40,1285.
+
+--- Page 30 ---
+
+6 ABRIEFHISTORYOFCARBONRADICALS
+5. Fritzsche,C.J.Jahresb.1868,395.
+6. Siwoloboff,A.Ber.Dtsch.Chem.Ges.1886,19,795.
+7. van’tHoff,J.H.Arch.Neerl.Sci.ExactesNat.1874,9,445.
+8. Gomberg,M.J.Am.Chem.Soc.1900,22,757.
+9. Nef,J.U.LiebigsAnn.1901,318,137.
+10. Goldstein,E.Ann.Phys.1898,300,38.
+11. Lewis,G.N.J.Am.Chem.Soc.1916,38,762.
+12. Lewis, G. N. Valence and Structure of Atoms and Molecules; Chemical Catalog Co.:
+NewYork,1923;p148.
+13. Taylor,H.S.Trans.FaradaySoc.1925,21,560.
+14. Paneth,F.;Hofeditz,W.Ber.Dtsch.Chem.Ges.1929,62,1335.
+15. B€ackstr€om,H.L.J.J.Am.Chem.Soc.1927,49,1460.
+16. Haber,F.;Willst€atter,R.Ber.Dtsch.Chem.Ges.1931,64,2844.
+17. Staudinger,Ber.Dtsch.Chem.Ges1920,53,1073.
+18. Thomson,J.J.Philos.Mag.1899,48,547.
+19. Aston,F.W.Philos.Mag.1919,48,707.
+20. Hey,D.H.;Waters,W.A.Chem.Rev.1937,21,169.
+21. Kharasch,M.S.;Engelmann,H.;Mayo,F.R.J.Org.Chem.1937,2,288.
+22. Kharasch,M.S.;Mayo,F.R.J.Am.Chem.Soc.1933,55,2468.
+23. Flory,P.J.J.Am.Chem.Soc.1937,59,241.
+24. Walling,C.FreeRadicalsinSolution;Wiley:NewYork,1957.
+25. Taylor,D.D.Phys.Rev.1935,47,666.
+26. Walter,R.I.J.Am.Chem.Soc.1966,88,1930.
+27. vanVleck,J.H.;ElectricandMagneticSusceptibility;OxfordUniversityPress:NewYork,
+1932.
+28. Noyes,R.M.J.Am.Chem.Soc.1955,77,2042.
+29. Norrish,R.G.W.;Porter,G.;Thrush,B.A.Proc.R.Soc.Lond.A1953,216,165.
+30. Bowen,E.G.;RadarDays;InstituteofPhysicsPublishing:Bristol,1987.
+31. Gorter,C.J.;Broer,L.J.F.Physica1942,9,591.
+32. Purcell,E.M.;Torrey,H.C.;Pound,R.V.Phys.Rev.1946,69,37.
+33. Bloch,F.Phys.Rev.1946,70,460.
+34. Zavoisky,E.K.J.Phys.(USSR)1945,9,245.
+35. Weissman,S.I.J.Chem.Phys.1954,22,1135.
+36. Hutchison,C.A.Jr.;Mangum,B.W.J.Chem.Phys.1958,29,952.
+37. Piette, L. H. A new technique for the study of rapid free radical reactions. In Sixth
+InternationalSymposiumonFreeRadicals,CambridgeUniversityPress,1963.
+38. Friderichsen, A. V.; Radziszewski, J. G.; Nimlos, M. R.; Winter, P. R.; Dayton, D. C.;
+David,D.E.;Ellison,G.B.J.Am.Chem.Soc.2001,123,1977.
+39. Deyerl,H.-J.;Gilbert,T.;Fischer,I.;Chen,P.J.Chem.Phys.1997,107,3329.
+40. Engelking, P. C.; Corderman, R. R.; Wendoloski, J. J.; Ellison, G. B.; O’Neil, S. V.;
+Lineberger,W.C.J.Chem.Phys.1981,74,5460.

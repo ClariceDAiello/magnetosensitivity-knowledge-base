@@ -1,0 +1,48 @@
+{
+  "paper_id": "BUCHACHENKOELSEVIER2024",
+  "doi": "10.1016/B978-0-443-29819-6.00008-0",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "538 PUBLICATIONS 8",
+    "006 CITATIONS"
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "",
+  "date_added": "2025-11-05T07:49:46.452464",
+  "last_modified": "2025-11-05T07:49:46.452467",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "/Users/clarice/Desktop/Claude test/Literature/BUCHACHENKOELSEVIER2024.pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

@@ -1,0 +1,999 @@
+
+
+--- Page 1 ---
+
+Magnetic fields and radical reactions: recent developments and
+their role in nature
+Brian Brocklehurst
+Department of Chemistry, University of Sheffield, Sheffield, UK S3 7HF.
+E-mail: b.brocklehurst@sheffield.ac.uk; Fax: 0-114-273-8673; Tel: 0-114-222-9524
+Received 22nd March 2002
+First published as an Advance Article on the web 18th July 2002
+Recombination of pairs of radicals is exceptional in being applied field (Zeeman splitting) and with magnetic nuclei, the
+affected by magnetic fields. The mechanism has been known isotropic hyperfine couplings, a. (Many important nuclei are not
+for some thirty years, but recently new applications have magnetic, e.g. 12C and 16O.) Hyperfine couplings are familiar
+appeared and research has been extended to very high fields from EPR spectroscopy and range from 0.1 to 2–3 mT for
+(up to 30 Tesla). Claims that low electromagnetic fields common organic radicals. Radical pair (RP) theory has found
+damage health have led to extensive medical, chemical and the bulk of its applications in spin resonance research; spin
+evolution in RPs differs between the nuclear spin states which
+physical research: no firm evidence of hazards has emerged;
+leads to ‘spin-selective reactions’. Since conventional spin
+on the other hand, migrating birds orient themselves in the
+resonance measurements depend on differences in the Boltz-
+earthAs field (50 mT): radical pairs may provide the
+mann distribution among the energy states of a few parts per
+mechanism.
+thousand (EPR) or per million (NMR), such processes can give
+spectacular effects. Chemically induced dynamic polarisation
+(CIDEP and CIDNP) has become a very large research area in
+1 Introductory its own right; there is not space to include it here. Nor is it
+possible to do justice to many well-developed areas, e.g.much
+Magnetic field effects (MFEs) are now studied over a very wide of the older solution work and studies of micelles and
+range: superconducting magnets provide fields of more than ten photosynthetic reaction centres. Other MFEs not covered are
+Tesla for industry, for research (spin resonance, NMR and EPR) magnetic isotope effects which also result from radical pairs,
+and for magnetic resonance imaging (MRI). At the other processes involving triplet excited states,1 gas-phase dissocia-
+extreme, over the last ten years concerns have arisen about tion of excited molecules,2 and bulk effects of fields such as
+potential hazards due to environmental electromagnetic (EM) orientation of liquid crystals.
+fields of a few microTesla. For comparison, the field between The next section sets out the basic ideas of RP theory; for
+the poles of a horseshoe magnet might be 100–200 mT and the mobile liquids its predictions have been borne out by experi-
+earthAs field is ~50 mT. At first sight, effects on chemical mental work spanning nearly 30 years. The amount is now very
+reactions appear very unlikely; even a field of 1 T produces a large: in a thorough review in 1992, Steiner and Ulrich1listed
+splitting of the electronic energies of a radical of only 11.2 J some 774 papers and 34 earlier reviews. Section 3 contains
+mol21; for comparison, kT is ~2500 J mol21 at normal examples chosen to illustrate the principles and the types of
+temperatures; heats of typical chemical reactions are ~10–100 experiments used. Most space is given there to radiolumines-
+kJ mol21. Indeed there is no effect at all on most ground state cence: this is the author’s own interest but arguably it provides
+reactions. The exception is provided by the rates (not the the best illustrations of the basic phenomena and research in this
+equilibria) of recombination of free radicals and radical ions in area is very active at present.
+solution and in solids; this is the subject of this review. Later sections describe recent developments including a
+The behaviour of radical pairs in mobile liquids at moderate wider range of experiments and the study of low field effects,
+fields (~1–100 mT) is particularly simple: it depends on the LFE, where the Zeeman interaction is less than the hyperfine
+relative magnitudes of the interactions of electron spins with an couplings, necessitated by the possibility of health hazards.
+Sections 4 and 5 describe work on electron transfer processes
+and radical reactions in solids and biological materials. These
+Dr Brocklehurst was born in Dover, England. After studying at
+are more complicated because the anisotropic components of
+Oxford under Dr E. J. Bowen, he held research fellowships at
+hyperfine coupling no longer average to zero. No final
+AERE, Harwell, and the Uni-
+conclusions about health hazards are yet possible, but while the
+versity of California, Berkeley,
+positive evidence is weak there can be no doubt that birds make
+with Professor G. C. Pimentel.
+use of the geomagnetic field to aid migration over long
+In 1960 he joined the staff in
+distances, while many organisms use it orient themselves
+Sheffield. He has collaborated
+(sections 6 and 7). The S.I. unit the Tesla has replaced the gauss,
+with groups in Canada, at
+G, (1 T = 10000 G) but the latter still appears widely in the
+AERE, the Radiation Labora-
+literature so both are used as needed.
+tory (University of Notre Dame,
+Indiana) and at Oxford. He has
+specialised in electronic spec- 2 Concepts
+troscopy, luminescence, radia-
+tion chemistry and, since 1968, 2.1 Spin correlation
+in magnetic field effects.
+Most molecules have singlet ground states. The spin behaviour
+of the electron pairs in each orbital is said to be correlated: the
+DOI: 10.1039/b107250c Chem. Soc. Rev., 2002, 31, 301–311 301
+This journal is © The Royal Society of Chemistry 2002
+.MA
+23:03:1
+5202/92/01
+no
+yrarbiL
+TIM
+yb
+dedaolnwoD
+.2002
+yluJ
+81
+no
+dehsilbuP
+View Article Online / Journal Homepage / Table of Contents for this issue
+
+--- Page 2 ---
+
+two spins are oriented in opposite directions and their phases are
+also related: this is another way of saying that there is no
+resultant spin momentum. In a triplet state, the two unpaired
+spins are also correlated but now they are parallel and their
+phase relation gives a total spin of one. In a molecule, this
+correlation is dictated by the powerful electron exchange
+interaction, J. If a bond is broken to produce two radicals or an
+electron is transferred to a neighbouring molecule to produce
+radical ions, Jbecomes zero or very small.
+An important concept is the distinction between stationary
+and non-stationary states. The solutions of a particular wave
+equation are stationary states or eigenfunctions; the singlet and
+triplet states of a molecule provide an example. When a bond is
+broken forming radicals, momentarily the spin wavefunction
+becomes a non-stationary state of the RP, because the
+hamiltonian has changed; suddenly Jis very small, less than or
+comparable with the electron–nuclear hyperfine interactions.
+The result is that the wavefunction will oscillate back and forth
+between singlet and triplet. In wave-mechanical terms, the non- Fig. 1Energy levels of one proton, one electron (Breit-Rabi diagram); a =
+stationary state can be treated as a superposition of the true 1 mT.
+stationary states which are solutions of equations like (1) for
+each radical. A parallel can be found in the vibration of
+molecules: spectroscopy deals with the stationary states, called
+normal vibrations, but a collision between two molecules may
+lead to a superposition of such motions in which energy flows
+back and forth between different bonds.
+‘Correlation’ is used here to describe the connection between
+two electron spins. It is retained despite conversion between the
+spin states which is said to be coherent. Eventually the
+correlation is lost by spin relaxation (section 2.6), a random
+process very familiar in EPR where it dictates the width of the
+lines; typically it takes a few microseconds for radicals in
+solution.
+Fig. 2Energy levels for two electrons; exchange interaction, J ≠ 0.
+2.2 Spin evolution: the simple case
+by a, the two pairs of levels each by a/2. Fig. 2 shows the field
+dependence of the spin states for two electrons; for clarity the
+The interaction between an electron, magnetic nuclei such as case of a small Jis shown. When J = 0, T and S are degenerate
+those of hydrogen (simply called protons here for convenience), 0
+at all fields. When magnetic nuclei are present, these lines are
+and an external field, B, is given by
+replaced by close bands of levels. In a strong field, electrons and
+nuclei are decoupled and both precess round the field direction
+(1) as shown in Fig. 3. The rate for electrons is determined by the
+sum of the external field and the local field of the nuclei.
+Interconversion between singlet and triplet is most easily
+The second and third terms correspond to the two parts of the understood using a vector model of angular momentum; Fig. 3a
+hyperfine interactions summed over the various nuclei; ais the shows the T and S states for two electrons. The field differs
+0
+contact term which is independent of orientation; Ais used for slightly between different nuclear spin orientations, so the two
+the classical, dipolar interaction of two magnets which is electrons may precess at slightly different rates. If so, the overall
+orientation dependent. The Zeeman interaction between the state oscillates between S and T through mixed states. The
+0
+field and the electron spin is represented by the first term; that other two triplet components are not involved, Fig. 3b; this can
+with the nuclei can be neglected. m B is the Bohr magneton. gis be understood in terms of the splittings in Fig. 2. For a single
+commonly called the g-factor: departures from the free electron proton, it is a simple matter to derive an equation describing this
+value, g e , of 2.0023 are due to contributions from the orbital behaviour.3
+angular momentum, usually small for organic radicals; it too
+may be anisotropic. Eqn. (1) is about energies but both (2)
+frequency and field units are commonly used for energy levels;
+1 mT M 28.0 MHz. Here field units have been used as far as r (t) is the probability of an initially pure singlet remaining so
+S
+possible so that aand Bcan be readily compared. Sand Iare the after time, t; simply related to r (t) are the yields of triplet from
+S
+operators for electron and nuclear spin. For spin-resonance triplet or triplet from singlet (T from S); e.g.the latter is (1 2
+experiments, Bìa, eigenvalues of S and I are +1⁄ and 21⁄ for r (t)) so some of the plots in the figures may appear to be upside
+2 2 S
+aand bspins. This meaning of S is not needed further: in the down. Dgis the difference between the (isotropic) g-values of
+remainder of the review, S and T are used as shorthand for the two radicals. The second factor contains a/2 (in units of
+singlet and triplet states; T , T and T are components of T. radians per second) corresponding to the a/2 splittings in Fig. 1.
++ 0 2
+In mobile liquids rapid molecular rotation simplifies matters An important result is that the time-average value of r , år Å, is
+S S
+because the Aterm and the anisotropic part of gaverage to zero. one half.
+Eqn. (1) can then be solved analytically in many cases, notably At zero field the three triplet components become indis-
+when Bìa. It is also possible at any field provided that only tinguishable (Fig. 2); if J = 0, one might expect a limiting value
+one type of nucleus is present (one value of a). Fig. 1 shows the of år Åof one quarter and a field effect, ratio field on/field off,
+S
+field dependence of the energy levels of one electron and one of two or 100% increase, but this is seldom reached.3 One
+proton. The EPR transitions (at right) at high field are separated reason is that at zero field electrons and protons precess round
+302 Chem. Soc. Rev., 2002, 31, 301–311
+.MA
+23:03:1
+5202/92/01
+no
+yrarbiL
+TIM
+yb
+dedaolnwoD
+.2002
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+--- Page 3 ---
+
+their resultant. The vector diagram for one electron and one is ~1/B, 0.7 ms for the geomagnetic field of 50 mT. Relaxation
+proton (Fig. 3c) is symmetrical; though their magnetic moments times seldom exceed a few microseconds; 50–60 Hz and other
+are very different, the particles have the same angular oscillating fields up to 1 MHz are essentially constant over such
+momentum. As a result the changes in the electron orientation times. Only the effects of static fields are considered in most of
+are smaller; however the two electrons now see local fields with this review.
+different orientations, provided both interact with nuclei then Once B ì a, the hyperfine effects level off. It is useful to
+the overall result is that år Åis less than one half, though it may define a characteristic field at which half the limiting effect is
+S
+not reach the possible limit of one quarter. In the simple case the reached. Using the semi-classical method, it can be shown1
+oscillating term contains cos(at) corresponding to the splitting that
+at the left of Fig. 1, so spin evolution is faster than at high field.
+For low fields the behaviour becomes still more complicated,
+but the time-dependence of S is still represented by equations
+with cosine terms and a constant term. When eqn. (1) cannot be
+(4)
+solved analytically (more than one type of proton and low or
+zero field), it is still possible to calculate r using computer
+S
+programmes or approximations such as the ‘semi-classical
+Here Iis the spin quantum number for the each type of nucleus,
+method’.1Magnetic field effects are then given by the ratio of
+e.g.1 or 0 for two protons, 1 for one deuteron; suffixes a and b
+r or år Åin a field to that at zero field. Fig. 4 shows results of
+S S indicate the two radicals. This result is valid providing the
+some computer calculations.
+radical decay by reaction, electron transfer or relaxation is
+sufficiently slow compared to spin evolution. In strong fields,
+the Dgfactor (eqn. (2)) may become important: if tis short then
+2.3 Spin changes and diffusion loss of initial spin character by this means can lead to reduction
+in the field effect.
+When radical ions recombine, the product may be an excited In non-polar solvents the final approach of recombining ions
+state: observation of fluorescence makes possible time-resolved is very fast; there is no barrier to reaction and both singlet and
+measurements of the ratio of the r values down to one triplet states are accessible so it is reasonable to suppose
+S
+nanosecond (section 3.1, also 4). Spin evolution can be followed recombination rates are equal and exchange and electron–
+and the limiting field effect measured directly. More commonly, electron interaction can be neglected. Radical ions in polar
+effects on the overall yield are measured. Neutral radicals solvents (section 3.2) provide an intermediate case between ions
+(section 3.3) usually correlate with an attractive ground state in hydrocarbons and neutral radicals: both singlets and triplets
+singlet and a repulsive anti-bonding triplet. Only singlet pairs can react, but their rates may well be very different because ion
+can react; triplet pairs must separate. Re-encounter of unreacted solvation produces barriers. For example, triplet pairs may react
+pairs has a high probability which leads to a complicated more readily if excited singlets are not accessible and the large
+situation in which both molecular diffusion and spin evolution energy release of ground state formation puts it in the Marcus
+must be considered. Further complexities arise for neutral ‘inverted region’ (where reaction rates are reduced by the
+radicals from the exchange and dipolar interactions between the Franck-Condon principle). The same is true of charge transfer in
+unpaired electrons. Detailed theoretical treatments are numer-
+ous because of the importance of CIDNP, etc.However, for a
+qualitative description of the MFEs, one simply wants to
+illustrate the expected dependence of år Å on field and on
+S
+reaction time; oscillating curves (Fig. 4) are not very in-
+formative. It is convenient to use the ‘exponential model’1 to
+simplify description; it is assumed that singlet and triplet pairs
+decay by first order processes with the same rate constant.
+Then
+(3)
+where tis the mean lifetime of the RP. This is especially useful Fig. 4Calculations of the evolutions of the singlet character in the pyrene/
+in illustrating the importance of the relation between lifetime 1,3-dicyanobenzene system from an initial pure singlet.28At long times the
+zero field curve rises above that for 0.1 mT. Reproduced from Int. J. Radiat.
+and spin evolution: the smaller the field, the more time it takes
+Biol., vol. 69, B. Brocklehurst and K. A. McLauchlan, ‘Free Radical
+for a field effect to develop.
+Mechanism for the Effects of Environmental Electromagnetic Fields on
+When B > Sathe time taken for high field effects to develop Biological Systems’, pages 3–24, copyright 1996, with permission from
+is ~1/a, typically a few nanoseconds; when B < Sa, the time Taylor and Francis, Ltd.
+Fig. 3Vector representations of spin motion: (a) and (b), two electrons at high field, (a) showing the conversion between S and T; (c) electron and proton
+0
+at zero field.28 Reproduced from Int. J. Radiat. Biol., vol. 69, B. Brocklehurst and K. A. McLauchlan, ‘Free Radical Mechanism for the Effects of
+Environmental Electromagnetic Fields on Biological Systems’, pages 3–24, copyright 1996, with permission from Taylor and Francis, Ltd.
+Chem. Soc. Rev., 2002, 31, 301–311 303
+.MA
+23:03:1
+5202/92/01
+no
+yrarbiL
+TIM
+yb
+dedaolnwoD
+.2002
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+--- Page 4 ---
+
+large organic molecules and assemblies, notably photosynthetic
+reaction centres (section 5.1).
+2.4 Low field effect
+In general, vector models and other physical descriptions should
+be used with care; it is best to solve the wave equations first and
+look for a model afterwards. The author accidentally came
+across the LFE in this way.3 Because of concerns about EMF
+and health in recent years the need to understand low field
+effects has grown. Their mechanism is less obvious than at high
+fields. The cosine terms in the equations reflect the splittings
+between energy levels: when levels are degenerate, there will be
+cosine terms with zero argument, which contribute to the fixed
+term, and so to år Å. The existence of a degeneracy at zero field
+S
+(Fig. 1) accounts for the failure of år Åto reach the limiting value
+S
+of one quarter. It follows that further causes of splitting will be
+important. In particular, a small field suffices to split the zero Fig. 5Effects of low fields and orientation (q) on the singlet recombination
+yield for a single proton radical pair; wis the electron Larmor frequency;
+field levels and år Å decreases. In terms of the vector model,
+S singlet and triplet decay rates are 0.1a/2p. Anisotropy values were taken as
+fields < ado not uncouple electron and proton but the resultant
+A = A = 0.3a, A = 20.6a.4bReproduced from Chem. Phys. Lett., vol.
+xx yy zz
+(Fig. 3c) can precess round them. The LFE is illustrated by the 334, C. R. Timmel, F. Cintolesi, B. Brocklehurst and P.J. Hore, ‘Model
+numerical calculations in Fig. 4, which also emphasises the calculations of magnetic field effects on recombination reactions of radicals
+point that the lower the field, the longer the time required for the with hyperfine interactions’, pages 387–395, copyright 2001, with permis-
+effect to take place; only at long times is it clear that r at 0.1 sion from Elsevier Science.
+S
+mT is less than the zero field value.
+‘bumps’ or resonances are remarkable (Fig. 5) and again are not
+Detailed calculations4show that, for mobile liquids, the LFE
+lost on averaging. These are due to curve crossings where the
+can be quite large at long times, between 10 and 40%. An
+arguments of some cosines again equal zero. Such behaviour
+interesting point which emerged, again accidentally, is that the
+can occur in other cases, e.g.when the Dg.Bterm matches an a
+relative sign of different a values in the same radical has an
+factor at high field; e.g.for a single proton (eqn. (2)) when Dg.B
+effect at low fields (reducing the LFE) though not at high. The
+= a/2, år Å = 3/4 not 1/2.
+same is true in EPR where the signs of acannot be determined S
+directly at the fields normally used. Alkyl radicals typify such
+behaviour: a- and b-protons have a values of ~22.2 and
+2.6 Spin relaxation
+~+2.7 mT respectively.
+The LFE provides a first illustration of Kramers’ theorem
+There are many contributions to spin relaxation; EPR textbooks
+which states that the lowest state of an odd number of spin-one-
+provide more details. For radicals in solution, relaxation times
+half particles (one must include the electron here) must be at
+are typically a few ms, so that coherent processes are much faster
+least doubly degenerate: this degeneracy can only be split by a
+but this is not always true; also, relaxation is sometimes field
+magnetic field, not by an electric field, i.e.not by any valence
+dependent, so it must be considered briefly here.
+interaction.
+The two types of relaxation are characterised by T and T . T ,
+1 2 1
+the spin-lattice relaxation time, is concerned with re-orientation
+of the spin, aÔb, i.e.conversion between the T or T and T
+2.5 Anisotropy effects + 2 0
+or S (Fig. 2) states in this context; T , the spin–spin relaxation
+2
+time, changes the phase relation between the spins, inter-
+Radical reactions can take place in solids viaelectron transfer;
+converting T or S (cf.Fig. 3). The distinction disappears at zero
+ions and neutral radicals may recombine in viscous liquids. In 0
+field, but since T and T may differ in a field, this can produce
+both cases the anisotropy of hyperfine and Zeeman interaction 1 2
+MFEs in radical pairs. Typically the two times are comparable
+can no longer be neglected. The effects become very compli-
+in mobile liquids but become distinct at higher viscosities. Spin-
+cated: a tour de force5 for the alkylcob(III)alamin system
+lattice relaxation results from fluctuating local fields, usually
+(section 5.2) illustrates this, though it should be noted the
+due to re-orientation of the radical itself; the contribution of the
+authors set a long relaxation time limit of 50 ms which
+anisotropy, A, is field independent, but that of g anisotropy
+exaggerates the low field effects. Here one and two proton
+increases with the square of the field, producing a further field
+systems are used for illustration.
+dependence. In some radicals, solvent-induced fluctuations of
+The effect of anisotropy, A, is another case of Kramers’
+the orbital contribution to the g-value itself produce fast
+theorem. A single spin-half particle can reduce r to one quarter
+S relaxation: notably the ·OH radical relaxes in < 1 ns in solution
+by splitting the zero field levels, but this is not the case for two,
+because fluctuations in hydrogen bonding modulate the g-value;
+or any even number of spin-one-half nuclei or, e.g., one
+no field effects on its reactions are observed.
+deuteron3 because of the remaining degenerate ‘Kramers’
+doublets’. For two protons and one electron, aalone gives one
+quartet and two doublets: Asplits these levels into four doublets,
+and the conditions for seeing a LFE remain. 3 Reactions in solution: experimental results
+Even for a single proton the outcome at low fields depends on
+the orientation of the field and the symmetry of the situation.4In 3.1 Radioluminescence of hydrocarbons
+many radicals, A is axial, i.e., two of the principal values are
+equal. Fig. 5 provides an example; demonstrating the complex- Ion recombination in pure alkanes is extremely fast; it can be
+ity of the results. Even when an average over all orientations is slowed from picoseconds to nanoseconds by addition of
+taken, the LFE remains, though much smaller than in the case of aromatics which trap both electrons and positive charge,
+fast rotation. When the asymmetry is greater, A ≠ A ≠ A , allowing time for development of field effects. One can assume
+xx yy zz
+the LFE decreases further but does not disappear entirely. The that the product yields reflect the singlet and triplet contents of
+304 Chem. Soc. Rev., 2002, 31, 301–311
+.MA
+23:03:1
+5202/92/01
+no
+yrarbiL
+TIM
+yb
+dedaolnwoD
+.2002
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+--- Page 5 ---
+
+the RP wavefunction (section 2.3) and another advantage is that in spurs containing two or more ion pairs, an electron may
+nearly all the ion pairs undergo geminate recombination return to its initial partner, or to a different cation where there is
+because of coulombic attraction; RPs are initially separated by no spin correlation; MFEs have been used to investigate
+ranges of distances with mean values of 5–10 nm, much larger this.7,8
+than the range of J, but much less than the Onsager escape In principle, the field effect oscillates in time (Fig. 4); but this
+distance, ~30 nm at room temperature. is not easy to observe: the positive ‘hole’ usually spends a
+An early test of RP theory of MFEs was provided by isotope significant time in the solvent. (This explains the larger effect in
+studies6(Fig. 6). Hyperfine couplings to protons are ~6 times squalane in Fig. 6.) Also, the numbers of nuclei and values of a
+are usually large: e.g., p-terphenyl cation and anion both have
+14 protons with 4 hyperfine couplings. Use of partial deutera-
+tion and separate scavengers for hole and electron can produce
+a system with just one large coupling. Spectacular oscillations
+then become visible. This has been demonstrated by Molin and
+his collaborators at Novosibirsk, who have used field effects on
+fluorescence and related measurements for a wide range of
+studies8b of oscillations due to a and g-value differences
+between the solutes (Fig. 8a). The results agree well with EPR
+Fig. 6 Field effect on fluorescence intensity of g-irradiated 1022 M
+solutions in (a) squalane and (b) cyclohexane; circles, naphthalene;
+triangles, naphthalene-d8.6Reproduced from Chem. Phys. Lett., vol. 47, R.
+S. Dixon, F. P. Sargent, V. J. Lopata and E. M. Gardy, ‘Fluorescence from
+g-irradiated solutions of naphthalene-d8. Effect of an applied magnetic
+field.’, pages 108–112, copyright 1975, with permission from Elsevier
+Science.
+larger than to deuterons. The MFE for deuterated species is
+smaller when B is large, because spin evolution is slower; the
+recombination rate itself is unaffected by the field. In contrast,
+at low field the Zeeman interaction more easily overcomes the
+weaker deuterium hyperfine coupling (cf.Fig. 1).
+Squalane (2,6,10,15,19,23-hexamethyltetracosane) is a con-
+venient solvent for many purposes, when higher viscosities are
+needed. It extends ion recombination into the microsecond
+region,7 but solute rotation is still fast enough to average out
+anisotropy effects. The initial sharp rise shown in Fig. 7 arises
+Fig. 8 (a) Decay of radio-luminescence from solutions of deuterated p-
+terphenyl (1023M) and diphenyl sulfide (3 31022M) in isooctane; (b) the
+curve at 170 G is used as a reference curve for the oscillating component:
+curves A and B, 0.12 and 0.012 M respectively. Points are theoretical.8b
+Reproduced from Chem. Phys. Lett., vol. 246, V. M. Grigoryants, B. M.
+Tadjikov, O. M. Usov and Yu. N. Molin, ‘Phase-shift of quantum
+oscillations in the recombination luminescence of spin-correlated radical-
+ion pairs’, pages 392–398, copyright 1995, with permission from Elsevier
+Science.
+measurements of aand g; in some cases parameters have been
+obtained which are not otherwise accessible. The rate of hole
+Fig. 7Field effect on fluorescence decays of p-terphenyl in squalane excited scavenging can be determined from the phase-shifts observed at
+by 90Sr b-particles. Reproduced from J. Chem. Soc., Faraday Trans., vol. low concentrations (Fig. 8b).
+93, B. Brocklehurst, ‘Ion recombination luminescence in squalane solu- MolinAs group have made a number of observations of the
+tions: spin relaxation effects’, pages 1079–88.
+LFE in radioluminescence7 and this has been applied to the
+study of distribution of ion separations:9a spectacular demon-
+because spin evolution is faster at zero field (section 2.2). The stration is shown in Fig. 9. The range of the LFE reflects the
+plateau region, around 100 ns, is followed by field-dependent strength of the fluorine hyperfine coupling (a = 13.7 mT) in
+spin relaxation which finally destroys the spin correlation. The C F 2. The bump at 3ais due to a curve-crossing: the maximum
+6 6
+extent of the limiting effect, 40% enhancement in the plateau at B = 0 can be understood in the same way of course; their
+region, is smaller than the 50–100% expected for initial singlets. weakness (curve B) is due to charge exchange between anion
+This reflects the complications of radiolysis: in short tracks and and neutral hexafluorobenzene. The shift in the LFE minimum
+Chem. Soc. Rev., 2002, 31, 301–311 305
+.MA
+23:03:1
+5202/92/01
+no
+yrarbiL
+TIM
+yb
+dedaolnwoD
+.2002
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+--- Page 6 ---
+
+lend themselves to computer modelling and a start has been
+made in this direction. Puzzles remain however: the extent of
+the effect has been found to decrease near the ionisation
+threshold in aliphatic solvents, and it is always smaller in
+aromatics than in alkanes. Published work on aromatics is
+limited; a very detailed study of crystalline anthracene has been
+made and field effects have been seen in VUV-excited
+DNA.7
+3.2 Ultraviolet photo-ionisation
+Photoionisation in the UV requires donors with a low ionisation
+potential and acceptors with a high electron affinity; aromatic
+amines and cyano compounds are commonly used with
+hydrocarbons. Polar solvents are needed to facilitate ionisation;
+Fig. 9 Field-induced changes in fluorescence yield of 0.086 M hexa- provided the solvation energy is not too high, recombination
+fluorobenzene in perdeutero-isooctane-d relative to the high field value: into singlet excited states is possible; observation of fluores- 18
+excitation by (A) 123.6 nm photons, (B) b-particles: full line is a theoretical cence is especially convenient since recombination usually
+prediction.9Reproduced from Chem. Phys. Lett., vol. 264, V. O. Saik and S. leads to an exciplex which emits at longer wavelengths than the
+Lipsky, ‘Magnetic field effects on recombination fluorescence: comparison parent neutral molecules. Whereas radiolysis is indiscriminate,
+of VUV and fast electron excitation’, 649–654, copyright 1997, with
+initial ionisation taking place in the solvent, UV photons are
+permission from Elsevier Science.
+absorbed specifically by the solutes; so only two ions are
+involved, though at higher concentrations charge exchange
+is due to wider distribution of ion pair separations for irradiation
+effects are found.
+with b-particles.
+MFEs in such systems were extensively studied in the late
+The complexities of radiolysis can be simplified by using
+’70s and the ’80s by Weller and his colleagues, their
+vacuum UV photons >8–10 eV to produce single ion pairs or
+experimental work complemented by Schulten’s theoretical
+very small groups of ions: at lower energies (e.g. Fig. 9), the
+work.1Good agreement was found, notably field dependences
+solute is ionised not the solvent. Synchrotron light sources (such
+agree well with eqn. (4). Fig. 11 illustrates an interesting
+as Daresbury’s SRS) which are now widely available, provide
+photons over a wide range in the VUV and X-ray regions.
+Experimentation is difficult and the data in Fig. 10 required use
+Fig. 10 Initial singlet fractions calculated from MFEs for p-terphenyl in
+squalane: closed circles, data from 3 stations of the SRS and for 90Sr b-
+Fig. 11 Field dependence of triplet yields in acetonitrile solutions of
+particles (far right); open symbols and lines from theoretical predictions.
+dimethylaniline donor–pyrene acceptor pairs linked by a (CH) chain.10
+Reproduced from Chem. Phys. Lett., vol. 211, B. Brocklehurst, ‘Radi- 2n
+Reproduced from J. Phys., Chem., vol. 97, U. Werner, W. Kühnle, and H.
+oluminescence of Alkane Solutions: Comparison of Experiment and
+Staerk, ‘Magnetic-field dependent reaction yields from radical-ion pairs
+Simulation over a Wide Energy Range’, 31–35, copyright 1993, with
+linked by a partially rigid aliphatic chain’, pages 9280–9287, copyright
+permission from Elsevier Science.
+1993, with permission from the American Chemical Society.
+of three stations for different energy ranges. Single ionisations development, the study of the dynamics of linked pairs of
+produce the maximum at left; the minimum is due to cross- donors and acceptors;10 lower concentrations can be used,
+recombination when many ion pairs are close together: the obviating charge exchange. The link is usually a flexible chain,
+particle tracks become more sparse for high energy electrons (–CH –) ; at some values of n a ‘J-resonance’ is observed; it
+2 n
+(fast b-particles or from g-rays). MFEs have also been used to follows that for most of the life of the ion pair there is a small
+study luminescence from tracks of fast protons and helium and nearly constant exchange interaction; the resonance occurs
+ions.7 As expected, the extent of the effect decreases with when the Zeeman interaction matches this (Fig. 2). All these
+increasing LET (linear energy transfer) but it does not disappear systems were also studied in Japan by groups associated with
+entirely, showing that some correlation between ions remains in Nagakura, Hayashi and Tanimoto2 (see below). Surprisingly,
+the penumbra of a very dense track. only a few time-resolved measurements have been reported11—
+These results illustrate the usefulness of MFEs in radiation a pity in the author’s view because the dynamics of these pairs
+chemistry.7They do not provide very detailed information but are less simple than in radiolysis. Solvation provides barriers to
+they have the unique feature of detecting the presence of spin recombination so the rate constants for singlet and triplet
+correlation between two radicals. Measurements of this type formation may be different.
+306 Chem. Soc. Rev., 2002, 31, 301–311
+.MA
+23:03:1
+5202/92/01
+no
+yrarbiL
+TIM
+yb
+dedaolnwoD
+.2002
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+--- Page 7 ---
+
+3.3 Neutral radicals
+MFEs are normally very small for neutral radicals meeting at
+random; 25% (the singlets) can react directly; initial triplets
+require time for spin evolution and then a re-encounter—much
+less probable. Large couplings would help; e.g.study of H + H
+recombination (where the ortho/para ratio would change) is
+feasible because a = 50 mT for hydrogen atoms, but this has not
+been done.7 The effects remain small even when pure triplet
+RPs are produced by photolysis unless radical separation is
+restricted in some way, paralleling the coulombic attraction of
+radical ion pairs. The work of Turro et al. on the emulsion
+polymerisation of styrene produced spectacular results: applica-
+tion of a field increased the average molecular weight fivefold
+by reducing the rate of radical recombination. In connection
+with health hazard work, Scaiano et al.12showed that MFEs on
+RPs derived from triplet benzophenone could be enhanced by
+addition of bovine or human serum albumen which restrict
+radical diffusion. Similar but smaller enhancement was ob- Fig. 12Field effects on product yields from photodissociation of derivatives
+tained with DNA. of deoxybenzoin, C 6 H 5 CO.CXY.C 6 H 5 , in SDS micelles. Results scaled to
+100% of effect at 1.74 kG, which is ~10–20%.13Reproduced from Chem.
+Far more work (some hundreds of papers) has been done on
+Phys., vol. 153, I. A. Shkrob, M. F. Tarasov and A. L. Buchachenko,
+RPs in micelles, typically detergents of the type
+‘Electron-spin exchange in micellized radical pairs. 2. Magnetic-field and
+H(CH 2 ) n SO 4 2Na+. The spins of RPs produced photochemically magnetic isotope effects in multinuclear pairs’, copyright 1991, with
+can remain correlated until the radicals escape into the bulk permission from Elsevier Science.
+solution and so significant effects have been seen.1,2 Micelle
+radii are typically 2–3 nm, so that electron exchange and, = 10 which probably corresponds to equal rates of recombina-
+possibly, dipolar interaction between the radicals complicate the tion and escape. The structural effects, differences between
+spin evolution. Large effects require competition, usually ionic and neutral micelles and sulfates and sulfonates are not yet
+between recombination and escape. This remains a very active understood. More experiments and modelling are required.
+area;2 here we concentrate on the LFE since micelles can be
+regarded as simple models of biological systems (cf. sections
+3.4 and 6.2). 3.4 Very high fields
+Shkrob et al.13 studied reactions of radicals produced in
+micelles by photo-dissociation of deoxybenzoin derivatives. Micelles and linked pairs have also been used to study effects of
+They found three types of field dependence, (i) due to hyperfine very high fields. Several laboratories now routinely use
+interaction and exchange, (ii) due to spin relaxation and (iii) an superconducting magnets.2,15Ten T constant fields are availa-
+intermediate case. Type (i) was shown by small radicals and ble and measurements up to 30 T with pulsed fields have been
+these produced an LFE: Fig. 12 illustrates the usefulness of reported. In a number of experiments a ‘reversion’ is observed
+isotopic substitution; the fully deuterated radicals probably also at high fields where the hyperfine effect has become constant;
+show a LFE but the appropriate fields would be much smaller. Fig. 14 shows an example of this; benzophenone reduction in
+The field dependence obeys eqn. (3) very well. The crossing SDS behaves similarly.16 Two factors are probably involved,
+point (change of sign of the field effect) obeyed a similar the Dg effect (cf. eqn. (2)) which increases the rate of
+relation, but interpretation of the LFE is complicated by the interconversion between S and T and spin relaxation due to
+0
+likely involvement of exchange. Larger radicals produced by anisotropy of the g-values which leads to conversion between
+abstraction from the surfactant by triplet benzophenone did not T and T and the other components. In these fields, Dgeffects
++ 2
+show a LFE; there was also a striking difference in the field become significant even for organic radicals where Dgis small.
+dependence; these were classified as type (ii). When the orbital contribution is large, Dgmay be very large as
+In comparable work14 on benzophenone in a range of the next example shows.
+micelles small LFEs have been found; results are shown in Fig. Studies of MFEs at normal fields tend to be outshone by time-
+13. The reason for the discrepancy is not known, but the later resolved EPR which provides detailed spectroscopic informa-
+experiments are time-resolved (cf. Fig. 14), the earlier results tion about the radicals involved. However, this technique is
+are total yields. Both groups agree that size and structure of the limited to times greater than 10 ns. When optical detection is
+micelles play an important role. Internal viscosity decreases used, MFEs are limited only by the rate of spin evolution. This
+with increasing size: both size and viscosity decrease with has been demonstrated recently in study of ion recombination
+temperature. The largest effects were found for sulfates with n over a few ps:15the oxazine cation has a normal g-value but the
+Fig. 13Temperature dependence of LFEs on (CH)COH radicals in sodium dodecyl sulfate: (a) 296 K, (b) 312 K, (c) 328 K.14Reproduced from Int. J.
+6 52
+Radiat. Biol., vol. 76, R. W. Eveson, C. R. Timmel, B. Brocklehurst, P. J. Hore and K. A. McLauchlan, ‘The effects of weak magnetic fields on radical
+recombination reactions in micelles’, pages 1509–22, copyright 2000, with permission from Taylor and Francis.
+Chem. Soc. Rev., 2002, 31, 301–311 307
+.MA
+23:03:1
+5202/92/01
+no
+yrarbiL
+TIM
+yb
+dedaolnwoD
+.2002
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+--- Page 8 ---
+
+mamide/tetrahydrofuran mixtures. When the viscosity was
+increased by adding cellulose acetate, the MFE became greater
+when the exciting light was polarised parallel to the field than
+when it was polarised at right angles. The exciting light selects
+different molecular orientations.
+5 Biological systems
+5.1 Photosynthetic reaction centres
+Charge separation is of immense importance in nature. The
+photosynthetic reaction process is essentially the foundation of
+Fig. 14Decay of (CH)COH radicals at very high fields: benzophenone
+solutions in Brij 35. 6 16 5 R 2 eproduced from Chem. Phys. Lett., vol. 267, K. life on earth. Its mechanism has evolved to prevent wasteful
+Nishizawa, Y. Sakaguchi, H. Hayashi, H. Abe and G. Kido, ‘A laser flash charge recombination by transferring the electron very quickly.
+photolysis study of the effects of ultrahigh magnetic fields up to 29.6 T on If this process is blocked by removing or reducing the quinone
+dynamic behaviour of radical pairs in micellar solutions’, pages 501–506, acceptor this does not happen and recombination into the
+copyright 1997, with permission from Elsevier Science. ground state or the triplet of the chlorophyll dimer takes place.
+Zeeman interaction in the ethyl ferrocene anion is highly MFEs are observed and have been studied since the 1970s22
+anisotropic, granging from 20.7 to 2.4; the average Dgis ~1 though the larger part of the research uses CIDEP and time-
+corresponding to a spin evolution time of 1 ps at 10 T. resolved EPR. An early remarkable demonstration of the role of
+Experiment agreed well with theory; spin relaxation is fast too hyperfine coupling came from algae grown in D 2 O which
+but does not compete on this time-scale. Extension of this survived long enough to show an isotope effect.
+technique to other fast processes will be very useful. Fig. 15a shows measurements on a suspension of quinone-
+depleted reaction centres of triplet yields. Initially the low field
+4 Viscous liquids and solids
+Since the discovery of the electrical properties of polyacetylene
+which earned a Nobel prize in 2000 a great deal of research has
+been devoted to the applications of conducting polymers,
+especially electroluminescence. Typically, electrons and holes
+are injected into a thin layer of a conducting polymer such as
+polyphenylenevinylene, PPV; the resulting ‘polarons’ react to
+produce fluorescence. Initially it was supposed that spin
+considerations would limit the efficiency of this process to 25%
+but recent measurements of relative singlet and triplet yields
+have shown this to be incorrect.17 While the spin restriction
+should perhaps be reconsidered (e.g. recombination may be
+slow unlike that in alkane solutions), it may be that unreacted
+pairs are able to separate: the charge of a polaron is spread over
+a number of monomers, reducing the coulombic attraction.
+Another experimental approach is to use photoionisation; the
+initial pair is spin correlated and small MFEs have been
+observed on both the photocurrent18aand fluorescence.18bMore
+work using time-resolved field effects on luminescence could
+help unravel the mechanisms.
+The observation of magnetoplasticity, the effect of field on
+the ease of deforming crystals appears extraordinary, but it is
+now well established.19a It can be understood in terms of
+dislocations; typically these are centres involving an impurity
+atom such as Ca in NaCl; during deformation layers of atoms
+move past the impurity. A weak bonding interaction (singlet),
+impedes this process where a triplet would not; singlet–triplet
+conversion leads to field dependence. This mechanism19b has
+been confirmed by optically detected magnetic resonance
+measurements.19a
+A more doubtful area involves the extensively studied effect
+of fields on precipitation of calcium carbonate from hard water;
+related work claims to show memory effects in liquids
+involving fields.20 This is very hard to accept but one can
+speculate that these phenomena, if real, involve dislocations;
+crystal growth during precipitation and dissolution of particles
+in suspension depend on dislocations. RF radiation leads to the Fig. 15(a) Relative yields of triplets in quinone-depleted photosynthetic
+formation of aragonite in addition to calcite but there appears to reaction centres; (b) relative yield anisotropy in non-viscous buffer
+(triangles) and in viscous glycerol/buffer (circles).22a Reproduced from
+be no corresponding work on MFEs.
+Ann. Rev. Phys. Chem., vol. 34, S. G. Boxer, C. E. D. Chidsey and M. G.
+Surprisingly, little work has been published on viscous
+Roelofs,, ‘Magnetic-field effects on reaction yields in the solid-state—an
+liquids. Basu et al.21studied exciplex emission from solutions example from photosynthetic reaction centers’, pages 389–417, copyright
+of diphenylhexatriene and 1,4-dicyanobenzene in dimethylfor- 1983, with permission from Annual Reviews.
+308 Chem. Soc. Rev., 2002, 31, 301–311
+.MA
+23:03:1
+5202/92/01
+no
+yrarbiL
+TIM
+yb
+dedaolnwoD
+.2002
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+--- Page 9 ---
+
+fall and the high field rise in yield were ascribed to hyperfine notably there is evidence for an LFE (the high points at left
+interaction and the difference in g-value between the two ions, almost on the axis are at 10 gauss).
+respectively. Later it was found that the electron–electron
+dipolar interaction was also involved. Increasing the viscosity
+slows rotation of the centres (the relative position of the radical
+6 Hazards of environmental fields
+ions is fixed) and the quantum yield becomes anisotropic (Fig.
+The rise in prosperity in the industrial nations has been
+15b). The change in sign is very striking, clearly demonstrating
+parallelled by increases in the incidence of a number of
+that two different effects are involved.
+illnesses.24–28The use of electricity has been put forward as a
+possible cause. Effects might be direct, involving chemical
+processes, or indirect, via some synergism with hazardous
+5.2 Enzyme reactions
+materials such as carcinogens. Physicists have pointed to
+ionisation of the air below power lines and its ability to
+MFEs have been demonstrated for enzyme reactions which
+concentrate radon decay products and chemical carcinogens.24
+require co-factors related to vitamin B
+12
+, cyanocobal(III)amin:
+Another hypothesis is that ‘light at night’ (LAN) interferes with
+the field dependence shows that an RP mechanism is involved.
+circadian rhythms and so reduces the production of melatonin in
+There is a number of such reactions and a theoretical study of
+the pineal gland; this hormone may prevent the development of
+the possible LFE has been made.5 Grissom has reviewed his
+cancer cells.25 These concerns have led to a great deal of
+detailed experimental work on the B systems23a and con-
+12 research, which can be roughly classified as epidemiological,
+cludes that those important for human health will be insensitive
+empirical (laboratory work on animals or biological materials)
+to magnetic field; he also surveys the possibility of MFEs on
+and chemical.
+other enzyme reactions. Fig. 16 shows some of his later work on
+6.1 Epidemiological studies
+If it occurs at all, EM field-induced damage to human health is
+not a common process, so statistical work is particularly
+important. Exposure varies widely from place to place and from
+time to time, so studies of electrical workers are of special
+interest: women are few in this profession, but evidence has
+been reported for a higher level of breast cancer among male
+workers.25Most work has been devoted to childhood cancers,
+especially acute lymphoblastic leukaemia, which has been the
+subject of legal actions. Early surveys appeared to show slight
+correlations, not statistically significant individually but mostly
+in the positive direction. Later studies have not confirmed an
+effect. A great effort went into the UK Childhood Cancer Study
+of all cancer types in Britain over seven years; 350 people
+including Sir Richard Doll (who first associated lung cancer
+with smoking) contributed to the report;26it found no evidence
+of association for average fields < 0.4 mT, in agreement with
+similar work in other countries. Numbers of cases exposed to
+higher fields were too few for definite conclusions to be
+drawn.
+6.2 Biological systems—low fields
+A great variety of work on biological materials27has produced
+many claims, but no clearcut pattern has emerged and attempts
+to reproduce results in other laboratories are often unsuccessful.
+Work with typical environmental fields on biological systems is
+very difficult and researchers tend not to report negative results.
+Regarding LAN, there are reports that induction of tumours in
+laboratory animals by chemical carcinogens is speeded up both
+by exposure to light and to EM fields;25 again these are
+Fig. 16 Field dependence of fitted rate constants of the two stages of
+controversial.
+reduction of horseradish peroxidase after oxidation.23bReproduced from J.
+Am. Chem. Soc., vol. 119, M. B. Taraban, T. V. Leshina, M. A. Anderson
+and C. B. Grissom, ‘Magnetic Field Dependence of Electron Transfer and
+the Role of Electron Spin in Heme Enzymes: Horseradish Peroxidase’, 6.3 Chemical studies
+pages 5768–5769, copyright 1997, with permission from the American
+Chemical Society. An alternative approach is to start from known or proposed
+effects on chemical reactions. Among many suggestions only
+horseradish peroxidase,23bone of a family of haem-containing the RP mechanism is well-established but it is not yet clear
+enzymes; again, these are in vitroexperiments. The central iron whether it is relevant to human biology.28 There is also the
+atom is first oxidized with hydrogen peroxide and then reduced question of the direction of the effect: a visit to a pharmacy will
+back in two stages by an enolate which forms a radical; fitting suggest that radicals are harmful and this assumption is adopted
+to a kinetic model shows that both steps have similar field here though it is not always true.29Where radicals are useful the
+dependences, though details of the radical pair step are not yet following arguments should be reversed.
+known; both hyperfine interactions and Dgeffects are involved Two cases arise: (a) two radicals generated by radiation or
+as expected from the EPR data of the haem and the oxy-radical; light or as byproducts encounter at random, reacting if they are
+Chem. Soc. Rev., 2002, 31, 301–311 309
+.MA
+23:03:1
+5202/92/01
+no
+yrarbiL
+TIM
+yb
+dedaolnwoD
+.2002
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+--- Page 10 ---
+
+singlets, the remaining 75% triplets unable to react at once; (b) remarkably they always synthesize crystals below the single
+in some specific process involving temporary formation of RPs domain limit. However, this is not the whole story: some
+from a singlet precursor, decay into a triplet state enhances the organisms need light for navigation using magnetic fields;33in
+escape of radicals. Case (a) must involve the normal or high newts, the detectors are in the pineal gland, in birds, in the
+field effect which hinders triplet to singlet conversion; for (b) eye.
+singlet to triplet must be enhanced (increasing the escape of A plausible mechanism for the avian compass must provide
+radicals)—the LFE. Case (a), sometimes at least, will occur in large changes with orientation and account for its properties: (i)
+unconfined surroundings where encounters will be short-lived birds cannot detect the polarity of the field but distinguish north/
+and the MFE very small at low fields, especially compared to south using the inclination. Their sensitivity is extraordinary:
+the 25% of singlet encounters. Case (b) looks more likely: the Fig. 17 shows recent observations on captive birds taken to sites
+effects are larger, pairs are more likely to be constrained but
+small fields need very long times; that implies constrained
+systems where anisotropy effects may reduce the magnitude of
+the LFEs.
+However, chemists should remember that biological systems
+are full of surprises. Reaction mechanisms are far from simple
+and it is possible that very small effects can be amplified. Only
+static fields have been considered so far: while oscillating fields
+(up to 1 MHz) are not likely to affect the chemical process, it has
+been proposed that the complexity of enzyme kinetics could
+lead to considerable amplification.30 At higher frequencies
+(microwaves), absorption of radiation among the spin states can
+interconvert singlet and triplet levels; this phenomenon is
+familiar in strong fields (optically detected magnetic resonance)
+but observations at zero or low field have only been made very
+recently.31
+Laboratory work has only demonstrated effects of fields
+down to ~0.1 mT. Provided the radical lifetimes are long Fig. 17Take-off orientations of white-crowned sparrows in Arctic Canada:
+enough similar effects at lower fields are possible and numerical gN and mN mark directions of geographic and magnetic north; (a–c) under
+calculations have been used to investigate them in more detail.4 natural clear skies, (d–f) under simulated overcast sky; magnetic inclina-
+It must be remembered that fields of ~10 mT correspond to spin tions —(a,b) 87.1°, (b,e) 88.6°, (c,f) 89.7°. Arrows mark mean orienta-
+tions.36 Reproduced from Proc. R. Soc. London, Ser. B, vol. 268, S.
+evolution times of several ms. Only in a few cases are spin
+Åkesson, J. Morin, R. Muheim and U. Ottosson ‘Avian orientation at steep
+relaxation times equal to or much longer than this and those of
+angles of inclination: experiments with migratory white-crowned sparrows
+reactive oxygen species, common causes of biological damage, at the magnetic North Pole’, pages 1907–1913, copyright 2001, with
+are generally much less. Finally, true zero field is irrelevant in permission from The Royal Society.
+nature because of the geomagnetic field and local fields in an
+in the Arctic;36 navigation at the magnetic north pole is
+organism. For this reason, bumps or resonances are of special
+impossible of course but birds moved to sites very close to it,
+interest.
+where the inclination is 1.4° from the vertical, can still locate
+their migration direction. (ii) Their response is quite sharply
+6.4 Conclusions tuned to the strength of the field though they are able to adapt to
+artificial changes. (iii) The involvement with light is demon-
+One certain conclusion is that effects of exposure to fields are strated by wavelength effects; birds utilise the earthAs field if
+not proportional to field strength; those of us who have exposed to white, blue or green light but not to red; salamanders
+experienced MRI scans can be thankful for that, because they use red too. Natural magnets such as magnetite do not readily
+may require some 20 minutes exposure to fields of a few T explain features (i) and (iii); the latter in particular led Schulten
+which are quite strongly modulated. Fields due to electrical to postulate a RP mechanism.37 In this case, hyperfine
+equipment which affect the population at large are very small, anisotropy must be involved, and the RP would probably consist
+usually smaller than the geomagnetic field, but oscillating at 50 of fixed radical ions formed by charge transfer. Since light
+Hz; data can be found in the reviews.27,32 Field strengths are detection in the eye is highly developed one might postulate
+rarely proportional to power because of cancellations due to the ionisation of rhodopsin itself, but rods can rotate about their
+wiring type; often they are larger for electrical gadgets than for long axis; recent work on cryptochromes suggests they are more
+mains cables. Clearly much more work is needed. One might likely candidates.37Field effects on electrical signals from the
+well conclude that small fields cannot possibly be dangerous but optic nerve have been detected38but the full range of physical
+one must not forget that birds navigate using the geomagnetic techniques has not yet been applied to this.
+field (0.05 mT) and many other organisms use it to aid
+orientation.33–35
+8 Future developments
+7 Animal orientation and navigation In 1976, Peter Atkins wrote in Chemistry in Britain,39 ‘The
+study of the effects of magnetic fields on chemical reactions has
+The commonest magnetic material found on the earthAs surface long been a romping ground for charlatans’. Outside chemistry
+is magnetite. The magnetic interactions between iron atoms are this is still true though some claims (dowsing?) may yet be
+such that small crystals, between 0.05 and 1 mm in length, correct and there can be no doubt about bird navigation. In the
+consist of single domains34 if needle-shaped; all the spins are early ’70s, work on MFEs on radical pairs had just begun. Now
+oriented the same way and they produce strong fields for their the study of RPs is well-developed though the applications are
+size; multiple domains are more stable in larger crystals and not fully exploited, partly because of CIDEP and CIDNP; these
+fields largely cancel out. Many organisms, including fish35and are powerful techniques for spectroscopy but MFEs have many
+some bacteria (including those claimed to come from Mars), use uses as I have hoped to show. Much more can be done: more
+magnetite crystals to orient themselves in the geomagnetic field; practical use could be made of magnetic isotopes40 and field
+310 Chem. Soc. Rev., 2002, 31, 301–311
+.MA
+23:03:1
+5202/92/01
+no
+yrarbiL
+TIM
+yb
+dedaolnwoD
+.2002
+yluJ
+81
+no
+dehsilbuP
+View Article Online
+
+--- Page 11 ---
+
+variations; biologists might do well to use stronger fields, a few 14 R. W. Eveson, C. R. Timmel, B. Brocklehurst, P. J. Hore and K. A.
+mT rather than mT initially. Chemists need to put more effort McLauchlan, Int. J. Radiat. Biol., 2000, 76, 1509.
+15 P. Gilch, F. Pollinger-Dammer, C. Musewald, M. E. Michel-Beyerle
+into studying resonances. Finally the great advantage of MFEs
+and U. E. Steiner, Science, 1998, 281, 982.
+is simplicity: strong or well-defined fields are not needed; any
+16 K. Nishizawa, Y. Sakaguchi, H. Hayashi, H. Abe and G. Kido, Chem.
+magnet will do! Phys. Lett., 1997, 267, 501.
+17 M. Wohlgennant, K. Tandon, S. Mazumdar, S. Ramasesha and Z. V.
+Vardeny, Nature, 2001, 409, 494.
+18 (a) K. Lüders and S. Blumstengel, Z. phys. Chem., 1993, 182, 189; (b)
+9 Acknowledgments
+K. Lüders, S. Blumstengel, E. L. Frankevich, A. A. Chaban and M. M.
+Triebel, Z. phys. Chem., 1993, 182, 201.
+The authorAs experiments on MFEs have involved the help of 19 (a) Yu. I. Golovin, R. B. Morgunov and A. A. Dimitrievski, Mater. Sci.
+many people in many places, at AECL, Pinawa, Manitoba, at Eng., A, 2000, 288, 261; (b) M. Molotski and V. Fleurov, J. Phys. Chem.
+B, 2000, 104, 3812.
+AERE, Harwell, the Notre Dame Radiation Laboratory and the
+20 M. Colic and D. Morse, Colloids Surf., A, 1999, 154, 167.
+Daresbury Laboratory: it would be impossible to thank them all.
+21 T. Sengupta, S. Aich and S. Basu, J. Phys. Chem. B, 1999, 103,
+I am particularly grateful to the following, Professors N. M. 3784.
+Atherton and P. W. Atkins who explained the behaviour of spins 22 (a) S. G. Boxer, C. E. D. Chidsey and M. G. Roelofs, Ann. Rev. Phys.
+in the ’60s and ’70s, and in recent years Professor K. A. Chem., 1983, 34, 389; (b) recent sources are M. Volk, A. Ogrodnik and
+McLauchlan who invited me to Oxford to collaborate with him M. E. Michel-Beyerle, in Anoxygenic Photosynthetic Bacteria, eds. R.
+E. Blankenship, M. T. Madigan and C. E. Bauer, Kluwer, Dordrecht, p. and Dr. P. J. Hore and their groups. Financial support came from
+595, 1995; B. van Dijk, J. K. H. Carpenter, A. J. Hoff and P. J. Hore, J.
+the above institutions, the EPSRC, the Leverhulme foundation
+Phys. Chem. B, 1998, 102, 464.
+and the Electromagnetic Fields Biological Research Trust. 23 (a) C. B. Grissom, Chem. Rev., 1995, 95, 3; (b) M. B. Taraban, T. V.
+Leshina, M. A. Anderson and C. B. Grissom, J. Am. Chem. Soc., 1997,
+119, 5768.
+24 A. P. Fews, D. Henshaw, D. L. Henshaw, P. A. Keitch, J. T. Close and
+10 References
+R. J. Wilding, Int. J. Radiat. Biol., 1999, 75, 1505.
+25 R. G. Stevens, S. Davis, D. B. Thomas, L. E. Anderson and B. W.
+1 U. E. Steiner and T. Ulrich, Chem. Rev., 1989, 89, 51. Wilson, FASEB J., 1992, 6, 853; P. A. Valberg, R. Kavet and C. N.
+2 Dynamic Spin Chemistry: Magnetic Controls and Spin Dynamics of Rafferty, Radiation Res., 1997, 148, 2; L. S. Caplan, E. R. Schoenfeld,
+Chemical Reactions, eds. S. Nagakura, H. Hayashi and T. Azumi, E. S. O’Leary and M. C. Leske, Ann. Epidemiol., 2000, 10, 31.
+Kodansha, Tokyo, Wiley, New York, 1998. 26 N. Day et al., Lancet, 1999, 354, 1925.
+3 B. Brocklehurst, J. Chem. Soc., Faraday Trans., 1976, 72, 1869; B. 27 A. Lacy-Hulbert, J. C. Metcalfe and R. Hesketh, FASEB J., 1998, 12,
+Brocklehurst, J. Chem. Soc., Faraday Trans. 2, 1979, 75, 123. 395.
+4 (a) C. R. Timmel, U. Till, B. Brocklehurst, K. A. McLauchlan and P. J. 28 B. Brocklehurst and K. A. McLauchlan, Int. J. Radiat. Biol., 1996, 69,
+Hore, Mol. Phys., 1998, 95, 71; (b) C. R. Timmel, F. Cintolesi, B. 3.
+Brocklehurst and P. J. Hore, Chem. Phys. Lett., 2001, 334, 387. 29 R. J. P. Williams, Philos. Trans. R. Soc. London, 1985, 311, 594.
+5 J. M. Canfield, R. L. Belford and P. G. Debrunner, Mol. Phys., 1996, 89, 30 C. Eichwald and J. Walleczek, Biophys. Chem., 1998, 74, 209.
+889. 31 J. R. Woodward, C. R. Timmel, K. A. McLauchlan and P. J. Hore, Phys.
+6 R. S. Dixon, F. P. Sargent, V. J. Lopata and E. M. Gardy, Chem. Phys. Rev. Lett., 2001, 87, 077602.
+Lett., 1975, 47, 108. 32 J. Swanson, D. Renew and N. Wilkinson, ‘Power lines and health’,
+7 B. Brocklehurst, Radiat. Phys. Chem., 1997, 50, 213. Physics World, 1996, November, 29.
+8 (a) S. V. Anishchik, O. M. Usov, O. A. Anisimov and Yu. N. Molin, 33 W. Wiltschko and R. Wiltschko, J. Exp. Biol., 1996, 199, 29; M. E.
+Radiat. Phys. Chem., 1998, 51, 31; (b) V. M. Grigoryants, B. M. Deutschlander, J. B. Phillips and S. C. Borland, J. Exp. Biol., 1999, 202,
+Tadjikov, O. M. Usov and Yu. N. Molin, Chem. Phys. Lett., 1995, 246, 891.
+392. 34 D. T. Edmonds, Electricity and Magnetism in Biological Systems, OUP,
+9 V. O. Saik and S. Lipsky, Chem. Phys. Lett., 1997, 264, 649. Oxford, 2001.
+10 U. Werner, W. Kühnle and H. Staerk, J. Phys., Chem., 1993, 97, 35 M. M. Walker, C. E. Diebel and C. R. Green, J. App. Phys., 2000, 87,
+9280. 4653.
+11 S. N. Batchelor, C. W. M. Kay, K. A. McLauchlan and I. A. Shkrob, J. 36 S. Åkesson, J. Morin, R. Muheim and U. Ottosson, Proc. R. Soc.
+Phys. Chem., 1993, 97, 13250. London, Ser. B, 2001, 268, 1907.
+12 N. Mohtat, F. L. Cozens, T. Hancock-Chen, J. C. Scaiano, J. McLean 37 T. Ritz, S. Adem and K. Schulten, Biophys. J., 2000, 78, 707.
+and J. Kim, Photochem. Photobiol., 1998, 67, 111. 38 P. Semm and R. C. Beason, Experientia, 1990, 46, 372.
+13 I. A. Shkrob, M. F. Tarasov and A. L. Buchachenko, Chem. Phys., 1991, 39 P. W. Atkins, Chem. Br., 1976, 12, 214.
+153, 443. 40 B. Brocklehurst, Int. J. Radiat. Biol., 1997, 72, 587.
+Chem. Soc. Rev., 2002, 31, 301–311 311
+.MA
+23:03:1
+5202/92/01
+no
+yrarbiL
+TIM
+yb
+dedaolnwoD
+.2002
+yluJ
+81
+no
+dehsilbuP
+View Article Online

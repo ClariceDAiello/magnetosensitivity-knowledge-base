@@ -1,0 +1,691 @@
+
+
+--- Page 1 ---
+
+BIOLOGICAL EFFECTS OF MAGNETIC FIELDS
+S. Zannella
+CISE SpA, Segrate (Milan), Italy
+Abstract
+The use of devices generating high magnetic fields in industrial
+processes, energy production and storage, medical diagnostics, new
+transport vehicles and large scale research facilities is expected to
+expand significantly in the near future. Scientific and public interest
+has focused recently on the biological effects and the potential health
+risks associated with the exposure to magnetic fields. Over the last
+twenty years several laboratory studies and epidemiological surveys
+have been carried out in this field but no definite conclusions
+concerning the related risks for personnel or general public have been
+drawn. The aim of this article is to provide an overview of these
+investigations together with an analysis of the well-established effects
+of the interaction between static or ELF magnetic fields and living
+matter. The international guidelines and standards for exposure to
+magnetic fields are also reported and discussed.
+1. INTRODUCTION
+Magnetic fields are produced by electrical appliances, power lines, electromagnets and
+everything that carries electric current. The level of magnetic fields at which humans may be
+exposed has considerably increased over this last century. The exposure level is normally
+limited for practical reasons. To work in places with appreciable magnetic fields would be
+nearly unrealisable nowadays: computer disks may be erased, monitors would be distorted,
+magnetic light objects may experience rotational or translational forces. A much more
+important question regards the possible health risks associated to static and ELF magnetic
+field exposure. The potential health effects of biomagnetic interactions have been under
+discussion over the last twenty years and the debate is still open.
+This article is a review of the known biological effects caused by the interaction
+between magnetic fields and living matter together with a survey of the laboratory and
+epidemiological studies described in the scientific literature. We focus our attention on static
+and Extremely Low Frequency (below 3 kHz) magnetic fields. In the ELF range ionising
+effects (when the energy carried by the field is so large that it can damage internal organs and
+biologic molecules like DNA) do not play a role; usually also the thermal effects (due to
+induced electric currents in the tissues) are negligible if we consider the typical magnetic field
+strengths associated to common electrical equipment. Nevertheless, there are other ways in
+which magnetic fields may interact with biological matter to produce biological changes.
+Whether these changes can lead to health risks, in the long term, is still an open question. The
+initiatives to establish guidelines and official standards for occupational or public exposure to
+static and ELF magnetic fields will be described and discussed.
+
+--- Page 2 ---
+
+2. THE MAGNETIC FIELD
+A magnetic field is a region of space that results from the motion of electric charges, it
+is always associated with everything that carries electric current. The field may be pictured as
+lines of force, also called flux lines: the direction of the field at any point is given by the
+direction of the line in that point and its magnitude is proportional to the density of lines near
+the point. Unlike electrostatic field lines, the flux lines are continuous without beginning and
+end (this means that isolated magnetic poles do not exist). The magnetic field is described by
+two vector quantities: the magnetic field strength
+(cid:0)
+H and the magnetic flux density
+(cid:0)
+B. These
+two quantities are related by the relation
+(cid:0) (cid:0)
+B H (cid:1) (cid:3) (cid:2) . The constant of proportionality (cid:3) , the
+magnetic permeability, depends on the medium and in the case of biological tissues is
+assumed to be equal to the value of the permeability of free space (cid:3) = 4
+0
+(cid:4)
+x 10-7 (T•m/A-1).
+The magnetic flux density
+(cid:5)
+B may be defined in terms of the Lorentz force
+(cid:5)
+F acting on
+a charge q that moves in a magnetic field with a velocity
+(cid:5)
+v [1]:
+(cid:5) (cid:5) (cid:5)
+F q v B (cid:6) (cid:7) (cid:8) ( ) (1)
+The unit of the magnetic field, in the SI system, is the tesla (T) while in the cgs system it is
+the gauss (G) with 1 G = 10-4 T. The strength of the magnetic field decreases with the distance
+from the source. In the approximation of a long wire carrying an electric current (valid for
+small distances r compared to the straight portion of the wire) the magnitude of the field
+varies as:
+B=
+(cid:9) I
+0
+2
+(cid:10)
+(2)
+r
+In the case of a dipole approximation (valid for example for field calculation at large distances
+from coils carrying electric current) the field amplitude decays more rapidly as:
+B (r,
+(cid:11)
+)
+(cid:12)
+(cid:13)
+0
+4
+(cid:14)
+m 1
+3 r (cid:15)
+2 3cos (cid:17) (cid:16) (cid:18)
+1
+2 (3)
+where m is the dipole magnetic moment of the coil and
+(cid:19)
+the angle with respect to the dipole
+axis.
+3. THE EARTHíS MAGNETIC FIELD
+The geomagnetic field of the Earth is dipolar (the magnetic poles are not coincident with
+the geographic poles) and varies at the surface from 26
+(cid:20)
+T near the equator to about 60
+(cid:20)
+T
+near the poles. In the last centuries the dipole moment is continually decreasing and it is
+assumed that it reverses every
+(cid:21)
+200,000 years. The magnetic field is maintained by the so
+called geodynamo: the interaction of the already existing Earthís field with the molten iron of
+the outer core, that flows around the solid inner core, induces an electric current just as in a
+metallic wire that moves across a magnet. Once the electric current is established it generates
+
+--- Page 3 ---
+
+a self-perpetuating magnetic field that sustains the Earthís field. The forces driving the
+conducting fluid arise from both the rotation of the Earth and heat.
+4. ARTIFICIAL MAGNETIC FIELDS
+The Earthís static magnetic field has roughly not exceeded 100
+(cid:22)
+T over the last 80
+million years. The natural magnetic field consists also of time-varying components,
+associated mainly with solar activity and thunderstorms, whose intensities vary from about 0.1
+(cid:22)
+T to 0.1 fT in the ELF range. Prolonged exposure to higher static and ELF fields is
+nowadays an ordinary situation as shown in Table 1.
+Table 1
+Typical values of static and ELF magnetic flux densities associated with different
+sources in homes, workplaces and public areas.
+Field source Frequency Magnetic flux density
+(Hz)
+Offices, homes
+Background 50/60 0.05–0.4
+(cid:22)
+T
+Household appliances 50/60 0.01–0.5
+(cid:22)
+T at 1 m
+0.1–30
+(cid:22)
+T at 0.3 m
+Video displays 30–3,000 0.02–0.6
+(cid:22)
+T at 0.3 m
+Research facilities (personnel areas)
+Linear accelerator 0 0.1–5 mT
+Bubble chamber 0 > 50 mT
+MHD and fusion plants 0 1–50 mT
+NMR 0 1–60 mT
+Industries
+Electrolytic processes 0, 50/60 1–10 mT
+Aluminium production 0 1–10 mT / 60 mT
+Electric and induction furnaces 1–10,000 1–50 mT
+Welding machines 0, 50/60 0.2–10 mT
+Security systems 0.1–10,000 up to 1 mT
+Average exposure of workers 50/60 1
+(cid:22)
+T, electrical
+0.17
+(cid:22)
+T, non electrical
+Power systems
+380 kV transmission lines 50/60 1–20
+(cid:22)
+T
+15 kV distribution lines 50/60 0.05-0.4
+(cid:22)
+T
+20 MWh S/C Magn. energy storage 0 0.5 T (max. accessible
+(SMES) field)
+10 mT at 300 m
+Transportation
+Magnetically-levitated trains 0 2–6 mT (head level)
+(MAGLEV) 20–50 mT (floor level)
+
+--- Page 4 ---
+
+Subway 50/60 0.7–1 mT
+Medicine
+Magnetic resonance imaging 0 0.5–2 mT (operator)
+(MRI) 2 T (patient)
+Therapeutic devices 12–75 1–10 mT
+Static fields of significant intensity are encountered mainly in industrial processes and
+in large scale scientific facilities but may be experienced by the public in medical equipment
+for diagnostic or therapeutic purposes and in new emerging technologies like magnetically-
+levitated trains.
+Exposure to ELF magnetic fields, essentially from 50/60 Hz sources, is an ordinary
+situation. The magnetic field background level in homes (away from appliances and averaged
+over time) ranges from 0.05
+(cid:23)
+T to 0.4
+(cid:23)
+T (based on a EPRI study of nearly 1000 homes) and
+higher localised magnetic fields are present near household appliances. People living in the
+proximity of power transmission lines, or workers in some industrial sites, may be exposed all
+the time to magnetic fields higher than 1
+(cid:23)
+T. Levels of tens of
+(cid:23)
+T can occur for short periods
+in certain working situations.
+In the case of both static and ELF fields, ionising and thermal effects are negligible but
+other mechanisms play a role. Scientists are investigating the effects of these magnetic
+environments on humans. The well-established effects of the interaction between static or
+ELF magnetic fields and living organisms may be divided into three main categories:
+electrodynamical, magnetomechanical and induction of electric currents. The last one is
+effective only for exposure to ELF magnetic fields or in the case of rapid motion in high static
+fields.
+5. INTERACTION MECHANISMS BETWEEN MAGNETIC FIELDS AND
+BIOLOGIC SYSTEMS
+5.1 Electrodynamic effects
+A well-recognised effect of the interaction of magnetic fields with the cardiovascular
+system is the change in electrocardiograms (ECG). Moving ionic charge carriers
+(electrolytes) in the blood, when exposed to a magnetic field, are subjected to the Lorentz
+force, reported in Eq. (1), that induces an electric potential
+(cid:24)
+given by:
+(cid:25) (cid:26)
+v
+(cid:27)
+B
+(cid:27)
+d
+(cid:27)
+sin
+(cid:28)
+(4)
+where v is the velocity, d is the diameter of the artery and
+(cid:29)
+is the angle between the direction
+of the blood flow and the magnetic field. This phenomenon is the basis of the Hall effect in
+solid-state materials and magnetohydrodynamic (MHD) power generation. For example, in a
+man with a blood flow rate of 0.6 m/s and an aortic diameter of 0.025 m, the expected induced
+potential is 15 mV/T [2]. These induced electric potentials have been observed by ECG on
+mammalians exposed to magnetic field [3]. Clear typical modifications in the ECG signal are
+visible in the T-wave region delimiting the opening and closing times of the aortic valve.
+The experimental investigations confirmed that:
+
+--- Page 5 ---
+
+a) the magnetically induced alteration in the flow potential is generally well observed
+above 0.1 T – 0.3 T (depending on body size);
+b) the amplitude of the T-wave increases linearly with the field;
+c) no changes in the arterial pressure are observed;
+d) the effect is completely reversible without adverse effects and disappears instantly at the
+end of the exposure.
+The last consideration is important to underline that an observed change in a biologic
+system, during field exposure, is not necessarily an evidence for adverse human health effects.
+5.2 Magnetomechanical effects
+5.2.1 Magnetic orientation
+In a uniform magnetic field, both diamagnetic and magnetic substances, are subjected to
+a torque that will tend to orientate them. In biological systems, there are several examples of
+orientation in strong static fields. Diamagnetic macromolecules undergo a magneto-
+orientation owing to the anisotropy in their magnetic susceptibility along the different axes of
+rotational symmetry. These molecules, generally with a rod-like shape, will tend to rotate in
+order to achieve a minimum energy configuration. The degree of alignment
+(cid:30)
+is usually very
+small; however for stacked assemblies of N macromolecular with parallel rotational axes,
+(cid:30)
+is
+increased of a factor N, giving rise to large effects. Observed examples, by in-vitro studies, of
+nearly complete magnetic alignment in static fields of 0.5 T – 2 T, are the outer segments of
+retinal rods [4] and cells containing chloroplasts [5]. Also sickled red blood cells have been
+observed to orient perpendicular to magnetic fields of 0.2 T to 0.5 T [5, 6]. Both these effects
+happen at field strengths used in MR imaging systems and may be important for safety
+considerations. However, the magnitude of the response is small and probably does not result
+in any detectable clinical consequences in humans.
+Also some gel-like tissues, such as the vitreous fluid of the eye and the synovial fluid of
+the skeletal joints, may be affected by exposure to magnetic fields. The gelation temperature
+of aqueous 1.4 % agarose solutions, similar to these biologic fluids, showed an increase as a
+function of the magnetic field strength [7].
+There are some interesting cases of orientations of living organisms that synthesise
+organic chain structures, containing magnetite (FeO) crystals with a net permanent magnetic
+3 4
+moment, called magnetosomes. It was discovered that these magnetosomes influence the
+direction of motion of magnetotactic bacteria. They align themselves with the Earthís
+magnetic field lines and swim toward the north and downward (due to the vertical component
+of the geomagnetic field) in the northern hemisphere and to the south and downward in the
+southern hemisphere. This motion allows them to survive in the oxygen-poor mud of their
+aquatic environments.
+There is also experimental evidence that the Earthís magnetic field influences the
+geomagnetic orientation and navigation of some migratory (such as some species of salmons)
+and elasmobranch (such as sharks, skates and rays) fish, migratory bird species, homing
+pigeons, monarch butterflies and honeybees (during their waggle dances) [8, 9].
+5.2.2 Magnetic translation
+
+--- Page 6 ---
+
+Ferromagnetic and paramagnetic materials exposed to a magnetic field gradient are
+subjected to a magnetomechanical force (that tends to move them along the gradient direction)
+given by:
+dB
+F V B
+dx
+(cid:31)
+"
+!
+(5)
+0
+where V is the volume of the magnetic substance and
+!
+the magnetic susceptibility. Owing to
+the limited amount of magnetic substances in most living beings, the influence of this effect
+on biological functions is negligible.
+Important safety considerations concern the possible displacement of metal implants
+and prosthesis that may experience significant forces and torques in strong magnetic field
+gradients.
+5.3 Electric currents induction
+Time-varying magnetic fields induce electric currents in biological systems that may be
+evaluated by the Faraday law of induction. In the case of sinusoidal fields with amplitude B
+o
+and frequency f, the magnitude of the induced current density is given by:
+J
+# $ %
+r
+%
+f
+% & ’
+B (4)
+o
+The proportionality of the induced currents on loop radius r and tissue electrical conductivity
+( has important consequences for biological systems. A fixed time-varying field may induce
+notable currents at the macroscopic level but much smaller ones at the cellular level. These
+currents are usually smaller than those naturally produced by the brain, nerves and heart.
+5.3.1 Magnetophospenes
+A well known biological effect of ELF magnetic field is the induction of visual
+sensations (flickering white light in the eyes), called magnetophosphenes, when exposed to
+fields having frequency in the range 10–100 Hz and amplitude above 10–100 mT [3].
+Magnetophosphenes have been found to occur also in strong magnetic field during movement
+of the head and in transient fields during energising or deenergising of high-field magnets.
+This effect was first described by díArsonval in 1896 [10] and the possible explanation was
+reported by Lövsund [11]. The maximum sensitivity is at 20 Hz where the flashes are
+synchronised with the field.
+Other biological effects of circulating currents in the body are: bone healing, nerve
+stimulation, electroshock anaesthesia (therapy) and heart fibrillation. They may be classified
+on the basis of threshold values of the induced current densities [12] as shown in Table 2.
+Table 2
+Threshold values of ELF induced current densities for producing biological effects
+
+--- Page 7 ---
+
+Induced current density Effects
+(mA/m2)
+< 1 Same order of naturally flowing biocurrents, no effects.
+1–10 Minor biological effects.
+10–100 Magnetophospenes, bone fracture healing, possible nervous
+system effects.
+100–1000 Influence on neuron excitability; stimulation threshold for
+sensory receptors, nerve and muscle cells with possible health
+hazards.
+> 1000 Possibility of ventricular fibrillation, continuous muscle
+contraction; definite health hazards.
+Owing to differences in biologic matter conductivities and unknown current loops, the
+calculation of induced currents is rather complicated. However, using cautious assumptions,
+an estimation of the threshold magnetic field values for the different effects may be made as
+reported in Ref. [12]. These estimated values give an idea of the ELF magnetic fields that
+should not produce biological effects but may not be used as safe limit values.
+6. LABORATORY STUDIES
+Several kinds of biological effects have been reported in studies of exposure to magnetic
+fields by animal experimentation and by work with cell cultures, trying also to find biological
+evidence of adverse health effects. It is not possible to report here on the extensive literature
+existing on this topic [13]. Some of the results (change in functions of cells and tissues,
+decrease in the hormone melatonin, alterations of immune system, accelerated tumour growth,
+changes in brain activity and heart rate) were obtained with field levels that are orders of
+magnitude larger than fields involved in ordinary cases. Some effects on cell cultures due to
+ELF low fields of a few
+)
+T and less than 100
+)
+T were also reported [14].
+Laboratory studies confirmed, as shown above, no biological effects for induced
+currents lower than 10 mA/m2. In the case of exposure to static fields, the reported studies for
+fields lower than 2 T seem to indicate the absence of irreversible effects on the main
+biological functions.
+These results should be treated, in any case, with great attention because the human
+organism has many compensating mechanisms that may modify the effects observed in cell
+cultures.
+Some researchers also reported data on biodetection of high static magnetic fields or
+gradients. In one experiment [15], rats avoided systematically to enter into regions where the
+field strength was 4 T and the gradient was up to 13 T/m. These findings were not observed
+at 1.5 T.
+7. EPIDEMIOLOGICAL STUDIES
+
+--- Page 8 ---
+
+Although animal experiments, cell culture studies and computer models provide useful
+data, most researchers agree that potentially adverse health effects of static or ELF magnetic
+fields may be provided by studies of human population that are ordinary exposed to magnetic
+fields in residential or working areas. These observational studies, called epidemiologic, may
+show associations that could point out an increased risk of disease associated with some
+environmental factors. They already allowed the important risk factors for cancer to be
+identified as cigarette smoke (relative risk of 10 for lung cancer) and benzene. In several
+cases, scientists cannot be sure whether the association is one of cause and effect or if the
+increased risk may be related to other factors.
+This methodology requires carefully consideration because a positive association
+between a disease and exposure is not necessarily a definite proof especially when the risk is
+small. To judge if the increased incidence of risk is real other correlation criteria must be
+considered such as consistency with other studies involving different methods and population,
+dose-response relationships (increasing exposure levels should correspond to higher disease
+rates), plausible biological explanation supported by laboratory results, reliability of
+information.
+Several epidemiologic surveys on the possible health risks associated with static and
+ELF magnetic field exposure have been carried out over the last 20 years, principally on 50/60
+Hz fields, but none of them has definitively convinced the legislators.
+Table 3 reports a review of epidemiological studies of occupational and residential
+exposure to static and ELF magnetic fields. These studies examined mainly electrical workers
+that are ordinarily more exposed to ELF magnetic (mean exposure of about 1
+*
+T against 0.2
+*
+T of workers in other job categories). The doses of field exposure in the first surveys were
+based only on job titles and not on actual measurements fields.
+Some epidemiologic residential and occupational studies have suggested a weak relation
+with a few types of cancer in humans, particularly leukaemia in children as well as brain and
+breast cancer in adults, while others reported no consistent evidence of relations between
+magnetic field exposure and any type of cancer. Moreover, the studies reporting a positive
+association are not quite concordant and do not agree upon the forms of cancer. Considering
+three recent studies we may observe in fact some controversial conclusions. The first one,
+conducted by the Swedish National Institute of Working Life, one of the largest studies
+involving a broad range of industries and occupations [24], found an association with chronic
+lymphocytic leukaemia and an increased risk for brain cancer for men exposed to an average
+field of more than 0.2
+*
+T. The second one, conducted by Canadian and French researchers on
+223,292 electric utility workers, between 1979 and 1989, found a relative risk of 3 to contract
+acute myeloid leukaemia [17]. The last study, the most recent one, conducted in North
+Carolina, and involving 139,000 US utility workers found no association with both types of
+leukaemia but supported an association with brain cancer [23].
+A noteworthy survey has been conducted in Sweden on people living near high-voltage
+transmission lines [25]. This study, highly exposed in the media and government circles,
+suggested for the first time a dose/response relationship, although it was based on a small
+number of cases. The risk to contract childlike leukaemia was found to be 2.7 times higher
+for magnetic fields exposure of 0.2
+*
+T and 3.8 times for fields above 0.3
+*
+T. There were no
+
+--- Page 9 ---
+
+Table 3
+Epidemiological studies of occupational and
+residential exposure to static and ELF magnetic fields
+Human population Average exposure Reported risks
+Static magnetic fields
+Soviet workers in permanent 2–5 mT at hands Subjective and minor physiological
+magnet production 0.3–0.5 mT at head effects [16]
+(645 exposed people)
+US workers in aluminium No field values reported Increased risk of all classes of
+plants leukaemia [17]
+High-energy accelerator labs, Up to 2 T No increased risk for 19 common
+bubble chambers, high-field diseases including cancers [18]
+magnet facilities (792 controls)
+50/60 Hz magnetic fields
+US workers Field exposures based on Increased risk of acute myeloid
+438,000 death records job title leukaemia [19]
+US workers Field exposures based on Higher incidence of brain cancer, but
+death data from 16 States job title not leukaemia [20]
+US electric utility workers Field exposures estimated No detection of risks for any type of
+(36,000 people) on measurements in the cancer [21]
+workplace
+Canadian and French electric Field exposures estimated Relative risk of acute myeloid
+utility workers on measurements in the leukaemia among workers with higher
+(223,292 people) workplace cumulative exposure [22]
+US electric utility workers Field exposures estimated No association between occupational
+(138,000 people) on measurements in the exposure and leukaemia but link to
+workplace brain cancer [23]
+1015 different workplaces in Field exposures estimated Increased risk for chronic lymphocytic
+leukaemia. Increase risk for brain
+Sweden involving 169 on measurements in the
+tumours for age under 40 and average
+occupations workplace
+field above 2
++
+T [24].
+Swedish report on people Field exposures estimated Childlike leukaemia risk 2.7 times
+higher for exposure of 0.2
+living near high voltage on measurements in the
+transmission lines residential areas.
++
+T and 3.8
+above 0.3
++
+T [25].
+elevated risks for other types of cancer. The relative risk values are closer to the border line
+of statistical significance and the value of 0.2
++
+T distinguishing exposed and unexposed
+people may not provide, from current knowledge, a sufficient basis for setting threshold
+exposure limits of such low intensity.
+On the contrary, a recent survey on 36,000 electric utility workers reported no strong
+consistent evidence of association between magnetic fields and any type of cancer [23].
+As already mentioned above, different studies disagree in important ways both on the
+value of excess risk associated with magnetic exposure and on the type of disease.
+
+--- Page 10 ---
+
+So far there is no laboratory evidence for health effects at the field values considered in
+these studies. If some effects occur, they are likely to be so weak that the body is almost able
+to compensate, making them very hard to study.
+8. STATIC AND ELF MAGNETIC FIELD EXPOSURE GUIDELINES AND
+PROTECTIVE MEASURES
+Currently available information has not confirmed evident and reproducible adverse
+health effects in order to clearly indicate safe limit values and durations for magnetic field
+exposure. There are several initiatives to establish official standards for occupational and
+public exposure to static and ELF magnetic fields. Some governments, being unable to
+determine standards with the support of the scientific knowledge, defined limit values based
+on what is technologically achievable and not on medical or epidemiological studies.
+Most of the guidelines reported in Table 4 have not been issued by authoritative laws
+but have been defined by international institutions as recommended limit values.
+Table 4
+Limit values for occupational and public exposure to static and ELF magnetic fields.
+(These reference values are not intended as a threshold to a dangerous level.)
+Static magnetic fields
+SLAC CERN CENELEC ACGIH
+TC 111
+Working day/whole body 20 mT 200 mT 200 mT 60 mT
+Working day/limbs 200 mT 600 mT
+Short/whole body 200 mT 2 T 2 T
+Short/limbs 2 T 5 T 5 T 2 T
+General public/whole body 10 mT 40 mT
+General public/limbs 100 mT
+Persons with pace-maker 0.5 mT 0.5 mT 0.5 mT
+(or large metal implants)
+Average Earth's field 50
+,
+T
+ELF magnetic fields
+CENELEC TC ACGIH ICNIRP Regulations
+111 (50/60 Hz) for transmission
+lines (50/60 Hz)
+Day/whole 80/f 60/f 0.5 mT 100
+body 1.6 mT at 1.2 mT at 5 mT (short) Italy
+50 Hz 50 Hz
+,
+T
+1 mT
+(short)
+Day/limbs 1250/f 300/f 25 mT Florida 15
+,
+T
+
+--- Page 11 ---
+
+25 mT at 50 6 mT at
+Hz 50 Hz
+General public/ 32/f 0.1 mT New 20
+whole body 0.64 mT at 1 mT (short) York
+50 Hz
+-
+T
+General public/ 500/f
+limbs 10 mT at 50
+Hz
+People with 0.1 mT
+pacemaker
+Background 0.1
+field
+-
+T
+In Europe, a prestandard was approved in late 1994 by the Technical Committee
+CENELEC TC111 ìElectromagnetic fields in the human environmentî. This prestandard,
+whose validity is limited initially to three years, is divided into two parts dedicated
+respectively to occupational and public exposure to low frequency (0–10 kHz) and high
+frequency (10 kHz – 300 Ghz) electromagnetic fields [26]. It was issued for provisional
+application and may be modified, before conversion to a standard, on the basis of new
+scientific findings and experience gained during its application.
+Presently there are no federal standards in the United States but the Federal Energy
+Policy Act established in 1994 a five-year program, known as EMF RAPID program (Electric
+and Magnetic Fields Research and Public Information Dissemination), managed by DoE and
+the National Institute of Environmental Health Sciences. This program should explore the
+potential relevance of EMF exposure for possible health effects.
+Among the most important international organisations that developed exposure
+guidelines should be mentioned: the International Commission on Non-Ionising Radiation
+Protection (ICNIRP) [27], the European Organisation for Nuclear Research (CERN) [28] and
+the American Conference of Governmental Industrial Hygienists (ACGIH) [29]. The first
+widely used guidelines for researchers working with high magnetic fields were formulated by
+the Stanford Linear Accelerator Laboratory (SLAC).
+Some studies [24, 25] reported possible long-term effects on health associated with
+magnetic field strengths lower than those specified in Table 4. However, as already
+mentioned above, they do not prove indisputably that harmful risks exist and are not
+supported by evident scientific confirmations. Consequently there are no sufficient bases for
+setting threshold exposure limits of such low intensities.
+The American Physical Society (APS) issued a bulletin in 1995 on this subject reporting
+that both the scientific literature and reviews by other panels show no consistent and
+significant links between cancer and ordinary ELF magnetic fields.
+On the basis of extensive laboratory studies, various other significant biological
+processes do not seem to be influenced significantly by static magnetic fields up to 1–2 T.
+These processes include: cell growth and morphology, DNA structure, reproduction,
+physiological regulation and circadian rhythms [30].
+
+--- Page 12 ---
+
+8.1 Pacemakers and implanted metal objects
+Low intensity magnetic fields may be considered to be safe from the biological point of
+view but may cause problems to people with pacemakers. The majority of pacemakers
+implanted today are synchronous and are activated only when the heart rate, continuously
+monitored, falls below a preset level. Incorporated in the pacemaker is usually a reed relay
+that activates fixed-frequency pulses and is helpful for the physician to test the correct
+working of the apparatus. It was found that certain types of cardiac pacemakers in the
+presence of static fields, above 0.5–1.5 mT, may reverse into this fixed-rate mode (called
+asynchronous mode). This circumstance is potentially hazardous and may lead to fibrillation
+owing to the competitive pacing between the natural heart rate and the rate stimulated by the
+pacemakers [31]. Also time-varying magnetic fields, in excess of 0.1–0.4 mT, may alter the
+pacemaker functioning, by inducing voltages that may be recognised as cardiac signals.
+Since magnetic fields decrease as the distance from the source increases, the best
+protective measure, when the magnetic field is higher than these limit values, is a separation
+distance. In any case warning signs for people with cardiac pacemakers or metal implants and
+prosthesis (that may experience significant forces and torques) must be displayed in accessible
+places where magnetic fields are above 0.5 mT.
+9. CONCLUSIONS
+There is controversy on the possible health effects of static and ELF magnetic fields on
+humans [32]. It is difficult to prove indisputably whether harmful risks exist or not.
+Although the potentially exposed population is large, the risks, if any, appear to be small and
+limited to specific situations. But, in any case, it is better to keep the public exposure well
+below the limit values. A valuable support may come from the new technologies that, if duly
+stimulated, may solve problems in ways that are compatible with the environment. There are
+already examples, in other sectors, pointing out how high-technology companies are able to
+find alternatives in a short time to comply with new regulations.
+Most of the public attention is now focused on ELF fields, associated to high voltage
+transmission lines but studies on the effects of static fields are also expanding after the large
+diffusion of magnetic resonance imaging (MRI) systems employing static magnetic fields up
+to 2 T. Static fields are expected to attract much more attention when high magnetic field
+technologies, based mostly on superconductors, like superconducting magnetic energy storage
+plants (SMES), thermonuclear fusion reactors and magnetically levitated trains (MAGLEV),
+begin to spread.
+REFERENCES
+[1] I.S. Grant, W.R. Phillips, Electromagnetism, John Wiley & Sons (1990).
+[2] P. Mansfield, P.G. Morris, Biomagnetic effects, (New York, Academic Press), Suppl. 2
+(1982) 247-252.
+
+--- Page 13 ---
+
+[3] T.S. Tenford, CRC Handbook of Biological Effects of Electromagnetic Fields, C. Polk
+and E. Postow, eds., CRC Press, Boca Raton, Florida (1986) 197-225.
+[4] F.T. Hong, J. Colloid Interface Sci. 58 (1977) 471-497.
+[5] M. Murayama, Nature 206 (1965) 420-422.
+[6] C. Ribeiro, et al., Biophys. Journ. 36 (1981) 443-447.
+[7] D.R. Kalkwarf, J.C. Langford, Biological Effects of Extremely Low Frequency
+Electromagnetic Fields, R.D. Phillips et al. eds., CONF-781016 NTIS, Springfield,
+Virginia (1979) 408-416
+[8] J. L. Kirschvink, D.S. Jones, Magnetite Biominaralization and Magnetoreception in
+Organisms, Plenum Press, New York (1985) 609-610.
+[ 9] R.B. Frankel, CRC Handbook of Biological Effects of Electromagnetic Fields, C. Polk
+and E. Postow, eds., CRC Press, Boca Raton, Florida (1986) 169-196.
+[10] M.A. díArsonval, CR Seance Soc. Biol. Ses. Fil. 3 (1896) 451.
+[11] P. Lövsund, P.A. Öberg, S.E.G. Nilsson, Med. Biol. Eng. Comput. 18 (1980)
+758-764.
+[12] Environmental Health Criteria 69, Magnetic Fields, WHO (1987).
+[13] N.J. Simon, Biological effects of static magnetic fields, MS Publications (1992)
+[14] T.S. Tenford, Bioelectrochemistry and Bioenergetics 25 (1991) 1-17.
+[15] J. Weiss et al., Magnetic Resonance Imaging 10 (4) (1992) 689-694.
+[16] A. M. Vyalov, Influence of magnetic fields on biological objects, Springfield, Virginia
+National Technical Information Service (1974) 163-174.
+[17] S. Milham, Jr, Environ. Health Perspect. 62 (1985) 297-300.
+[18] T.F. Budinger et al., 3rd Annual Meeting of Society for Magnetic Resonance in
+Medicine, New York, August 4-6, 1984.
+[19] S. Milham, Jr, New England J. Med. 307 (4) (1982) 249.
+[20] D.P. Loomis, D. A. Savitz, British J. Industr. Med. 47 (1990) 633.
+[21] J.D. Sahl, M.A. Kalsh, S. Greenland, Epidemiol. 4 (1993) 104-114.
+
+--- Page 14 ---
+
+[22] Theriault et al., Am. Journal Epidemiol. 139 (1994) 550.
+[23] D.A. Savitz, D.P. Loomis, Am. Journal Epidemiol. 141 (2) (1995) 123-134.
+[24] B. Floderus et al., Cancer Causes and Control 4 (1993) 465-476.
+[25] M. Feychting, A. Ahlbom, Am. J. Epidemiol. 138 (1993) 467-481.
+[26] European Prestandard ìHuman Exposure To Electromagnetics Fields – Low Frequency
+(0–10 kHz), ENV 50166-1, and High Frequency (10 kHz – 300 Ghz), ENV 50166-2,
+CENELEC 1995.
+[27] International Commission on Non-Ionising Radiation Protection (ICNIRP), 1994.
+[28] Safety Guide for Experiments – Part I, 5.4.5 CERN (1995).
+[29] ìThreshold Limit Values for Chemical Substances and Physical Agents - Biological
+Exposure Indicesî, American Conference of Governmental Industrial Hygienists
+(ACGIH), pp. 113-120, 1996.
+[30] T.S. Tenford, T.F. Budinger, NMR in Medicine: instrumentation and clinical
+applications, New York (1986) 493-548.
+[31] W. Pavlicek et al., Radiology 147 (1983) 149-153.
+[32] R. Conti, P. Nicolini, et al., Alta Frequenza, Focus on Biological Effects of
+Electromagnetic Fields and Safety Standards LVIII (4) (1989) 395-402.

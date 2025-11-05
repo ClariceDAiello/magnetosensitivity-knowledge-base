@@ -1,0 +1,757 @@
+
+
+--- Page 1 ---
+
+Russian Chemical Reviews62(12) 1073-1082 (1993) ©1993 Russian Academy of Sciences and Turpion Ltd
+UDC 541.139
+Second generation of magnetic effects in chemical reactions
+A L Buchachenko
+Contents
+I. Two scenarios of chemical reaction 1073
+II. Spin dynamics of the radical pair 1074
+III. First generation of magnetic effects 1074
+IV. Principles of chemical reception of microwaves 1075
+V. Reaction yield detected magnetic resonance 1077
+VI. Radio induced magnetic isotope effect 1079
+VII. Microwave stimulated nuclear polarisation 1080
+VIII. Conclusion 1082
+Abstract. Spin selective chemical reactions must also be having spin 5=1, only one can undergo a spin allowed reaction
+magnetically sensitive. The susceptibility of chemical reactions to and produce the recombination product tetraphenylethylene.
+magnetic interactions produces two generations of magnetic The spin of the other eight states (5=1 and 2) is not equal to
+effects: the first includes the magnetic field effect, the magnetic that of the reaction product (S = 0), and therefore these states
+isotope effect, and the chemical polarisation of nuclei, all are chemically nonreactive.
+induced by external or internal magnetic fields. The second In general the spin selectivity of chemical events implies
+generation effects are stimulated by external electromagnetic that chemically identical but spin different intermediates (the
+fields interacting with the chemically active spin systems. The reaction product precursors) have different, spin dependent
+bibliography includes 31 references. chemical reactivities. The only interactions which can alter the
+spin of reaction precursors and transform nonreactive, spin
+forbidden into the reactive, spin allowed states are magnetic
+I. Two scenarios of chemical reaction
+interactions. Their contribution to the total energy is insig-
+Any chemical event, including its feasibility and its result, is nificant, but they control the spin behaviour of the chemical
+traditionally rationalised according to its energy scenario: how species, they modify their chemical reactivity, and they establish
+much energy is required, how to pump this energy into the a new, magnetic scenario of chemical reactions.1 ~4
+reacting species, and how efficiently is this energy exploited in Spin selectivity (and therefore also the magnetic sensitivity of
+the chemical system. chemical reactions) gives rise to two generations of magnetic
+However, another physical property besides energy is of effects, illustrated in Fig. 1 for the particular but widely met case
+paramount importance in chemistry: the angular momentum of a radical pair (RP). The nonreactive, triplet spin state RP can
+(spin) of the electrons and nuclei of the reagents. The be transformed into the reactive, singlet spin state pair either by
+fundamental ruling principle of chemical reactions is that both magnetic interactions, characteristic of the reaction itself, or by
+the spins and their projections remains unchanged in elementary external radiofrequency or microwave (mw) magnetic fields. The
+chemical events. The conservation of the total spin has triplet-singlet spin conversion induced by 'native' magnetic
+important consequences: the chemical reactions are spin interactions is responsible for the magnetic effects of the first
+selective, they are allowed only for spin states of the products generation, or native magnetic effects, while the triplet-singlet
+whose total spin is identical to that of reagents, and they are conversion stimulated by rf or mw magnetic fields induces the
+strictly forbidden if they require spin change. For example, the magnetic effects of the second generation. The former includes
+transformation of the radical pair into the molecule (through Magnetic Field Effect (MFE), Magnetic Isotope Effect (MIE)
+recombination or disproportionation) is allowed only from the and Chemically Induced Dynamic Nuclear Polarisation
+singlet spin state of the pair, and forbidden from the triplet one. (CIDNP)—three effects originating from the dependence of the
+The reaction H + O2 -> HO2 takes place in the doublet spin reaction probability P in RP on the magnetic field H, hyperfine
+state of the reagent (H--O2) since the total spin of the pair in (Fermi) electron-nuclear interaction, and nuclear spin
+this state is identical to that of the reaction product, but it is orientation l. The latter are the basis of Reaction Yield
+z
+forbidden in the quartet spin state of the pair. Of the nine Detected Magnetic Resonance (RYDMR), Radio Induced
+possible spin states of the pair of triplet carbenes PI12C:, each Magnetic Isotope Effect (RIMIE) and Stimulated Nuclear
+Polarisation (SNP). The relation between these two generations
+of magnetic effects is schematically shown in Fig. \b.
+A L Buchachenko Institute of Chemical Physics, Russian Academy of
+Sciences, ul. Kosygina 4, 117334, Moscow,
+Fax (7-095) 938 21 56.
+Received 8 September 1993
+Uspekhi Khimii 62 (12) 1139 -1149 (1993); translated by J I Carasso
+
+--- Page 2 ---
+
+1074 A L Buchachenko
+The extended spin dynamics of the RP are the combination
+of all three dynamics considered cooperatively. The rate of
+r triplet-singlet conversion is directly related to the matrix
+magnetic interactions
+element Q of the RP spin Hamiltonian evaluated with the spin
+wave functions of triplet (T) and singlet (S) states.
+^
+For the multinuclear RP these Qb values are
+a
+{ Ri R2 } RiR .R, R2}
+2
+L J
+0 - S) = \ \Ag^H +£/»!?- Y.jm)] , (1)
+if, mw magnetic fields
+G*(T+ - S) = -(i)I/2 ,-[/,(/,. + 1) - ( - 1)] , (2)
+a Wj Wj
+P(H) —• MFE RYDMR - ~ S) = + l)-m i (m i +l)], (3)
+where the first describes the contribution of the To—S transition
+P(H, a, h) P{a) —- MIE RIMIE
+to the total rate of T—S conversion, the other two give the
+contributions of T+—S and T_ —S transitions; To, T are the
+±
+P(h) —• CIDNP SNP substates of the triplet spin state, with different electron spin
+projections: 0 for To and ±1 for T respectively. The term
+±
+Ag^H is the difference of Zeeman energies of the radical
+partners; Ag is the difference of their g-factors, Ag = g\ — g2;
+Figure 1. (a) Transformation of an unreactive triplet radical pair into
+a chemically active singlet pair under the influence of magnetic inter- /J.B is the Bohr magneton; H is the strength of magnetic field;
+actions and electromagnetic fields (radio-frequency or microwave); a,- and aj are the HFI constants for the i-th and y'-th kind of
+(6) relationship between first and second generation magnetic effects. nuclei, with spins /,- and If. ml are the quantum numbers of the
+projections of the nuclear spins /,• in the first radical of the pair
+and m * are those for its partner.
+II. Spin dynamics of the radical pair It follows from Eqns (l)-(3) that the rate of triplet-singlet
+conversion (and consequently the probability of chemical
+A radical pair is a dynamic intermediate or chemical micro- reaction in the RP) depends firstly on the magnetic field strength
+reactor from which the partners can diffuse without reacting, H through the difference in electron Zeeman energies AgfiBH;
+travel randomly in space and time, and then return and secondly on the nuclear magnetic moments through the HFI
+reencounter. The time between partner contacts, or repeated constant a, since a = (8jt/3)/i/i|\|/(0)|2, where fi* and fi are the
+e n n
+encounters, is used by the pair for its own spin conversion which magnetic moments of the electron and nucleus, |\K0)|2 is the
+is driven by magnetic interactions in the radicals resulting either electron spin density at the nucleus; thirdly on the nuclear spin
+in triplet-singlet transformation of the pair (if its starting spin orientation I through the quantum numbers m f and m *.
+z
+state is triplet) or in singlet-triplet conversion (for pairs with The reaction probability of the RP may be represented in the
+singlet starting state). closed form as P = F(H, a, I). This compact formula embodies
+z
+To transform the triplet RP into a molecule at least four the three main magnetic effects of the first generation (see
+simultaneous events are required. Fig. \b).
+Firstly, the radicals leaving the RP at time t = 0 should
+return and reencounter at some time t. This process of III. First generation of magnetic effects
+regeneration of the contacts between RP partners is described by
+molecular dynamics. Secondly, at the same instance t the pair 1. Magnetic field effect
+must have completed its triplet-singlet conversion and be ready The modern theory of the MFE, based on the extended spin
+to form a molecule. This process is controlled by spin dynamics. dynamics, identifies two main MFE sources.
+Thirdly, during their diffusional travels the radicals must not 1. In zero and in very low magnetic fields the S and T spin
+undergo chemical transformations: for the primary molecule states are almost degenerate and the spin conversion involves
+to be reformed the initial pair must survive to time t. The all four states (S, To, T ). In high fields the degeneracy of triplet
+±
+probability of this event is determined by the chemical dynamics. substates is lifted and the T levels are separated from the
+±
+Fourthly, the RP now ready to react (i.e. having survived to S state by Zeeman interaction and excluded from the spin
+time t and being in a singlet state with the partners in contact) conversion, so that the rate of the triplet-singlet RP trans-
+will recombine into a molecule only if a favourable orientation formation is reduced to approximately one third of the rate in
+of the partners is achieved by rotational dynamics. Thus, the zero field.
+birth of a molecule from the RP is a result of the collective and If the starting spin state of the pair is singlet the magnetic
+coordinated efforts of three dynamics: spin, molecular and field closes the S—T channels and partly locks the pair,
+±
+chemical. increasing its chance to react. Conversely, if the starting state is
+The key act of the chemical interaction is spin conversion, triplet the magnetic field switches off the T—S conversion and
+controlled by the magnetic interactions, among which Zeeman partially suppresses (by about 60%) intra-pair chemical
+and electron-nuclear (Fermi) hyperfine interaction (HFI) are reactions.
+the most important. Spin dynamics are modulated by molecular The T —S spin conversion is induced by HFI (usually in
+±
+dynamics, which produce random variations of the distance the 1 — 150 G range),f and therefore even these low magnetic
+between radicals and therefore of the exchange interaction fields (H as a) are sufficient to decouple electron-nuclear spin
+potential. This, in its turn, influences the rate of spin conversion subsystems and produce marked and even multiple changes in
+and ultimately the spin dynamics of the RP. The chemical reaction rates.
+reactions of RP partners destroy the pair, so that the spin
+dynamics are controlled by chemical dynamics.
+11G = 10-4T.
+
+--- Page 3 ---
+
+Second generation of magnetic effects in chemical reactions 1075
+2. The rate of spin conversion by the T—S channel is mag- the 12C nonmagnetic isotope. Thus, because of the difference
+o
+netic field dependent according to Eqn (1). As in the previous in the rates of triplet-singlet spin conversion, the RPs can
+case, the sign of the MFE is a function of the starting spin state: separate the nuclei according to their magnetic moments: they
+the magnetic field enhances the leakage of the reactive singlet dispatch the magnetic and the nonmagnetic nuclei into the
+pairs into nonreactive triplet pairs, and has the opposite effect different chemical products.
+on triplet pairs. As a result the magnetic field accelerates the MIE is a phenomenon of fundamental importance. It estab-
+reactions starting from triplet pairs (and triplet RP precursors) lishes a new chemical principle of isotope separation, it provides
+and hinders the reactions in singlets and in their precursors. a new method of detection and identification of paramagnetic
+These two sources of MFE are easily distinguished because intermediates in chemical and biochemical processes, and it
+of the difference in their response to changes in the magnetic offers new ideas and approaches to problems in geochemistry,
+field: the field dependence for the MFEs originating from T —S space chemistry, and molecular biology.4'6-7
+±
+spin conversion channels reaches saturation at H J> a, while the
+magnitude of MFEs induced by To—S conversion varies 3. Chemical polarisation of nuclei
+monotonically with the magnetic field. For the RP with short- Chemically induced dynamic nuclear polarisation (CIDNP) is
+lived radicals (life-time x <C | Qab\ — •*) the effect is proportional to the result of the nuclear spin selectivity of chemical reaction. The
+(Ag/i #)2, whereas for long-lived RPs (x>|gi,|-1) the effect is rate of T—S spin conversion according to Eqn (1) is a function
+B o
+proportional to (Ag/iB-ff)1'2.5 Furthermore it is evident that the of nuclear spin orientation, and therefore RPs which differ in
+signs of MFEs arising from these two sources are opposite; this nuclear spin orientation have different chemical reactivities.
+provides an important criterion for identifying the spin states of Hence the RP as a chemical reactor can not only separate
+the RPs and their precursors through the sign of the MFE. magnetic from nonmagnetic nuclei (as it does in the MIE), but it
+can also assign differently oriented magnetic nuclei to different
+2. Magnetic isotope effect reaction products.
+The coupling between chemical species or spin carriers (between This is the first mechanism of CIDNP, which operates in
+radicals, in particular), being electron spin selective, must also be high magnetic fields where the To—S channel of spin conversion
+nuclear spin selective, since the two spin subsystems (electronic is predominant. It selects the magnetic nuclei with respect to
+and nuclear) are coupled by Fermi HFI interaction. The nuclear their orientations according to Eqn (1), and therefore the
+spin system affects the magnetic behaviour of the electron spin CIDNP is directly related to Ag and to at and to a,.
+system, thus influencing the chemical reactivity. The nuclear spin The second CIDNP mechanism operates in low fields
+selectivity of chemical reactions produces a difference between (H < a), where the T — S channels also contribute to the RP spin
+±
+the reaction rates of radicals (or, in general, of any other spin evolution. The T —S spin transitions are accompanied by
+±
+bearing chemical species) having magnetic or nonmagnetic reorientation of the nuclear spins, unlike the To — S transition
+nuclei. The name magnetic isotope effect (MIE) has been which selects only the oriented nuclei without changing their
+suggested by the present writer for this phenomenon, in contrast alignment.
+to the well known classical isotope effect (CIE) which follows An excess of nuclear spins oriented with or against the field
+from the nuclear mass selectivity of chemical reactions.4-7 in the product molecules corresponds to overpopulation of the
+A striking result of the MIE is the chemically induced lower or the upper Zeeman nuclear levels respectively (for 'H,
+separation of magnetic from nonmagnetic isotopes. MIE- I3C, and 31P nuclei with a positive magnetic moment). This non-
+induced isotope selectivity may be clearly exemplified by the equilibrium population manifests itself in the NMR spectra of the
+photolysis of dibenzylketone (DBK), which is known to occur molecules as an anomalously strong absorption or emission, the
+via the fragmentation of the excited triplet molecule and latter corresponding to population inversion of Zeeman levels.
+generation of a triplet RP (Scheme 1). The triplet RP can either CIDNP is a well-known phenomenon, widely used as an
+undergo triplet-single spin conversion (driven by HFI) and efficient method of identifying reaction mechanisms and of
+recombine, recreating the starting ketone, or it can dissociate detecting radicals and radical intermediates. CIDNP is a
+into the separate radicals PhCH and PhCHCO; the latter powerful means of defining the spin multiplicity of the radical
+2 2
+decomposes into PhCH and CO. The main reaction products pairs and of their molecular precursors, it can be used to
+2
+are dibenzyl (PhCH2)2 and carbon monoxide (Scheme 1). separate radical from nonradical reaction pathways and to
+identify unstable intermediate products and reversible radical
+Scheme 1 stages which cannot be detected by other methods. From the
+CIDNP kinetics we can determine the reaction rate constants,
+Av II hv
+PhCHCCHPh including those of fast reactions (108-109 s"1). CIDNP can
+2 2
+determine the signals of HFI constants in radicals in radicals and
+the spin-spin coupling constants in molecules, and it can also
+(PhCH 2 I3COCH 2 Ph)T (PhCH 2 13COCH 2 Ph)T detect the hot, energy-rich radicals. The mechanisms of many
+types of chemical reaction have been studied by CIDNP and
+much valuable information has been collected.8'9
+T—S-conversion 13C 12C
+IV. Principles of chemical reception of microwaves
+PhCH13CCHPh PhCHCHPh + 12CO
+2 2 2 2 We should stress that the magnetic interactions do not influence
+O the chemical reaction itself, i.e. that they do not affect the
+motion of chemically reacting atomic systems along the potential
+The rate of triplet-singlet conversion for magnetic RPs energy surface. Their effect is to switch the reaction from the
+(i.e. the pairs with magnetic 13C nuclei in benzoyl or benzyl spin-forbidden channels into spin-allowed ones, controlling the
+radicals) is higher than that for nonmagnetic pairs (with spin behaviour of the reactants (or vice versa, depending on
+nonmagnetic 12C nuclei). Therefore the magnetic RPs will whether the starting spin state of the reactants is spin-forbidden
+preferentially recombine and regenerate the starting ketone or spin-allowed). This statement applies to both the magnetic
+molecules, while the time lag of the triplet-singlet conversion in interactions (Zeeman, Fermi, dipolar, spin-orbital), specific to
+nonmagnetic RPs makes dissociation more likely for these pairs. the reaction itself, and to the external electromagnetic fields and
+As a result 13C magnetic nuclei are accumulated in the ketone their influence on the spin-carrying reaction precursors (radical
+molecules, while carbon monoxide and dibenzyl are enriched in pairs in particular).
+
+--- Page 4 ---
+
+1076 A L Buchachenko
+The principles of chemical reception of microwaves will be
+demonstrated by considering the RP example. The scheme of
+Zeeman energy levels of the RP is shown in Fig. 2. Let the pair
+be produced in a singlet spin state strongly coupled (for example,
+by HFI) with the triplet To substate, so that the population of
+the mixed, ready-to-react STo state is much higher than that of
+the T+ or T_ substates. Resonant transitions between the T
+o
+and T levels stimulated by an electromagnetic field (EMF)
+±
+depopulate the reactive STo mixed state and suppress the
+intrapair reactions, lowering the yield of reaction product from
+the singlet reaction channel. Conversely, if the starting spin state
+of the pair is triplet the reaction along the singlet channel
+depletes the population of the mixed STo state: however, the
+T—To pumping induced by the EMF additionally populates
+±
+the reactive STo state and increases the yield of reaction
+products. In general the EMF rearranges the spin system,
+switching the reaction between channels of different spin
+multiplicity and modifying the chemical reactivity of the RP as is
+found with other magnetic interactions.
+T_ S
+Figure 2. Microwave pumping of the Zeeman levels of a radical pair:
+(a) without exchange interaction (J = 0) the T—T transitions
+± o
+stimulated by the EMF populate or depopulate (by hyperfine Figure 3. Vector diagram of the spin dynamics of a radical pair developed
+interaction) the STo state; (b) in the presence of exchange interaction under the influence of the microwave field Hi (symbols defined in the text).
+(27 « gn*H) microwave pumping populates or depopulates the reactive
+mixed ST_ state. Possible ESR transitions are shown by arrows.
+resolved into two circularly polarised vectors Hi rotating with a
+frequency co in the XY plane in mutually opposite directions
+The exchange interaction J which appears at small inter- (Fig. 3a). One of these vectors, H\, rotating in phase with the
+radical distances splits the S and T levels, so that the T-S Larmor precession appears to be motionless in a new frame of
+o
+mixing now occurs only in the level crossing region (Fig. 2b), coordinates X1, Y', Z chosen to rotate with the magnetic
+where gfi^H « 27. However, in the spin evolution of the RP moment Mi.
+with distant partners the exchange interaction can be ignored. In this new, rotating frame the vector Mi experiences only
+This situation is often met because the RP spends most of its the magnetic field Hi which is now permanent, and rotates
+lifetime in the state with remote partners. round its direction with a frequency coi = yH\. This motion is
+Microwave pumping of the spin transitions modifies the rate equivalent to a periodic reorientation of the Mj vector with
+of spin evolution of the RPs and therefore also their chemistry, respect to the Z axis and therefore to H o . The magnetic moment
+providing a new principle of resonant, frequency-tuned chemical M 2 of the partner behaves similarly if the Larmor frequency of
+reception of microwaves. The change of the yield of products is its precession is also equal to co. These orientations are easily
+the true chemical response to the perturbation of the reacting seen to correspond to T ± — To spin transition.
+spin system by the EMF. (The frequency spectrum of the We shall now assume that the magnetic moments Mi and
+response is equivalent to the microwave absorption spectrum of M are not equivalent, owing to the difference Ag between their
+2
+the RP, and is therefore identical to its ESR spectrum.) Varying g-factors or to the hyperfine coupling a. Then the difference in
+2
+the external magnetic field Ho allows us to detect the ESR the precession frequencies of the M and M vectors, Aco, is
+x 2
+spectrum of the RP by monitoring the yield of any product equal to Agfi-aHojti or g\i.%a\% respectively. In the X1, Y'', Z
+2 2
+related to the reaction in the RP. Frankevich, who discovered frame rotating with the Larmor frequency of Mi this vector
+the phenomenon, suggested the name Reaction Yield Detected is again motionless. However, the vector M now precesses with
+2
+Magnetic Resonance (RYDMR) for it.10 respect to M) with a frequency Aco. This motion is equivalent to
+In order to visualise the spin transition induced by the EMF a To ?2 S spin evolution (Fig. 3c).
+we shall consider the vector representation of spin dynamics in Switching on an EMF small enough (Hi) to satisfy the
+the radical pair.2 To extract magnetic energy from the electro- condition coi < Aco stimulates the To ^ T ± transitions
+magnetic wave a particular polarisation is required: the responsible for the RYDMR phenomenon. At higher values ^f
+magnetic vector H\ of the wave should lie in_ a plane normal H\, when a>i 1* Aco, the vector M x precesses round the vector Hi
+to the permanent external magnetic field H o (Fig. 3). The (or <3|) as before, but the magnetic moment M 2 now precesses
+magnetic moment M\ of the spin carrier [assumed to have a round a total vector (coi + Aco) with a frequency (co\ + Aco2) '
+spin S = (l/2)/i, so that M, = (l/2)g!/j ]^precesses with a (see Fig. 3c). This means that the singlet-triplet spin mixing
+B
+Larmor frequency w = yHo round the H magnetic field now takes place with new difference frequency
+o
+directed along the Z axis; y = gifis/h is the gyromagnetic ratio.
+The Hi vector of the EMF is directed along the Y axis: its value Q = (coi + Aco2)1/2 - co, ss
+Aco2
+is 2H\ = 1Hi cos cot. The total motion of the vector 2H\ can be 2coi
+
+--- Page 5 ---
+
+Second generation of magnetic effects in chemical reactions 1077
+which is less than Aw itself. This implies that at high enough
+EMF amplitudes the mw irradiation alters the spin behaviour of
+the radical pair: instead of stimulating triplet-singlet transitions
+it begins to suppress them. The spin state of the pair at high
+EMF amplitudes when a>\ 2> Acu (see Fig. 3c) appears to be
+locked, so that the phenomenon is called spin locking. It
+manifests itself in distortion and ultimately in phase inversion of
+the RYDMR spectra.11
+The jump of the S - T mixing frequency from Am to A«2/a>i
+o
+can influence the properties of the mixed STo state only
+under conditions such that the lifetime of the pair x satisfies the
+relation x < an/Aco2. Conversely, for x > cui/Aco2 the ST
+0
+mixing as well as the chemical properties of the pair will not
+depend on W\ and, therefore, on H\ (spin scrambling). By varying
+a>\ over wide limits and studying the dependence of the
+RYDMR spectra on co\ (or H\) we may determine both Aco and
+the lifetime T of the radical pairs.2
+V. Reaction yield detected magnetic resonance
+The frequency spectrum of the chemical response to mw 609 G
+pumping is essentially the RYDMR spectrum, which may be
+recorded by monitoring any parameter of the chemical system Figure 4. RYDMR spectra of an ion-radical pair [(naph-
+under investigation providing that it is kinetically related to the thalene)+/(naphthalene)~] for a microwave pumping power of 1.3 (a),
+RP reaction (and therefore to the population of spin substates of 3.8 (6), and 7.6 W (c).n
+the pair). Among the most easily and precisely measurable
+parameters used to detect RYDMR spectra are the luminescence
+intensity, optical absorption, electric conductivity and radical In order that the mw pumping may influence the spin
+concentration. evolution of the pair, two dynamic requirements must be
+Electronically excited molecules able to emit from their satisfied:
+singlet or triplet states (fluorescence or phosphorescence respec-
+tively) are usually produced by the recombination of ion-radical S-TO <, )-1 and TRP w
+pairs (or, more precisely, by electron transfer reactions between where H\ is the amplitude of the mw field, {yH\)~x is the
+partners). For example, the reaction between the ion radicals characteristic time of the mw-stimulated To—T transitions,
+±
+D'+ and A#~ may occur along singlet or triplet channels: TS-T and XRP are the characteristic time of the S-T spin
+0 o
+evolution and of the lifetime of the ion-radical pair respectively.
+D + + A— »• '(D" + A--) »• 'D + Ao »• The first relation ensures the fast S—To transition and
+efficient chemical leakage of ion-radical pairs along the
+*• Do + Ao + hv (fluorescence)
+singlet channel, the second ensures that the pair undergoes
+mw-stimulated To—T transitions before its disappearance.
+±
+The RYDMR signals (Fig. 4) are a single line with a
+D-+ + A— *- 3(D'+ A—) > 3D + Ao »•
+halfwidth of 14 G, evidently due to the unresolved hyperfine
+> Do + Ao + hv (phosphorescence) structure of positive and negative naphthalene ion radicals,
+since the total HFI splitting is comparable to the width of the
+The mw pumping of the singlet pairs stimulates their line. The centre of the RYDMR spectrum lies at 609 G, which
+singlet-triplet conversion, thus suppressing the fluorescence in corresponds to the g-factor of aromatic ion radicals at an
+favour of the phosphorescence. Conversely, the mw pumping of operating frequency of 1704.6 MHz.
+triplet pairs induces the opposite effect. However, the intensity The optically detected RYDMR spectrum with resolved HFI
+of fluorescence is usually small, and therefore fluorescence is splitting shown in Fig. 5 belongs to the ion-radical pair
+seldom used to detect RYDMR spectra. Most of the RYDMR (M-+ M"~), where M is biphenyl, generated under conditions
+experiments are based on fluorescence intensity measurements. similar to those used to generate the naphthalene ion-radical
+Fig. 4 shows the RYDMR spectrum for the ion-radical pair pair.13
+(M'+ M'~) generated by positron irradiation of a solution of As well as the radical-radical interactions, the chemical and
+naphthalene in squalane.12 The reactions resulting in the physical processes in triplet-triplet and triplet-doublet pairs
+formation and recombination of aromatic ion-radical pairs are: can be studied by the RYDMR technique in liquids and in
+molecular solids. The dynamics and mechanism of the triplet
+S *• SI+ + e, exciton annihilation and the quenching of triplet molecules by
+radicals and other spin carriers can also be elucidated by this
+M + e »• M—, technique. The mw pumping changes the population of the
+M + S"+ »• M"+ + S, Zeeman spin levels in T-T or T—D pairs (as it does in D-D
+pairs) and thus controls the intensity of the prompt or the
+M-+ + M— * M* + M, delayed fluorescence.14
+The scheme of spin levels and mw-stimulated interlevel
+where S and M are solvent and aromatic molecules, respectively, transitions in a pair of triplet excitons is shown in Fig. 6 as
+M' + , M"~, S'+are their cation and anion radicals, and M* is the an example. In a strong magnetic field H two of the nine spin
+excited aromatic molecule (the fluorescence emitter). The pairs states of the pair (SQi and SQ) include singlet components
+(M' + M"~) are mostly formed in the Onsager sphere and in the with amplitudes equal to \ and | 2 respectively. The singlet com-
+singlet spin state, so that their reaction product along the spin- ponents of these states are mixed with the components of the
+allowed channel is an excited M* molecule in the singlet spin quintet state, but the other states of the two-triplet pair (Q i
+±
+state. and Q±2) are pure triplets and quintets.
+
+--- Page 6 ---
+
+1078 A L Buchachenko
+100 G
+A
+t
+Figure 7. RYDMR spectrum of a pair of triplet excitons in a tetracene
+t
+V single crystal, detected by the prompt fluorescence.15
+X
+'f
+one particular orientation of the crystal with respect to the
+magnetic field.15
+RYDMR spectra have been observed in studies of excitons
+and of charge-transfer complexes in liquids and in solids,
+F-centres in alkali halide crystals, electron-hole pairs in
+amorphous semiconductors, the reaction centres in photo-
+synthetic systems, etc.2-5
+I
+The sensitivity of the RYDMR technique can be estimated.
+V The relative variation Ay in the yield of the reaction in pairs
+produced by resonant mw-induced transitions is determined by
+H 6.0 G
+the product of the probability P of the transition under the
+action of mw magnetic field H and of the lifetime T of the pair:
+Figure 5. RYDMR spectrum of the (biphenyl)+-(biphenyl)- radical pair
+(a) and its first derivative (b).13 Ay
+(4)
+y
+Upon exposure to a resonant mw field, transitions involving For a radical as a particle with a spin of \
+a change in the projection of the magnetic quantum number m
+by Am = ±1, with the total spin S preserved (AS = 0) are \2 TTI.
+(5)
+allowed. These transitions, shown by arrows in Fig. 6, increase - 2 \ h)
+the population—the SQi and SQ2 states which generate the
+annihilation product: the excited molecule which emits the The coefficient a ^ 1 determines the relative variation in the
+fluorescence. yield y if the multiplicity of the pair is completely changed.
+The mw-stimulated spectrum of the triplet exciton At resonance (Ho = H )
+Tes
+pair detected by the prompt fluorescence of the tetracene
+molecule in a tetracene single crystal is shown in Fig. 7 for Ay ,2
+(6)
+where co\ = (gn^Hx/h). It is easily seen that for pairs with a
+lifetime T = 5 x 10~9sa value of Ay/y of about 1% is achieved
+for H\ = 1 G at a = 1. The very high sensitivity of the
+RYDMR technique is strikingly illustrated for the aromatic ion-
+radical pairs in liquids. They are generated at the rate of
+2 x 108 s-1, and have a lifetime of 10~7 s,12 and hence the
+average concentration of the radical pairs available for detection
+by fluorescence intensity measurements is about 20 per sample,
+i. e. well below the sensitivity limit of modern ESR spectroscopy
+(~ 1011 spins per sample).12
+The RYDMR spectra can be detected also by the optical
+absorption of triplet molecules produced by the pair-wise
+coupling of ion-radicals along the triplet channel. These
+molecules are usually sufficiently long-lived to be accumulated in
+measurable amounts and monitored by the triplet—triplet
+absorption of the probing light (in pulse excitation experiments,
+in particular).
+The dissociation of ion-radical or electron-hole pairs
+produces free charge carriers in concentrations which are
+susceptible to the mw pumping of the pairs. Therefore RYDMR
+Figure 6. Energy level diagram of a triplet molecule pair: the Q levels are
+pure quintet states, SQi and SQ2 are levels of mixed quintet - singlet states. spectra can be also recorded by monitoring the electric
+Triplet-levels do not contribute to the spin transitions and are not shown conductivity both in crystals and in liquids.2 Similarly, the
+in the diagram. The arrows indicate transitions which populate the dissociation of pairs of neutral radicals in solutions generates
+mixed SQ states and the formation of a source of fluorescence (the free radicals. This process is spin-independent, but it competes
+•S* molecules). with the spin-selective intrapair coupling, and therefore the yield
+of free radicals which have escaped recombination should be as
+
+--- Page 7 ---
+
+Second generation of magnetic effects in chemical reactions 1079
+sensitive to the mw pumping as the recombination itself (but, of The concept of the RIMIE was clearly formulated17 in 1981
+course, in anti-phase). and experimentally embodied18 in 1991 in the photolysis of
+RYDMR spectra detected by counting free radicals were dibenzyl ketone (DBK) in SDS micelles. The photolysing laser
+first reported by Okazaki et al.,16 who studied the photo- pulses were synchronised with the mw pulses, and their lengths
+reduction of menadione (MD, 2-methylnaphthoquinone) in were chosen so that the RP generated by short laser pulses were
+sodium dodecyl sulfate (SDS) micelles. The reaction includes the exposed to the mw pulse throughout their life time. The
+removal of a hydrogen atom from the SDS molecule by the frequency of the mw irradiation was chosen to pump selectively
+excited MD in triplet state: only the magnetic RPs [PhCH 2 13C(O)CH 2 Ph], while the non-
+magnetic RPs [PhCH 12C(O)CH Ph] remained unperturbed by
+2 2
+-•coupling products the microwaves (see Scheme 1).
+3MD + SDSC- (MDH SDS) The isotope enrichment S of dibenzyl ketone as a function of
+-*• MDH + SDS chemical conversion is described by the expression
+\nS= (l-a)ln(l-/*), (7)
+Only SDS radicals are trapped by the added water-soluble
+nitroso spin trap TNO (perdeuterodimethylnitrosobenzene where S = <5/<5o, <5o and <5 are respectively the 13C content in the
+sulfonate) because the chemical reactivity of the spin trap starting ketone and in its residue after the chemical conversion of
+towards the semiquinone radical MDH is negligibly low. The the 'magnetic' ketone PhCH 13C(O)CH Ph has reached the
+2 2
+yield of the stable spin adduct [the nitroxyl radical T(SDS)NO] value f*.4 The coefficient a is the efficiency of the isotope
+measured by ESR was shown to decrease under mw-pumping separation (a one-step enrichment coefficient similar to that
+(in keeping with the reaction scheme). Indeed, stimulating the introduced by Bernstein19 for the classical, mass-dependent
+triplet-singlet conversion of the RP by resonant mw irradiation isotope effect).
+induces chemical annihilation of the pair. As a result, the leakage The experimentally measured isotope enrichment 5 of DBK
+of free radical out of the pair (and consequently the yield of spin as a function of 1 — /* in the parameters of Eqn (7) is shown in
+adduct) decreases quite noticeably, as shown by Fig. 8. The Fig. 9. As can be seen the one-step enrichment coefficients
+largest reduction in the yield reaches 8% for the photolysis of are different: for the photolysis in the presence of mw
+protonated SDS micelles and about 14% if the photolysis a = 1.25 ± 0.01, while without mw pumping we have
+mw
+is carried out in deuterated micelles. The magnetic field ao = 1.21 ± 0.01. Thus the mw irradiation is found to increase
+dependences of the mw-stimulated chemical response are in fact the isotope selectivity in the RP and the isotope enrichment of
+RYDMR spectra detected by radical escape measurements. the recovered ketone.
+The difference in their hyperfine structure confirms the difference
+in isotopic composition of one of the RP partners: the SDS
+lnS
+radical, in which hydrogen nuclei are replaced by deuterons.
+Yield of the product (%)
+0.2
+16 -
+12
+0.1
+0.5 1.0 -In (I-/*)
+Figure 9. Isotope enrichment S as a function of the chemical conversion
+/* of 13C dibenzyl ketone in the coordinates of Eqn. (7):18 (7) with
+microwave pumping (H\ = 4.5 G); (2) without pumping.
+The net contribution of the mw pumping to the
+336 338 340 342
+recombination probability of the magnetic radical pair is about
+6%. This value seems too small at first sight, but allowance
+Figure 8. Dependence of the yield of the spin adduct under microwave should be made for the unfavourable experimental conditions.
+pumping on the strength of the magnetic field H (or RYDMR spectra) for Firstly, the pumping of only one RP was carried out, which
+the photolysis of menadione in SDS (1) and deutero-SDS micelles (2).16 reduces the efficiency of mw irradiation at least two-fold.
+Secondly, the low amplitude of the mw pumping (H\ =0.3 mT)
+corresponds to the characteristic time of the mw-induced
+VI. Radio induced magnetic isotope effect electron spin flip (the time of equilibrating the populations of
+T -To spin levels) T = (ytfi)"1 = 120 ns. It is much larger
+± mw
+As a means of resonant chemical reception of microwaves than the time interval between radical reencounters in the radical
+RYDMR is nonselective because all the RPs are subjected to the pair (Tenc =136 ns), so that the pair has not enough time
+mw perturbation. If the mw pumping is selective with respect to between reencounters to complete the mw-induced spin
+magnetic nuclei it induces a new, Radio Induced Magnetic reorientation, and therefore the T -T transition. This
+± o
+Isotope Effect (RIMIE). The microwave irradiation of magnetic unfavourable relation (t > T ) is probably the main reason
+mw enc
+RPs should accelerate their spin conversion and stimulate their for the relatively low efficiency of the mw pumping in the isotope
+pair-wise reactions (usually recombination), enhancing the selection. High amplitude microwave pumping would be
+nuclear isotope selectivity induced by MIE of the first generation. desirable to bring T closer to T c in order to equilibrate the
+mw en
+
+--- Page 8 ---
+
+1080 A L Buchachenko
+populations of the T and To states of the radical pair before the The fundamental physics of the SNP phenomenon can
+±
+moment when the probing contact of the partners takes place. again be clearly exemplified by the spin processes in the
+From this viewpoint the spin locking regime for the triplet radical pair [PhCH13C(O)CHPh], generated by the
+2 2
+nonmagnetic pairs (PhCH 13C(O)CH2Ph) is thought to be photolysis of DBK (Fig. 10). The ESR spectrum of the pair
+2
+favourable to the separation of isotopes, since it prevents their consists of a central group of lines (not shown in Fig. 10)
+recombination and thus increases the efficiency of isotope which belong to the PhCH radical, and of a doublet from the
+2
+selection. A combination of the two regimes (spin locking for the PhCH13CO radical with hyperfine splitting a(13C). Since a(13C)
+2
+nonmagnetic pairs and stimulating microwave pumping for the is known to be positive, the low-field line of the doublet is
+magnetic pairs) would be most efficient. attributed to the ensemble of RPs with 13C nuclei oriented with
+In these experiments the ideal selectivity of mw pumping is the field (a spins on the lower Zeeman level), whereas the high-
+m
+achieved, because the ESR transitions of 'magnetic' and field line belongs to the ensemble with 13C nuclei oriented
+'nonmagnetic' RP do not overlap and are separately accessible against the field (p , spins on the upper Zeeman level). The fast
+B
+to the pumping action. The radio induced magnetic isotope intersystem To—S conversion induced by the HFI equalises the
+effect with partially selective pumping was observed by Okazaki populations of these two spin levels. The mw pumping of the
+et al.20 even earlier (in 1988) in the photolysis of menadione in ESR transitions in the first ensemble of pairs at a frequency w
+a
+SDS micelles consisting of a mixture of protonated and of stimulates the T -To spin conversion and additionally
+±
+deuterated sulfonate molecules in a 1:1 ratio. The RYDMR populates the To states of the pairs with nuclear spins o causing
+n
+spectra of this system were detected from the yield of SDS acceleration of their recombination and the dominant formation
+radicals (see Section V), taken up by the spin trap and measured of the DBK molecules with a. spins (the positive SNP). The mw
+n
+as nitroxyl radicals. The spectra are shown in Fig. 8: their pumping of the second RP ensemble with p\, nuclear spins at
+overlap prevents the separate pumping of the isotopic forms of frequency coj selectively produces DBK molecules with 13C
+the radical pairs, but even with joint, nonselective pumping the nuclei having p spins (the negative SNP). As a result the mw
+M
+yields of protonated and of deuterated SDS are markedly pumping transforms the ESR spectrum of the radical pair into
+different.20 NMR spectrum of a molecule with polarised nuclei, or an SNP
+spectrum of the absorption-emission, A/E type (Fig. 10,
+absorption in the high-field component and emission in the low-
+VII. Microwave stimulated nuclear polarisation
+field component).
+Stimulated Nuclear Polarisation (SNP) is the result of mw As a physical phenomenon SNP offers a powerful method of
+pumping of ensembles of RPs with selected orientations of the investigating the chemical reaction mechanisms and of detecting
+nuclear spins. It is similar to CIDNP, the only difference being their radical intermediates. This is clearly illustrated by the SNP
+that in CIDNP the nuclear spin selection in the RPs via in the photolysis of deoxybenzoin PhCOCHPh in SDS
+2
+triplet-singlet conversion is accomplished by existing magnetic micelles.22 The quantum yield of its photolysis is very low: the
+interactions characteristic of the radicals, whereas in SNP the products are formed in undetectable amounts. In the 13C CIDNP
+selection is produced by the resonant microwave field. Again, the spectra no lines are produced by photolysis with the exception of
+radical pair acts as a selective chemical microwave receiver, but a single line belonging to the carbonyl 13C nuclei of the starting
+now the indicator of the reception is the nuclear polarisation in ketone. It shows strong emission and indicates reversible photo-
+reaction products.21 chemical processes accompanied by the almost complete
+In chemical reaction subjected to resonant (and therefore regeneration of the starting ketone, so that the reaction scheme is:
+nuclear spin selective) mw pumping these two phenomena,
+CIDNP and SNP, can coexist, so that the experimentally PhCOCHPh X,
+2
+measured NMR spectrum of the product molecules displays
+both contributions. The experimental technique which can where X is the unknown intermediate responsible for the
+distinguish between them by performing the pumping and the CIDNP of this ketone.
+detection separately in time and space was developed by Sagdeev Tarasov and Bagryanskaya25 have studied the 13C SNP in
+and his coworkers,26 the pioneers and leaders of SNP this system and interpreted the strong SNP spectra (Fig. 11) as a
+studies.22"25 This technique eliminates the CIDNP contribution superposition of two doublets. The first (A/E, with a splitting
+and measures the net nuclear polarisation, induced by mw of 120 G) has been attributed to the acyl radical Ph13CO,
+pumping. whereas the second, a poorly resolved A/E doublet with a
+smaller splitting (30 G), was attributed to the radical
+PhCH 2 13C CH 2 Ph PhCH 2 I3CCH 2 Ph SNP intensity
+O O 1000 r
+_J L
+I3C spin <*„ P,
+frequency coa cu*
+500 B o /G
+ESR spectrum NMR spectrum
+Figure 10. Development of SNP. The selective pumping of the ensemble of
+radical pairs with a, and p orientations of the spins of 13C nuclei at
+n -1000L
+frequencies w and coj accelerates their triplet-singlet conversion and
+a
+transforms the ESR spectrum of the pair into the NMR spectrum of the
+molecule produced by its recombination (the molecule inherits the nuclear Figure 11. SNP spectrum detected during the photolysis of deoxybenzoin
+orientations of its precursor: the radical pair).2 in SDS micelles.25
+
+--- Page 9 ---
+
+Second generation of magnetic effects in chemical reactions 1081
+SNP intensity SNP experiments the laser and mw pulses are separated by the
+time delay id, and therefore TR SNP offers a new possibility of
+1000 •»:si o Pt -Ph influencing the ensembles of RPs with lifetimes in selected time
+domains but not shorter than the time resolution (about 30 ns in
+T
+the best experiments by Sagdeev and coworkers26-28).
+-
+800 The study of the photolysis of benzoyl peroxide in
+. o °e CD 3 OD 26 is a good illustration of the application of TR SNP.
+• o °o o The reaction is known to involve a sequence of singlet RPs,
+600 - • o including the pair (PhCOPh) which contains a phenyl radical
+• • O°Q (3 2 o not accessible by convent 2 ional ESR technique under standard
+400 o CH 3 * • • 0 c S o N n P d it o i f o n o s p . p T o h s e it e S N si P gn s s p e fo c r t ra t h r e e c c o a r g d e e d ( p a h t e n id y l = b e 0 n z (F oa ig te . ) 1 3 a ) n d s ho th w e
+Ph"" ' -C—Ph escape (benzene) products, in excellent agreement with the
+200 - H reaction scheme and the SNP mechanism. However the TR SNP
+1 • spectra taken with id > 50 ns are found to be completely
+inverted for both products. This is because, in the time domain
+n I of 50-200 ns, in which the inverted TR SNP spectra have been
+200 400 //ns observed, the SNP is generated in the diffusional RPs such as
+(PhPh) or (PhCDOD). The sign of the SNP in these pairs is the
+2
+same as in triplet RP. At times id < 50 ns the SNP is completely
+Figure 12. Kinetic behaviour of radical pairs generated by the photo-
+attributed to the geminal RP (PhCO Ph) in the singlet state.
+dissociation (/) and photoreduction (2) of deoxybenzoin in SDS 2
+micelles.25 The phase inversion as a function of id is shown in Fig. 13b: two
+time domains corresponding to SNP in geminal and in
+diffusional radical pair ensembles are clearly shown.
+Ph13C(OH)CHPh, the primary product of the photoreduction A micelle (a microreactor with a boundary surface) confines
+2
+of the excited triplet ketone by the SDS molecule (RH). These the RP in a restricted volume. Hence the interradical exchange
+SNP spectra suggest two competing paths for the photochemical energy J in micellised RP should be a function of the micelle size,
+transformation of deoxybenzoin: photodissociation and photo- so that the SNP spectra, being sensitive to /, are in fact probes
+reduction via two different intermediates X {the radical pairs which monitor the exchange energy in RP.
+(PhCOCHPh)T and [PhC(OH)CHPh R]T respectively}. Both A convincing confirmation of this statement was given by
+2 2
+are highly reactive with respect to the ketone regeneration Tarasov et al.,29 who studied the photolysis of methyldeoxy-
+reaction, though their kinetic behaviour (Fig. 12) is different: benzoin (99% 13C abundance in the carbonyl group) in micelles
+the recombination is faster in the former than the dis- of varying size controlled by the number n of carbon atoms in
+proportionation is in the latter.25 the detergent molecule CH3(CH)_iSO4Na. As expected the
+2n
+In stationary SNP detection the radical pairs are exposed to SNP spectra were strongly dependent on n and therefore on the
+mw pumping throughout their lifetime. In time-resolved (TR) micelle size (Fig. 14). Both the line broadening and the decrease
+in doublet splitting are evidence of an increase in / in the
+SNP (arb. un.)
+SNP (arb. un.)
+n = 12
+So/mT
+n = 11
+n = 9
+o ° o o '
+o o
+50 100 150 T,,/ns n = 7
+• • 1
+45 49 53 57 61 63 B/mT
+0
+Figure 13. TR SNP spectra of phenyl benzoate (I) and benzene (2), Figure 14. 13C SNP spectra of the radical pair generated by photo-
+detected by 13C NMR during the photolysis of benzoyl peroxide (a), and dissociation of deoxybenzoin in micelles of different size (n is the number
+their phase inversion as a function of TJ (b).26 of carbon atoms in the detergent molecule).25
+
+--- Page 10 ---
+
+1082 A L Buchachenko
+[Ph13CO CHMePh] RP as the miceUes become smaller. Only References
+in SDS micelles (« = 12) / is negligibly small and the doublet
+splitting corresponds to the hyperfine coupling constant 1. K M Salikhov, Yu N Molin, R Z Sagdeev, A L Buchachenko Spin
+a(13C)in the PhCO radical (124 G). The doublet splitting and Polarisation and Magnetic Effects in Radical Reactions (Amsterdam:
+the / values are given below:29 Elsevier, 1984)
+2. A L Buchachenko, E L Frankevich Chemical Generation and
+n a(13C)/mT //mT Reception of Electromagnetic Waves (New York: VCH Publ., 1993)
+3. U E Steiner, T Ulrich Chem. Rev. 89 51 (1989)
+12 12.4 <0.1 4. A L Buchachenko Progress in Reaction Kinetics 13 163 (1984)
+11 12.0 0.5 5. Ya B Zel'dovich, A L Buchachenko, E L Frankevich Usp. Fiz. Nauk
+9 10.0 3.4 155 3(1988)
+8 8.4 8.0 6. A L Buchachenko, V F Tarasov Ace. Chem. Res. in press (1993)
+7. I R Gould, N J Turro, M B Zimmt Adv. Phys. Org. Chem. 20 1
+7 7.6 14.0
+(1984)
+8. Chemically Induced Magnetic Polarization (Eds A R Lepley,
+This information is of value for constructing the potential
+G L Closs) (London: Wiley, 1978)
+energy surfaces of the interradical reactions and for calculating
+9. A L Buchachenko Khimicheskaya Polyarizatsiya Elektronov i Yader
+the spin dynamics and the magnetic effects more exactly.
+(Chemical Polarisation of Electrons and Nuclei) (Moscow: Nauka,
+The strategy of magnetically probing the exchange potential 1974)
+(by SNP spectroscopy, in particular) along the reaction 10. E L Frankevich, A I Pristupa, V I Lesin Chem. Phys. Lett. (47) 304
+coordinate of chemical bond formation or dissociation is an (1977)
+important supplement to the transition state spectroscopy based 11. S I Kubarev, S V Sheberstov, A S Shustov Chem. Phys. Lett.
+on the femtosecond time-resolved optical spectroscopy (73)370(1980)
+developed by Zewail.30 The difference is that femtosecond 12. O A Anisimov, V M Grigoryants, V K Molchanov, Yu N Molin
+spectroscopy probes the transition state at short interatomic Chem. Phys. Lett. (66) 265 (1979)
+distances, where / > kT, whereas magnetic probing deals with 13. O A Anisimov, V M Grigoryants, Yu N Molin Pis'ma Zh. Eksp.
+the long-distance exchange potential (J < kT). From this point Teor. Fiz. 30 589 (1979)
+of view microwave magnetic probing can be treated as the radio 14. E L Frankevich, S I Kubarev Triplet State ODMR Spectroscopy
+spectroscopy of the transition state (the analogue of Zewail's (Ed. R H Clarke) (New York: Wiley-Interscience, 1982) p. 138
+transition state optical spectroscopy).31 15. E L Frankevich, A I Pristupa, V I Lesin Chem. Phys. Lett. (47) 304
+(1977)
+16. M Okazaki, S Sakata, R Konaka, T Shida J. Chem. Phys. 86 6792
+VIE. Conclusion (1987)
+17. A L Buchachenko, V F Tarasov Zh. Fiz. Khim. 55 1921 (1981)
+Magnetic interactions (as a principal factor in the magnetic
+18. V F Tarasov, E G Bagryanskaya, Yu A Grishin, R Z Sagdeev,
+scenario of chemical reactions) regulate the spin dynamics and
+A L Buchachenko Mendeleev Commun. 85 (1991)
+control the spin multiplicity of the radical pairs (as well as the 19. R Bernstein /. Phys. Chem. 56 893 (1952)
+pairs of other spin bearers), and therefore they also control their 20. M Okazaki, T Sakata, T Shida, R Konaka, K Toriyama J. Phys.
+chemical reactivity. Electromagnetic fields influence the spin Chem. 92 1402 (1988)
+dynamics as a new factor which plays new scenes and initiates 21. R Z Sagdeev, Yu N Molin, K M Salikhov, Yu A Grishin,
+new phenomena: RYDMR, SNP, RIMIE, spin locking, A V Dushkin, A Z Gogolev Bull. Magn. Res. 2 66 (1980)
+quantum beats (the latter is beyond the scope of this paper). 22. E G Bagryanskaya, Yu A Grishin, R Z Sagdeev, T V Leshina,
+These remarkable magnetic effects of the second generation are N I Polyakov Chem. Phys. Lett. (117) 220 (1985)
+schematically summarised in Scheme 2 as indicators of the 23. E G Bagryanskaya, Yu A Grishin, N A Avdievich, R Z Sagdeev,
+chemical reception of radiowaves and microwaves. Yu N Molin Chem. Phys. Lett. (128) 162 (1986)
+24. R Z Sagdeev, E G Bagryanskaya Pure Appl. Chem. 62 1547 (1990)
+25. E G Bagryanskaya, R Z Sagdeev Progr. React. Kinetics 18 63 (1993)
+Scheme 2
+26. N A Avdievich, E G Bagryanskaya, Yu A Grishin, R Z Sagdeev
+Chem. Phys. Lett. (155) 141 (1989)
+! Microwave pumping
+27. I V Koptyug, E G Bagryanskaya, Yu A Grishin, R Z Sagdeev
+J. Chem. Phys. 145 375 (1990)
+Chemical reaction 28. E G Bagryanskaya, Yu A Grishin, R Z Sagdeev Chem. Phys. Lett.
+(128)417(1986)
+I Microwave reception 29. V Tarasov, N Ghatlia, N Avdievich, I Shkrob, A Buchachenko,
+N Turro /. Am. Chem. Soc. in press (1993)
+30. A H Zewail Science 242 1645 (1988)
+Yield of reaction products
+31. A L Buchachenko, V F Tarasov, N G Ghatlia, N J Turro Chem.
+Phys. Lett. (192) 139 (1992)
+Phenomena Detection
+RYDMR Luminescence
+SNP Electric conductivity -
+RIMIE Spin traps
+Spin locking Isotopic composition -
+Stimulated Orientation-
+quantum beats of nuclear spins
+The author is grateful to the readers of this review and hopes
+that it will inspire them to use the achievements of electro-
+magnetic spin chemistry. Financial support from the Russian
+FFuunndd ffoorr FFuunnddaammeennttaall Research (grant 93-03-5227) is
+gratefully acknowledged.

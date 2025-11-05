@@ -1,0 +1,49 @@
+{
+  "paper_id": "p375",
+  "doi": "",
+  "title": "--- Page 1 ---",
+  "authors": [
+    "CISE SpA",
+    "Segrate (Milan)",
+    "Italy"
+  ],
+  "publication": {
+    "journal": "",
+    "year": null,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": ""
+  },
+  "keywords": [],
+  "abstract": "The use of devices generating high magnetic fields in industrial\nprocesses, energy production and storage, medical diagnostics, new\ntransport vehicles and large scale research facilities is expected to\nexpand significantly in the near future. Scientific and public interest\nhas focused recently on the biological effects and the potential health\nrisks associated with the exposure to magnetic fields. Over the last\ntwenty years several laboratory studies and epidemiological surveys\nhave been carried out in this field but no definite conclusions\nconcerning the related risks for personnel or general public have been\ndrawn. The aim of this article is to provide an overview of these\ninvestigations together with an analysis of the well-established effects\nof the interaction between static or ELF magnetic fields and living\nmatter. The international guidelines and standards for exposure to\nmagnetic fields are also reported and discussed.",
+  "date_added": "2025-11-05T07:58:29.885410",
+  "last_modified": "2025-11-05T07:58:29.885413",
+  "access": {
+    "license": "Unknown",
+    "access_level": "restricted",
+    "original_file": "/Users/clarice/Desktop/Claude test/Literature/p375.pdf",
+    "alternative_formats": []
+  },
+  "interoperability": {
+    "related_papers": [],
+    "cites": [],
+    "cited_by": [],
+    "ontology_terms": [],
+    "data_formats": [],
+    "methods_used": []
+  },
+  "research_context": {
+    "species_studied": [],
+    "proteins": [],
+    "magnetic_field_parameters": {
+      "field_strength": "",
+      "frequency": "",
+      "field_type": ""
+    },
+    "experimental_techniques": [],
+    "computational_methods": [],
+    "key_findings": [],
+    "applications": []
+  }
+}

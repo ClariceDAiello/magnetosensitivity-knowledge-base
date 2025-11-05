@@ -1,0 +1,4 @@
+NEO4J_URI=bolt://44.202.214.48
+NEO4J_USERNAME=neo4j
+NEO4J_PASSWORD=citizens-sevens-forecasts
+NEO4J_DATABASE=neo4j

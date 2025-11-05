@@ -1,0 +1,997 @@
+
+
+--- Page 1 ---
+
+c . J p n.
+e Chemical © 2001 The Chemical Society of Japan Bull. Chem. Soc. Jpn., 74, 773—783 (2001) 773
+ciety of Ja-
+n
+e Chemical Accounts
+ciety of Ja-
+n
+Magnetic Field Effects and Spin Dynamics of Radical Reactions
+01
+3 in Solution
+3
+SJA8 H. Hayashi et al.
+09-2673
+Hisaharu Hayashi,* Yoshio Sakaguchi, and Masanobu Wakasa
+215
+vember
+Molecular Photochemistry Laboratory, RIKEN (The Institute of Physical and Chemical Research),
+Wako, Saitama 351-0198
+00
+(Received November 14, 2000)
+01
+A pulsed magnet which is useful for the research of chemical reactions has recently been constructed by our group.
+.3
+Here, the world record of the maximum magnetic field (30 T) has been attained in this research area. An optical detected
+.5
+X-band ESR apparatus has also been developed by our group. The world’s best sensitivity and resolution have been real-
+ized in this apparatus. In this account, we review our recent results on new magnetic field effects and spin dynamics ob-
+tained with such novel methods as described above for radical reactions at room temperature in solution. In Section 1,
+typical mechanisms of MFEs on radical pairs such as the ∆g mechanism and the relaxation mechanism are explained as
+the introduction of this review. In Section 2, the saturation of MFEs due to the ∆g mechanism observed for radical pairs
+generated from the photoreduction of 4-methoxybenzophenone with benzenethiol in fluid solutions under ultrahigh fields
+are described. In Section 3, the saturation and reversion of MFEs due to the relaxation mechanism observed for radical
+pairs generated from the photoreduction of carbonyl and quinone compounds in micellar solutions under ultrahigh fields
+are reviewed. In Section 4, the first observation of MFEs on the reactions of three-spin systems generated photochemi-
+cally in solution are introduced. In Section 5, we describe spin dynamics of radical pairs studied with our optically de-
+tected ESR apparatus for radical pairs generated from the photoreduction of carbonyl and quinone compounds in micel-
+lar solutions.
+Before the early 1970’s, many papers had reported magnetic high fields are described. In Section 3, MFEs due to the relax-
+field effects (MFEs) on chemical and biological reactions. Al- ation mechanism observed under ultrahigh fields are reviewed.
+most all of such reported data, however, had lacked reproduc- In Section 4, MFEs on the reactions of three-spin systems are
+ibility and theoretical interpretation. Thus, most scientists at introduced. In Section 5, spin dynamics of radical pairs stud-
+that time believed that ordinary magnetic fields less than 2 T ied with our optically detected ESR apparatus are described.
+could not exert an appreciable influence on chemical and bio-
+1. Typical Mechanisms of MFEs
+logical reactions. This idea seems reasonable because magnet-
+ic energies induced on chemical species are much smaller than Figure 1 shows the reaction scheme of radical pairs pro-
+those related to chemical reactions.1 In the middle 1970’s, duced from singlet and triplet precursors. From a singlet radi-
+however, chemical reactions through radical pairs in solution cal pair, a cage product and escape radicals are produced from
+were found to be appreciably influenced by ordinary magnetic cage recombination and escape from a solvent cage, respec-
+fields. These MFEs were explained by the fact that very small tively. From a triplet radical pair, however, escape radicals are
+magnetic energies of radical pairs could switch their non-equi- usually produced. The above-mentioned processes are not in-
+librium spin conversion processes.1 Such studies of MFEs on fluenced by magnetic fields, but the singlet–triplet (S–T) con-
+radical pair reactions together with those of chemically in- version of radical pairs has been found to be influenced by
+duced dynamic electron and nuclear polarizations (CIDEP and magnetic fields induced by external magnets, resonant micro-
+CIDNP) have brought about the advent of a new research field wave, and nuclear spins inside radical pairs as shown below.
+called “Spin Chemistry”.2 Thus, the radical pair lifetime and the yields of cage and es-
+The present review is focused on a few novel MFEs and re- cape products can be affected by magnetic fields.
+lated phenomena which have recently been investigated in our Let us consider the mechanisms of the MFEs on the S–T
+group for radical reactions generated photochemically in solu- conversion of radical pairs. In 1965, we found an anomalous
+tion. In Section 1, typical mechanisms of MFEs on radical hyperfine structure of the ESR spectrum of a radical pair of
+pairs are explained for the introduction of this review. In Sec- two iminoxyl radicals trapped in the x-irradiated single crystal
+tion 2, MFEs due to the ∆g mechanism observed under ultra- of biacetyl dioxime and interpreted this anomaly by develop-
+[BULLETIN 2001/05/21 15:24] A1215
+
+--- Page 2 ---
+
+774 Bull. Chem. Soc. Jpn., 74, No. 5 (2001) ACCOUNTS
+(for |χ(cid:1) (cid:2) |M,M(cid:1)), and M′ (cid:2) M.
+N i k k k
+Figure 2 shows the magnetic field dependence of the S–T
+conversion of a radical pair for (a) the ∆g mechanism (∆gM),
+(b) the hyperfine coupling mechanism (HFCM), and (c) the
+level-crossing mechanism (LCM), respectively. When the ∆g
+value is not zero, but when the J, A, and A values are zero, the
+i k
+∆gM is applicable. In this mechanism, the S–T conversion
+0
+rate is increased through the ∆gµB term of Eq. 6 with increas-
+B
+ing B as shown in Fig. 2a.1 When the A, and/or A values are
+i k
+not zero, but when the J and ∆g values are zero, the HFCM is
+applicable. In this mechanism, the S–T (n (cid:2) (cid:3)1, 0, and (cid:4)1)
+n
+conversions are possible at zero field through the (ΣaAM (cid:4)
+i i i
+ΣbAM) term of Eq. 6 and the right side of Eq. 7. In the pres-
+k k k
+ence of a magnetic field, however, only the S–T conversion
+0
+becomes possible as shown in Fig. 2b. Thus, the S–T conver-
+Fig. 1. Reaction scheme of radical pairs generated from
+sion rate is reduced by the field in the case of the HFCM.1
+singlet and triplet precursors.
+When the J and A (or A) values are not zero, the LCM is ap-
+i k
+plicable. In this mechanism, the S–T (n (cid:2) 1, 0, and (cid:4)1) con-
+ing a general theory of the spin Hamiltonian for radical pairs n
+versions are not possible at zero field, because the S and T
+each of which consists of two weakly coupled radicals.3 Using n
+states are separated by |2J| at zero field as shown in Fig. 2c.
+this general theory, we can write the spin Hamiltonian of a rad-
+ical pair (H ) in solution with the exchange (H ) and isotro-
+On the other hand, the S–T(cid:4)1 (in the case of J < 0 J) or S–T(cid:3)1
+RP ex (in the case of J > 0 J) conversion becomes possible through
+pic magnetic (H ) terms as follows:1
+mag the right side of Eq. 7 at the level-crossing field (B ).
+LC
+H (cid:2) H (cid:3) H , (1)
+RP ex mag B (cid:2) |2J|/gµ (8)
+LC B
+where
+At this field, the S–T(cid:4)1 (or S–T(cid:3)1 ) conversion is suddenly in-
+H (cid:2) (cid:4)J(2S S (cid:3) 1/2) (2)
+ex 1 2
+H (cid:2)(g µS B(cid:3)∑a ASI)(cid:3)(g µS B(cid:3)∑b AS I )(3)
+mag a B 1z i i 1 i a B 2z k k 2 k
+In Eq. 2, J is the value of the exchange integral between two
+electron spins (S and S ). In Eq. 3, B is the flux density of an
+1 2
+external magnetic field applied along the z-axis, g and g are
+a b
+the isotropic g-values of two component radicals (radicals a
+and b) in a radical pair, respectively, µ is the Bohr magneton,
+B
+and A and A are the isotropic hyperfine coupling (HFC) con-
+i k
+stants with nuclear spins (I and I) in radicals a and b, respec-
+i k
+tively.
+The energies (E(S) and E(T )) of the singlet and triplet radi-
+n
+cal pairs (|S,χ(cid:1) and |T ,χ(cid:1)) can be given as follows:1
+N n N
+E(S) (cid:2) (cid:2)S,χ |H (cid:3) H |S,χ(cid:1) (cid:2) J (4)
+N ex mag N
+E(T )(cid:2) T,χ H (cid:3)H T,χ
+n n N ex mag n N
+(cid:2)(cid:4)J(cid:3)ngµB(cid:3) n ( ∑aAM(cid:3)∑bA M ) (5)
+B i i i k k k
+2
+Here, χ is the nuclear wavefunction of the radical pairs, n (cid:2)
+N
+(cid:3)1, 0, and (cid:4)1; g (cid:2) (g (cid:3) g )/2. The S–T conversion between
+a b
+|S,χ(cid:1) and |T ,χ(cid:1) occurs through the following off-diagonal
+N n N
+matrix elements:1
+T,χ H (cid:3)H S,χ
+0 N ex mag N
+(cid:2) 1 [∆gµB(cid:3)( ∑aAM(cid:4)∑bA M ) ](cid:2)hQ (6)
+B i i i k k k N
+2
+Fig. 2. Conversion between the singlet (S) and triplet (T,
+n
+n (cid:2) 1, 0, (cid:4)1) states of a radical pair in the absence and
+(cid:5)A
+T(cid:6)1 ,χ
+N
+′H
+ex
+(cid:3)H
+mag
+S,χ
+N
+(cid:2) i [I
+i
+(I
+i
+(cid:3)1)(cid:4)M
+i
+(M
+i
+(cid:5)1)]1/2(7) presence of a magnetic field: (a) The ∆g mechanism
+2 2 (∆gM); (b) The hyperfine coupling mechanism (HFCM);
+Here, ∆g (cid:2) (g (cid:4) g )/2, M′(for |χ′(cid:1)) (cid:2) |M′,M′(cid:1)) (cid:2) M (cid:5) 1 (c) The level-crossing mechanism (LCM).
+a b i N i k i
+[BULLETIN 2001/05/21 15:24] A1215
+
+--- Page 3 ---
+
+H. Hayashi et al. Bull. Chem. Soc. Jpn., 74, No. 5 (2001) 775
+creased as shown in Fig. 2c.1
+It is noteworthy that the S–T conversion rate is given by Q
+0 N
+for a radical pair with J (cid:2) 0 J.1 When J (cid:2) 0 J, ∆g (cid:2) 0.01, B (cid:2)
+1 T, and A/gµ (cid:2) A/gµ (cid:2) 0 T, the rate becomes 4.4 (cid:7) 108
+i B k B
+s(cid:4)1 from Eq. 6. If such S–T conversion rate is comparable to
+0
+the escape rate of two radicals from a solvent cage, appreciable
+MFEs can be observed. In some cases, this condition can be
+satisfied in homogeneous solvents. If two radicals are confined
+with membranes, micelles, or chemical bonds, the escape rate
+of the two radicals becomes much smaller than the S–T con-
+0
+version rate. In this case, the S and T states attain equilibrium
+0
+and the T(cid:6)1 –T
+0
+and T(cid:6)1 –S relaxations become important as
+shown in Fig. 3. In 1984, we proposed the relaxation mecha-
+nism (RM)4 in order to explain MFEs and magnetic isotope ef-
+fects (MIEs) on chemical reactions in confined systems. When
+k (0 T), k (B) (cid:3) k in the RM, the decay (RP(t)) of a radical
+ST ST P
+pair produced from a triplet precursor can be represented as
+follows:4
+Fig. 3. Schematic diagram of the relaxation mechanism for
+(a) B (cid:2) 0 T: RP(t) (cid:2) R exp ((cid:4)k t) (9)
+0 0 the singlet (S) and triplet (T, n (cid:2) 1, 0, (cid:4)1) states of a rad-
+n
+ical pair with J (cid:2) 0 and rate constants (k) concerning the
+(b) B > 0 T: RP(t) (cid:2) R exp ((cid:4)k t) (cid:3) R exp ((cid:4)k t) (10) i
+F F S S states: (a) In the absence of a magnetic field; (b) In the
+presence of a magnetic field.
+Here,
+k (cid:2) k /4 (cid:3) k (11) behavior of radical pairs, using an ns-laser photolysis appara-
+0 P E
+tus and an electromagnet whose maximum field was 1.34 T. In
+k (cid:2) k /2 (cid:3) k (12) 1993, we made an ns-laser photolysis apparatus with a double-
+F P S
+beam probe light system, using a super-conducting magnet
+k (cid:2) k (cid:3) k ′ (cid:3) k (13) which had the maximum field of 10 T and a room temperature
+S R R E
+bore of 50 mm.6 In 1997, we also constructed a water-cooled
+The rate constants in Eqs. 9–13 are represented in Fig. 3. pulsed magnet whose maximum field was 30 T.7 This field
+Because the fast component of Eq. 10 often overlaps with was about twice as high as the previous world record (17.5 T)8
+the decay of triplet precursors, the observed PR-lifetimes (τ ) which had been used for the research of MFEs on chemical re-
+RP
+usually correspond to 1/k (at B (cid:2) 0 T) and 1/k (B > 0 T). In actions. Because this pulsed magnet had enough space at
+0 S
+Eqs. 11–13, the k and k values should be independent of B, room temperature (a bore of 23 mm) and a fairly high repeti-
+P E
+but the k and k ′ values should be dependent of B as follows: tion rate (1 shot/3 min.), we could perform precise measure-
+R R
+ments of MFEs on photochemical reactions in solution togeth-
+1 2τ
+k
+R
+(cid:2)∑
+ih2
+T(cid:6)1 δH
+i
+T
+0
+2
+1(cid:3)ω
+i
+2τ2
+(14) er with a double-beam probe light system and signal
+0 i accumulation. Using these magnets, we have been studying
+the effects of ultrahigh magnetic fields on photochemical reac-
+1 2τ
+k
+R
+′(cid:2)∑
+ih2
+T(cid:6)1 δH
+i
+S 2
+1(cid:3)ω 0
+i
+2τ i 2
+(15) tio
+A
+ns
+c
+i
+c
+n
+o r
+s
+d
+o
+i
+l
+n
+u
+g
+ti o
+to
+n .
+the ∆gM, it has been believed that the magnet-
+Here, each δH term is due to each of the dipole–dipole interac- ically induced changes due to the ∆gM should be saturated at
+i
+tion between two components radicals, the anisotropic Zeeman high enough fields. In almost all reactions which have hitherto
+terms of the two radicals, and their anisotropic HFC terms, τ is been investigated for MFEs, however, good linear relationships
+i
+each rotational correlation time, and ω is given by gµB/(cid:1).4 between the magnetically induced changes due to the ∆gM and
+0 B
+B1/2 have been obtained.9 In 1982, Boxcer et al. studied MFEs
+2. MFEs due to the ∆∆∆∆g Mechanism Observed under Ultra-
+of photosynthetic reaction centers where radical pairs are con-
+high Fields
+fined to the membrane. They found with magnetic fields of up
+We have been studying MFEs and MIEs on photochemical to 5 T that the MFEs were deviated from the linear relationship
+reactions in solution since 1976. In 1976, we studied MFEs on with B1/2 at 5 T.10 Schulten and Edstein, however, predicted
+the singlet sensitized photodecomposition of dibenzoyl perox- that the saturation of MFEs due to the ∆gM should occur at ex-
+ide at room temperature in toluene with a small super-conduct- tremely large fields of the order of 103 T for ∆g values of the
+ing magnet whose maximum field was 4.3 T.5 We found that order of 0.01 in nonviscous solutions.11 Such ultrahigh fields
+the yields of the cage and escape products were appreciably as 103 T can not be realized on the earth. We, therefore, have
+changed by the fields and that the magnetically induced chang- challenged their prediction and tried to find saturation behavior
+es were proportional to B1/2. We interpreted such MFEs in of the MFEs due to the ∆gM with our apparatus. We have
+terms of the ∆gM. Thereafter, we started to measure dynamic found that the MFEs on the escape radical yield observed with
+[BULLETIN 2001/05/21 15:24] A1215
+
+--- Page 4 ---
+
+776 Bull. Chem. Soc. Jpn., 74, No. 5 (2001) ACCOUNTS
+the pulsed magnet for the photoreduction of 4-methoxyben-
+zophenone with thiophenol (benzenethiol) in fluid solutions
+are saturated by the fields of (cid:2)30 T.9
+The reaction scheme of the photoreduction of a carbonyl or
+quinone molecule (XCO) with a hydrogen donor (RH) is rep-
+resented by the following reactions:
+XCO (cid:3) hν → 1XCO*
+Photo-Excitation (16)
+1XCO* → 3XCO*
+Intersystem Crossing (k ) (17)
+ISC
+3XCO* (cid:3) RH → 3[XCOH••R]
+Generation of Radical Pairs (k ) (18)
+G
+3[XCOH••R] ↔ 1[XCOH••R]
+Singlet–Triplet Conversion (k ) (19)
+ST
+3,1[XCOH••R] → XCOH• (cid:3) R•
+Escape of Radicals (k ) (20)
+E
+1[XCOH••R] → XC(R)OH
+Cage Recombination (k ) (21)
+P
+The triplet and singlet radical pairs are represented by 3[A••B]
+and 1[A••B], respectively, and k shows the respective rate con-
+i
+stant. In this reaction, XCO and RH are 4-methoxy-benzophe-
+none and thiophenol, respectively.
+From the ns-laser photolysis measurements with the electro-
+magnet, the superconducting magnet, or the pulsed one, we Fig. 4. (a) R(B) ((cid:2) Y (B)/Y (0 T)) values ((cid:2)) obtained
+B E
+observed the time profiles (A(t)) of the transient absorption of
+with our electromagnet, our super-conducting magnet, and
+the ketyl radical and obtained the MFEs (R(B) (cid:2) Y (B)/Y (0
+E E our pulsed magnet from the time profiles of the absorbance
+T)) on the yield of the escape radical (Y E ).9 The R(B) values (A(t) profiles) at 550 nm for the photoreduction of 4-meth-
+obtained at room temperature in 2-methyl-1-propanol are plot- oxybenzopheneone with thiophenol at room temperature in
+ted against B1/2 in Fig. 4a. As is clear from this R(B)–B1/2 rela- 2-methyl-1-propanol. Here, R(B) values are plotted
+tionship, we can see that the magnetically induced change against B1/2. (b) R(B) values ((cid:2)) observed for the photore-
+(1(cid:4)R(B)) starts to deviate from the linear relationship between duction of 4-methoxybenzopheneone with thiophenol at
+1(cid:4)R(B) and B1/2 above 4 T and that the change attains a satu- room temperature in 2-methyl-1-propanol and their simu-
+rated value above 20 T. To the best of our knowledge, this is lation (—) with Eqs. 22–25.
+the first observation of the saturation of the MFEs due to the
+∆gM. Here, d is the distance of closest approach of two radicals and
+We tried quantitative analysis of our results with the diffu- D is the sum of the diffusion coefficients for the two radicals.
+sion model presented by Freed and Pedersen as follows:12 We noticed a problem in Eq. 22 because the p value should
+depend on B from 0 to 30 T. Thus, we assumed the following
+R(B) (cid:2) 1 (cid:4) pF* (22) B-dependence of p(B) from the triplet mechanism presented by
+Atkins :13
+Here, p is the initial population of the T level and F* is the
+0 1 D 
+probability of forming the geminate product from a triplet pre- R(B)(cid:2)1(cid:4)p(B)F*(cid:2)1(cid:4)  (cid:4)κ ZFS F* (25)
+3 B
+cursor. They gave the following equation for F*:
+Here, κ is the relative anisotropy of the intersystem crossing
+F*(cid:2)
+q
+2
+B 
+
+1(cid:3) 1
+2
+ln(1(cid:3) qB) 
+
+(23)
+r
+B
+a
+e
+te
+c a
+a
+u
+n
+s
+d
+e t
+D
+he
+ZF
+D
+S
+((cid:2)
+v
+3
+a
+Z
+lu
+/2
+e
+)
+h
+i
+a
+s
+d
+t h
+n
+e
+o t
+z
+y
+e
+e
+r
+t
+o -
+b
+fi
+e
+e
+e
+l
+n
+d
+o
+s
+b
+p
+t
+l
+a
+it
+i
+t
+n
+i
+e
+n
+d
+g
+f
+o
+o
+f
+r
+3
+4
+X
+-m
+C
+e
+O
+th
+*
+-
+.
+1(cid:3) qB[ 1(cid:3) qB ] oxybenzopheno ZF n S e, we measured the ESR spectrum of its trip-
+2
+let state at 77 K. From this measurement, we obtained its D
+ZFS
+In the above equation, q is given as follows: value as 2.7 GHz.9
+By the least-squares method with Eq. 25, we analyzed our
+q(cid:2)∆gµd2/2hD (24) experimental data on the R(B) values in various nonviscous so-
+B
+lutions.9 Here, the κ value was obtained to be 0.38, from
+[BULLETIN 2001/05/21 15:24] A1215
+
+--- Page 5 ---
+
+H. Hayashi et al. Bull. Chem. Soc. Jpn., 74, No. 5 (2001) 777
+which the p(0 T) and p(30 T) values were estimated to be 0.19
+and 0.33, respectively. From this analysis, we have obtained
+the q value for each solution. From the Stokes–Einstein rela-
+tion, the D value is represented by
+D (cid:2) D (cid:3) D (26)
+1 2
+D (cid:2) D (cid:2) kT/6πηR (27)
+1 2
+Here, η is the solvent viscosity and R is the radius of the
+sphere. From Eqs. 24, 26, and 27, we can see that q becomes
+proportional to η.
+∆gµd2 ∆gµd23πR
+q(cid:2) B (cid:2) B η (28)
+2hD 2hkT
+Plotting the obtained q values against η, we found that q had a
+good linear relationship with η. The slope was obtained to be
+0.338(cid:7)103 T(cid:4)1/cP. Taking ∆g (cid:2) 0.0055 and d (cid:2) 6(cid:7)10(cid:4)10 m,
+we obtained the R value to be 16.7(cid:7)10(cid:4)10 m. With this R val-
+ue and Eq. 27, the D (i (cid:2) 1 or 2) value can be estimated to be
+i
+1.29(cid:7)10(cid:4)10 m2 s(cid:4)1 at η (cid:2) 1 cP. This D value is somewhat
+i
+smaller than the value ((cid:2)5(cid:7)10(cid:4)10 m2 s(cid:4)1 at η (cid:2) 1 cP) ob-
+tained by Terazima et al. for the benzophenone ketyl radical
+with the transient grating method.14 Although the R value of
+the 4-methoxy-benzophenone ketyl radical should be a little
+larger than that of the benzophenone ketyl radical, this discrep-
+ancy may be due to the fact that we used several approxima-
+tions for the analysis of our experimental data.
+Because the lifetimes of radical pairs consisting of neutral
+radicals have an order of 1 ns, the MFEs on the lifetimes can
+not be measured by ns-lasers. Recently, we have started to Fig. 5. MFEs and MIEs on the radical pair lifetime (τ )
+RP
+measure such MFEs with a ps-laser and successfully observed and the escape radical yield (Y ) observed under magnetic
+E
+the MFEs in the sub-ns region for the above-mentioned reac- fields of 0–1.34 T with an ns-laser photolysis at room tem-
+tion.15 perature for the photoreduction reactions of ((cid:2)) BP, ((cid:3))
+BP-d , and ((cid:4)) BP-13C in micellar sodium dodecyl sul-
+3. MFEs due to the Relaxation Mechanism Observed 10
+phate (SDS) solutions.
+under Ultrahigh Fields
+In 1981, we found large MFEs and MIEs on the radical pair explained by the ∆gM, because the MFEs due to the ∆gM for
+lifetime (τ ) and the escape radical yield (Y ) under magnetic reactions from triplet precursors should decrease with increas-
+RP E
+fields of 0–70 mT with an ns-laser photolysis at room tempera- ing B from 0 T.1,4 (2) These increases in the MFEs seem to ap-
+ture for the photoreduction reactions of benzophenone (BP), proach their saturated values at B (cid:2) 1.34 T. It is noteworthy
+benzophenone-d (BP-d ), and [carbonyl-13C]benzophenone that these increases do not show saturation at B (cid:2) 0.1 T, where
+10 10
+(BP-13C) in micellar sodium dodecyl sulfate (SDS) solutions.16 the MFEs due to the HFCM should be saturated. (3) Clear
+Here, micellar molecules act as hydrogen donors (RH). The MIEs on the τ and Y values can be observed for present re-
+RP E
+scheme of such photoreduction reactions of the benzophenone actions. At each field, we can see the following order for the
+isotopes (XCO) can also be represented by reactions 16–21. It MIFs: BP-13C < BP < BP-d . (4) These MIEs are very small
+10
+is noteworthy that the MFEs and MIEs on τ can be measured at B (cid:2) 0 T, but they increase with increasing B from 0 T to 0.2
+RP
+with ns-lasers for the reactions in such confined systems as T. With increasing B from 0.2 T to 1.34 T, however, these
+radical pairs in micelles and biradicals in nonviscous solvents. MIEs decrease again. It is noteworthy that these MIEs can not
+From the A(t) profiles observed with an ns-laser photolysis be explained by the HFCM, because the MIEs due to the
+for the generated ketyl radicals (XCOH•), we obtained remark- HFCM should decrease with increasing B from 0 T.1,4
+able MFEs and MIEs on the τ and Y values.16 Because their Because the observed MFEs and MIEs on τ and Y at such
+RP E RP E
+MFEs and MIEs were not saturated at 70 mT,16 we extended high fields (0–1.34 T) could not be explained by the ordinary
+the maximum field to 1.34 T with an electromagnet and ob- ∆gM and HFCM, we proposed the RM in 1984 and succeeded
+tained their MFEs and MIEs as shown in Fig. 5.4,17 From Fig. in interpreting such novel MFEs and MIEs.4 In 1997, however,
+5, we can see the following new MFEs and MIEs under high Tanimoto et al. reported that they had found no MIE on τ for
+RP
+fields of up to 1.34 T: (1) For the reactions of the BP isotopes the same reactions of the benzophenone isotopes.18 They have
+in the SDS micellar solution, the τ and Y values increases recently realized their mistakes and confirmed our results on
+RP E
+with increasing B from 0 T to 1.34 T. These MFEs can not be the existence of the MIEs in these reactions.19
+[BULLETIN 2001/05/21 15:24] A1215
+
+--- Page 6 ---
+
+778 Bull. Chem. Soc. Jpn., 74, No. 5 (2001) ACCOUNTS
+Using our superconducting and pulsed magnets, we have actions, the Y value increases with increasing B from 0 T to 2
+E
+been studying the effects of ultrahigh magnetic fields on the T, but the value decreases with increasing B from 2 T to about
+τ and Y values at room temperature for the photoreduction 30 T. (5) For the reaction of NQ in the SDS micellar solution,
+RP E
+of carbonyl and quinone compounds (XCO) in micelles. We the Y value shows MFEs similar to those observed in (4).
+E
+have used benzophenone (BP), decafluorobenzophenone We could successfully reproduce the observed saturation
+(DFBP), and 1,4-naphthoquinone (NQ) for carbonyl com- and reversion of the τ values at 2 T as well as the observed
+RP
+pounds. We have used sodium dodecyl sulfate (SDS) and α- saturation of the values around 30 T, using the simulation with
+dodecyl-ω-hydroxypolypoly(oxyethylene) (Brij 35) for mi- Eqs. 9-15 of the RM. The details of the simulation will be
+celles. The scheme of such photoreduction reactions of XCOs published in the near future.21 The MFEs on the Y values
+E
+can also be represented by reactions 16–21. From the A(t) pro- could be explained by a combination of the RM and the ∆gM.
+files observed with an ns-laser photolysis for the generated Especially, we have found that the slight decreases in Y ob-
+ketyl or semiquinone radicals (XCOH•), we have obtained the served with increasing B from 2 T to around 30 T are also af-
+MFEs on the τ and Y values as shown in Fig. 6.20 fected by the ∆gM.21
+RP E
+From Fig. 6, we can see the following new MFEs under ul-
+4. MFEs on the Reactions of Three-Spin Systems
+trahigh fields of up to 30 T: (1) For the reaction of BP in the
+SDS micellar solution, the τ value increases with increasing Ordinary MFEs on chemical reactions through radical pairs1
+RP
+B from 0 T to 2 T and the value shows saturation with increas- and biradicals22 are due to the spin conversion between their
+ing B from 2 T to 29.6 T. (2) For the reaction of BP in the Brij singlet -triplet states. Recently, we have first found large
+35 micellar solution, the τ value increases with increasing B MFEs with our ns-laser photolysis apparatus in several reac-
+RP
+from 0 T to 2 T, but the value decreases with increasing B from tion systems where three odd electrons appear.23,24 At first, we
+2 T to 25 T. With increasing B from 25 T to 29.6 T, the value is studied the electron transfer reaction of triplet 10-methylphe-
+almost saturated. (3) For the reaction of DFBP in the Brij 35 nothiazine (3D*) with 4-(4-cyanobenzoyloxy)TEMPO (2A–
+micellar solution, the τ value increases with increasing B
+RP
+from 0 T to 2 T and the value decreases with increasing B from
+2 T to 24.6 T. With increasing B from 24.6 T to 28.7 T, the val-
+ue is nearly saturated. (4) For each of the above-mentioned re-
+Fig. 7. Reaction schemes of three-spin systems observed
+Fig. 6. The MFEs on the τ and Y values observed for the for the electron transfer reaction of (a) triplet 10-meth-
+RP
+photoreduction at room temperature: ((cid:3)) of BP in an SDS ylphenothiazine (3D*) with 4-(4-cyanobenzoyloxy)-TEM-
+micellar solution, ((cid:2)) of BP in a Brij 35 micellar solution, PO (2A–R•) in 2-propanol and (b) for the photolysis of
+1
+((cid:5)) DFBP in a Brij 35 micellar solution, and ((cid:6)) of NQ in benzophenone(BP)–diphenylmethane(DPM)–nitrox-
+an SDS micellar solution. ide(R•) trifunctional compounds in acetonitrile.
+2
+[BULLETIN 2001/05/21 15:24] A1215
+
+--- Page 7 ---
+
+H. Hayashi et al. Bull. Chem. Soc. Jpn., 74, No. 5 (2001) 779
+R •) in 2-propanol.23 Here, R • is the TEMPO (2,2,6,6-tetra- the lifetime of the pair states.
+1 1
+methylpiperidin-1-oxyl) radical. The reaction scheme is We also studied the MFEs on reactions of triradicals gener-
+shown in Fig. 7a. As shown in this figure, the quartet (S (cid:2) 3/2) ated by photolysis of benzophenone (BP)–dipheylmethane
+and doublet (S (cid:2) 1/2) states consisting of the cation radical (DPM)–nitroxide(R •) trifunctional compounds.24 Here, R • is
+2 2
+(2D•(cid:3)) and the anion biradical (3A•(cid:4)(cid:4)R •) are generated after the PROXYL (2,2,5,5-tetramethylpyrrolidin-1-oxyl) radical.
+1
+the electron transfer. From both of the quartet and doublet The scheme of the reactions for BP–C–DPM–R • (n (cid:2) 2 and
+n 2
+states, the radical and the biradical escape from solvent cages, 8) is shown in Fig. 7b. In this figure, we can see that a tritradi-
+forming the escape radical and biradical. On the other hand, cal is generated for each reaction. From the A(t) profiles at 345
+the cage recombination only occurs from the doublet state, nm, we obtained the MFEs on the decay rate of each triradical
+forming D and 2A–R •. (k ). Figure 8b shows the observed MFEs on the k values
+1 TR TR
+We measured the A(t) profiles of the cation radical under for the triradicals generated from BP–C–DPM–R •. We can
+8 2
+magnetic fields of up to 10 T. From the profiles, we obtained see from this figure that the k value observed in this reaction
+TR
+the MFEs on the Y values. In Fig. 8a, we plot the R(B)((cid:2) decreases with increasing B from 0 T to 2 T and that the value
+E
+Y (B)/Y (0 T)) values observed with and without R •. In the slightly increases with increasing B from 2 T to 10 T. We also
+E E 1
+reaction without R •, we can see from Fig. 8a that the R(B) val- found that the k value observed in the reaction of BP–C–
+1 TR 2
+ue increases with increasing B for 0 T to 0.2 T and that the val- DPM–R • decreased with increasing B from 0 T to 2 T and that
+2
+ue decreases with increasing B from 0.2 T to 10 T. The maxi- the value increased with increasing B from 2 T to 10 T. These
+mum R(B) value is 1.09 (cid:6) 0.02 at B (cid:2) 0.2 T. The MFEs on k can also be explained by the RM, where the spin
+TR
+magnetically induced increase and decrease in R(B) can be ex- relaxation between the quartet-doublet states plays an impor-
+plained by the HFCM and the ∆gM, respectively. In the reac- tant role during the lifetime of the triradicals. The decay rate
+tion with R •, we can see from Fig. 8a that the R(B) value in- of the triradicals at B (cid:2) 2 T is about 6(cid:7)106 s(cid:4)1, which is much
+2
+creases with increasing B for 0 T to 2 T and that the value larger than the decay rate of the corresponding biradicals at B
+decreases with increasing B from 2 T to 10 T. The maximum (cid:2) 2 T (about 1(cid:7)105 s(cid:4)1). This increase is due to the enhance-
+R(B) value is as large as 1.90 (cid:6) 0.08 at B (cid:2) 2 T. These MFEs ment of spin relaxation by R•.
+2
+can be explained by the RM, where the spin relaxation be-
+5. Spin Dynamics of Radical Pairs Studied with an Opti-
+tween the quartet-doublet states plays an important role during
+cally Detected ESR Apparatus
+In the preceding sections, the studies of MFEs on radical re-
+actions with the transient optical absorption (A(t) profiles) due
+to intermediate radicals were reviewed. Direct measurements
+of intermediate radicals with various ESR methods are also
+possible. For example, we first studied the radical pairs in mi-
+celles with a continuous wave (cw) ESR method without field
+modulation and found CIDEP signals due to spin-correlated
+radical pairs.25 The cw-ESR method without field modulation
+is informative, but its time resolution is not always high
+enough to clarify the details of spin dynamics. Although
+pulsed-ESR methods such as the Fourier transfer (FT) ESR
+can improve the time resolution, they have many limitations in
+measuring spin dynamics. For example, such ESR methods
+can provide us only the combined information of concentration
+and polarization. Thus, an optical detected (OD) ESR method
+which is realized by the coupling of the pulsed-ESR and tran-
+sient absorption methods seems to be advantageous to the
+study of dynamic behavior of intermediate radicals.
+Recently, we constructed such an ODESR apparatus, com-
+bining a JEOL RSV 2000 X-band pulsed-ESR one with our ns-
+transient optical absorption one.26 Because we could realize
+the world best sensitivity in our ODESR apparatus, we have
+been able to obtain novel fruits on spin dynamics of radical
+pairs with a short microwave pulse. In this section, several
+typical results obtained with our ODESR for the photoreduc-
+Fig. 8. (a) The R(B)((cid:2) Y (B)/Y (0 T)) values observed for tion of carbonyl and quinone molecules in micelles will be in-
+B E
+troduced. The scheme of these reactions is also represented by
+the electron transfer reaction of triplet 10-methylphenothi-
+azine (3D*) with 4-(4-cyanobenzoyloxy)-TEMPO (2A– reactions 16–21 and the decay of radical pairs in the presence
+R•) in 2-propanol: ((cid:2)) for the reaction system with R• of a magnetic field ((cid:2)0.3 T) can be represented by Eq. 10. In
+1 1
+and ((cid:5)) for the reaction system without R•. (b) The this equation, the fast decay component corresponds to the
+1
+MFEs on the decay rate (k TR ) observed for the triradicals population ([M]) of the mixed state (M) of S and T 0 and the
+generated from BP–C
+8
+–DPM–R
+2
+•. slow one to the population ([T(cid:6)]) of the combined state (T(cid:6)) of
+[BULLETIN 2001/05/21 15:24] A1215
+
+--- Page 8 ---
+
+780 Bull. Chem. Soc. Jpn., 74, No. 5 (2001) ACCOUNTS
+T(cid:3)1 and T(cid:4)1 . quinone molecules in micelles can be obtained from their A(t)
+Figure 9 shows typical A(t) profiles observed for a compo- profiles with ns-laser photolysis measurements. In the actual
+nent radical without (curve a) and with (curve b) a microwave measurements, however, this rate constant has never been ob-
+pulse whose width is 15 ns. In this figure, the origin of time (t tained from their A(t) profiles because there are many compo-
+(cid:2) 0 ns) corresponds to the laser-excitation and the time differ- nents due to other species such as triplet precursors and reac-
+ence between the microwave pulse and laser one is represented tion products in the profiles. From the present ODESR
+by t . Upon laser-excitation of a carbonyl or quinone molecule measurement, we could purely generate the mixed M state
+D
+(reaction 16), its triplet state is formed (reaction 17) in the ps- with the microwave pulse and succeeded in measuring the k
+F
+region. Thus, the initial stage of the A(t) profile corresponds to value for the first time. Thus, this method can be called “Spin
+the generation of a radical pair (reaction 18) and its decay (re- Manipulation.” From the decay of the a(cid:4)b curve, the k value
+S
+actions 19–21). When the microwave pulse is applied at t (cid:2) (see Eq. 13) can be obtained. We, therefore, could determine
+t
+D
+, a part of the population at the T(cid:6) state (C([T(cid:6)](t
+D
+) (cid:4) the k
+P
+value for the first time from our ODESR method.26
+[M](t ))) is transferred to the M state.
+D
+k (cid:2) 2(k (cid:4) k ) (31)
+P F S
+[T(cid:6)](t
+D
+(cid:3) ε) (cid:2) [T(cid:6)](t
+D
+) (cid:4) C([T(cid:6)](t
+D
+) (cid:4) [M](t
+D
+)) (29)
+After the decay of the a(cid:4)b curve, this curve attains a constant
+[M](t
+D
+(cid:3) ε) (cid:2) [M](t
+D
+) (cid:3) C([T(cid:6)](t
+D
+) (cid:4) [M](t
+D
+)) (30) value at t = t
+E
+as shown in Fig. 9. This value corresponds to the
+yield of the escape radical. Thus, the rate constant of the spin-
+After the application of the microwave pulse at t (cid:2) t , the relaxation and that of the escape of radicals from a radical pair
+D
+a(cid:4)b curve shows a gradual rise and a slow decay after attain- (k (cid:3)k ′ and k ) can also be obtained with the following rela-
+R R E
+ing its maximum at t (cid:2) t , as shown in Fig. 9. The initial rise tions:
+M1
+corresponds to the disappearance of [M] with its rate constant k (cid:2) (k (cid:3) k ′) (cid:3) k (13)
+S R R E
+(k ), as given by Eq. 12. In principle, this rate constant for rad-
+F
+ical pairs generated by the photoreduction of carbonyl and [a (cid:4) b](t )/[a (cid:4) b] (t ) (cid:2) k /k (32)
+E M1 E S
+The k and k values can also be obtained from the follow-
+G S
+ing method. When we measure the [a(cid:4)b](t (cid:2) t ) value by
+E
+changing the t value, we can obtain the bottom curve shown
+D
+in Fig. 9. If t is negative, the [a(cid:4)b](t (cid:2) t ) value becomes ze-
+D E
+ro, because there is no radical pair at t (cid:2) t . When t is in-
+D D
+creased from 0 ns, the [a(cid:4)b](t (cid:2) t ) curve shows a fast rise
+E
+and a slow decay after its maximum at t (cid:2) t as shown in Fig.
+M2
+9. If the generation of the radical pairs is much faster than the
+disappearance from its mixed M state (k (cid:3) k ), the initial
+G F
+part of the rise corresponds to the generation process with the
+rate constant of k
+G
+. During this stage, the [M]/[T(cid:6)] ratio is kept
+approximately constant. When the generation of the radical
+pairs is slowed down due to the consumption of the triplet
+state, the [M]/[T(cid:6)] ratio is decreased by the cage recombina-
+tion from the M state. On the other hand, the decay from the
+T(cid:6) state is much slower than that of the M one. Because the
+[M]/[T(cid:6)] ratio becomes zero at the maximum point (t (cid:2) t
+M2
+),
+the decay part of the [a(cid:4)b](t (cid:2) t ) curve corresponds to the
+E
+decay of [T(cid:6)]. From its decay, therefore, the k
+S
+value can also
+be obtained. This method for the determination of the k value
+S
+is much better than that from the a(cid:4)b curve mentioned before
+if the k value is much larger than the k (cid:3) k ′ one.
+E R R
+It is noteworthy that all of the rate constants for the photore-
+duction of carbonyl and quinone molecules in micelles can ac-
+curately be determined from this ODESR method. From the
+usual laser photolysis method where only the A(t) profiles are
+used, the k value has not yet been measured and its accuracy
+F
+in the determination of the other rate constants is much worse
+than that with this ODESR method. We have been carrying out
+Fig. 9. (a) A(t) curve obtained at B (cid:2) 331 mT without mi- such measurements for many reactions with this ODESR
+crowave irradiation; (b) A(t) curve obtained at B (cid:2) 331 mT method and have determined all of their rate constants very
+with short microwave pulse irradiation at t (cid:2) t ; (c) Differ- precisely. The details of such studies will be published in the
+D
+ence of the A(t) curves (trace a–trace b); (d) [a(cid:4)b] value near future,27 but typical results are shown in Table 1. Here,
+observed at t (cid:2) t as a function of t . the rate constants determined at room temperature with our
+E D
+[BULLETIN 2001/05/21 15:24] A1215
+
+--- Page 9 ---
+
+H. Hayashi et al. Bull. Chem. Soc. Jpn., 74, No. 5 (2001) 781
+Table 1. Rate Constants Determined with an ODESR Method at B (cid:2) 331 mT for
+Photoreduction of Several Carbonyl and Quinone Molecules (XCO) in Micelles (RH) at
+Room Temperature26,27
+k a) k b) k (cid:3)k ′c) k d)
+XCO RH G P R R E
+107(cid:7)s(cid:4)1 107(cid:7)s(cid:4)1 105(cid:7)s(cid:4)1 105(cid:7)s(cid:4)1
+MNQe) SDSf) 3.3 1.5 3.3 5.8
+BPg) SDSf) 0.4 1.9 3.3 2.1
+BPg) Briji 35h) 0.8 0.6 2.2 1.1
+DFBPi) SDSf) 4.3 1.8 8.0 0.5
+DFBPi) Briji 35h) 5.2 0.6 3.8 0.5
+a) See reaction 18. b) See Eq. 12 and reaction 21. c) See Eqs. 13–15. d) See Eq. 13 and
+reaction 20. e) 2-Methyl-1,4-naphthoquinone. f) Sodium dodecyl sulfate. g) Ben-
+zophenone. h) α-Dodecyl-ω-hydroxypolypoly(oxyethylene). i) Decafluorobenzophe-
+none.
+ODESR method at B (cid:2) 331 mT for the photoreduction of 2- tions. We found that the R(B) (cid:2) Y (B)/Y (0 T) value was de-
+E E
+methyl-1,4-naphthoquinone (MNQ), BP, and DFBP in micel- creased with increasing B from 0 T to 30 T. The 1(cid:4)R(B) value
+lar SDS and Brij 35 solutions are listed.26,27 From this table, was proportional to B1/2 in a low field region (B < 4 T), but was
+we can see the following features in the spin dynamics of these almost saturated above 20 T. To the best of our knowledge,
+reactions: 1) The rates of hydrogen abstraction (k ) of MNQ this is the first observation of the saturation of MFEs due to the
+G
+and DFBP are about ten times larger than those of BP. This is isotropic ∆g mechanism. We have successfully interpreted
+due to the fact that the n, π* characters of 3MNQ* and 3DFBP* these saturated MFEs in terms of the modified diffusion model.
+are larger than that of 3BP*. 2) The rates of cage recombina- We also studied MFEs on the radical pair lifetime (τ ) and
+RP
+tion (k ) in the SDS micellar solution are about three times the escape radical yield (Y ) for the photoreduction of carbonyl
+P E
+larger than those in the Brij 35 solution. This is due to the fact and quinone compounds in the micellar solutions of SDS and
+that the SDS micelles are smaller than the Briji 35 ones. 3) Brij 35. The τ and Y values were found to increase with in-
+RP E
+The rates of triplet spin relaxation (k (cid:3) k ′) of DFBP are creasing B from 0 T to 2–3 T and to show saturation or rever-
+R R
+slightly larger than those of MNQ and BP. This is due to the sion at B (cid:2) 2 T, but the reversion was found to be saturated at
+fact that the anisotropic Zeeman and HFC terms of the three B (cid:2) 30 T. These MFEs were explained in terms of the relax-
+kinds of radical pairs are similar to one another. The fact that ation mechanism due to the anisotropic dipole–dipole, Zee-
+the k (cid:3) k ′ values of DFBP are slightly larger than those of man, and HFC interactions. Using our ODESR apparatus, we
+R R
+MNQ and BP may be due to the effect of ten F-atoms. 4) The studied the spin dynamics for the radical pairs generated from
+rates of radical escape (k ) have the increasing order of the photoreduction of carbonyl and quinone compounds in the
+E
+k (MNQ) > k (BP) > k (DFBP). This can be explained by the micellar solutions of SDS and Brij 35 and obtained all neces-
+E E E
+increasing oder of the hydrophilicity of the MNQ semiquino- sary rate constants of these reactions at B (cid:2) 0.3 T very precise-
+ne, BP ketyl, and DFBP ketyl radicals. The MFEs on the τ ly. These rate constants obtained with this ODESR method are
+RP
+and Y values under ultrahigh fields described in Section 3 cor- very useful in the analysis of the MFEs on the τ and Y val-
+E RP E
+respond well to features 3 and 4 obtained in this section. ues under ultrahigh fields of up to 30 T.
+The above-mentioned results clearly show that the ODESR Ordinary MFEs on chemical reactions through radical pairs
+method gives unique and accurate knowledge on spin dynamic and biradicals are due to the spin conversion between their sin-
+of radical pairs. It is noteworthy that this method is also used glet-triplet states. Recently, we have first found large MFEs in
+for the studies of novel phenomena of radical pairs such as several reaction systems where three odd electrons appear in
+quantum beat28 and level-crossing.29 A weak point of ODESR radical-biradical pairs and chain-linked triradicals. Such large
+is the fact that its measurements have been limited to the X- MFEs observed in nonviscous solutions can be explained by
+band microwave (υ (cid:2) 9 GHz, B (cid:2) 0.31 T). This means that the relaxation mechanism where their doublet-quartet conver-
+the spin dynamics can only be measured at B (cid:2) 0.3 T. At sion plays an important role.
+present, it is very difficult for us to construct ODESR appara-
+Abbreviations
+tus at various microwave frequencies because the microwave
+amplifier is only available at X and K band regions. We are A electron acceptor
+now developing a K-band ODESR apparatus (at B (cid:2) 0.62 T) A(t) profile time profile of transient absorption
+for the first time in the world.30 BP benzopheneone
+BP-13C [carbonyl-13C]benzophenone
+6. Concluding Remarks
+BP-d benzophenone-d
+10 10
+Using superconducting (B ≤ 10 T) and pulsed (B ≤ 30 T) CIDEP chemically induced dynamic electron
+magnets, we found several new MFEs not only in micellar so- polarization
+lutions but also in nonviscous ones. We studied MFEs on the CIDNP chemically induced dynamic nuclear
+escape radical yield (Y ) for the photoreduction of 4-methoxy- polarization
+E
+benzophenone with thiophenol in various nonviscous solu- D electron donor
+[BULLETIN 2001/05/21 15:24] A1215
+
+--- Page 10 ---
+
+782 Bull. Chem. Soc. Jpn., 74, No. 5 (2001) ACCOUNTS
+∆gM ∆g mechanism Tokumaru, Chem. Phys. Lett., 41, 267 (1976); H. Hayashi and S.
+DFBP decafluorobenzophenone Nagakura, Bull. Chem. Soc. Jpn., 51, 2862 (1978).
+DPM diphenylmethane 6 Y. Sakaguchi and H. Hayashi, Chem. Lett., 1993, 1183.
+HFC hyperfine coupling 7 K. Nishizawa, Y. Sakaguchi, H. Hayashi, H. Abe, and G.
+HFCM hyperfine coupling mechanism Kido, Chem. Phys. Lett., 267, 501 (1997).
+LCM level-crossing mechanism 8 D. Bürstner, H.-J. Wolff, and U. E. Steiner, Angew. Chem.,
+MFE magnetic field effect Int. Ed. Engl., 17, 33 (1994).
+9 M. Wakasa, K. Nishizawa, H. Abe, G. Kido, and H.
+MIE magnetic isotope effect
+Hayashi, J. Am. Chem. Soc., 121, 9191 (1999), and references cit-
+MNQ 2-methyl-1,4-naphthoquinone
+ed therein.
+NQ 1,4-naphthoquinone
+10 S. G. Boxcer, C. E. D. Chidsey, and M. G. Roelofs, J. Am.
+ODESR optical detected ESR
+Chem. Soc., 104, 1452 (1982).
+R• radical generated from RH
+11 K. Schulten and I. R. Epstein, J. Chem. Phys., 71, 309
+R • TEMPO (2,2,6,6-tetramethylpiperidin-
+1 (1979).
+1-oxyl) radical
+12 J. H. Freed, in “Chemically Induced Magnetic Polariza-
+R • PROXYL (2,2,5,5-tetramethylpyrroli-
+2 tion,” ed by L. T. Muus, P. W. Atkins, K. A. McLauchlan, and J. B.
+din-1-oxyl) radical
+Pedersen, D. Reidel, Dordrech (1977), Chap. 19, 309.
+RH hydrogen donor
+13 P. W. Atkins, in “Chemically Induced Magnetic Polariza-
+RM relaxation mechanism tion,” ed by L. T. Muus, P. W. Atkins, K. A. McLauchlan, and J. B.
+S–T conversion singlet-triplet conversion Pedersen, D. Reidel, Dordrech (1977), Chap.11, 191.
+τ RP radical pair lifetime 14 Terazima, K. Okamoto, and N. Hirota, J. Phys. Chem., 97,
+Y E escape radical yield 13387 (1993).
+XCO carbonyl or quinone molecule 15 M. Wakasa and H. Hayashi, Chem. Phys. Lett., 327, 343
+XCOH• ketyl or semiquinone radical (2000).
+16 Y. Sakaguchi, S. Nagakura, A. Minoh, and H. Hayashi,
+The authors thank the other members of Molecular Photo- Chem. Phys. Lett., 82, 213 (1981); Y. Sakaguchi, H. Hayashi, and
+chemistry Laboratory of RIKEN, Dr. S. Ikeda, Dr. K. S. Nagakura, J. Phys. Chem., 86, 3177 (1982).
+Nishizawa, Dr. Y. Mori, Dr. M. Igarashi, Dr. A. D. Astashkin, 17 Sakaguchi and H. Hayashi, Chem. Phys. Lett., 87, 539
+B. M. Tadjikov, and J. R. Woodward for their collaboration in (1982).
+measuring MFEs and spin dynamics. They also thank Dr. H. 18 Y. Fujiwara, K. Yoda, T. Aoki, and Y. Tanimoto, Chem.
+Lett., 1997, 435.
+Abe and Dr. G. Kido of NRIM (National Resarch Institute for
+19 Y. Fujiwara, Y. Taga, T. Tomonari, Y. Akimoto, T. Aoki, and
+Metals) for their collaboration in making a pulsed magnet
+Y. Tanimoto, Bull. Chem. Soc. Jpn., 74, 237 (2001).
+which is suitable for the studies of chemical reactions in solu-
+20 H. Hayashi, Y. Sakaguchi, M. Wakasa, Y. Mori, and K.
+tions. They express their sincere gratitude to Prof. K. Salikhov
+Nishizawa, Appl. Magn. Reson, 18, 307 (2000), and references cit-
+of Zavoisky Physical-Technical Institute, Russia, and Prof. J.
+ed therein.
+B. Pedersen of Odense University, Denmark, for their helpful
+21 K. Nishizawa, Y. Sakaguchi, H. Abe, G. Kido, and H.
+discussions on theoretical interpretations of their MFEs and
+Hayashi, Mol. Phys. to be pulished.
+spin dynamics. This work was supported by the MR (magnetic
+22 Y. Fujiwara, R. Nakagaki, and Y. Tanimoto, in “Dynamic
+resonance) Science Project of RIKEN together with many oth-
+Spin Chemistry,” ed by S. Nagakura, H. Hayashi, and T. Azumi,
+er funds supplied to the authors by RIKEN and the Ministry of
+Kodansha/Wiley, Tokyo/New York (1998), Chap. 3, p. 49.
+Education, Science, Sports and Culture. 23 Y. Mori, Y. Sakaguchi, and H. Hayashi, Chem. Phys. Lett.,
+286, 446 (1998); Y. Mori, Y. Sakaguchi, and H. Hayashi, J. Phys.
+Chem. A, 104, 4896 (2000).
+References
+24 Y. Mori, Y. Sakaguchi, and H. Hayashi, Chem. Phys. Lett.,
+1 H. Hayashi, in “Dynamic Spin Chemistry,” ed by S. 301, 365 (1999).
+Nagakura, H. Hayashi, and T. Azumi, Kodansha/Wiley, Tokyo/ 25 Y. Sakaguchi, H. Hayashi, H. Murai, and Y. J. I’Haya,
+New York, (1998), Chap. 2, p. 7, and references cited therein. Chem. Phys. Lett., 110, 275 (1984).
+2 S. Nagakura, in “Dynamic Spin Chemistry,” ed by S. 26 Y. Sakaguchi, A. V. Astashkin, and B. M. Tadjikov, Chem.
+Nagakura, H. Hayashi, and T. Azumi, Kodansha/Wiley, Tokyo/ Phys. Lett., 280, 481 (1997).
+New York (1998), Chap. 1, p. 1. 27 J. R. Woodward and Y. Sakaguchi, J. Phys. Chem. A, in
+3 H. Hayashi, K. Itoh, and S. Nagakura, Bull. Chem. Soc. press.
+Jpn., 39, 199 (1966); K. Itoh, H. Hayashi, and S. Nagakura, Mol. 28 B. M. Tadjikov, A. V. Astashkin, and Y. Sakaguchi, Chem.
+Phys., 17, 561 (1969). Phys. Lett., 283, 179 (1998).
+4 H. Hayashi and S, Nagakura, Bull. Chem. Soc. Jpn., 57, 29 B. M. Tadjikov, A. V. Astashkin, and Y. Sakaguchi, Chem.
+322 (1984). Phys. Lett., 284, 214 (1998).
+5 Y. Tanimoto, H. Hayashi, S. Nagakura, H. Sakuragi, and K. 30 Y. Sakaguchi, to be published.
+[BULLETIN 2001/05/21 15:24] A1215
+
+--- Page 11 ---
+
+H. Hayashi et al. Bull. Chem. Soc. Jpn., 74, No. 5 (2001) 783
+Hisaharu Hayashi was born in Tokushima in 1942. He has been the Director of Molecular
+Photochemistry Labotatory at RIKEN (The Institute of Physical and Chemical Research)
+since 1983. He graduated from the University of Tokyo in 1964 and received his Dr. Sc. un-
+der the auspices of Prof. Saburo Nagakura at The Institute for Solid State Physics of the Uni-
+versity of Tokyo in 1969. Since 1969, he has been working in RIKEN. He was appointed as
+a visiting professor at the Institute for Molecular Science for two years (1984/1986). He has
+been a visiting professor at Department of Electronic Chemistry of Interdisciplinary Gradu-
+ate School of Science and Engineering of Tokyo Institute of Technology since 1997. His re-
+search interests are in Spin Chemistry, including magnetic field effects on chemical reac-
+tions. In 1998, he edited a book entitled “Dynamic Spin Chemistry” with Prof. Saburo
+Nagakura and Prof. Tohru Azumi. He received the Award of Chemical Society of Japan for
+Young Scientists in 1976 and the Award of Japanese Photochemistry Association in 1992.
+Yoshio Sakaguchi was born in Tokyo in 1954. He has been a member of Molecular Photo-
+chemistry Laboratory at RIKEN (The Institute of Physical and Chemical Research) since
+1983 and has been promoted to its Senior Scientist in 1991. He was graduated from the Uni-
+versity of Tokyo in 1976 and received his Dr. Sc. under the auspices of Prof. Saburo
+Nagakura at the Institute for Solid State Physics of the University of Tokyo in 1981. He had
+been a visiting associate professor at the Department of Material Science of Graduate
+School of Science and Engineering of Saitama University since 1993 and has been promoted
+to a visiting professor since 1999. His research interests are in Spin Chemistry, including
+magnetic field and microwave field effects on chemical reactions.
+Masanobu Wakasa was born in Tokyo in 1961. He graduated from Gakushuin University in
+1985 and received his Dr. Sc. from Gakushuin University (Prof. K. Mochida) in 1989. He
+was given the Research Fellowship for Young Scientists from Japan Society for the Promo-
+tion of Science (1988/1989). He has been a member of Molecular Photochemistry Labora-
+tory at RIKEN (The Institute of Physical and Chemical Research) since 1989 and has been
+promoted to its Senior Research Scientist since 1999. His research interests are in photo-
+chemistry and organometallic chemistry. In 1991, he received the Award for Young Chem-
+ists from the Silicon Photochemistry Society of Japan.
+[BULLETIN 2001/05/21 15:24] A1215

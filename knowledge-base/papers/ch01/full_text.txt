@@ -1,0 +1,1166 @@
+
+
+--- Page 1 ---
+
+13
+1
+Basic Optical Principles
+1.1
+Introduction
+Tounderstandimportantopticalmethodsusedtoinvestigatebiomolecules,such
+as fluorescence polarization anisotropy, Förster resonance energy transfer, fluo-
+rescencelifetimetechniques(Chapter3),opticalsingle-moleculedetectiontech-
+niques (Chapter 9), fluorescing nanoparticles (Chapter 12) or high-resolution
+fluorescence microscopy such as STED and PALM (Chapter 8), a basic under-
+standingoftheinteractionoflightwithmoleculesandbiomoleculesisrequired.
+Such basic knowledge is also necessary in understanding the use of magnetic
+resonance techniques (Chapter 5). In the following sections we discuss a few
+fundamental principles of the physical processes that govern the interaction of
+light with biomolecules, optical markers or other relevant matter such as nano-
+particles. This chapter provides a brief but wide-ranging insight into important
+physicalandquantummechanicalbasicsoftheseprocessesalsofor,butnotlim-
+ited to, readers without a physical or chemical background, while being mathe-
+maticallyandphysicallyasexactandconciseaspossible.Readersthatlookfora
+ratherquickoverviewandthathaveatleastsomebasicknowledgeaboutorbitals
+of molecules might focus on sections 1.1, 1.3, 1.5 and 1.6 only. Please be aware
+that a complete, indepth treatment of quantum mechanics and molecular spec-
+troscopy is beyond the scope of this chapter. Only the fundamentals that are
+needed for the biophysical chemistry methods presented in the following chap-
+ters are discussed. For further information about quantum mechanics and
+molecular spectroscopy, the reader might refer to the more specialized books
+giveninthebibliographyattheendofthischapter.
+Light is a wave of oscillating electric and magnetic fields propagating through
+space (Figure 1.1). The electric- and magnetic-field components of this electro-
+magneticradiationareoscillatinginphaseperpendiculartothepropagationdirec-
+tion and with respect to each other. The smallest possible units of light are
+elementaryparticlescalledphotons.Thesepossessaspecificamountofenergy,E,
+ModernBiophysicalChemistry:DetectionandAnalysisofBiomolecules,SecondEdition.PeterJomoWalla.
+2014Wiley-VCHVerlagGmbH&Co.KGaA.Published2014byWiley-VCHVerlagGmbH&Co.KGaA.
+
+--- Page 2 ---
+
+14 1 BasicOpticalPrinciples
+Figure1.1 Lightisawaveofoscillatingelectricandmagneticfieldspropagatingthrough
+space.
+whichdependsonthefrequencyorwavelengthofthelightradiation:
+hc
+E hν hcν (1.1)
+λ
+Here, h is Planck’s constant, ν is the frequency of the electric- and magnetic-
+fieldoscillation,cisthespeedoflight,λisthewavelengthoftheoscillationandν
+is the corresponding wave number. The energy E of a photon is linear propor-
+tional to the frequency ν and wave number ν1. The wavelength, in turn, is
+λ
+inverselyproportionaltotheenergy.
+Figure 1.2 shows the spectrum of electromagnetic radiation. Optical methods
+make use of electromagnetic radiation having wavelengths from ∼200nm to a
+few μm. This interval can be subdivided into the ultraviolet (UV) region
+(∼200–400nm), the visible region (∼400–700nm) and the near infrared (NIR)
+region(∼700nmtoafewμm).TheUVrange,forexample,isimportantforthe
+characterizationofproteinsandDNA,whichisdescribedinChapter2.Thevisi-
+bleregionisimportantformostfluorescencetechniques,whicharedescribedin
+Figure1.2 Spectrumofelectromagneticradiation.
+
+--- Page 3 ---
+
+1.2 WhatDoestheElectronicStructureofMoleculesLookLike? 15
+detailinChapters2and3andpartlyinChapters7–13.Theinfraredregionena-
+bles the identification and investigation of biomolecules based on their charac-
+teristic molecular vibrations (Chapter 4). Radiowaves and microwaves are used
+fornuclearandmagneticresonancetechniques.Chapter5describestheapplica-
+tionofthesetechniquesfortheinvestigationofbiomolecules.
+The size of typical molecules or biomolecules is usually on the order of a few
+nanometres, which is far smaller than the dimensions of the oscillating electric-
+fieldwavesofvisiblelight,whichareontheorderofafewhundrednanometres.
+When molecules are within the waves of the light, the charged components of
+the molecules, especially the electrons, are affected by the oscillating electric-
+field component of the light. If a molecule possesses a suitable electronic struc-
+ture it can absorb a photon of a specific wavelength, resulting in an electronic
+structure rearrangement. In the next section, we discuss what the electronic
+structureofmoleculeslookslike.
+1.2
+WhatDoestheElectronicStructureofMoleculesLookLike?Orbitals,WaveFunctions
+andBondingInteractions
+As with photons, electrons posses also both wave- and particle-like properties.
+Because of the wave-like character of electrons, only probabilities can be given
+offindingelectronsatacertainplacearoundthenucleiofamolecule.Thiselec-
+tronic structure is usually visualized by electron clouds or probability densities,
+which are mathematically described by three-dimensional probability density
+functions.Dependingonthemolecularstructure,onlydistincteigenstatesofthe
+electron probability densitiesare possible. Such a state simply describes a possi-
+blethree-dimensionalstandingwaveofthenegativelychargedelectronwavesin
+the presence of the positively charged nuclei – similar to a string of an instru-
+ment, which can also vibrate only with certain frequencies and overtones. Each
+ofthesestatescorrespondstodistinctenergies.
+Duringtheabsorptionofaphotontheelectronicstructureofthemoleculesis
+usually transferred from an electronic ground state into an energetically higher
+electronic excited state. In an excited state the three-dimensional, electronic
+probability densities are different from the ground-state probability densities.
+Only photons having energies corresponding to the energy difference between
+these electronic states can be absorbed by the molecules. This is the origin of
+the colour of a compound: only light of certain wavelengths is absorbed by the
+compound – light of other wavelengths is either transmitted or scattered. The
+photon energy corresponding to the absorbed wavelength is equal to the neces-
+saryexcitationenergyfortherespectivetransition.
+What does the probability density function, P(x, y, z), corresponding to a cer-
+tain electronic state look like? In quantum theory, the probability density for
+finding electrons at a certain place P(x, y, z) is calculated from the electronic
+wavefunction,ψ(x,y,z),correspondingtothisstate:
+P x;y;zψ* x;y;zψ x;y;z (1.2)
+
+--- Page 4 ---
+
+16 1 BasicOpticalPrinciples
+Theprobabilityoffindinganelectroninacertainvolumeelementx ∙∙∙ x+dx;
+y ∙∙∙ y+dy,z ∙∙∙ z+dzcanbecalculatedbyintegratingtheprobabilitydensity
+P(x, y, z) in the corresponding range. The electronic wave function is also a
+three-dimensional mathematical function that contains all information about
+the electrons in a molecule. Some of the most relevant parameters for optical
+techniquesinthebiosciences,suchasthetransitiondipolemoment,canonlybe
+properlyderivedfromelectronicwavefunctions.Therefore,wewillbrieflyintro-
+ducesomeimportantaspectsaboutwavefunctionshere.
+Usually,thewavefunctionissimplywrittenasψ ratherthanψ(x,y,z)butthe
+meaningisthesame.Inaddition,wewilluseforthecoordinatesoftheelectrons
+andnucleiinthefollowing~r  x;y;z:
+ψ x;y;zψ ~rψ (1.3)
+Electronic wave functions describing single electrons of a molecule in a certain
+electronic state are called orbitals, φ x;y;zφ ~rφ.1) For example, the sim-
+plestpossiblesingleelectronwavefunctionisanatomicsorbital,φ (ontheleft
+s
+inFigure1.3).Itcorrespondstoasphericallysymmetricalprobabilitydensityofa
+singleelectronaroundasinglenucleus.Anexaminationofthetimedependence
+of wave functions shows that they are actually oscillating. The sign of positive
+Figure1.3 Schematicconstructionofbond- importantdifferencethatprobabilitiesexhibit
+ingandantibondingmolecularorbitalsfrom nonegativeregions.Theheightofthehori-
+atomicorbitalsalongwiththeresultingelec- zontallinesontherightrepresentstheener-
+tronenergylevels.Probabilityfunctionsfor giesofelectronsinthecorrespondingorbitals.
+findinganelectronatacertainplacecanbe Electronsoccupyingcertainorbitalsare
+calculatedfromtheorbitalsusing(1.2)and depictedbyarrows.Thedirectionofthe
+lookqualitativelysimilar,withthemost arrowsassignsthespinoftheelectrons.
+1) Thedescriptionthatanelectronoccupiesorbitalsindependentlyfromallotherelectronsisonlya
+veryusefulapproximation,whichisclosetorealityinmanycases.Sinceallchargedparticlesina
+moleculeinfluenceeachother,anexactdescriptionwouldbeonlypossiblebywavefunctionsthat
+describeastateofanentiremolecule,ψ ,inacertainenvironmentincludingallelectrons
+molecule
+andnucleisimultaneously.
+
+--- Page 5 ---
+
+1.2 WhatDoestheElectronicStructureofMoleculesLookLike? 17
+and negative parts of the three-dimensional wave function changes with a cer-
+tainfrequency.Thenegativeandpositivesignsoftheorbitalsarenottobecon-
+fused with negative or positive charges. They are rather a consequence of the
+wave character of the electrons. For example, the waves of light (Figure 1.1) are
+also mathematically described by oscillating functions having negative and posi-
+tivevaluesbutofcoursethishasnothingtodowithpositiveornegativecharges.
+However, often, it is sufficient to work with time-independent versions of the
+wavefunctions,whichrepresentstationarystatesorstandingwavesandinwhich
+the oscillating, time-dependent factor is omitted. In Figure 1.3, for example,
+time-independent wave functions or orbitals are visualized for which negative
+partsaredepictedingrey,whereasthepositivepartsareunfilled.Theoscillation
+also has no effect on the probability density of finding an electron at certain
+places, P ~r, negative signs are cancelled out by the multiplication described by
+(1.2). The shape of the three-dimensional probability densities, P ~r, as calcu-
+lated by (1.2) are visually often quite similar to the shape of the wave functions,
+with the most important difference that there are no “negative” regions for the
+probabilitydensityofelectrons.
+Orbitals,andthusprobabilitydensities,neverchangeabruptly.Foranelectron
+in an s orbital, for example, the corresponding probability density increases
+smoothly when approaching the nucleus. Presentations of orbitals, such as
+shown in Figure 1.3, or probability densities usually symbolize a certain volume
+ofthe correspondingprobability densityin which theelectron can befound, for
+example, with 90% probability. The shown surfaces are called isosurfaces
+because they correspond to equal values for the probability of finding the elec-
+tronortoequalabsolutevaluesofthewavefunction.
+To contain all information on the electrons, for example the actual phase of
+the oscillation, wave functions can also contain mathematically complex terms.
+The symbol “*” in (1.2) simply denotes a transformation in which all imaginary
+parts of complex numbers in the wave function are multiplied by  1. However,
+for a qualitative understanding of the following sections, an indepth knowledge
+abouttheimaginarypartsofthewavefunctionsisnotmandatory.
+Ifanatomapproachesanotheratomthisaffectsthepossibleeigenstatesofthe
+electrons because they are then in the vicinity of two positively charged nuclei.
+Thepossiblewavefunctionsforsingleelectronsinthepresenceofseveralnuclei
+are called molecular orbitals. Molecular orbitals can be approximated by linear
+combinations of atomic orbitals (LCAO). If the wave functions of two atomic s
+orbitals with the same sign (corresponding to the situation that they oscillate in
+phase) are combined they form a new a bonding molecular orbital called a
+σ-orbital, (φ σ ∝φ1 s φ2 s , in the lower middle of Figure 1.3). The energy of an
+electron occupying a bonding molecular σ orbital is lower than that of an elec-
+tron in an atomic s orbital. This is the driving force for molecular bonds. So, if,
+forexample,twohydrogenatomswithasingleelectroninansorbitalapproach,
+both electrons can then be found in the newly formed bonding σ-orbital. The
+probability density of finding the electrons at a certain place of the molecular
+σ-orbital can again be calculated from the corresponding molecular orbital φ σ
+
+--- Page 6 ---
+
+18 1 BasicOpticalPrinciples
+using(1.2).Notably,anorbitalcanonlybeoccupiedbyamaximumoftwoelec-
+tronswithoppositespins(Wewilldiscussthemeaningofelectronspinsfurther
+below.) If two atomic s-orbitals with opposite signs (corresponding to the situa-
+tion that they oscillate out of phase) are combined they form an antibonding
+molecularσ*-orbital,φ σ ∝φ1 s  φ2 s (in the uppermiddle ofFigure 1.3).Electrons
+in antibonding σ*-orbitals havehigherenergiesthan electrons in bonding σ-orbi-
+tals (orbital energies are visualized as horizontal lines on the right in Figure 1.3,
+the corresponding electrons with opposite spins as arrows on these lines). By
+absorbing a photon with an energy corresponding to the energy difference
+betweentheseorbitalsoneoftheelectronsinthebondingσ-orbitalcanbeexcited
+into the antibonding σ* orbital. The large energy gap of the σ®σ* transition
+usuallyrequiresexcitationwithphotonscorrespondingtoUVlight.Theantibond-
+ing σ*-orbital has one nodal plane, which constitutes a region of zero electron
+density.Therefore,aσ®σ* excitationcan leadtobondbreakage.Notably,itisa
+convention to assign antibonding orbitals also by a star, which is not to be con-
+fusedwith the meaning of the star in equations such as (1.2) where itassigns the
+earliermentionedtransformationofimaginarypartsofthewavefunctions.
+Thesecondsimplestatomicorbitalsarep-orbitals(left-handsideinFigure1.4).
+They have a nodal plane at the nucleus andthe sign of the real part of the wave
+function is always opposite across this nodal plane. Two atomic p-orbitals of
+appropriate relative orientation at neighbouring nuclei can form molecular
+π-orbitals.2) In organic molecules and biomolecules most π-orbitals are found at
+Figure1.4 Schematicconstructionofbondingandantibondingmolecularπ-orbitalsfrom
+atomicp-orbitalsinthecaseofethene.
+2) Also,amolecularσ-orbitalcanbeconstructedfromtwoatomicp-orbitalsifthelatterareorien-
+tatedparalleltothebondaxis(perpendiculartotheonesshowninFigure1.3).Ingeneral,molecu-
+larorbitalsaredefinedasaσ-orbitalwhentheyaresymmetricalwithrespecttoarotationabout
+thebondaxis.
+
+--- Page 7 ---
+
+1.2 WhatDoestheElectronicStructureofMoleculesLookLike? 19
+Figure1.5 Schematicconstructionofan thoughtofasbeingconstructedfromthetwo
+extendedmolecularπ-orbitalsystemfrom molecularorbitals,π,π*,oftwoethenemole-
+conjugatedatomicp-orbitals.Theexample cules.Directcomparisonoftheenergylevels
+correspondstobutadiene.TheHOMOand oftheHOMOandLUMOofethenewiththe
+LUMOofbutadienecorrespondtotheπ and HOMOandLUMOofbutadieneshowsthat
+2
+π*orbitals,respectively.Thefourmolecular theenergygapofthelatterissmaller.
+3
+orbitalsπ,π,π*,π*ofbutadienecanalsobe
+1 2 3 4
+carbon, oxygen and nitrogen atoms and often constitute double bonds together
+withsimultaneouslyexistingσ-bonds.Asimpleexampleisethene.
+Similarly, several p-orbitals can form π-orbitals that are delocalized over mul-
+tiplenuclei(Figure1.5).Suchmolecularorbitalsarecalledconjugatedπ-systems.
+In Figure 1.5, four atomic p-orbitals form four molecular orbitals. In a similar
+manner, n molecular π-orbitals can be constructed from n atomic p-orbitals.
+The energy of the newly formed molecular orbitals increases with the number
+nodal planes (see energies of the molecular π-orbitals π , π , π*;π* in Figure 1.5).
+1 2 3 4
+The electrons from the original atomic p-orbitals (four in Figure 1.5) are then
+filled into molecularorbitals, starting with the lowest-energyorbitalsand obeying
+therule thatonly amaximum oftwo electronsareallowedpermolecularorbital.
+If orbitals have equal energies, they are first occupied by single electrons before
+anyofthemisfilledwithasecondelectron.
+The highest occupied molecular orbital and the lowest unoccupied molecular
+orbital are usually assigned by their acronyms HOMO and LUMO, respectively.
+For most organic molecules, the electronic ground state corresponds to the situa-
+tionthatallorbitalsuptotheHOMOelectronsareoccupiedbytwoelectrons(see,
+for example, Figures 1.4 and 1.5). Similarly, for organic molecules the first excited
+statecorrespondsoftentothesituationthatoneelectronhasbeenpromotedfrom
+the HOMO to the LUMO. The electronic ground state and the first possible
+
+--- Page 8 ---
+
+20 1 BasicOpticalPrinciples
+Figure1.6 Schematictopandsideviewsofexamplesoftheπ-orbitalsofanthracene.HOMO-1
+andLUMO+1assignthoseorbitalsthataretheenergeticallynextorbitalsbeloworabovethe
+HOMOandLUMOorbitals,respectively.FigurecreatedusingVMD(seeBibliographyfordetails).
+electronically excited state of molecules are often referred to as S and S states,
+0 1
+respectively.Thereasonsforthisnomenclatureareexplainedbelow(Section1.5).
+For butadiene (Figure 1.5), for example, S corresponds to the situation in
+0
+which the lowest two molecular orbitals π and π are each occupied by two
+1 2
+electrons. As can be seen by a comparison of the orbital energies of ethene in
+Figure 1.4 and the corresponding orbital energies of butadiene in Figure 1.5 the
+energydifferencebetweentheelectronsintheHOMOandtheLUMOdecreases
+as the system of conjugated p-orbitals becomes larger. In general, larger conju-
+gatedπ-systemstypically absorb photonsoflower energyandthus longerwave-
+lengthsthansmallerconjugatedπ-systems[comparewith(1.1)].
+Themolecularπ-orbitalsofmorecomplicatedmolecules,likebiomoleculesor
+optical markers, naturally look more complicated. Figure 1.6 shows wave func-
+tions of the π-system of the organic molecule anthracene as an example. The
+general rule that electrons in orbitals having more nodal planes have higher
+energiesstillappliesinmostcases.
+Electronic transitions involving conjugated π-systems are especially important
+inthespectroscopy ofbiomolecules, oropticalmarkers,becauseabsorptionand
+emissionofphotonsofthesesystemsareoftenstrongandcorrespondtolightin
+the spectroscopically convenient visible region. Since σ-bonds remain, π®π*
+transitionsusuallydonotcausebondbreakage.
+1.3
+HowDoesLightInteractwithMolecules?TransitionDensitiesandtheTransition
+DipoleMoment
+Intheprevioussectionwediscussedtheelectronicstructureofmoleculesbefore
+and after they have absorbed a photon and what photon energy is necessary for
+
+--- Page 9 ---
+
+1.3 HowDoesLightInteractwithMolecules? 21
+Figure1.7 (a)Theoscillatingelectricfield electronprobabilitydensitiestotheoscillating
+componentoflightcaninduceatransition electricfieldduringthetransitionisalso
+fromanstoaporbitalwhenithasthecorrect schematicallyillustrated.(b)Incontrast,the
+polarization(directionofoscillatingelectric oscillatingelectric-fieldcomponentoflight
+fieldcomponentoflight).Pleasenotethat cannotinduceatransitionfromones-orbital
+hereprobabilitydensitiesandnotwavefunc- toanothersorbital.FigurecreatedusingVMD
+tionsarevisualized.Theresponseofthe (seeBibliographyfordetails).
+suchatransition.Herewetakeacloserlookatthemechanismbywhichapho-
+tonoropticalradiationcanactuallyinteractphysicallywithmolecularorbitalsto
+promotethemoleculefromoneelectronicstatetoanother.
+Theprobabilitybywhichaphotonofcorrectenergyisabsorbedbyamolecule
+depends on the ability of the light’s oscillating electric field to change the initial
+electronic state into the final electronic state. For example, light can excite the
+single electron of an isolated hydrogen atom from an s-orbital into a p-orbital,
+whentheorientationofitsoscillationelectricfieldvectorisperpendiculartothe
+nodalplane ofthep-orbital (Figure1.7a). Inturn,itisnot possibletoexcite the
+electron from one s-orbital into another s-orbital of higher energy because such
+atransitioncannotbepromotedbyanoscillatingelectricfield(Figure1.7b).
+As can be seen from this simple example, it is important that the direction of
+the oscillation of the electric field of the light fits somehow with the orientation
+andshapeoftheelectroncloudsandthewavefunctionsdescribingtheinitialand
+the final electronicstate ofthe atomormolecule. The directionofthe oscillating
+electric field of the light is defined by its polarization vector (Figure 1.1). The
+directionandmagnitudeofthechangeinthechargedistributionduringthetran-
+sition is closely related to the so-called transition dipole moment, which can be
+calculatedfromthewavefunctionsoftheinitialandfinalelectronicstate(1.4):
+Z
+M ~ I!F  ψ* F ~re~r ψ I ~rdV (1.4)
+Here, ψ is the electronic wave function of the molecule in the final state and
+F
+ψ of the molecule in the initial state; e is the elementary charge of an electron
+I
+
+--- Page 10 ---
+
+22 1 BasicOpticalPrinciples
+and~r  x;y;z constitutes coordinates, which have their origin (x=0, y=0,
+zR =0) in thRReRcentre of the molecules charge distribution. The integration
+...dV  ...dxdydz runs over the entire space. The transition dipole
+moment is one of the most important optical parameters of optical markers in
+general and in understanding techniques such as fluorescence polarization or
+Förster resonance energy transfer. Therefore, we will discuss the transition
+dipolemomentinsomemoredetail.
+Itcanbeshownthatψ*e~r ψ ψ*ψ  e~r.Itiseasytoseethatthefirstpartof
+F I F I
+this product, the so-called transition density ψ*ψ , has some similarities with
+F I
+ψ*ψ (1.2).However,whereasψ*ψ describestheprobabilitydensityoffindingan
+electron at a certain position in a distinct state ψ*ψ , describes changes in the
+F I
+electronic structure and charge distributions during the transition from the ini-
+tial state to the final state. Figure 1.8 visualizes the meaning of the transition
+density exemplarily with a transition of an electron in anthracene (Figure 1.6)
+from the orbital φ to the orbital φ . In this case the transition density can be
+f h
+graphicallyestimated by simplymultiplyingthe signs oftheelectrons initial and
+final orbitals, φ and φ ,close to eachatom (indicated in Figure1.8 by+ and  ,
+f h
+with the number 0 for zero values at nodal planes). At the atom of anthracene,
+forexample,placedintheupperleft-hand cornerofFigure1.8(arrow1),φ has
+f
+a negative sign, whereas φ has a positive sign. As a result of the multiplication
+h
+thetransitiondensity,φφ musthavealsoanegativesignatthisposition.Atthe
+f h
+atom depicted with arrow 5 both φ and φ have a positive sign and thus the
+f h
+resulting transition density has a positive sign. Repeating this procedure for all
+atoms helps to generate a graphical estimate of the transition density φ*φ
+f h
+shown on the right-hand side in Figure 1.8. Obviously, the transition density is
+dominated by positive signs on the right-hand side of the molecule and by
+Figure1.8 Schematicrepresentationofthe thetransitiondensityisreducedincompari-
+constructionofthetransitiondensityandthe sontotheorbitalsforbettervisibility(higher
+directionofthetransitiondipolemomentfor isosurfacevaluesforthetransitiondensity).
+thetransitionbetweentheφ andφ orbitals FigurecreatedusingVMB(seeBibliography
+f h
+ofanthracene.Inthisillustrationthesizeof fordetails).
+
+--- Page 11 ---
+
+1.3 HowDoesLightInteractwithMolecules? 23
+Figure1.9 Schematicrepresentationofthe anthracene.Theprobabilitythatphotonsof
+optimumdirectionoftheoscillatingelectric- correctenergycaninducethistransitionisthe
+fieldcomponentoflight(polarizationvector) highestwhenthepolarizationvectorisparallel
+inrelationtothedirectionofthetransition tothetransitiondipolemoment.Figurecre-
+dipolemomentandthecorrespondingtransi- atedusingVMB(seeBibliographyfordetails).
+tiondensityforaφ ↔φ transitionin
+f h
+negativesignsontheleft-handside.Theconsequenceisthatlightwithanoscil-
+lating electric-field component orientated in the same or a similar direction in
+which the most dominant difference in the transition density is present has the
+highest chance of promoting an electron from the molecular orbital φ to the
+f
+molecularorbitalφ (Figure1.9).
+h
+Thedirectionofthelargestdifferenceinthetransitiondensityforacertaintran-
+sition is calculated by integration over the entire transition density using (1.4) and
+~
+resultsinavectorM,whichisthetransitiondipolemoment.Thehighestprobabil-
+itythatlightexciteselectronsinamoleculeisobservedwhenitsoscillatingelectric-
+fieldcomponent,thatisitspolarizationvector,isexactlyparallelwiththetransition
+dipole moment for the corresponding transition (Figure 1.9). Since the wave func-
+tions oscillate, the signs of the orbitals in Figure 1.8 are arbitrary. As a result, it is
+also arbitrary whether the transition dipole moment vector points in one or the
+otherdirection(indicatedbythedoublearrowinFigures1.8and1.9).
+Theprobabilitythataphotonisabsorbedishigherthelargerthecorrespond-
+ing transition dipole moment vector becomes. It depends quadratically on the
+absolutevalueofthetransitiondipolemomentvector:
+(cid:2) (cid:2)
+∝(cid:2)~ (cid:2)2
+P I!F M I!F (1.5)
+Also, the probability of the reverse process, the transition of an electron from
+an energetically higher state to an energetically lower state with a simultaneous
+emission of a photon is directly proportional to the square of the transition
+dipolemoment.
+Inspectingthetimedependenceofthetransitiondensityrevealsthatithasone
+oscillating component that corresponds to the difference frequency between the
+finalandinitialwave-functionoscillations.Thisdifferencefrequencycorresponds
+exactly to the frequency and thus the energy of photons that can induce the
+
+--- Page 12 ---
+
+24 1 BasicOpticalPrinciples
+transition. A transition thus corresponds to the case where the oscillating
+electric-field component of light is in resonance with the corresponding transi-
+tiondensityoscillationbetweeninitialandfinalstates.
+Acalculationofthetransitiondensityandthetransitiondipolemomentbetween
+the two s-orbitals (Figure 1.7b) explains why this transition cannot be induced by
+light. The corresponding transition density is spherically symmetrical around the
+spherically symmetrical origin at the nucleus (position of the nucleus is at x=0,
+y=0, z=0). Since the term e~r in (1.4) switches signs at the origin (x=0, y=0,
+z=0),intheoverallintegrationdifferentpartsaroundtheorigincanceleachother
+out exactly. For example, at the arbitrary position (x=l, y=0, z=0) the value of
+the transition density, ψ*ψ , is exactly the same as at the position (x= l, y=0,
+F I
+z=0). The term e~r also has the same absolute value at these two positions but
+oppositesigns[rememberthat~r  x;y;z].Consequently,ψ*ψ  e~r atthesetwo
+F I
+positionsalsohavethe sameabsolutevaluesbutoppositesignsandthereforecan-
+cel each other out exactly in the integration described by (1.4). The same applies
+foranyothertwopositions(x,y,z)and( x, y, z).Asanoverallresultthetran-
+sition dipole moment is zero. In general, transitions are called optically forbidden
+ordipoleforbiddenwhentheyhaveazerotransitiondipolemoment.
+Some important selection rules for optical transitions can be deduced directly
+from the above argument. For instance, the parity selection rule, also called
+Laporte’s rule, that applies for molecules having an inversion symmetry centre.
+Molecules having an inversion symmetry centre always have identical atoms at
+the positions (x, y, z) and ( x,  y,  z). The centre itself is located in the middle
+of the molecules and has the coordinates x=0, y=0, z=0. This is the case for
+ethene (Figure 1.4), butadiene (Figure 1.5) and also for anthracene (Figure 1.6).
+Thecorrespondingmolecularorbitalsofthesemoleculescaneitherhaveag(ger-
+ade) or a u (ungerade) symmetry. For orbitals with g symmetry the wave func-
+tions have identical values for any pair of positions (x, y, z) and ( x,  y,  z).
+Examplesaretheorbitalsπ andπ ofbutadiene(Figure1.5).Allotherorbitalsof
+2 4
+suchmoleculeshaveusymmetry.Laporte’srulestatesthattransitionsofelectrons
+between two orbitals that both have either g (gerade) or u (ungerade) symmetry
+havevanishingtransitiondipolemoments.Therefore,g®gandu®utransitions
+are forbidden, while u®g and g®u transitions are allowed. As an example the
+π (g)®π *(u) transitionofbutadiene (Figure 1.5)isallowedwhereasthe π (g)®
+2 3 2
+π *(g) transition is dipole forbidden. In the next chapter we will see that these
+4
+rulesalsoapplyforimportantbiologicalpigmentssuchascarotenoids.
+1.4
+AbsorptionSpectraofMoleculesinLiquidEnvironments.VibrationalExcitationand
+theFranck–CondonPrinciple
+Having learnt what determines the magnitude of absorption and emission of
+photons by molecules we now turn to the question of what factors affect the
+overall shape of an absorption or emission spectrum. An absorption spectrum
+
+--- Page 13 ---
+
+1.4 AbsorptionSpectraofMoleculesinLiquidEnvironments 25
+describesthefrequencyorwavelengthdependenceoftheprobabilitythatamol-
+ecule absorbs photons of the corresponding photon energy. Figures 1.10a and b
+showschematicabsorptionspectraoftwodifferentmoleculesinliquidsolution.
+Theabsorptionspectraarecomposedofvariouspeaksorabsorptionbands.The
+absorption band observed for the longest wavelength (lowest photon energy),
+eq. 1.1corresponds tothe absorption ofphotons having energiescorresponding
+totransitionsfromtheelectronicgroundstatetothefirstpossibleelectronically
+excited state, S ®S . The absorption band is not a narrow line, corresponding
+0 1
+to an exact defined transition energy, because molecules in liquids are exposed
+tomanydifferentsolventenvironments.Thedifferentmomentarysolventcharge
+distributionsandotherenvironmentaleffectsaffecttheelectronsofthemolecule
+and result in slight shifts in the S and S state energies. Other effects can also
+0 1
+resultinanadditionallinebroadeningoftheobservedabsorptionbands.
+Figure1.10 (a)and(b)Schematicabsorption transitionsaremostlikely.Forthemolecule
+spectraoftwodifferentmolecules.Parts(c) depictedin(b)and(d),forexample,itismost
+and(d)show,schematically,therespective probablethatasimultaneousexcitationinto
+potentialcurvesforthemoleculesinthe thethirdvibrationalstate(v´=2)occursdur-
+groundandintheexcitedstates,S andS . inganelectronicexcitation,S ®S .Please
+0 1 0 1
+Forthevibrationaleigenstatestheprobabilit- notethathereprobabilitydensitiesforfinding
+iesoffindingthenucleiatcertainpositions thenucleiatacertainplace,P ~r(1.6),are
+v
+relativetotheequilibriumpositionsarevisual- visualizedandnotthevibrationalwavefunc-
+ized.Becausenucleiareheavierthanelectrons tions,χ ~r,fromwhichtheFranck–Condon
+v
+thenucleiremainmainlystationaryduring integralsareactuallycalculatedaccordingto
+electronictransitionsandtherefore“vertical” (1.7).
+
+--- Page 14 ---
+
+26 1 BasicOpticalPrinciples
+The bands observed at shorter wavelengths or higher photon energies corre-
+spond to transitions in which, simultaneously, vibrations of the nuclei in the
+moleculesareexcitedinadditiontothepureelectronicexcitation(Figures1.10c
+and d). Such transitions are called vibronic transitions. What determines the
+probability that a certain vibrational state is excited simultaneously? As with
+electrons, for the nuclei of a molecule only probabilities can be given of finding
+them at a certain position. For a certain vibrational state, v, of molecules this
+probabilitycanbecalculatedfromvibrationalwavefunctions,χ ~r:
+v
+P ~rχ* ~rχ ~r (1.6)3
+v v v
+Again, only certain vibrational eigenstates are possible. At room temperature,
+molecules are usually in the lowest vibrational state of the electronic ground
+state,S .Vibrationaleigenstatesaredefinedbythevibrationalquantumnumber,
+0
+being zero for the vibrational ground state, v=0. Figure 1.10c and d shows that
+foradiatomicmoleculetheprobabilitydistributionoffindingthetwonucleiata
+certainpositiondisplacedfromtheirequilibriumdistanceisgivenbyaGaussian
+function for v=0. In Figure 1.10 the equilibrium position in the S state is
+0
+defined by the nuclear displacement 0 on the x-axis. A displacement of the
+nucleitolongerdistancesactsagainsttheelectronicbondingforces.Adisplace-
+mentofthenucleitoshorterdistancesactsagainsttherepulsionforcesbetween
+the positively charged nuclei. Consequently, any displacement leads to an
+increaseintheenergycontainedinthemolecule.ThisenergyincreasefortheS
+0
+andintheS statesisvisualizedbytheparabolic-likecurvesinFigure1.10cand
+1
+d. Such curves are called potential-energy curves. For very large separations of
+the nuclei, of course, bond breakage or dissociation occurs. This is indicated by
+theasymmetryofthecurvesforhighvibrationalenergies.
+Why is the probability for a pure electronic excitation (v´´=0®v´=0)4) for
+some molecules (Figures 1.10a and c) the highest, whereas for other molecules
+(Figure 1.10b and d) an excitation into the third vibrational state of S (v´´=0®
+1
+v´=2) apparently has the highest probability? This can be rationalized by the so-
+called Franck–Condon principle. Since the timescale of excitation of the light
+electrons into a higherelectronic state isfar shorterthanthe vibrational motions
+oftheheaviernuclei,themoleculargeometryremainsconstantduringtheexcita-
+tion process (vertical transitions in Figure 1.10). In the first molecule
+(Figures 1.10a and c) the equilibrium positions of the atoms in the excited state,
+S , are very similar to those in the S state. As a consequence, no vibrations are
+1 0
+3) Theseparatedescriptionofvibrationalwavefunctions,χ,thatareindependentfromwavefunc-
+v
+tionsdescribingtheonlytheelectrons,ψ(1.2),isagainonlyanapproximationthatisusuallyclose
+totherealsituation.ThisapproximationiscalledtheBorn–Oppenheimerapproximation.Again,
+anexactdescriptionisonlypossiblebyawavefunction,ψ ,thatdescribesthestatesofan
+molecule
+entiremoleculeinacertainenvironmentincludingallelectronsandnucleisimultaneously:
+ψ ≈ψχ.
+molecule v
+4) Theconventionistodefinethenumberofthevibrationalquantumstatesofmoleculesinthe
+electronicgroundstate,S,byv´´,whereasthecorrespondingnumberforvibrationalquantum
+0
+statesoftheexcitedstate,S,isdefinedbyv´.
+1
+
+--- Page 15 ---
+
+1.5 WhatHappensAfterMoleculeshaveAbsorbedLight? 27
+induced by the electronic transition, S ®S , and the molecule is preferentially
+0 1
+excited into the vibrational ground state of the S state. In the absorption spec-
+1
+trumthebandcorrespondingtothistransitiondominates.Intheothermolecule,
+however,theequilibriumpositionsofthenucleiintheS stateareshiftedtowards
+1
+longer internuclei distances (Figure 1.10d). This situation often applies simply
+because excited states usually have more antibonding character (Figures 1.3–1.5)
+and, therefore, the equilibrium distances of the nuclei are longer. Because the
+nuclei are heavier than the electrons, they can change their position very little
+during the excitation of an electron. As a consequence, the vibrational state
+observedafterthistransitionisthemostprobable,inwhichthenucleargeometry
+can remain the same or similar to the nuclear geometry in the ground state, S ,
+0
+v´´=0. For the molecule in Figure 1.10b and d the third vibrational state (v´=2)
+of the S state has a very large overlap of its vibrational probability distribution
+1
+with the vibrational probability distribution in the ground state, or to be more
+quantitativethenuclearoverlapintegral
+Z
+χ v´´ rχ v´ rdV (1.7)
+is the largest for this transition. Here χ v´´ r describes the vibrational wave func-
+tion of the vibrational ground state (v´´=0) in the S 0 state and χ v´ r the vibra-
+tional wave functions in the S state. Integrals described by (1.7) are called
+1
+Franck–Condonintegrals.Intheabsorptionspectrumtherelativemagnitudesof
+the vibrational bands are proportional to the square of the corresponding
+Franck–Condonintegrals:
+(cid:2)Z (cid:2)
+(cid:2) (cid:2)2
+P v´´!v´ ∝(cid:2) (cid:2) χ v´´ rχ v´ rdV (cid:2) (cid:2) (1.8)
+Figures 1.10c and d show only the potential curves, vibrational energy levels
+and probabilities of finding the nuclei separated by certain displacements for a
+diatomicmolecule.Inmorecomplexmoleculesofcoursevariousdifferentvibra-
+tional modes are possible that cannot be visualized in a single two-dimensional
+plot. Nevertheless, the most important conclusions derived here are also valid
+formorecomplicatedmolecules.
+1.5
+WhatHappensAfterMoleculeshaveAbsorbedLight?Fluorescence,Nonradiative
+TransitionsandtheTripletState
+Letusnowturntothequestionofwhathappenstotheexcitationenergyaftera
+molecule has absorbed a photon. The energy absorbed by a molecule can be
+released via several pathways. For biomolecules or optical markers, which are
+usuallyinanaqueousorliquidenvironment,inmostcasesfirstvibrationalrelax-
+ation is dominant. This process is the quick release of the entire vibrational
+
+--- Page 16 ---
+
+28 1 BasicOpticalPrinciples
+Figure1.11 Afterexcitationofamolecule(blue)usuallyveryrapidvibrationalrelaxation
+(green)occursintheexcitedstate.Asaconsequence,fluorescence(red)normallyoccursfrom
+thelowestvibrationalleveloftheexcitedstate,S (v´=0).
+1
+excess energy in the S state, often vibrational quantum by vibrational quantum,
+1
+to the surrounding solvent molecules. The process is very fast, occurring on the
+femto- to picosecond (10
+ 15–10  12s)
+timescale. In Figure 1.11 this rapid vibra-
+tionalrelaxationisindicatedbygreenwavyarrows.Itisageneralconventionthat
+such nonradiative processes are indicated by wavy arrows, whereas radiative pro-
+cesses, which consist of the absorption or emission of a photon, are indicated by
+straight arrows. The final result of fast vibrational relaxation is that the molecule
+isnowinthelowestvibrationalstateoftheelectronicexcitedstate(S ,v´=0).
+1
+Thenextobviouspathwayistheoppositeprocesstoabsorption.Thisradiative
+de-excitation into the ground state, S ®S , is called spontaneous emission or
+1 0
+simplyfluorescence(redarrowinFigure1.11).Mechanistically,itisgovernedby
+very similar processes as absorption. The probability of fluorescence is again
+proportionaltothesquareofthetransitiondipolemoment.Theemittedphoton
+haspreferentiallyapolarizationparalleltothetransitiondipolemoment.Forthe
+emission, again the Franck–Condon principle applies (Figure 1.10). Because the
+potential curves and vibrational wave functions for vibrational eigenstates are
+often very similar and symmetric for both the S and S states, it can be under-
+0 1
+stood from the Franck–Condon principle that the fluorescence spectrum often
+hasamirrorimagelikeshapeincomparisontotheabsorptionspectrum(Figure
+1.12).AgaintheFranck–Condonintegral(1.7) isthelargestforthetransitionof
+the lowest vibrational state of the electronically S state to the third vibrational
+1
+state of S for the example shown in Figures 1.11 and 1.12 [S (v´=0)®S (v´´
+0 1 0
+=2)].Consequently,alsointhefluorescencespectrumthethirdvibrationalband
+dominates.Theabsorptionandfluorescencebandswiththelargestandsmallest
+
+--- Page 17 ---
+
+1.5 WhatHappensAfterMoleculeshaveAbsorbedLight? 29
+Figure1.12 Becausethepotentialcurvesandvibrationalwavefunctionsfortheelectronic
+groundandexcitedstatesofamolecule,areoftenverysimilarandsymmetricforsmallvin
+manycasesamirrorsymmetryofabsorptionandfluorescencespectracanbeobserved.
+wavelengths,respectively,definetheso-called0–0transitions.Thesecorrespond
+totransitionsbetweenthelowestvibrationaleigenstatesinthegroundandexcited
+states, S (v´´=0)®S (v´=0) and S (v´=0)®S (v´´=0). Usually, these bands are
+0 1 1 0
+not exactly overlapping, because typically the molecule itself and solvent molecules
+around the solute molecule rearrange themselves as a response to the new elec-
+tronic structure in excited states. This results in a slight lowering of the S state
+1
+energy and leads to a shift of the 0–0 transition in the fluorescence spectrum to
+longerwavelengthsincomparisontothe0–0transitionintheabsorptionspectrum.
+The general observation that emitted photons have longer wavelengths than
+theabsorbedphotonsiscalledtheStokesshift.
+IftheenergygapbetweentheS stateandtheS stateislargeandthemolecu-
+1 0
+lar structure is rather rigid, for example because of many double bonds, then
+oftenfluorescencedominatesthede-excitationofthemolecules.However,ifthe
+energy gap becomes smaller or if the molecule is very flexible then nonradiative
+de-excitation of the S state often becomes dominant (energy-gap law). This is
+1
+shown schematically in Figure 1.13. The smaller the energy gap between S and
+1
+S , the higher becomes the chance that there is a good overlap between the
+0
+vibrational ground-state wave function of the S state with wave functions of
+1
+highly excited vibrations in the electronic ground state. If that is the case, the
+moleculecanswitchfromtheelectronicexcitedstateintotheelectronicground
+state,S ÎS ,withouttheemissionofaphoton(bluehorizontalarrowinFigure
+1 0
+1.13) and without a major rearrangement of the nuclear positions during this
+transition. This process is called internal conversion. Again, the probability for
+thisprocesscanbecalculatedusingoverlapintegralssimilarto(1.7).Oncesuch
+a high vibrational state of the electronic ground state is populated, fast vibra-
+tional relaxation of the vibrational energy into the solvent environment again
+occursonthefemto-topicosecondtimescale.
+
+--- Page 18 ---
+
+30 1 BasicOpticalPrinciples
+Figure1.13 Visualizationofnonradiativerelaxation(internalconversion)ofexcitedstates,
+whichoftendominatesforsmallgroundstate–excitedstateenergygaps.
+If originally a higher electronically excited state, S , S .. ., has been populated
+2 3
+then usually very fast internal conversion into the lowest excited state, S , also
+1
+takesplace,becausetheenergygapbetweenexcitedstatesisnormallysmallerthan
+the energy gap between S and S . Thus, in general,fl uorescence occurs from the
+1 0
+lowestelectronicallyexcitedstateinitslowestvibrationalstate,regardlessofwhich
+excitedstatewasoriginallypopulated.ThisgeneralruleiscalledKasha’srule.
+For the third possible de-excitation path way we have to introduce a further
+important class of electronically excited states that are named tripletstates. Fig-
+ure 1.14 shows examples of electrons occupying different orbitals in the ground
+state,S ,andinvariouspossibleexcitedstatesofamolecule.Formostbiomole-
+0
+cules andfluorescence markers intheir electronic ground state a situation simi-
+lar to the S state in Figure 1.14 applies, in which all orbitals up to the HOMO
+0
+Figure1.14 Possibleexcited-stateconfigurations.
+
+--- Page 19 ---
+
+1.5 WhatHappensAfterMoleculeshaveAbsorbedLight? 31
+arefilledwithtwoelectronsofoppositespins.Thespinofanelectronisapurely
+quantummechanicalpropertyandcanberegardedasakindofangularmomen-
+tumoftheelectron.Theelectroncanonlyoccurintwospins,αandβ,whichare
+depicted by opposite arrows in Figure 1.14. The quantum mechanical Pauli rule
+states that no electron in a molecule can have the exact same properties as
+another electron in the molecule. Therefore, an orbital can be occupied by two
+electronsonlyiftheyhavedifferentspins.
+However, as can be seen from the right most diagram in Figure 1.14, Pauli’s
+ruleisnotviolatedifasingleelectronexcitedintoahighermolecularorbitalhas
+the same spin as the remaining electron in the original HOMO, because they
+occupy different orbitals. Such electronic states with two unpaired electrons of
+the same spin are referred to as triplet states. The energetically lowest triplet
+stateisusuallydepictedbyT .Statesinwhichforeachelectronanotherelectron
+1
+withoppositespinispresentarecalledsingletstates.
+The vector diagrams depicted in Figure 1.15 give us an idea of the origin of
+this nomenclature. The spin of an electron is a purely quantum mechanical
+property and has no classical analogue. However, due to the spin, the electron
+hasasmallmagneticmoment,withtheresultthatanisolatedelectronactssimi-
+larly to a small magnet. In an external magnetic field, the magnetic moment of
+an electron can be symbolized by a vector representing the orientation of the
+magneticmomentwithrespecttotheexternalfield(thinarrowsinFigure1.15).
+Depending on the spin of the electron, the magnetic moment can be either ori-
+entated with or against the external magnetic field. These two orientations are
+assignedα-orβ-spin,respectively.Duetoquantummechanicalreasons,itisnot
+orientated exactly parallel to the external field but slightly tilted. In addition, it
+rotates around the axis of this external field. Further details of the properties of
+spin states will be discussed in Chapter 4. Here, it shall only be noted that the
+magneticmomentsofelectronspairedinanorbitalsumtoazerototalmagnetic
+momentsymbolizedbytheoppositearrowsontheleftinFigure1.15.Therefore,
+only a single state is possible in an external magnetic field, which is defined as
+singlet state, S. In the triplet state, however, the magnetic moments of the
+Figure1.15 Possibleorientationsofthemag- arrows) canceleachotheroutresultingina
+neticmomentsoftheelectronspinoftwo zerototalmagneticmoment.Inthetriplet
+electronsandthecorrespondingtotalmag- statethemagneticmomentsoftheindividual
+neticmoment(thickarrow)inthevectorrep- electronsalwaysspanthesameangleantheir
+resentation.Inthesingletstatethemagnetic summationcanpointinthreedifferent
+momentsoftheindividualelectrons(thin directions.
+
+--- Page 20 ---
+
+32 1 BasicOpticalPrinciples
+unpaired electrons do not cancel each other out (thick arrows in Figure 1.15).
+The individual magnetic moments of the two unpaired electrons can be com-
+bined in three ways (αα, ββ, αβ) in an external magnetic field. This is the origin
+forthenametripletstate(T).SandTarealso calledthemultiplicityofanelec-
+tronic state. Because electrons with the same spin cannot be simultaneously at
+the same place (Pauli’s rule) the repulsive interactions between these electrons
+aregenerallysmaller.Asaconsequence,tripletstatesareusuallylowerinenergy
+thantherespectivesingletstates.
+Figure 1.16 shows how the formation of a triplet state typically takes place.
+Thetripletstateisusuallyalsopopulatedfromthevibrationalgroundstateofan
+excited singlet state, S (v´=0). The corresponding transition, S ÎT , is called
+1 1 1
+intersystem crossing. As in the case of internal conversion, intersystem crossing
+isfavouredwhenagoodoverlapexistsbetweenvibrationalwavefunctionsofthe
+excited singlet state, S , with vibrational wave functions of the triplet state, T
+1 1
+[Figure 1.16, (1.7)]. In comparison to fluorescence or internal conversion, the
+process of intersystem crossing is usually a lot less probable. Intersystem cross-
+ing requires a change of the total spin of the electron that corresponds to a
+change of the angular momentum. However, it is a fundamental law that the
+overallangularmomentumofanisolatedsystemmustremainconstant.Because
+there are only verylimited possibilities to compensate for the changein angular
+momentum such spontaneous flips in the spin of electrons are rather unlikely
+andarethereforecalledspinforbidden.Onlywhenthechangeinthespinangu-
+lar momentum can be compensated by certain mechanisms can such spin flips
+happen. An important example fur such a mechanism is spin–orbit coupling in
+which, in a classical picture, a change in the angular momentum describing the
+electronmovementaroundthenucleicompensatesthespinflip.
+After intersystem crossing, vibrational excitation is also usually generated,
+which is again dissipated within femto- to picoseconds until the molecule
+Figure1.16 Visualizationoftriplet-stateformation(intersystemcrossing)and
+phosphorescence.
+
+--- Page 21 ---
+
+1.6 QuantitativeDescriptionofallProcesses 33
+Figure1.17 Schematicrepresentationoftyp- fluorescencespectrum.Thereasonisthat
+icalabsorption,fluorescenceandphosphores- wavelengthsarenotlinearlyproportionalto
+cencespectra.Itshouldbenotedthatinreal thestateenergies(comparewith(1.1)).Only
+spectrawithawavelengthscalethephospho- onawavenumberorfrequencyscalereally
+rescencespectrumtypicallyappearssome- identicalspacingsofthevibrationalbandscan
+whatbroaderthanthecorresponding beexpected.
+remainsinthevibrationalgroundstateofT .Fromhere,twopathwaysarepos-
+1
+sible. Radiative relaxation from the triplet state, T ®S , is called phosphores-
+1 0
+cence. Generally, phosphorescence is the luminescence arising from radiative
+transitions involving a change in multiplicity. Nonradiative de-excitation or
+intersystemcrossing,T ÎS ,isalsopossible.Similartotheinternalconversion,
+1 0
+S ÎS , the probability for this process depends on overlap integrals such as
+1 0
+(1.7) of the vibrational ground state of T with highly excited vibrational states
+1
+of S . Both processes also require a spin flip and are thus rather improbable. As
+1
+an overall result, many biomolecules and fluorescence markers rarely undergo
+intersystemcrossingtothetripletstates,butonceatripletstatehasbeenformed
+itisusuallyquitelonglivedincomparisontosingletstates.
+The generally lower energy of the triplet states cause the phosphorescence to
+appear at longer wavelengths than fluorescence (Figure 1.17). Similarly to fluo-
+rescence, the phosphorescence spectrum often appears to be a mirror image of
+the ground-state absorption, because the vibrational modes are often very simi-
+larinallelectronicstates.
+1.6
+QuantitativeDescriptionofallProcesses:QuantumEfficiencies,KineticsofExcited
+StatePopulationsandtheJablonskiDiagram
+All the effects described so far can be summarized in a diagram named after the
+Polish physicist Aleksander Jabłoński (1898–1980) (Figure 1.18). In the Jablonski
+diagram only energy levels of the electronic states, and sometimes also vibrational
+energy levels, are depicted as horizontal lines. As mentioned earlier, all radiative
+processes (absorption or emission of a photon) are depicted using straight arrows,
+
+--- Page 22 ---
+
+34 1 BasicOpticalPrinciples
+Figure1.18 AJablonskidiagram.
+whereasnonradiativeprocessesareportrayedusingwavyarrows.Foreachprocess
+arateconstantkcanbegiven,whichisproportionaltotheprobabilitypertimeunit
+thatthecorrespondingprocessoccurs.Forexample,iftherateconstantforinternal
+conversion, S ÎS , of a molecule is k =1ns  1 and if the rate constant for fluo-
+1 0 IC
+rescence,S ®S ,isonlyk =0.1ns  1,theprobabilitythattheexcitationenergyis
+1 0 FI
+releasedviafluorescenceistentimeslessthanvianonradiativeinternalconversion.
+With the Jablonski diagram important parameters like, for example, quantum
+efficienciesorquantumyieldsofdifferentprocessescanbederived.Thefluores-
+cence quantum efficiency is the number of photons emitted by a molecule as
+fluorescencedividedbythenumberofphotonsthatwerepreviouslyabsorbedby
+themoleculeinalargernumberofexcitationandde-excitationcycles.
+Number of photons emitted as fluorescence
+Φ  (1.9)
+Fl Number of absorbed photons
+A highfl uorescence quantum efficiency is an important property of fluores-
+cence markers. In general, the quantum efficiency of any process is defined as
+the number of quanta undergoing theprocess divided by the number of
+absorbed photons or quanta originally present in the initial state from which
+thisprocessoccurs.Therefore,thequantumefficiencyisadirectmeasureofthe
+probability of certain processes in a molecule. The quantum efficiency of a pro-
+cess can becalculated bydividing the rate constantof the process of interestby
+the sum of the rate constants of all processes simultaneously depopulating the
+initialstate.Thefluorescencequantumyield,forexample,canbecalculatedby:
+k
+Φ  Fl (1.10)
+Fl k k k
+Fl IC ISC
+ThequantumyieldforS ÎT intersystemcrossingcanbecalculatedanalogously:
+1 1
+k
+Φ  ISC (1.11)
+ISC k k k
+Fl IC ISC
+
+--- Page 23 ---
+
+1.6 QuantitativeDescriptionofallProcesses 35
+To calculate the phosphorescence quantum yield one has to multiply the
+quantum yield for S ÎT intersystem crossing by the probability for radiative
+1 1
+emissionfromthetripletstate,T ÎS :
+1 0
+k
+Φ Φ Ph (1.12)
+Ph ISC
+k
+kT!S
+Ph ISC
+Thesumofallradiativeandnonradiativeprocessesmustbeone:
+X
+Φ Φ  Φ 1 (1.13)
+Fl Ph NR
+Here, nonradiative processes can be internal conversion from the singlet or
+intersystem crossing from the triplet state, S ®S and T ®S , or other pro-
+1 0 1 0
+cesses like photochemical reactions or energy-transfer processes (not depicted
+in Figure 1.18). Energy-transfer processes are described in detail in Chapter 3
+(Section3.5).
+Atimeconstantofaprocessisdefinedastheinverseofitscorrespondingrate
+constantτ k  1.Arateconstantforfluorescence,S ®S ,ofk =0.1ns  1,for
+X X 1 0 FI
+example, corresponds to a time constant for fluorescence of τrad=10ns. The
+Fl
+overall lifetime of an electronic state is also a time constant and can be calcu-
+lated from the inverse of the sum of the rate constants, k , of all processes
+X
+depopulatingthisstate:
+(cid:3)X (cid:4)
+ 1
+τ  k (1.14)
+State X
+According to the Jablonski diagram in Figure 1.18 the lifetime of the first
+excitedsingletstateofamoleculeisforexample:
+τ  k k k  1 (1.15)
+S1 IC Fl ISC
+as long as no additional processes depopulate S . Often, the rate constant for
+1
+intersystem crossing, k , is small compared to k and k . Then, the S state
+ISC FI IC 1
+lifetimedependsontherelativemagnitudesofk andk .Themagnitudeofk
+FI IC FI
+isdirectlyrelatedtothemagnitudeofthetransitiondipolemomentforthetran-
+sitionS ®S :
+1 0
+(cid:2) (cid:2)
+∝(cid:2)~ (cid:2)2
+k Fl M S1 !S0 (1.16)
+[seealso (1.4)]. Typically, the correspondingtime constants,τ , are on the order
+Fl
+ofafewuptotensofnanoseconds.Consequently,ifthecorrespondingtimecon-
+stant for internal conversion is as short as, for example, 100ps, for instance due
+toasmallS –S energygap,thentheS statelifetimewillalsobeontheorderof
+1 0 1
+onlyafew100psandalmostnofluorescencewillbeemittedbythemolecule.In
+contrast, if the corresponding time constant for internal conversion is >10ns
+then the S state lifetime will be on the order of the time constant for fluores-
+1
+cenceandfluorescenceemissionwillbedominant.
+
+--- Page 24 ---
+
+36 1 BasicOpticalPrinciples
+The kinetic behaviour of the different states also depends on the specific rate
+constants.Basically,thekineticsofthepopulationofexcitedstatesofanensem-
+ble of molecules can be treated by the same mathematical frame work as the
+kinetics of chemical or biochemical reactions. If the S state of the molecules is
+1
+populated by a short pulse of excitation light its decay can be calculated using
+thefollowingapproach:
+dP t
+S1   k k k   P t (1.17)
+dt Fl IC ISC S1
+Here,P tisthepopulationofthefirstexcitedsingletstate.dP t=dt isthe
+S1 S1
+actual velocity by which the population of molecules in the S state changes; it
+1
+depends on the rate constants of all depopulating processes and of the actual
+remaining S population. Integration of Eq. (1.17) shows that the S state popu-
+1 1
+lationdecaysmonoexponentiallyafterapulsedpopulation(Figure1.19):
+P S1 tP0 S1  e   kFl kIC kISC t P0 S1  e  t=τ S1 (1.18)
+Here,P0 istheinitialabsolutepopulationgeneratedintheS stateduetothe
+S1 1
+pulsedexcitation.
+The lifetime of the S state, τ , determines how fast its population decreases.
+1 S1
+Since the fluorescence intensity, I (t), is always proportional to the actual S
+FI 1
+statepopulation,P t,italsodecaysinthesamewayastheS statepopulation:
+S1 1
+I t∝ P t
+I F F l l tI0 Fl S1  e t=τ S1 (1.19)
+Thus, the lifetime of the first excited state S can be determined experimen-
+1
+tally from the fluorescence’s decay observed in time-resolved fluorescence
+Figure1.19 Schematicpresentationoftypicalkineticsofexcited-statepopulations.
+
+--- Page 25 ---
+
+1.6 QuantitativeDescriptionofallProcesses 37
+measurements.Themeasuredfluorescencedecayisthereforeoftenalsoreferred
+to as the fluorescence lifetime of a molecule. Notably, however, this is not to be
+confused with the time constant for the radiative emission or fluorescence, τrad.
+Fl
+The time constant for radiative emission or fluorescence, τrad k  1, is defined
+Fl Fl
+forthepureprocessofdepopulationofthefirstexcitedsingletstatebyemission
+of fluorescence photons (Figure 1.18). This time constant is in general larger
+than or at most equal to the lifetime of the first excited state, τ : τ  1 
+τ  1 τ 1 τ  1 [compare with (1.14) and (1.15)]. In this bo S o 1 k th S e 1 time
+IC ISC
+constant for radiative emission or fluorescence is always depicted by τrad to
+Fl
+clearlydifferentiateitfromτ .However,beawarethatintheliteraturethesym-
+S1
+bol, τ , is very often used to describe measured fluorescence decays that reflect
+Fl
+nothingotherthanthelifetimeofthefirstexcitedsingletstate,τ (1.19).
+S1
+Figure1.19depictsschematicallytypicaltime-dependentchangesofthepopu-
+lationsofT andS .Similarlytothekineticdescriptionofthesinglestatepopu-
+1 0
+lation, changes in the triplet-state population can also be described by
+differentialequations.Becausethetripletstateispopulatedfromthesingletstate
+via intersystem crossing we have to consider apair of coupled differential equa-
+tions:
+dP t
+S1   k k k   P t
+dt Fl IC ISC S1
+(1.20)
+dP T t k  P t  k kT!S  P t
+dt ISC S1 Ph ISC T
+Here, P (t) is the population of the first excited triplet state and dP (t)/dt is
+T T
+theactualvelocitybywhichthepopulationofmoleculesintheT statechanges
+1
+asafunctionofS andT statepopulationsandallrateconstantspopulatingor
+1 1
+depopulatingthesestates.
+Integrationofthesecoupledequationsgives:
+!
+P t P0  k
+ e  kFl kIC kISC te  kph kT
+IS
+!
+C
+St
+T S1 ISC k k k   k kT!S
+Fl IC ISC Ph ISC
+ P0 S1  A  e t=τ S1 e  kPh k I T S ! C Stfor τ 1
+S1
+> k Ph kT IS ! C S
+)
+I Ph tI0 Ph  A  e  t=τ S1 e   kPh k I T S ! C St (1.21)
+In a manner similar to the way fluorescence kinetics describe population
+changes in the excited singlet state, S , (1.19) the observable phosphorescence
+1
+kinetics describe the kinetics of the triplet-state population. The population
+curve for T in Figure 1.19 is an exemplary illustration of typical triplet-state
+1
+kinetics. The triplet-state kinetics are an example of a consecutive reaction
+scheme, S ®T ®S , with the T state being an intermediate. According to
+1 1 0 1
+Eq.(1.21)theintermediateT populationkineticsaredescribedbyabiexponen-
+1
+tial function with an exponential rise term, depending on the S state lifetime,
+1
+τ , and an exponential decay term, depending on the rates for intersystem
+S1
+
+--- Page 26 ---
+
+38 1 BasicOpticalPrinciples
+crossing from the triplet state and phosphorescence, k
+kT!S.
+The maximum
+Ph ISC
+intermediate triplet-state population depends on the relative magnitude of the
+rate for intersystem crossing, k , in comparison to k +k and k kT!S. If
+ISC Fl IC Ph ISC
+k islargecomparedtok +k andk kT!S alargeandlong-livedinterme-
+ISC Fl IC Ph ISC
+diate triplet-state population will be observed. In contrast, if k is small com-
+ISC
+pared to k kT!S or k +k the intermediate triplet-state population will
+Ph ISC Fl IC
+alwaysremainverysmall.
+Problems
+1.1 Orbitals have regions in which they have negative and positive signs.
+Explain the physical background of the signs and how this relates to the
+probabilityoffindingelectronsatacertainplace.
+1.2 Spectroscopistsoftendescribeenergiesthatarenecessarytoexcitecertain
+electronic states by the wave number of the corresponding photons in
+units of cm
+ 1.
+Why is this more advantageous than describing the corre-
+spondingenergiesinunitsofthephotonswavelength?
+1.3 Trytoestimatetheshapeofthepossiblemolecularπ-orbitalsofthemol-
+ecule hexatriene (CH CH-CHCH-CHCH ). How many nodal
+2 2
+planes does each orbital have? What is the energetic order of these orbi-
+tals?WhichorbitalsaretheHOMOandLUMOorbitals?
+1.4 What are important prerequisites before a photon can be absorbed by a
+molecule?
+1.5 Figure 1.6 shows schematically four π-wave functions of the molecule
+anthracene. Sketch the transition density for a transition between the
+statesfandg.Inwhatdirectionrelativetothemolecularaxisisthetran-
+sitiondipolemomentorientated?
+1.6 Figure 1.5 shows schematically the π-wave functions of the molecule
+butadiene. Which of the following transitions of butadiene are dipole
+allowed:
+a) Theπ ®π *transition?
+1 4
+b) Theπ ®π *transition?
+1 3
+c) Theπ ®π *transition?
+2 3
+1.7 Describe in general the important factors that govern the shape of
+absorptionandfluorescencespectraofmoleculesinaliquidenvironment.
+1.8 The probabilities of finding nuclei at certain positions can be calculated
+fromvibrationalwavefunctions(1.6)inthesamewayastheprobabilities
+of findingelectrons atcertain positions canbe calculated from electronic
+wave functions. Figure 1.10 shows schematically the probabilities of find-
+ing nuclei at certain positions relative to their equilibrium position for
+
+--- Page 27 ---
+
+Bibliography 39
+v´=0, 1, 2. Try to guess what the corresponding vibrational wave func-
+tionslooklike.
+1.9 Describe in general the factors that determine the probabilities for fluo-
+rescence, internal conversion and intersystem crossing of molecules in a
+liquidenvironment.
+1.10 Belowaregivencorrespondingwavenumbersandtimeconstantsforsev-
+eraltransitionsbetweenvariousstatesofafluorescentmolecule:
+S ®S : 18000cm  1
+0 1
+S ®S : 22000cm  1
+0 2
+T ®S : 15000cm  1
+1 0
+RadiativeS ®S transition(fluorescence): τrad=5ns
+1 0 Fl
+NonradiativeS ÎS transition(internalconversion): τS 25ns
+1 0 IC
+S ÎT intersystemcrossing: τ 100ns
+1 1 ISC
+RadiativeT ®S transition(phosphorescence): τ 2s
+1 0 Ph
+NonradiativeT ÎS transition(intersystemcrossing): τT!S 20μs
+1 0 ISC
+Sketch the Jablonski diagram using the given data. Mark the radiative
+and nonradiative transitions on the diagram. Which wavelengths are
+needed to excite the molecule into S and S ? Calculate for this fluores-
+1 2
+centmolecule(a)thelifetimeofthefirstexcitedsingletstate,τ .(b)The
+S1
+fluorescence quantum yield Φ . (c) The triplet quantum yield Φ .
+FL Triplet
+(d) The triplet-state lifetime τ . (e) The phosphorescence quantum
+Triplet
+yieldafterexcitationintoS .
+1
+1.11 Fluorescent moleculeswithlargerconjugated π-systemsoftenabsorband
+emit at longer wavelengths and have larger transition dipole moments
+thanmoleculeswithsmallerconjugatedπ-systems.Trytoexplainwhy.
+Bibliography
+Atkins,P.W.andFriedman,R.S.(2004) Humphrey,W.,Dalke,A.andSchultenK.
+MolecularQuantumMechanics,Oxford (1996)VMD-VisualMolecularDynamics,
+UniversityPress,Oxford. JournalofMolecularGraphics14,33–38.
+Haken,H.andWolf,H.C.(2005)The Kutzelnigg,W.(2002)Einführungindie
+PhysicsofAtomsandQuanta,Springer, TheoretischeChemie,Wiley-VCHVerlag
+Berlin. GmbH,Weinheim.
+Haken,H.andWolf,H.C.(2008)Molecular Lakowicz,J.R.(2006)Principlesof
+PhysicsandElementsofQuantum FluorescenceSpectroscopy,Springer,Berlin.
+Chemistry,Springer,Berlin. Levine,I.N.(1999)QuantumChemistry,
+Harris,D.C.andBertolucci,M.D.(1989) PrenticeHall.
+SymmetryandSpectroscopy:An Turro,N.J.(1991)ModernMolecular
+IntroductiontoVibrationalandElectronic Photochemistry,UniversityScience
+Spectroscopy,DoverPublicationsInc. Books.
